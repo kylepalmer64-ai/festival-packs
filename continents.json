@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "vendors": [
+    {
+      "name": "Africa",
+      "lat": 1.6508,
+      "lng": 17.6874,
+      "icon": "continent"
+    },
+    {
+      "name": "Asia",
+      "lat": 34.0479,
+      "lng": 100.6197,
+      "icon": "continent"
+    },
+    {
+      "name": "Europe",
+      "lat": 54.5260,
+      "lng": 15.2551,
+      "icon": "continent"
+    },
+    {
+      "name": "North America",
+      "lat": 54.5260,
+      "lng": -105.2551,
+      "icon": "continent"
+    },
+    {
+      "name": "South America",
+      "lat": -8.7832,
+      "lng": -55.4915,
+      "icon": "continent"
+    },
+    {
+      "name": "Australia",
+      "lat": -25.2744,
+      "lng": 133.7751,
+      "icon": "continent"
+    },
+    {
+      "name": "Antarctica",
+      "lat": -82.8628,
+      "lng": 135.0000,
+      "icon": "continent"
+    }
+  ]
+}
