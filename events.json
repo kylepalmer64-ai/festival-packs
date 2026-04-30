@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "events": [
+    {
+      "id": "test_event",
+      "name": "Test Event",
+      "packUrl": "https://YOURNAME.github.io/festival-packs/test.json"
+    }
+  ]
+}
