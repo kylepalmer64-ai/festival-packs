@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "vendors": [
+    {
+      "name": "McDonald's",
+      "lat": 51.9819,
+      "lng": -0.2221,
+      "icon": "burger"
+    },
+    {
+      "name": "Sainsbury's",
+      "lat": 51.9830,
+      "lng": -0.2260,
+      "icon": "shop"
+    }
+  ]
+}
