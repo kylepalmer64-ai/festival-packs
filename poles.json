@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "vendors": [
+    {
+      "name": "North Pole",
+      "lat": 90.0000,
+      "lng": 0.0000,
+      "icon": "pole"
+    },
+    {
+      "name": "South Pole",
+      "lat": -90.0000,
+      "lng": 0.0000,
+      "icon": "pole"
+    }
+  ]
+}
