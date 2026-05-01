@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "peaks": [
+    { "name": "Yr Wyddfa / Snowdon Summit", "lat": 53.0685, "lng": -4.0760 },
+    { "name": "Crib Goch Ridge", "lat": 53.0800, "lng": -4.0700 },
+    { "name": "Tryfan Summit", "lat": 53.1140, "lng": -3.9990 }
+  ],
+  "trails": [
+    { "name": "Llanberis Path Start", "lat": 53.1180, "lng": -4.1190 },
+    { "name": "Pyg Track Start (Pen-y-Pass)", "lat": 53.0805, "lng": -4.0100 },
+    { "name": "Miners Track Start (Pen-y-Pass)", "lat": 53.0802, "lng": -4.0085 }
+  ],
+  "car_parks": [
+    { "name": "Pen-y-Pass Car Park", "lat": 53.0800, "lng": -4.0080 },
+    { "name": "Llanberis Car Park", "lat": 53.1185, "lng": -4.1150 }
+  ],
+  "villages": [
+    { "name": "Llanberis Village Centre", "lat": 53.1180, "lng": -4.1270 },
+    { "name": "Betws-y-Coed Village Centre", "lat": 53.0920, "lng": -3.8010 }
+  ]
+}
