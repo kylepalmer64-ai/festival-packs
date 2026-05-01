@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "vendors": [
+    { "name": "Baldock High Street", "lat": 51.9870, "lng": -0.1870 },
+    { "name": "The Orange Tree", "lat": 51.9870, "lng": -0.1870 },
+    { "name": "The Engine", "lat": 51.9870, "lng": -0.1870 }
+  ]
+}
