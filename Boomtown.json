@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "vendors": [
+    { "name": "Winchester City Centre", "lat": 51.0632, "lng": -1.3080 },
+    { "name": "Winchester Station", "lat": 51.0632, "lng": -1.3080 },
+    { "name": "The Broadway", "lat": 51.0632, "lng": -1.3080 }
+  ]
+}
