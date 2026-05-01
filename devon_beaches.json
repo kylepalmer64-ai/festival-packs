@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "beaches": [
+    { "name": "Woolacombe Beach", "lat": 51.1710, "lng": -4.2140 },
+    { "name": "Saunton Sands", "lat": 51.1080, "lng": -4.2170 },
+    { "name": "Croyde Bay", "lat": 51.1300, "lng": -4.2320 },
+    { "name": "Exmouth Beach", "lat": 50.6160, "lng": -3.3930 },
+    { "name": "Bantham Beach", "lat": 50.2830, "lng": -3.8890 }
+  ],
+  "viewpoints": [
+    { "name": "Valley of Rocks Viewpoint", "lat": 51.2370, "lng": -3.8590 }
+  ],
+  "towns": [
+    { "name": "Ilfracombe Harbour", "lat": 51.2100, "lng": -4.1110 },
+    { "name": "Exmouth Town Centre", "lat": 50.6190, "lng": -3.4140 }
+  ]
+}
