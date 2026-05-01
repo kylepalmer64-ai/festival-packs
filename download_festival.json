@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "vendors": [
+    { "name": "Donington Park", "lat": 52.8300, "lng": -1.3750 },
+    { "name": "Castle Donington High Street", "lat": 52.8300, "lng": -1.3750 },
+    { "name": "Castle Donington Bus Stop", "lat": 52.8300, "lng": -1.3750 }
+  ]
+}
