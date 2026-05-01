@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "peaks": [
+    { "name": "Mam Tor Summit", "lat": 53.3490, "lng": -1.8080 },
+    { "name": "Kinder Scout Plateau (Trig Point)", "lat": 53.3850, "lng": -1.8750 },
+    { "name": "Lose Hill", "lat": 53.3640, "lng": -1.7690 }
+  ],
+  "trails": [
+    { "name": "Mam Tor Great Ridge", "lat": 53.3530, "lng": -1.7970 },
+    { "name": "Kinder Downfall Route", "lat": 53.3830, "lng": -1.8850 }
+  ],
+  "car_parks": [
+    { "name": "Mam Nick Car Park", "lat": 53.3470, "lng": -1.8150 },
+    { "name": "Edale Village Car Park", "lat": 53.3640, "lng": -1.8160 }
+  ],
+  "villages": [
+    { "name": "Castleton Village Centre", "lat": 53.3430, "lng": -1.7750 },
+    { "name": "Hathersage Village", "lat": 53.3290, "lng": -1.6510 }
+  ]
+}
