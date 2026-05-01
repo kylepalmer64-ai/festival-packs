@@ -1,15 +1,99 @@
 {
-  "version": 1,
+  "version": 2,
   "events": [
     {
       "id": "continents",
       "name": "World Continents",
+      "category": "Test",
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/continents.json"
     },
     {
       "id": "poles",
       "name": "North & South Pole",
+      "category": "Test",
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/poles.json"
+    },
+
+    {
+      "id": "download_festival",
+      "name": "Download Festival",
+      "category": "Festival",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/download.json?v=1"
+    },
+    {
+      "id": "balstock",
+      "name": "Balstock Festival",
+      "category": "Festival",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/balstock.json?v=1"
+    },
+    {
+      "id": "mucky_weekender",
+      "name": "Mucky Weekender",
+      "category": "Festival",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mucky_weekender.json?v=1"
+    },
+    {
+      "id": "boomtown",
+      "name": "Boomtown Fair",
+      "category": "Festival",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/boomtown.json?v=1"
+    },
+
+    {
+      "id": "brighton",
+      "name": "Brighton City Pack",
+      "category": "City",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/brighton.json?v=1"
+    },
+    {
+      "id": "london",
+      "name": "London City Pack",
+      "category": "City",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/london.json?v=1"
+    },
+    {
+      "id": "manchester",
+      "name": "Manchester City Pack",
+      "category": "City",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/manchester.json?v=1"
+    },
+    {
+      "id": "birmingham",
+      "name": "Birmingham City Pack",
+      "category": "City",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/birmingham.json?v=1"
+    },
+
+    {
+      "id": "cornwall_beaches",
+      "name": "Cornwall Beaches",
+      "category": "Beaches",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/cornwall_beaches.json?v=1"
+    },
+    {
+      "id": "devon_beaches",
+      "name": "Devon Beaches",
+      "category": "Beaches",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/devon_beaches.json?v=1"
+    },
+
+    {
+      "id": "peak_district",
+      "name": "Peak District Outdoors",
+      "category": "Outdoors",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/peak_district.json?v=1"
+    },
+    {
+      "id": "lake_district",
+      "name": "Lake District Outdoors",
+      "category": "Outdoors",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/lake_district.json?v=1"
+    },
+    {
+      "id": "snowdonia",
+      "name": "Snowdonia Outdoors",
+      "category": "Outdoors",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/snowdonia.json?v=1"
     }
   ]
 }
