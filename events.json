@@ -4,12 +4,12 @@
     {
       "id": "continents",
       "name": "World Continents",
-      "packUrl": "https://kylepalmer64.github.io/festival-packs/continents.json"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/continents.json"
     },
     {
       "id": "poles",
       "name": "North & South Pole",
-      "packUrl": "https://kylepalmer64.github.io/festival-packs/poles.json"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/poles.json"
     }
   ]
 }
