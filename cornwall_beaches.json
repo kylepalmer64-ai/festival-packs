@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "beaches": [
+    { "name": "Fistral Beach (Newquay)", "lat": 50.4180, "lng": -5.0950 },
+    { "name": "Perranporth Beach", "lat": 50.3430, "lng": -5.1550 },
+    { "name": "Gwithian Beach", "lat": 50.2230, "lng": -5.3930 },
+    { "name": "Kynance Cove", "lat": 49.9690, "lng": -5.2430 },
+    { "name": "Porthcurno Beach", "lat": 50.0440, "lng": -5.6540 },
+    { "name": "St Ives Harbour Beach", "lat": 50.2110, "lng": -5.4800 }
+  ],
+  "viewpoints": [
+    { "name": "Land's End", "lat": 50.0660, "lng": -5.7140 },
+    { "name": "Bedruthan Steps Viewpoint", "lat": 50.4760, "lng": -5.0330 }
+  ],
+  "towns": [
+    { "name": "Newquay Town Centre", "lat": 50.4150, "lng": -5.0750 },
+    { "name": "St Ives Town Centre", "lat": 50.2115, "lng": -5.4820 }
+  ]
+}
