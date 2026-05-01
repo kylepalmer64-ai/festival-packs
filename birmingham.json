@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "landmarks": [
+    { "name": "Victoria Square", "lat": 52.4790, "lng": -1.9025 },
+    { "name": "Bullring & Grand Central", "lat": 52.4779, "lng": -1.8936 },
+    { "name": "Library of Birmingham", "lat": 52.4810, "lng": -1.9056 }
+  ],
+  "districts": [
+    { "name": "Jewellery Quarter", "lat": 52.4890, "lng": -1.9130 },
+    { "name": "Digbeth", "lat": 52.4755, "lng": -1.8860 }
+  ],
+  "stations": [
+    { "name": "Birmingham New Street", "lat": 52.4770, "lng": -1.8980 },
+    { "name": "Birmingham Snow Hill", "lat": 52.4830, "lng": -1.8990 }
+  ],
+  "parks": [
+    { "name": "Cannon Hill Park", "lat": 52.4510, "lng": -1.9020 }
+  ]
+}
