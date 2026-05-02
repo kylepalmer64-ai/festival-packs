@@ -1,20 +1,17 @@
 {
   "version": 1,
-  "landmarks": [
-    { "name": "Brighton Palace Pier", "lat": 50.8167, "lng": -0.1372 },
-    { "name": "British Airways i360", "lat": 50.8200, "lng": -0.1500 },
-    { "name": "Royal Pavilion", "lat": 50.8220, "lng": -0.1375 },
-    { "name": "The Lanes", "lat": 50.8213, "lng": -0.1410 }
-  ],
-  "stations": [
-    { "name": "Brighton Station", "lat": 50.8281, "lng": -0.1416 }
-  ],
-  "parks": [
-    { "name": "Preston Park", "lat": 50.8420, "lng": -0.1460 },
-    { "name": "Queens Park", "lat": 50.8235, "lng": -0.1225 }
-  ],
-  "beaches": [
-    { "name": "Brighton Beach (Central)", "lat": 50.8205, "lng": -0.1480 },
-    { "name": "Hove Lawns Beach", "lat": 50.8225, "lng": -0.1670 }
+  "vendors": [
+    { "name": "Brighton Palace Pier", "lat": 50.8167, "lng": -0.1372, "category": "landmark" },
+    { "name": "British Airways i360", "lat": 50.8200, "lng": -0.1500, "category": "landmark" },
+    { "name": "Royal Pavilion", "lat": 50.8220, "lng": -0.1375, "category": "landmark" },
+    { "name": "The Lanes", "lat": 50.8213, "lng": -0.1410, "category": "landmark" },
+
+    { "name": "Brighton Station", "lat": 50.8281, "lng": -0.1416, "category": "station" },
+
+    { "name": "Preston Park", "lat": 50.8420, "lng": -0.1460, "category": "park" },
+    { "name": "Queens Park", "lat": 50.8235, "lng": -0.1225, "category": "park" },
+
+    { "name": "Brighton Beach (Central)", "lat": 50.8205, "lng": -0.1480, "category": "beach" },
+    { "name": "Hove Lawns Beach", "lat": 50.8225, "lng": -0.1670, "category": "beach" }
   ]
 }
