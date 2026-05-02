@@ -1,8 +1,35 @@
 {
   "version": 1,
   "vendors": [
-    { "name": "Winchester City Centre", "lat": 51.0632, "lng": -1.3080 },
-    { "name": "Winchester Station", "lat": 51.0632, "lng": -1.3080 },
-    { "name": "High Street", "lat": 51.0632, "lng": -1.3080 }
+    { "name": "Main Stage", "lat": 51.0632, "lng": -1.3080, "category": "stage" },
+    { "name": "Second Stage", "lat": 51.0640, "lng": -1.3095, "category": "stage" },
+    { "name": "Forest Stage", "lat": 51.0650, "lng": -1.3070, "category": "stage" },
+
+    { "name": "Toilet Block A", "lat": 51.0625, "lng": -1.3075, "category": "toilet" },
+    { "name": "Toilet Block B", "lat": 51.0645, "lng": -1.3100, "category": "toilet" },
+    { "name": "Toilet Block C", "lat": 51.0652, "lng": -1.3060, "category": "toilet" },
+
+    { "name": "Security Point North", "lat": 51.0655, "lng": -1.3090, "category": "security" },
+    { "name": "Security Point South", "lat": 51.0620, "lng": -1.3085, "category": "security" },
+
+    { "name": "Medical Tent", "lat": 51.0638, "lng": -1.3078, "category": "medical" },
+
+    { "name": "Water Refill Station A", "lat": 51.0642, "lng": -1.3082, "category": "water" },
+    { "name": "Water Refill Station B", "lat": 51.0628, "lng": -1.3092, "category": "water" },
+
+    { "name": "Main Bar", "lat": 51.0635, "lng": -1.3090, "category": "bar" },
+    { "name": "Forest Bar", "lat": 51.0652, "lng": -1.3072, "category": "bar" },
+
+    { "name": "Food Court A", "lat": 51.0640, "lng": -1.3088, "category": "food" },
+    { "name": "Food Court B", "lat": 51.0630, "lng": -1.3072, "category": "food" },
+
+    { "name": "Merch Tent", "lat": 51.0637, "lng": -1.3083, "category": "merch" },
+    { "name": "Craft Stalls", "lat": 51.0648, "lng": -1.3093, "category": "stall" },
+
+    { "name": "Main Entrance", "lat": 51.0615, "lng": -1.3090, "category": "entrance" },
+    { "name": "Camping Entrance", "lat": 51.0660, "lng": -1.3075, "category": "entrance" },
+
+    { "name": "General Camping", "lat": 51.0665, "lng": -1.3080, "category": "camp" },
+    { "name": "Quiet Camping", "lat": 51.0670, "lng": -1.3065, "category": "camp" }
   ]
 }
