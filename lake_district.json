@@ -1,21 +1,18 @@
 {
   "version": 1,
-  "peaks": [
-    { "name": "Scafell Pike Summit", "lat": 54.4540, "lng": -3.2110 },
-    { "name": "Helvellyn Summit", "lat": 54.5270, "lng": -3.0160 },
-    { "name": "Catbells Summit", "lat": 54.5680, "lng": -3.1880 }
-  ],
-  "lakes": [
-    { "name": "Windermere (Bowness Pier)", "lat": 54.3640, "lng": -2.9210 },
-    { "name": "Derwentwater (Keswick Lakeside)", "lat": 54.5990, "lng": -3.1470 },
-    { "name": "Ullswater (Glenridding Pier)", "lat": 54.5440, "lng": -2.9490 }
-  ],
-  "car_parks": [
-    { "name": "Wasdale Head Car Park", "lat": 54.4640, "lng": -3.2700 },
-    { "name": "Seathwaite Farm Car Park", "lat": 54.4980, "lng": -3.1660 }
-  ],
-  "villages": [
-    { "name": "Keswick Town Centre", "lat": 54.5995, "lng": -3.1340 },
-    { "name": "Ambleside Town Centre", "lat": 54.4310, "lng": -2.9620 }
+  "vendors": [
+    { "name": "Scafell Pike Summit", "lat": 54.4540, "lng": -3.2110, "category": "peak" },
+    { "name": "Helvellyn Summit", "lat": 54.5270, "lng": -3.0160, "category": "peak" },
+    { "name": "Catbells Summit", "lat": 54.5680, "lng": -3.1880, "category": "peak" },
+
+    { "name": "Windermere (Bowness Pier)", "lat": 54.3640, "lng": -2.9210, "category": "lake" },
+    { "name": "Derwentwater (Keswick Lakeside)", "lat": 54.5990, "lng": -3.1470, "category": "lake" },
+    { "name": "Ullswater (Glenridding Pier)", "lat": 54.5440, "lng": -2.9490, "category": "lake" },
+
+    { "name": "Wasdale Head Car Park", "lat": 54.4640, "lng": -3.2700, "category": "car_park" },
+    { "name": "Seathwaite Farm Car Park", "lat": 54.4980, "lng": -3.1660, "category": "car_park" },
+
+    { "name": "Keswick Town Centre", "lat": 54.5995, "lng": -3.1340, "category": "village" },
+    { "name": "Ambleside Town Centre", "lat": 54.4310, "lng": -2.9620, "category": "village" }
   ]
 }
