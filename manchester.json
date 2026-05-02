@@ -1,21 +1,18 @@
 {
   "version": 1,
-  "landmarks": [
-    { "name": "Manchester Town Hall (Albert Square)", "lat": 53.4794, "lng": -2.2453 },
-    { "name": "Manchester Cathedral", "lat": 53.4858, "lng": -2.2440 },
-    { "name": "Etihad Stadium", "lat": 53.4831, "lng": -2.2004 },
-    { "name": "Old Trafford Stadium", "lat": 53.4631, "lng": -2.2913 }
-  ],
-  "districts": [
-    { "name": "Northern Quarter", "lat": 53.4830, "lng": -2.2350 },
-    { "name": "Deansgate", "lat": 53.4765, "lng": -2.2510 }
-  ],
-  "stations": [
-    { "name": "Manchester Piccadilly", "lat": 53.4774, "lng": -2.2304 },
-    { "name": "Manchester Victoria", "lat": 53.4875, "lng": -2.2420 }
-  ],
-  "museums": [
-    { "name": "Science and Industry Museum", "lat": 53.4760, "lng": -2.2535 },
-    { "name": "Manchester Art Gallery", "lat": 53.4799, "lng": -2.2430 }
+  "vendors": [
+    { "name": "Manchester Town Hall (Albert Square)", "lat": 53.4794, "lng": -2.2453, "category": "landmark" },
+    { "name": "Manchester Cathedral", "lat": 53.4858, "lng": -2.2440, "category": "landmark" },
+    { "name": "Etihad Stadium", "lat": 53.4831, "lng": -2.2004, "category": "landmark" },
+    { "name": "Old Trafford Stadium", "lat": 53.4631, "lng": -2.2913, "category": "landmark" },
+
+    { "name": "Northern Quarter", "lat": 53.4830, "lng": -2.2350, "category": "district" },
+    { "name": "Deansgate", "lat": 53.4765, "lng": -2.2510, "category": "district" },
+
+    { "name": "Manchester Piccadilly", "lat": 53.4774, "lng": -2.2304, "category": "station" },
+    { "name": "Manchester Victoria", "lat": 53.4875, "lng": -2.2420, "category": "station" },
+
+    { "name": "Science and Industry Museum", "lat": 53.4760, "lng": -2.2535, "category": "museum" },
+    { "name": "Manchester Art Gallery", "lat": 53.4799, "lng": -2.2430, "category": "museum" }
   ]
 }
