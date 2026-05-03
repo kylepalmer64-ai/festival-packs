@@ -1,5 +1,6 @@
 {
   "version": 1,
+  "mode": "tourist",
   "vendors": [
     { "name": "Scafell Pike Summit", "lat": 54.4540, "lng": -3.2110, "category": "peak" },
     { "name": "Helvellyn Summit", "lat": 54.5270, "lng": -3.0160, "category": "peak" },
