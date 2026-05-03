@@ -1,5 +1,6 @@
 {
   "version": 1,
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/downloadamp.png",
   "vendors": [
     { "name": "Main Stage", "lat": 52.8300, "lng": -1.3750, "category": "stage" },
     { "name": "Second Stage", "lat": 52.8300, "lng": -1.3750, "category": "stage" },
