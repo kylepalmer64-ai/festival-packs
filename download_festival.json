@@ -1,8 +1,27 @@
 {
   "version": 1,
   "vendors": [
-    { "name": "Donington Park", "lat": 52.8300, "lng": -1.3750 },
-    { "name": "Castle Donington High Street", "lat": 52.8300, "lng": -1.3750 },
-    { "name": "Castle Donington Bus Stop", "lat": 52.8300, "lng": -1.3750 }
+    { "name": "Main Stage", "lat": 52.8300, "lng": -1.3750, "category": "stage" },
+    { "name": "Second Stage", "lat": 52.8300, "lng": -1.3750, "category": "stage" },
+
+    { "name": "Toilet Block A", "lat": 52.8300, "lng": -1.3750, "category": "toilet" },
+
+    { "name": "Security HQ", "lat": 52.8300, "lng": -1.3750, "category": "security" },
+
+    { "name": "Medical Tent", "lat": 52.8300, "lng": -1.3750, "category": "medical" },
+
+    { "name": "Water Point", "lat": 52.8300, "lng": -1.3750, "category": "water" },
+
+    { "name": "Main Bar", "lat": 52.8300, "lng": -1.3750, "category": "bar" },
+
+    { "name": "Food Court", "lat": 52.8300, "lng": -1.3750, "category": "food" },
+
+    { "name": "Merch Tent", "lat": 52.8300, "lng": -1.3750, "category": "merch" },
+
+    { "name": "Market Stalls", "lat": 52.8300, "lng": -1.3750, "category": "stall" },
+
+    { "name": "Main Entrance", "lat": 52.8300, "lng": -1.3750, "category": "entrance" },
+
+    { "name": "Camping Area", "lat": 52.8300, "lng": -1.3750, "category": "camp" }
   ]
 }
