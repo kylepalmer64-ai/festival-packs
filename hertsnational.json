@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "mode": "tourist",
+
+  "vendors": [
+    { "name": "Stevenage Town Centre", "lat": 51.9020, "lng": -0.2025, "category": "town" },
+    { "name": "Letchworth Garden City", "lat": 51.9790, "lng": -0.2260, "category": "town" },
+    { "name": "Baldock High Street", "lat": 51.9875, "lng": -0.1870, "category": "town" },
+    { "name": "Luton Town Centre", "lat": 51.8787, "lng": -0.4200, "category": "town" },
+
+    { "name": "Stevenage Station", "lat": 51.9012, "lng": -0.2078, "category": "station" },
+    { "name": "Letchworth Station", "lat": 51.9797, "lng": -0.2290, "category": "station" },
+    { "name": "Baldock Station", "lat": 51.9930, "lng": -0.1880, "category": "station" },
+    { "name": "Luton Station", "lat": 51.8820, "lng": -0.4170, "category": "station" },
+
+    { "name": "Knebworth House", "lat": 51.8830, "lng": -0.2230, "category": "landmark" },
+    { "name": "Dunstable Downs", "lat": 51.8560, "lng": -0.5540, "category": "landmark" },
+
+    { "name": "London Eye", "lat": 51.5033, "lng": -0.1195, "category": "landmark" },
+    { "name": "York Minster", "lat": 53.9624, "lng": -1.0819, "category": "landmark" },
+    { "name": "Edinburgh Castle", "lat": 55.9486, "lng": -3.1999, "category": "landmark" }
+  ]
+}
