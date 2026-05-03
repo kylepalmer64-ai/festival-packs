@@ -1,5 +1,6 @@
 {
   "version": 1,
+  "mode": "tourist",
   "vendors": [
     { "name": "Fistral Beach (Newquay)", "lat": 50.4180, "lng": -5.0950, "category": "beach" },
     { "name": "Perranporth Beach", "lat": 50.3430, "lng": -5.1550, "category": "beach" },
