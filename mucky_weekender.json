@@ -31,6 +31,17 @@
     { "name": "Camping Entrance", "lat": 51.0660, "lng": -1.3075, "category": "entrance" },
 
     { "name": "General Camping", "lat": 51.0665, "lng": -1.3080, "category": "camp" },
-    { "name": "Quiet Camping", "lat": 51.0670, "lng": -1.3065, "category": "camp" }
+    { "name": "Quiet Camping", "lat": 51.0670, "lng": -1.3065, "category": "camp" },
+
+    {
+  "name": "Tom’s Mega Burgers",
+  "lat": 52.12345,
+  "lng": -0.98765,
+  "category": "food",
+  "partner": true,
+  "icon": "burger.png"
+    }
+  
+  
   ]
 }
