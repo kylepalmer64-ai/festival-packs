@@ -1,5 +1,6 @@
 {
   "version": 1,
+  "mode": "tourist",
   "vendors": [
     { "name": "Victoria Square", "lat": 52.4790, "lng": -1.9025, "category": "landmark" },
     { "name": "Bullring & Grand Central", "lat": 52.4779, "lng": -1.8936, "category": "landmark" },
