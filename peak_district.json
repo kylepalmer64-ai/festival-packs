@@ -1,5 +1,6 @@
 {
   "version": 1,
+  "mode": "tourist",
   "vendors": [
     { "name": "Mam Tor Summit", "lat": 53.3490, "lng": -1.8080, "category": "peak" },
     { "name": "Kinder Scout Plateau (Trig Point)", "lat": 53.3850, "lng": -1.8750, "category": "peak" },
