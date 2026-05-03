@@ -2,16 +2,26 @@
   "version": 1,
   "vendors": [
     { "name": "Main Stage", "lat": 51.9870, "lng": -0.1870, "category": "stage" },
+
     { "name": "The Orange Tree", "lat": 51.9870, "lng": -0.1870, "category": "bar" },
     { "name": "The Engine", "lat": 51.9870, "lng": -0.1870, "category": "bar" },
-    { "name": "Toilets – High Street", "lat": 51.9870, "lng": -0.1870, "category": "toilet" },
+
+    { "name": "Toilets — High Street", "lat": 51.9870, "lng": -0.1870, "category": "toilet" },
+
     { "name": "Security HQ", "lat": 51.9870, "lng": -0.1870, "category": "security" },
+
     { "name": "Medical Tent", "lat": 51.9870, "lng": -0.1870, "category": "medical" },
+
     { "name": "Water Point", "lat": 51.9870, "lng": -0.1870, "category": "water" },
+
     { "name": "Merch Stall", "lat": 51.9870, "lng": -0.1870, "category": "merch" },
+
     { "name": "Food Truck", "lat": 51.9870, "lng": -0.1870, "category": "food" },
+
     { "name": "Craft Stalls", "lat": 51.9870, "lng": -0.1870, "category": "stall" },
+
     { "name": "Festival Entrance", "lat": 51.9870, "lng": -0.1870, "category": "entrance" },
+
     { "name": "Camping Area", "lat": 51.9870, "lng": -0.1870, "category": "camp" }
   ]
 }
