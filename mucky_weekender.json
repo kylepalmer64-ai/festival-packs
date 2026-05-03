@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/muckyamp.png",
   "vendors": [
     { "name": "Main Stage", "lat": 51.0632, "lng": -1.3080, "category": "stage" },
