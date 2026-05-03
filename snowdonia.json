@@ -1,5 +1,6 @@
 {
   "version": 1,
+  "mode": "tourist",
   "vendors": [
     { "name": "Yr Wyddfa / Snowdon Summit", "lat": 53.0685, "lng": -4.0760, "category": "peak" },
     { "name": "Crib Goch Ridge", "lat": 53.0800, "lng": -4.0700, "category": "peak" },
