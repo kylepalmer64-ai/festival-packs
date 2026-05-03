@@ -1,5 +1,6 @@
 {
   "version": 1,
+  "mode": "tourist",
   "vendors": [
     { "name": "Big Ben & Westminster", "lat": 51.5007, "lng": -0.1246, "category": "landmark" },
     { "name": "Tower Bridge", "lat": 51.5055, "lng": -0.0754, "category": "landmark" },
