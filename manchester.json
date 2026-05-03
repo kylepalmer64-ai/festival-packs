@@ -1,5 +1,6 @@
 {
   "version": 1,
+  "mode": "tourist",
   "vendors": [
     { "name": "Manchester Town Hall (Albert Square)", "lat": 53.4794, "lng": -2.2453, "category": "landmark" },
     { "name": "Manchester Cathedral", "lat": 53.4858, "lng": -2.2440, "category": "landmark" },
