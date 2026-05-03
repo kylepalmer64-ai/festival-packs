@@ -1,8 +1,27 @@
 {
   "version": 1,
   "vendors": [
-    { "name": "Winchester City Centre", "lat": 51.0632, "lng": -1.3080 },
-    { "name": "Winchester Station", "lat": 51.0632, "lng": -1.3080 },
-    { "name": "The Broadway", "lat": 51.0632, "lng": -1.3080 }
+    { "name": "Main Stage", "lat": 51.0632, "lng": -1.3080, "category": "stage" },
+    { "name": "Forest Stage", "lat": 51.0632, "lng": -1.3080, "category": "stage" },
+
+    { "name": "Toilet Block A", "lat": 51.0632, "lng": -1.3080, "category": "toilet" },
+
+    { "name": "Security HQ", "lat": 51.0632, "lng": -1.3080, "category": "security" },
+
+    { "name": "Medical Tent", "lat": 51.0632, "lng": -1.3080, "category": "medical" },
+
+    { "name": "Water Point", "lat": 51.0632, "lng": -1.3080, "category": "water" },
+
+    { "name": "Main Bar", "lat": 51.0632, "lng": -1.3080, "category": "bar" },
+
+    { "name": "Food Court", "lat": 51.0632, "lng": -1.3080, "category": "food" },
+
+    { "name": "Merch Tent", "lat": 51.0632, "lng": -1.3080, "category": "merch" },
+
+    { "name": "Craft Stalls", "lat": 51.0632, "lng": -1.3080, "category": "stall" },
+
+    { "name": "Main Entrance", "lat": 51.0632, "lng": -1.3080, "category": "entrance" },
+
+    { "name": "Camping Area", "lat": 51.0632, "lng": -1.3080, "category": "camp" }
   ]
 }
