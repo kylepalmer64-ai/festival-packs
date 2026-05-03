@@ -1,5 +1,6 @@
 {
   "version": 1,
+  "mode": "tourist",
   "vendors": [
     { "name": "Woolacombe Beach", "lat": 51.1710, "lng": -4.2140, "category": "beach" },
     { "name": "Saunton Sands", "lat": 51.1080, "lng": -4.2170, "category": "beach" },
