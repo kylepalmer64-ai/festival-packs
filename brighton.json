@@ -1,5 +1,6 @@
 {
   "version": 1,
+  "mode": "tourist",
   "vendors": [
     { "name": "Brighton Palace Pier", "lat": 50.8167, "lng": -0.1372, "category": "landmark" },
     { "name": "British Airways i360", "lat": 50.8200, "lng": -0.1500, "category": "landmark" },
