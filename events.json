@@ -2,32 +2,15 @@
   "version": 4,
   "events": [
 
+    /* --- PRIORITY FESTIVAL --- */
     {
-    "id": "hertsnational",
-    "name": "Herts + National Test Pack",
-    "category": "Location",
-    "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/hertsnational.json?v=1"
-    },
-
-    {
-      "id": "continents",
-      "name": "World Continents",
-      "category": "Test",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/continents.json"
-    },
-    {
-      "id": "poles",
-      "name": "North & South Pole",
-      "category": "Test",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/poles.json"
-    },
-
-    {
-      "id": "download_festival",
-      "name": "Download Festival",
+      "id": "mucky_weekender",
+      "name": "Mucky Weekender",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/download_festival.json?v=1"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mucky_weekender.json?v=1"
     },
+
+    /* --- FESTIVALS (A–Z) --- */
     {
       "id": "balstock",
       "name": "Balstock Festival",
@@ -35,18 +18,25 @@
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/balstock.json?v=1"
     },
     {
-      "id": "mucky_weekender",
-      "name": "Mucky Weekender",
-      "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mucky_weekender.json?v=1"
-    },
-    {
       "id": "boomtown",
       "name": "Boomtown Fair",
       "category": "Festival",
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/boomtown.json?v=1"
     },
+    {
+      "id": "download_festival",
+      "name": "Download Festival",
+      "category": "Festival",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/download_festival.json?v=1"
+    },
 
+    /* --- CITY PACKS (A–Z) --- */
+    {
+      "id": "birmingham",
+      "name": "Birmingham City Pack",
+      "category": "City",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/birmingham.json?v=1"
+    },
     {
       "id": "brighton",
       "name": "Brighton City Pack",
@@ -65,13 +55,8 @@
       "category": "City",
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/manchester.json?v=1"
     },
-    {
-      "id": "birmingham",
-      "name": "Birmingham City Pack",
-      "category": "City",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/birmingham.json?v=1"
-    },
 
+    /* --- BEACHES (A–Z) --- */
     {
       "id": "cornwall_beaches",
       "name": "Cornwall Beaches",
@@ -85,12 +70,7 @@
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/devon_beaches.json?v=1"
     },
 
-    {
-      "id": "peak_district",
-      "name": "Peak District Outdoors",
-      "category": "Outdoors",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/peak_district.json?v=1"
-    },
+    /* --- OUTDOORS (A–Z) --- */
     {
       "id": "lake_district",
       "name": "Lake District Outdoors",
@@ -98,10 +78,36 @@
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/lake_district.json?v=1"
     },
     {
+      "id": "peak_district",
+      "name": "Peak District Outdoors",
+      "category": "Outdoors",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/peak_district.json?v=1"
+    },
+    {
       "id": "snowdonia",
       "name": "Snowdonia Outdoors",
       "category": "Outdoors",
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/snowdonia.json?v=1"
+    },
+
+    /* --- TEST / DEV PACKS (BOTTOM) --- */
+    {
+      "id": "hertsnational",
+      "name": "Herts + National Test Pack",
+      "category": "Location",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/hertsnational.json?v=1"
+    },
+    {
+      "id": "continents",
+      "name": "World Continents",
+      "category": "Test",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/continents.json"
+    },
+    {
+      "id": "poles",
+      "name": "North & South Pole",
+      "category": "Test",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/poles.json"
     }
   ]
-}
+    }
