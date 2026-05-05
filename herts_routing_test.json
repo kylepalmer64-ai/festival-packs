@@ -45,21 +45,21 @@
       "id": "birds_hill_home",
       "name": "Birds Hill (Start/End)",
       "lat": 51.97950,
-      "lon": -0.22600,
+      "lng": -0.22600,
       "category": "home"
     },
     {
       "id": "mcdonalds_target",
       "name": "McDonald's Letchworth",
       "lat": 51.98240,
-      "lon": -0.22510,
+      "lng": -0.22510,
       "category": "food"
     },
     {
       "id": "karting_target",
       "name": "Letchworth Karting",
       "lat": 51.98380,
-      "lon": -0.22590,
+      "lng": -0.22590,
       "category": "activity"
     }
   ]
