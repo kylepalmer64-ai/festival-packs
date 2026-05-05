@@ -42,26 +42,27 @@
   ],
 
   "vendors": [
-    {
-      "id": "birds_hill_home",
-      "name": "Birds Hill (Start/End)",
-      "lat": 51.97950,
-      "lng": -0.22600,
-      "category": "home"
-    },
-    {
-      "id": "mcdonalds_target",
-      "name": "McDonald's Letchworth",
-      "lat": 51.98240,
-      "lng": -0.22510,
-      "category": "food"
-    },
-    {
-      "id": "karting_target",
-      "name": "Letchworth Karting",
-      "lat": 51.98380,
-      "lng": -0.22590,
-      "category": "activity"
-    }
+  {
+    "id": "birds_hill_home",
+    "name": "Birds Hill (Start/End)",
+    "lat": 51.97950,
+    "lng": -0.22600,
+    "category": "home"
+  },
+  {
+    "id": "mcdonalds_target",
+    "name": "McDonald's Letchworth",
+    "lat": 51.98240,
+    "lng": -0.22510,
+    "category": "landmark"
+  },
+  {
+    "id": "karting_target",
+    "name": "Letchworth Karting",
+    "lat": 51.98380,
+    "lng": -0.22590,
+    "category": "activity"
+  }
+
   ]
 }
