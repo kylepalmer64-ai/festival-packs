@@ -1,7 +1,7 @@
 {
   "version": 3,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/muckyamp.png",
-   "heroImage": "muckyweb.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/muckyweb.png",
   "messagesFile": "mucky_weekender_messages.json",
   "vendors": [
     { "name": "Main Stage", "lat": 51.9798, "lng": -0.2255, "category": "stage" },
