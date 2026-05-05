@@ -3,6 +3,7 @@
   "mode": "tourist",
 
   "heroImage": "herts.png",
+  "mapUrl": "herts.png",
 
   "waypoints": [
     { "id": "birds_hill",        "lat": 51.97950, "lon": -0.22600 },
