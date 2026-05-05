@@ -1,8 +1,6 @@
 {
   "version": 6,
   "events": [
-
-    /* --- PRIORITY FESTIVAL --- */
     {
       "id": "mucky_weekender",
       "name": "Mucky Weekender",
@@ -10,7 +8,6 @@
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mucky_weekender.json?v=1"
     },
 
-    /* --- FESTIVALS (A–Z) --- */
     {
       "id": "balstock",
       "name": "Balstock Festival",
@@ -30,7 +27,6 @@
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/download_festival.json?v=1"
     },
 
-    /* --- CITY PACKS (A–Z) --- */
     {
       "id": "birmingham",
       "name": "Birmingham City Pack",
@@ -56,7 +52,6 @@
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/manchester.json?v=1"
     },
 
-    /* --- BEACHES (A–Z) --- */
     {
       "id": "cornwall_beaches",
       "name": "Cornwall Beaches",
@@ -70,7 +65,6 @@
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/devon_beaches.json?v=1"
     },
 
-    /* --- OUTDOORS (A–Z) --- */
     {
       "id": "lake_district",
       "name": "Lake District Outdoors",
@@ -90,7 +84,6 @@
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/snowdonia.json?v=1"
     },
 
-    /* --- TEST / DEV PACKS (BOTTOM) --- */
     {
       "id": "hertsnational",
       "name": "Herts + National Test Pack",
@@ -108,13 +101,12 @@
       "name": "North & South Pole",
       "category": "Test",
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/poles.json"
-    }
-
+    },
     {
       "id": "herts_routing_test",
       "name": "Walk Route Test",
       "category": "Test",
-      "packUrl": "https:/kylepalmer64-ai/festival-packs/blob/main/herts_routing_test.json"
-    },
-  ]
+      "packUrl": "https://raw.githubusercontent.com/kylepalmer64-ai/festival-packs/main/herts_routing_test.json"
     }
+  ]
+}
