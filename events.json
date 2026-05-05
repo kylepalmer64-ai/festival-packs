@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "events": [
     {
       "id": "mucky_weekender",
@@ -100,7 +100,7 @@
       "id": "poles",
       "name": "North & South Pole",
       "category": "Test",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/poles.json"
+      "packUrl": https://raw.githubusercontent.com/kylepalmer64-ai/festival-packs/main/herts_routing_test.json
     },
     {
       "id": "herts_routing_test",
