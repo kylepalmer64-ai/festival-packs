@@ -97,12 +97,6 @@
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/continents.json"
     },
     {
-      "id": "poles",
-      "name": "North & South Pole",
-      "category": "Test",
-      "packUrl": https://raw.githubusercontent.com/kylepalmer64-ai/festival-packs/main/herts_routing_test.json
-    },
-    {
       "id": "herts_routing_test",
       "name": "Walk Route Test",
       "category": "Test",
