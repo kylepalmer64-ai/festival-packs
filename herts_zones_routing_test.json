@@ -1,12 +1,121 @@
 {
-  "version": 2,
+  "version": 3,
   "mode": "festival",
 
   "name": "Herts Zones Routing Test",
   "heroImage": "herts.png",
   "mapUrl": "herts.png",
+  "messagesFile": "herts_zone_messages.json",
+
+  "zones": [
+    {
+      "id": "zone_a_ave_one",
+      "name": "Zone A - Ave One",
+      "points": [
+        { "lat": 51.982331, "lon": -0.208740 },
+        { "lat": 51.982452, "lon": -0.208228 },
+        { "lat": 51.980544, "lon": -0.207353 },
+        { "lat": 51.980531, "lon": -0.207815 }
+      ]
+    },
+    {
+      "id": "zone_b_sec_ave",
+      "name": "Zone B - Sec Ave",
+      "points": [
+        { "lat": 51.980531, "lon": -0.207815 },
+        { "lat": 51.980119, "lon": -0.207658 },
+        { "lat": 51.980913, "lon": -0.204667 },
+        { "lat": 51.981216, "lon": -0.204923 }
+      ]
+    },
+    {
+      "id": "zone_c_for_ave",
+      "name": "Zone C - For Ave",
+      "points": [
+        { "lat": 51.983325, "lon": -0.205838 },
+        { "lat": 51.983083, "lon": -0.205664 },
+        { "lat": 51.982536, "lon": -0.208169 },
+        { "lat": 51.982750, "lon": -0.208308 }
+      ]
+    }
+  ],
+
+  "corridors": [
+    {
+      "id": "corridor_main",
+      "from": { "lat": 51.981244, "lon": -0.204836 },
+      "to":   { "lat": 51.983131, "lon": -0.205844 }
+    }
+  ],
 
   "vendors": [
+    {
+      "id": "main_stage",
+      "name": "Main Stage",
+      "lat": 51.981216,
+      "lon": -0.204923,
+      "category": "stage"
+    },
+    {
+      "id": "forest_stage",
+      "name": "Forest Stage",
+      "lat": 51.982536,
+      "lon": -0.208169,
+      "category": "stage"
+    },
+    {
+      "id": "avenue_stage",
+      "name": "Avenue Stage",
+      "lat": 51.982331,
+      "lon": -0.208740,
+      "category": "stage"
+    },
+
+    {
+      "id": "toilet_a",
+      "name": "Toilet Block A",
+      "lat": 51.980544,
+      "lon": -0.207353,
+      "category": "toilet"
+    },
+    {
+      "id": "toilet_b",
+      "name": "Toilet Block B",
+      "lat": 51.980913,
+      "lon": -0.204667,
+      "category": "toilet"
+    },
+    {
+      "id": "toilet_c",
+      "name": "Toilet Block C",
+      "lat": 51.983083,
+      "lon": -0.205664,
+      "category": "toilet"
+    },
+
+    {
+      "id": "security_north",
+      "name": "Security Point North",
+      "lat": 51.983325,
+      "lon": -0.205838,
+      "category": "security"
+    },
+    {
+      "id": "security_south",
+      "name": "Security Point South",
+      "lat": 51.980119,
+      "lon": -0.207658,
+      "category": "security"
+    },
+
+    {
+      "id": "medical_tent",
+      "name": "Medical Tent",
+      "lat": 51.981000,
+      "lon": -0.206800,
+      "category": "medical"
+    },
+
     {
       "id": "water_a",
       "name": "Water Point A",
@@ -27,31 +136,143 @@
       "lat": 51.982546,
       "lon": -0.208274,
       "category": "water"
+    },
+
+    {
+      "id": "main_bar",
+      "name": "Main Bar",
+      "lat": 51.981000,
+      "lon": -0.205900,
+      "category": "bar"
+    },
+    {
+      "id": "forest_bar",
+      "name": "Forest Bar",
+      "lat": 51.982452,
+      "lon": -0.208228,
+      "category": "bar"
+    },
+
+    {
+      "id": "food_court_a",
+      "name": "Food Court A",
+      "lat": 51.980531,
+      "lon": -0.207815,
+      "category": "food"
+    },
+    {
+      "id": "food_court_b",
+      "name": "Food Court B",
+      "lat": 51.982750,
+      "lon": -0.208308,
+      "category": "food"
+    },
+
+    {
+      "id": "merch_tent",
+      "name": "Merch Tent",
+      "lat": 51.981244,
+      "lon": -0.204836,
+      "category": "merch"
+    },
+    {
+      "id": "craft_stalls",
+      "name": "Craft Stalls",
+      "lat": 51.982331,
+      "lon": -0.207900,
+      "category": "stall"
+    },
+
+    {
+      "id": "main_entrance",
+      "name": "Main Entrance",
+      "lat": 51.980300,
+      "lon": -0.204900,
+      "category": "entrance"
+    },
+    {
+      "id": "camping_entrance",
+      "name": "Camping Entrance",
+      "lat": 51.983131,
+      "lon": -0.205844,
+      "category": "entrance"
+    },
+
+    {
+      "id": "general_camp",
+      "name": "General Camping",
+      "lat": 51.982000,
+      "lon": -0.206800,
+      "category": "camp"
+    },
+    {
+      "id": "quiet_camp",
+      "name": "Quiet Camping",
+      "lat": 51.980700,
+      "lon": -0.206900,
+      "category": "camp"
+    },
+
+    {
+      "id": "toms_burgers",
+      "name": "Tom’s Mega Burgers",
+      "lat": 51.981150,
+      "lon": -0.205100,
+      "category": "food",
+      "partner": true,
+      "icon": "burger.png"
     }
   ],
 
   "routes": {
-    "route_water_a_to_water_b": [
-      { "lat": 51.981074, "lon": -0.204615 },
-      { "lat": 51.981244, "lon": -0.204836 },
-      { "lat": 51.981100, "lon": -0.205000 },
-      { "lat": 51.982200, "lon": -0.206200 },
-      { "lat": 51.982920, "lon": -0.206885 }
+    "route_main_loop": [
+      { "lat": 51.981244, "lon": -0.204836 },  // merch_tent / corridor start
+      { "lat": 51.981216, "lon": -0.204923 },  // main_stage
+      { "lat": 51.981074, "lon": -0.204615 },  // water_a
+      { "lat": 51.980913, "lon": -0.204667 },  // toilet_b
+      { "lat": 51.980300, "lon": -0.204900 },  // main_entrance
+      { "lat": 51.980119, "lon": -0.207658 },  // security_south
+      { "lat": 51.980531, "lon": -0.207815 },  // food_court_a / zone A/B join
+      { "lat": 51.980544, "lon": -0.207353 },  // toilet_a
+      { "lat": 51.982331, "lon": -0.208740 },  // avenue_stage
+      { "lat": 51.982750, "lon": -0.208308 },  // food_court_b
+      { "lat": 51.982546, "lon": -0.208274 },  // water_c
+      { "lat": 51.982536, "lon": -0.208169 },  // forest_stage
+      { "lat": 51.983083, "lon": -0.205664 },  // toilet_c
+      { "lat": 51.983325, "lon": -0.205838 },  // security_north
+      { "lat": 51.983131, "lon": -0.205844 },  // camping_entrance / corridor end
+      { "lat": 51.981244, "lon": -0.204836 }   // back to merch_tent
     ],
 
-    "route_water_b_to_water_c": [
-      { "lat": 51.982920, "lon": -0.206885 },
-      { "lat": 51.982750, "lon": -0.208308 },
-      { "lat": 51.982650, "lon": -0.208250 },
-      { "lat": 51.982546, "lon": -0.208274 }
+    "route_main_entrance_to_main_stage": [
+      { "lat": 51.980300, "lon": -0.204900 },  // main_entrance
+      { "lat": 51.980913, "lon": -0.204667 },  // toilet_b
+      { "lat": 51.981074, "lon": -0.204615 },  // water_a
+      { "lat": 51.981216, "lon": -0.204923 }   // main_stage
     ],
 
-    "route_water_a_to_water_c": [
-      { "lat": 51.981074, "lon": -0.204615 },
-      { "lat": 51.981244, "lon": -0.204836 },
-      { "lat": 51.981100, "lon": -0.205000 },
-      { "lat": 51.982536, "lon": -0.208169 },
-      { "lat": 51.982546, "lon": -0.208274 }
+    "route_main_stage_to_forest_stage": [
+      { "lat": 51.981216, "lon": -0.204923 },  // main_stage
+      { "lat": 51.981000, "lon": -0.205900 },  // main_bar
+      { "lat": 51.981000, "lon": -0.206800 },  // medical_tent
+      { "lat": 51.982000, "lon": -0.206800 },  // general_camp
+      { "lat": 51.982536, "lon": -0.208169 }   // forest_stage
+    ],
+
+    "route_forest_stage_to_avenue_stage": [
+      { "lat": 51.982536, "lon": -0.208169 },  // forest_stage
+      { "lat": 51.982546, "lon": -0.208274 },  // water_c
+      { "lat": 51.982750, "lon": -0.208308 },  // food_court_b
+      { "lat": 51.982331, "lon": -0.208740 }   // avenue_stage
+    ],
+
+    "route_camping_entrance_to_main_stage": [
+      { "lat": 51.983131, "lon": -0.205844 },  // camping_entrance
+      { "lat": 51.983083, "lon": -0.205664 },  // toilet_c
+      { "lat": 51.983325, "lon": -0.205838 },  // security_north
+      { "lat": 51.982000, "lon": -0.206800 },  // general_camp
+      { "lat": 51.981000, "lon": -0.205900 },  // main_bar
+      { "lat": 51.981216, "lon": -0.204923 }   // main_stage
     ]
   }
 }
