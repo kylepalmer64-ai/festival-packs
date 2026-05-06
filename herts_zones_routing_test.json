@@ -51,21 +51,21 @@
   "vendors": [
     {
       "id": "main_stage",
-      "name": "Main Stage",
+      "name": "Craft Fair",
       "lat": 51.981216,
       "lon": -0.204923,
       "category": "stage"
     },
     {
       "id": "forest_stage",
-      "name": "Forest Stage",
+      "name": "Picnic Area",
       "lat": 51.982536,
       "lon": -0.208169,
       "category": "stage"
     },
     {
       "id": "avenue_stage",
-      "name": "Avenue Stage",
+      "name": "Car Show",
       "lat": 51.982331,
       "lon": -0.208740,
       "category": "stage"
@@ -140,7 +140,7 @@
 
     {
       "id": "main_bar",
-      "name": "Main Bar",
+      "name": "Brian's Hotdogs",
       "lat": 51.981000,
       "lon": -0.205900,
       "category": "bar"
@@ -155,14 +155,14 @@
 
     {
       "id": "food_court_a",
-      "name": "Food Court A",
+      "name": "Boot Sale",
       "lat": 51.980531,
       "lon": -0.207815,
       "category": "food"
     },
     {
       "id": "food_court_b",
-      "name": "Food Court B",
+      "name": "10% OFF THIS WAY!",
       "lat": 51.982750,
       "lon": -0.208308,
       "category": "food"
