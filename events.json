@@ -7,6 +7,12 @@
       "category": "Festival",
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mucky_weekender.json?v=1"
     },
+    {
+      "id": "herts_zones_test",
+      "name": "Herts Zones Test",
+      "category": "Festival",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/herts_zones_test.json?v=1"
+    },
 
     {
       "id": "balstock",
