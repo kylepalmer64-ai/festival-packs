@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "mode": "festival",
+
+  "name": "Herts Zone Test",
+  "heroImage": "herts.png",
+  "mapUrl": "herts.png",
+
+  "zones": [
+    {
+      "id": "zone_a_ave_one",
+      "name": "Zone A - Ave One",
+      "points": [
+        { "lat": 51.982331, "lon": -0.208740 },
+        { "lat": 51.982452, "lon": -0.208228 },
+        { "lat": 51.980544, "lon": -0.207353 },
+        { "lat": 51.980531, "lon": -0.207815 }
+      ]
+    },
+    {
+      "id": "zone_b_sec_ave",
+      "name": "Zone B - Sec Ave",
+      "points": [
+        { "lat": 51.980531, "lon": -0.207815 },
+        { "lat": 51.980119, "lon": -0.207658 },
+        { "lat": 51.980913, "lon": -0.204667 },
+        { "lat": 51.981216, "lon": -0.204923 }
+      ]
+    },
+    {
+      "id": "zone_c_for_ave",
+      "name": "Zone C - For Ave",
+      "points": [
+        { "lat": 51.983325, "lon": -0.205838 },
+        { "lat": 51.983083, "lon": -0.205664 },
+        { "lat": 51.982536, "lon": -0.208169 },
+        { "lat": 51.982750, "lon": -0.208308 }
+      ]
+    }
+  ],
+
+  "corridors": [
+    {
+      "id": "corridor_main",
+      "from": { "lat": 51.981244, "lon": -0.204836 },
+      "to":   { "lat": 51.983131, "lon": -0.205844 }
+    }
+  ],
+
+  "vendors": [
+    {
+      "id": "water_a",
+      "name": "Water Point A",
+      "lat": 51.981074,
+      "lon": -0.204615,
+      "category": "water"
+    },
+    {
+      "id": "water_b",
+      "name": "Water Point B",
+      "lat": 51.982920,
+      "lon": -0.206885,
+      "category": "water"
+    },
+    {
+      "id": "water_c",
+      "name": "Water Point C",
+      "lat": 51.982546,
+      "lon": -0.208274,
+      "category": "water"
+    }
+  ]
+}
