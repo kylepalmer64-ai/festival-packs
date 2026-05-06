@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "mode": "festival",
 
   "name": "Herts Zones Routing Test",
@@ -45,21 +45,21 @@
       "name": "Water Point A",
       "lat": 51.981074,
       "lon": -0.204615,
-      "category": "water"
+      "category": "stage"
     },
     {
       "id": "water_b",
       "name": "Water Point B",
       "lat": 51.982920,
       "lon": -0.206885,
-      "category": "water"
+      "category": "stage"
     },
     {
       "id": "water_c",
       "name": "Water Point C",
       "lat": 51.982546,
       "lon": -0.208274,
-      "category": "water"
+      "category": "stage"
     }
   ],
 
