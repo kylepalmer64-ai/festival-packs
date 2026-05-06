@@ -1,43 +1,10 @@
 {
-  "version": 3,
+  "version": 2,
   "mode": "festival",
 
   "name": "Herts Zones Routing Test",
   "heroImage": "herts.png",
   "mapUrl": "herts.png",
-
-  "zones": [
-    {
-      "id": "zone_a",
-      "name": "Zone A - Ave One",
-      "points": [
-        { "lat": 51.982331, "lon": -0.208740 },
-        { "lat": 51.982452, "lon": -0.208228 },
-        { "lat": 51.980544, "lon": -0.207353 },
-        { "lat": 51.980531, "lon": -0.207815 }
-      ]
-    },
-    {
-      "id": "zone_b",
-      "name": "Zone B - Sec Ave",
-      "points": [
-        { "lat": 51.980531, "lon": -0.207815 },
-        { "lat": 51.980119, "lon": -0.207658 },
-        { "lat": 51.980913, "lon": -0.204667 },
-        { "lat": 51.981216, "lon": -0.204923 }
-      ]
-    },
-    {
-      "id": "zone_c",
-      "name": "Zone C - For Ave",
-      "points": [
-        { "lat": 51.983325, "lon": -0.205838 },
-        { "lat": 51.983083, "lon": -0.205664 },
-        { "lat": 51.982536, "lon": -0.208169 },
-        { "lat": 51.982750, "lon": -0.208308 }
-      ]
-    }
-  ],
 
   "vendors": [
     {
@@ -45,58 +12,46 @@
       "name": "Water Point A",
       "lat": 51.981074,
       "lon": -0.204615,
-      "category": "stage"
+      "category": "water"
     },
     {
       "id": "water_b",
       "name": "Water Point B",
       "lat": 51.982920,
       "lon": -0.206885,
-      "category": "stage"
+      "category": "water"
     },
     {
       "id": "water_c",
       "name": "Water Point C",
       "lat": 51.982546,
       "lon": -0.208274,
-      "category": "stage"
+      "category": "water"
     }
   ],
 
-  "waypoints": [
-    { "id": "wp_zone_a_north", "name": "Zone A North", "lat": 51.982390, "lon": -0.208500 },
-    { "id": "wp_zone_a_south", "name": "Zone A South", "lat": 51.980700, "lon": -0.207600 },
+  "routes": {
+    "route_water_a_to_water_b": [
+      { "lat": 51.981074, "lon": -0.204615 },
+      { "lat": 51.981244, "lon": -0.204836 },
+      { "lat": 51.981100, "lon": -0.205000 },
+      { "lat": 51.982200, "lon": -0.206200 },
+      { "lat": 51.982920, "lon": -0.206885 }
+    ],
 
-    { "id": "wp_zone_b_north", "name": "Zone B North", "lat": 51.981100, "lon": -0.205000 },
-    { "id": "wp_zone_b_south", "name": "Zone B South", "lat": 51.980300, "lon": -0.207700 },
+    "route_water_b_to_water_c": [
+      { "lat": 51.982920, "lon": -0.206885 },
+      { "lat": 51.982750, "lon": -0.208308 },
+      { "lat": 51.982650, "lon": -0.208250 },
+      { "lat": 51.982546, "lon": -0.208274 }
+    ],
 
-    { "id": "wp_zone_c_west",  "name": "Zone C West",  "lat": 51.982650, "lon": -0.208250 },
-    { "id": "wp_zone_c_east",  "name": "Zone C East",  "lat": 51.983200, "lon": -0.205750 },
-
-    { "id": "wp_corridor_west", "name": "Corridor West", "lat": 51.981244, "lon": -0.204836 },
-    { "id": "wp_corridor_east", "name": "Corridor East", "lat": 51.983131, "lon": -0.205844 }
-  ],
-
-  "corridors": [
-    { "from": "wp_zone_a_north", "to": "wp_zone_c_west" },
-    { "from": "wp_zone_c_west",  "to": "wp_zone_a_north" },
-
-    { "from": "wp_zone_a_south", "to": "wp_zone_b_south" },
-    { "from": "wp_zone_b_south", "to": "wp_zone_a_south" },
-
-    { "from": "wp_zone_b_south", "to": "wp_zone_b_north" },
-    { "from": "wp_zone_b_north", "to": "wp_zone_b_south" },
-
-    { "from": "wp_zone_b_north", "to": "wp_corridor_west" },
-    { "from": "wp_corridor_west", "to": "wp_zone_b_north" },
-
-    { "from": "wp_corridor_west", "to": "wp_corridor_east" },
-    { "from": "wp_corridor_east", "to": "wp_corridor_west" },
-
-    { "from": "wp_corridor_east", "to": "wp_zone_c_east" },
-    { "from": "wp_zone_c_east",  "to": "wp_corridor_east" },
-
-    { "from": "wp_zone_c_east", "to": "wp_zone_c_west" },
-    { "from": "wp_zone_c_west", "to": "wp_zone_c_east" }
-  ]
+    "route_water_a_to_water_c": [
+      { "lat": 51.981074, "lon": -0.204615 },
+      { "lat": 51.981244, "lon": -0.204836 },
+      { "lat": 51.981100, "lon": -0.205000 },
+      { "lat": 51.982536, "lon": -0.208169 },
+      { "lat": 51.982546, "lon": -0.208274 }
+    ]
+  }
 }
