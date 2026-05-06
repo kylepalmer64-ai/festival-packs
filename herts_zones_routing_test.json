@@ -63,32 +63,30 @@
     }
   ],
 
-  "routing": {
-    "waypoints": [
-      { "id": "wp_zone_a_north", "lat": 51.982390, "lon": -0.208500 },
-      { "id": "wp_zone_a_south", "lat": 51.980700, "lon": -0.207600 },
+  "waypoints": [
+    { "id": "wp_zone_a_north", "lat": 51.982390, "lon": -0.208500 },
+    { "id": "wp_zone_a_south", "lat": 51.980700, "lon": -0.207600 },
 
-      { "id": "wp_zone_b_north", "lat": 51.981100, "lon": -0.205000 },
-      { "id": "wp_zone_b_south", "lat": 51.980300, "lon": -0.207700 },
+    { "id": "wp_zone_b_north", "lat": 51.981100, "lon": -0.205000 },
+    { "id": "wp_zone_b_south", "lat": 51.980300, "lon": -0.207700 },
 
-      { "id": "wp_zone_c_west",  "lat": 51.982650, "lon": -0.208250 },
-      { "id": "wp_zone_c_east",  "lat": 51.983200, "lon": -0.205750 },
+    { "id": "wp_zone_c_west",  "lat": 51.982650, "lon": -0.208250 },
+    { "id": "wp_zone_c_east",  "lat": 51.983200, "lon": -0.205750 },
 
-      { "id": "wp_corridor_west", "lat": 51.981244, "lon": -0.204836 },
-      { "id": "wp_corridor_east", "lat": 51.983131, "lon": -0.205844 }
-    ],
+    { "id": "wp_corridor_west", "lat": 51.981244, "lon": -0.204836 },
+    { "id": "wp_corridor_east", "lat": 51.983131, "lon": -0.205844 }
+  ],
 
-    "corridors": [
-      { "from": "wp_zone_a_north", "to": "wp_zone_c_west" },
-      { "from": "wp_zone_a_south", "to": "wp_zone_b_south" },
+  "corridors": [
+    { "from": "wp_zone_a_north", "to": "wp_zone_c_west" },
+    { "from": "wp_zone_a_south", "to": "wp_zone_b_south" },
 
-      { "from": "wp_zone_b_south", "to": "wp_zone_b_north" },
-      { "from": "wp_zone_b_north", "to": "wp_corridor_west" },
+    { "from": "wp_zone_b_south", "to": "wp_zone_b_north" },
+    { "from": "wp_zone_b_north", "to": "wp_corridor_west" },
 
-      { "from": "wp_corridor_west", "to": "wp_corridor_east" },
+    { "from": "wp_corridor_west", "to": "wp_corridor_east" },
 
-      { "from": "wp_corridor_east", "to": "wp_zone_c_east" },
-      { "from": "wp_zone_c_east", "to": "wp_zone_c_west" }
-    ]
-  }
+    { "from": "wp_corridor_east", "to": "wp_zone_c_east" },
+    { "from": "wp_zone_c_east", "to": "wp_zone_c_west" }
+  ]
 }
