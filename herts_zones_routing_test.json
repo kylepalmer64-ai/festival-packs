@@ -64,17 +64,17 @@
   ],
 
   "waypoints": [
-    { "id": "wp_zone_a_north", "lat": 51.982390, "lon": -0.208500 },
-    { "id": "wp_zone_a_south", "lat": 51.980700, "lon": -0.207600 },
+    { "id": "wp_zone_a_north", "name": "Zone A North", "lat": 51.982390, "lon": -0.208500 },
+    { "id": "wp_zone_a_south", "name": "Zone A South", "lat": 51.980700, "lon": -0.207600 },
 
-    { "id": "wp_zone_b_north", "lat": 51.981100, "lon": -0.205000 },
-    { "id": "wp_zone_b_south", "lat": 51.980300, "lon": -0.207700 },
+    { "id": "wp_zone_b_north", "name": "Zone B North", "lat": 51.981100, "lon": -0.205000 },
+    { "id": "wp_zone_b_south", "name": "Zone B South", "lat": 51.980300, "lon": -0.207700 },
 
-    { "id": "wp_zone_c_west",  "lat": 51.982650, "lon": -0.208250 },
-    { "id": "wp_zone_c_east",  "lat": 51.983200, "lon": -0.205750 },
+    { "id": "wp_zone_c_west",  "name": "Zone C West",  "lat": 51.982650, "lon": -0.208250 },
+    { "id": "wp_zone_c_east",  "name": "Zone C East",  "lat": 51.983200, "lon": -0.205750 },
 
-    { "id": "wp_corridor_west", "lat": 51.981244, "lon": -0.204836 },
-    { "id": "wp_corridor_east", "lat": 51.983131, "lon": -0.205844 }
+    { "id": "wp_corridor_west", "name": "Corridor West", "lat": 51.981244, "lon": -0.204836 },
+    { "id": "wp_corridor_east", "name": "Corridor East", "lat": 51.983131, "lon": -0.205844 }
   ],
 
   "corridors": [
