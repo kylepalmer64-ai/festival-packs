@@ -9,61 +9,50 @@
     {
       "id": "birds_hill_home",
       "name": "Birds Hill (Start/End)",
-      "lat": 51.97950,
-      "lng": -0.22600,
+      "lat": 51.9818885,
+      "lon": -0.2221218,
       "category": "home"
     },
     {
       "id": "mcdonalds_target",
       "name": "McDonald's Letchworth",
-      "lat": 51.98240,
-      "lng": -0.22510,
+      "lat": 51.9792514,
+      "lon": -0.2072248,
       "category": "landmark"
     },
     {
       "id": "karting_target",
       "name": "Letchworth Karting",
-      "lat": 51.98380,
-      "lng": -0.22590,
+      "lat": 51.9814961,
+      "lon": -0.2172157,
       "category": "activity"
     }
   ],
 
   "routing": {
     "waypoints": [
-      { "id": "birds_hill",        "lat": 51.97950, "lng": -0.22600 },
+      { "id": "birds_hill", "lat": 51.9818885, "lon": -0.2221218 },
 
-      { "id": "works_road_1",      "lat": 51.98010, "lng": -0.22580 },
-      { "id": "works_road_2",      "lat": 51.98070, "lng": -0.22560 },
-      { "id": "works_road_3",      "lat": 51.98130, "lng": -0.22540 },
-      { "id": "works_road_4",      "lat": 51.98190, "lng": -0.22520 },
+      { "id": "works_west", "lat": 51.9822608, "lon": -0.2180059 },
+      { "id": "works_mid",  "lat": 51.9848000, "lon": -0.2095000 },
+      { "id": "works_east", "lat": 51.9873945, "lon": -0.2009843 },
 
-      { "id": "mcdonalds",         "lat": 51.98240, "lng": -0.22510 },
-
-      { "id": "karting_1",         "lat": 51.98290, "lng": -0.22530 },
-      { "id": "karting_2",         "lat": 51.98340, "lng": -0.22560 },
-      { "id": "letchworth_karting","lat": 51.98380, "lng": -0.22590 }
+      { "id": "karting",    "lat": 51.9814961, "lon": -0.2172157 },
+      { "id": "mcdonalds",  "lat": 51.9792514, "lon": -0.2072248 }
     ],
 
     "corridors": [
-      { "from": "birds_hill",        "to": "works_road_1" },
-      { "from": "works_road_1",      "to": "works_road_2" },
-      { "from": "works_road_2",      "to": "works_road_3" },
-      { "from": "works_road_3",      "to": "works_road_4" },
-      { "from": "works_road_4",      "to": "mcdonalds" },
+      { "from": "birds_hill", "to": "works_west" },
 
-      { "from": "mcdonalds",         "to": "karting_1" },
-      { "from": "karting_1",         "to": "karting_2" },
-      { "from": "karting_2",         "to": "letchworth_karting" },
+      { "from": "works_west", "to": "karting" },
 
-      { "from": "letchworth_karting","to": "karting_2" },
-      { "from": "karting_2",         "to": "karting_1" },
-      { "from": "karting_1",         "to": "mcdonalds" },
-      { "from": "mcdonalds",         "to": "works_road_4" },
-      { "from": "works_road_4",      "to": "works_road_3" },
-      { "from": "works_road_3",      "to": "works_road_2" },
-      { "from": "works_road_2",      "to": "works_road_1" },
-      { "from": "works_road_1",      "to": "birds_hill" }
+      { "from": "works_west", "to": "works_mid" },
+      { "from": "works_mid",  "to": "works_east" },
+      { "from": "works_mid",  "to": "mcdonalds" },
+
+      { "from": "mcdonalds",  "to": "works_mid" },
+      { "from": "works_mid",  "to": "works_west" },
+      { "from": "works_west", "to": "birds_hill" }
     ]
   }
 }
