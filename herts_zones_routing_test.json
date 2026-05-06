@@ -79,14 +79,24 @@
 
   "corridors": [
     { "from": "wp_zone_a_north", "to": "wp_zone_c_west" },
+    { "from": "wp_zone_c_west",  "to": "wp_zone_a_north" },
+
     { "from": "wp_zone_a_south", "to": "wp_zone_b_south" },
+    { "from": "wp_zone_b_south", "to": "wp_zone_a_south" },
 
     { "from": "wp_zone_b_south", "to": "wp_zone_b_north" },
+    { "from": "wp_zone_b_north", "to": "wp_zone_b_south" },
+
     { "from": "wp_zone_b_north", "to": "wp_corridor_west" },
+    { "from": "wp_corridor_west", "to": "wp_zone_b_north" },
 
     { "from": "wp_corridor_west", "to": "wp_corridor_east" },
+    { "from": "wp_corridor_east", "to": "wp_corridor_west" },
 
     { "from": "wp_corridor_east", "to": "wp_zone_c_east" },
-    { "from": "wp_zone_c_east", "to": "wp_zone_c_west" }
+    { "from": "wp_zone_c_east",  "to": "wp_corridor_east" },
+
+    { "from": "wp_zone_c_east", "to": "wp_zone_c_west" },
+    { "from": "wp_zone_c_west", "to": "wp_zone_c_east" }
   ]
 }
