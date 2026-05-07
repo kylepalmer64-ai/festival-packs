@@ -3,6 +3,19 @@
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/muckyamp.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/muckyweb.png",
   "messagesFile": "mucky_weekender_messages.json",
+
+  "listings": [
+    { "stage": "Main Stage", "time": "14:00", "act": "DJ Horizon" },
+    { "stage": "Main Stage", "time": "16:00", "act": "The Wild Oaks" },
+    { "stage": "Main Stage", "time": "19:00", "act": "Sunset Riot" },
+
+    { "stage": "Second Stage", "time": "15:30", "act": "Electric Avenue" },
+    { "stage": "Second Stage", "time": "18:00", "act": "The Night Drivers" },
+
+    { "stage": "Forest Stage", "time": "17:00", "act": "Neon Valley" },
+    { "stage": "Forest Stage", "time": "20:30", "act": "Midnight Echoes" }
+  ],
+
   "vendors": [
     { "name": "Main Stage", "lat": 51.9798, "lng": -0.2255, "category": "stage" },
     { "name": "Second Stage", "lat": 51.9792, "lng": -0.2268, "category": "stage" },
