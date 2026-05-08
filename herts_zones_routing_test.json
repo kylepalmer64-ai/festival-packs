@@ -1,10 +1,10 @@
 {
-  "version": 5,
+  "version": 6,
   "mode": "festival",
 
   "name": "Herts Zones Routing",
   "heroImage": "herts.png",
-  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/genamp.png?v=3",
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/hertsmap.png?v=4",
   "messagesFile": "herts_zone_messages.json",
 
   "zones": [
