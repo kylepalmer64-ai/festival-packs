@@ -1,5 +1,5 @@
 {
-  "version": 14,
+  "version": 15,
   "events": [
     {
       "id": "mucky_weekender",
@@ -19,7 +19,7 @@
       "id": "herts_routing_test",
       "name": "Walk Route Test",
       "category": "Test",
-      "packUrl": "https://raw.githubusercontent.com/kylepalmer64-ai/festival-packs/main/herts_routing_test.json?v=7"
+      "packUrl": "https://raw.githubusercontent.com/kylepalmer64-ai/festival-packs/main/herts_routing_test.json?v=8"
     }
   ]
 }
