@@ -1,5 +1,5 @@
 {
-  "version": 26,
+  "version": 27,
   "events": [
     {
       "id": "mucky_weekender",
@@ -18,7 +18,7 @@
       "id": "car_meet_north",
       "name": "Classic Motor Show",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/car_meet_north.json?v=1"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/car_meet_north.json?v=2"
     },
     
     {
