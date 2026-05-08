@@ -82,7 +82,7 @@
       "lng": -0.18780,
       "category": "bar",
       "partner": true,
-      "icon": "brewery.png"
+      "icon": "burger.png"
     },
     {
       "name": "Sponsor – Local Street Food",
@@ -90,7 +90,7 @@
       "lng": -0.18890,
       "category": "food",
       "partner": true,
-      "icon": "streetfood.png"
+      "icon": "burger.png"
     }
   ]
 }
