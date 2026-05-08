@@ -4,7 +4,7 @@
 
   "name": "Herts Zones Routing",
   "heroImage": "herts.png",
-  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/hertsamp.png",
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/hertsamp.png?v=2",
   "messagesFile": "herts_zone_messages.json",
 
   "zones": [
