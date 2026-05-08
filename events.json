@@ -1,5 +1,5 @@
 {
-  "version": 20,
+  "version": 21,
   "events": [
     {
       "id": "mucky_weekender",
@@ -18,7 +18,7 @@
       "id": "herts_zones_routing_test",
       "name": "Herts Zones Routing Test",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/herts_zones_routing_test.json?v=5"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/herts_zones_routing_test.json?v=6"
     },     
 
     {
