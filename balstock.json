@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "mapUrl": "REPLACE_WITH_BALSTOCK_MAP_URL",
   "heroImage": "REPLACE_WITH_BALSTOCK_HERO_IMAGE_URL",
   "messagesFile": "balstock_messages.json",
