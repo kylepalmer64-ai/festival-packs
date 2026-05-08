@@ -1,7 +1,7 @@
 {
-  "version": 2,
+  "version": 3,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/genamp.png",
-  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/ktpicon.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/mtrhero.png",
   "messagesFile": "carmeet_messages.json",
 
   "listings": [
