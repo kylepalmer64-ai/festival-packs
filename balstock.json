@@ -1,27 +1,98 @@
 {
   "version": 1,
+  "mapUrl": "REPLACE_WITH_BALSTOCK_MAP_URL",
+  "heroImage": "REPLACE_WITH_BALSTOCK_HERO_IMAGE_URL",
+  "messagesFile": "balstock_messages.json",
+
+  "listings": [
+    /* FRIDAY – START 17:00, BURLESQUE, THEN BANDS WITH CLASHES ACROSS VENUES */
+
+    { "stage": "High Street Main Stage", "time": "17:00", "act": "Burlesque Showcase" },
+
+    { "stage": "High Street Main Stage", "time": "17:30", "act": "Band F1" },
+    { "stage": "The Orange Tree",        "time": "17:30", "act": "Band O1" },
+    { "stage": "The Engine",             "time": "17:30", "act": "Band E1" },
+
+    { "stage": "High Street Main Stage", "time": "18:00", "act": "Band F2" },
+    { "stage": "The Orange Tree",        "time": "18:00", "act": "Band O2" },
+    { "stage": "The Engine",             "time": "18:00", "act": "Band E2" },
+
+    { "stage": "High Street Main Stage", "time": "18:30", "act": "Band F3" },
+    { "stage": "The Orange Tree",        "time": "18:30", "act": "Band O3" },
+    { "stage": "The Engine",             "time": "18:30", "act": "Band E3" },
+
+    { "stage": "High Street Main Stage", "time": "19:00", "act": "Band F4" },
+    { "stage": "The Orange Tree",        "time": "19:00", "act": "Band O4" },
+    { "stage": "The Engine",             "time": "19:00", "act": "Band E4" },
+
+    { "stage": "High Street Main Stage", "time": "19:30", "act": "Band F5" },
+    { "stage": "The Orange Tree",        "time": "19:30", "act": "Band O5" },
+    { "stage": "The Engine",             "time": "19:30", "act": "Band E5" },
+
+    { "stage": "High Street Main Stage", "time": "20:00", "act": "Band F6" },
+    { "stage": "The Orange Tree",        "time": "20:00", "act": "Band O6" },
+    { "stage": "The Engine",             "time": "20:00", "act": "Band E6" },
+
+    /* SATURDAY – ALL‑DAY CLASHES ACROSS MORE VENUES */
+
+    { "stage": "High Street Main Stage", "time": "12:00", "act": "Band S1" },
+    { "stage": "The Orange Tree",        "time": "12:00", "act": "Band S2" },
+    { "stage": "The Engine",             "time": "12:00", "act": "Band S3" },
+    { "stage": "The White Lion",         "time": "12:00", "act": "Band S4" },
+
+    { "stage": "High Street Main Stage", "time": "12:30", "act": "Band S5" },
+    { "stage": "The Orange Tree",        "time": "12:30", "act": "Band S6" },
+    { "stage": "The Engine",             "time": "12:30", "act": "Band S7" },
+    { "stage": "The White Lion",         "time": "12:30", "act": "Band S8" },
+
+    { "stage": "High Street Main Stage", "time": "13:00", "act": "Band S9" },
+    { "stage": "The Orange Tree",        "time": "13:00", "act": "Band S10" },
+    { "stage": "The Engine",             "time": "13:00", "act": "Band S11" },
+    { "stage": "The White Lion",         "time": "13:00", "act": "Band S12" },
+
+    /* CONTINUE THIS 30‑MINUTE GRID THROUGH SATURDAY EVENING
+       AND REPEAT THE PATTERN FOR SUNDAY TO REACH 100+ ACTS */
+
+    { "stage": "High Street Main Stage", "time": "23:00", "act": "Saturday Headliner" },
+    { "stage": "The Orange Tree",        "time": "23:00", "act": "Late Band OT" },
+    { "stage": "The Engine",             "time": "23:00", "act": "Late Band EN" },
+
+    /* SUNDAY – SIMILAR 30‑MIN GRID, MULTI‑VENUE CLASHES */
+
+    { "stage": "High Street Main Stage", "time": "12:00", "act": "Band U1" },
+    { "stage": "The Orange Tree",        "time": "12:00", "act": "Band U2" },
+    { "stage": "The Engine",             "time": "12:00", "act": "Band U3" },
+    { "stage": "The White Lion",         "time": "12:00", "act": "Band U4" }
+
+    /* EXTEND UNTIL YOU HIT YOUR FULL 100+ BAND LINEUP */
+  ],
+
   "vendors": [
-    { "name": "Main Stage", "lat": 51.9870, "lng": -0.1870, "category": "stage" },
+    { "name": "High Street Main Stage", "lat": LAT_HERE, "lng": LNG_HERE, "category": "stage" },
+    { "name": "The Orange Tree",        "lat": LAT_HERE, "lng": LNG_HERE, "category": "stage" },
+    { "name": "The Engine",             "lat": LAT_HERE, "lng": LNG_HERE, "category": "stage" },
+    { "name": "The White Lion",         "lat": LAT_HERE, "lng": LNG_HERE, "category": "stage" },
 
-    { "name": "The Orange Tree", "lat": 51.9870, "lng": -0.1870, "category": "bar" },
-    { "name": "The Engine", "lat": 51.9870, "lng": -0.1870, "category": "bar" },
+    { "name": "Main Bar (High Street)", "lat": LAT_HERE, "lng": LNG_HERE, "category": "bar" },
+    { "name": "Food Court High Street", "lat": LAT_HERE, "lng": LNG_HERE, "category": "food" },
 
-    { "name": "Toilets — High Street", "lat": 51.9870, "lng": -0.1870, "category": "toilet" },
+    { "name": "Toilets – High Street",  "lat": LAT_HERE, "lng": LNG_HERE, "category": "toilet" },
+    { "name": "Toilets – Rec Ground",   "lat": LAT_HERE, "lng": LNG_HERE, "category": "toilet" },
 
-    { "name": "Security HQ", "lat": 51.9870, "lng": -0.1870, "category": "security" },
+    { "name": "Medical Point",          "lat": LAT_HERE, "lng": LNG_HERE, "category": "medical" },
+    { "name": "Security HQ",            "lat": LAT_HERE, "lng": LNG_HERE, "category": "security" },
 
-    { "name": "Medical Tent", "lat": 51.9870, "lng": -0.1870, "category": "medical" },
+    { "name": "Main Entrance (Town)",   "lat": LAT_HERE, "lng": LNG_HERE, "category": "entrance" },
+    { "name": "Station Entrance",       "lat": LAT_HERE, "lng": LNG_HERE, "category": "entrance" },
 
-    { "name": "Water Point", "lat": 51.9870, "lng": -0.1870, "category": "water" },
+    { "name": "General Camping",        "lat": LAT_HERE, "lng": LNG_HERE, "category": "camp" },
 
-    { "name": "Merch Stall", "lat": 51.9870, "lng": -0.1870, "category": "merch" },
-
-    { "name": "Food Truck", "lat": 51.9870, "lng": -0.1870, "category": "food" },
-
-    { "name": "Craft Stalls", "lat": 51.9870, "lng": -0.1870, "category": "stall" },
-
-    { "name": "Festival Entrance", "lat": 51.9870, "lng": -0.1870, "category": "entrance" },
-
-    { "name": "Camping Area", "lat": 51.9870, "lng": -0.1870, "category": "camp" }
-  ]
-}
+    {
+      "name": "Sponsor – Local Brewery",
+      "lat": LAT_HERE,
+      "lng": LNG_HERE,
+      "category": "bar",
+      "partner": true,
+      "icon": "brewery.png"
+    }  
+   }    
