@@ -12,14 +12,14 @@
       "id": "herts_zones_routing_test",
       "name": "Herts Zones Routing Test",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/herts_zones_routing_test.json?v=1"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/herts_zones_routing_test.json?v=5"
     },     
 
     {
       "id": "herts_routing_test",
       "name": "Walk Route Test",
       "category": "Test",
-      "packUrl": "https://raw.githubusercontent.com/kylepalmer64-ai/festival-packs/main/herts_routing_test.json?v=2"
+      "packUrl": "https://raw.githubusercontent.com/kylepalmer64-ai/festival-packs/main/herts_routing_test.json?v=5"
     }
   ]
 }
