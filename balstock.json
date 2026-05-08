@@ -57,56 +57,37 @@
   ],
 
   "vendors": [
-  { "name": "High Street Main Stage", "lat": 51.98710, "lng": -0.18790, "category": "stage" },
-  { "name": "The Orange Tree",        "lat": 51.98655, "lng": -0.18840, "category": "stage" },
-  { "name": "The Engine",             "lat": 51.98620, "lng": -0.18910, "category": "stage" },
-  { "name": "The White Lion",         "lat": 51.98685, "lng": -0.18695, "category": "stage" },
+    { "name": "High Street Main Stage", "lat": 51.98710, "lng": -0.18790, "category": "stage" },
+    { "name": "The Orange Tree", "lat": 51.98655, "lng": -0.18840, "category": "stage" },
+    { "name": "The Engine", "lat": 51.98620, "lng": -0.18910, "category": "stage" },
+    { "name": "The White Lion", "lat": 51.98685, "lng": -0.18695, "category": "stage" },
 
-  { "name": "Main Bar (High Street)", "lat": 51.98700, "lng": -0.18760, "category": "bar" },
-  { "name": "Food Court High Street", "lat": 51.98690, "lng": -0.18810, "category": "food" },
+    { "name": "Main Bar (High Street)", "lat": 51.98700, "lng": -0.18760, "category": "bar" },
+    { "name": "Food Court High Street", "lat": 51.98690, "lng": -0.18810, "category": "food" },
 
-  { "name": "Toilets – High Street",  "lat": 51.98720, "lng": -0.18740, "category": "toilet" },
-  { "name": "Toilets – Rec Ground",   "lat": 51.98580, "lng": -0.18950, "category": "toilet" },
+    { "name": "Toilets – High Street", "lat": 51.98720, "lng": -0.18740, "category": "toilet" },
+    { "name": "Toilets – Rec Ground", "lat": 51.98580, "lng": -0.18950, "category": "toilet" },
 
-  { "name": "Medical Point",          "lat": 51.98675, "lng": -0.18870, "category": "medical" },
-  { "name": "Security HQ",            "lat": 51.98695, "lng": -0.18720, "category": "security" },
+    { "name": "Medical Point", "lat": 51.98675, "lng": -0.18870, "category": "medical" },
+    { "name": "Security HQ", "lat": 51.98695, "lng": -0.18720, "category": "security" },
 
-  { "name": "Main Entrance (Town)",   "lat": 51.98740, "lng": -0.18710, "category": "entrance" },
-  { "name": "Station Entrance",       "lat": 51.98490, "lng": -0.19200, "category": "entrance" },
+    { "name": "Main Entrance (Town)", "lat": 51.98740, "lng": -0.18710, "category": "entrance" },
+    { "name": "Station Entrance", "lat": 51.98490, "lng": -0.19200, "category": "entrance" },
 
-  { "name": "General Camping",        "lat": 51.98550, "lng": -0.19020, "category": "camp" },
-
-  {
-    "name": "Sponsor – Local Brewery",
-    "lat": 51.98660,
-    "lng": -0.18780,
-    "category": "bar",
-    "partner": true,
-    "icon": "brewery.png"
-  },
-  {
-    "name": "Sponsor – Local Street Food",
-    "lat": 51.98630,
-    "lng": -0.18890,
-    "category": "food",
-    "partner": true,
-    "icon": "streetfood.png"
-  }
-]
-
+    { "name": "General Camping", "lat": 51.98550, "lng": -0.19020, "category": "camp" },
 
     {
       "name": "Sponsor – Local Brewery",
-      "lat": 0,
-      "lng": 0,
+      "lat": 51.98660,
+      "lng": -0.18780,
       "category": "bar",
       "partner": true,
       "icon": "brewery.png"
     },
     {
       "name": "Sponsor – Local Street Food",
-      "lat": 0,
-      "lng": 0,
+      "lat": 51.98630,
+      "lng": -0.18890,
       "category": "food",
       "partner": true,
       "icon": "streetfood.png"
