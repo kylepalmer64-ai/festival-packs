@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 22,
   "events": [
     {
       "id": "mucky_weekender",
@@ -11,7 +11,7 @@
       "id": "balstock",
       "name": "Balstock Festival",
       "category": "Festival",
-      "packUrl": "https://kteepee.com/festival-packs/balstock.json?v=5"
+      "packUrl": "https://kteepee.com/festival-packs/balstock_v2.json?v=6"
     },
     
     {
