@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "mapUrl": "REPLACE_WITH_BALSTOCK_MAP_URL",
-  "heroImage": "REPLACE_WITH_BALSTOCK_HERO_IMAGE_URL",
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/balstockmap.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/balstockgee.png",
   "messagesFile": "balstock_messages.json",
 
   "listings": [
