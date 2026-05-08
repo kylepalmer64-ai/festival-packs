@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/pinsmap.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/ktpicon.png",
+  "messagesFile": "carmeet_messages.json",
+
+  "listings": [
+    { "stage": "Show Arena", "time": "10:00", "act": "Opening Announcements" },
+    { "stage": "Show Arena", "time": "11:00", "act": "Classic Car Parade" },
+    { "stage": "Show Arena", "time": "13:00", "act": "Best Modified Competition" },
+    { "stage": "Show Arena", "time": "15:00", "act": "Rev-Off Challenge" },
+    { "stage": "Show Arena", "time": "17:00", "act": "Awards & Closing" }
+  ],
+
+  "vendors": [
+    { "name": "Show Arena", "lat": 51.981387, "lng": -0.222176, "category": "stage" },
+
+    { "name": "Main Entrance Gate", "lat": 51.981900, "lng": -0.221900, "category": "entrance" },
+    { "name": "Overflow Entrance", "lat": 51.980900, "lng": -0.223200, "category": "entrance" },
+
+    { "name": "Toilet Block A", "lat": 51.981600, "lng": -0.221700, "category": "toilet" },
+    { "name": "Toilet Block B", "lat": 51.981050, "lng": -0.222900, "category": "toilet" },
+
+    { "name": "Medical Point", "lat": 51.981250, "lng": -0.221950, "category": "medical" },
+    { "name": "Security HQ", "lat": 51.981800, "lng": -0.222500, "category": "security" },
+
+    { "name": "Water Station North", "lat": 51.981700, "lng": -0.222050, "category": "water" },
+    { "name": "Water Station South", "lat": 51.981100, "lng": -0.222400, "category": "water" },
+
+    { "name": "Burger Grill", "lat": 51.981450, "lng": -0.222300, "category": "food" },
+    { "name": "Ice Cream Van", "lat": 51.981250, "lng": -0.222650, "category": "food" },
+
+    { "name": "Main Bar Tent", "lat": 51.981550, "lng": -0.222000, "category": "bar" },
+
+    { "name": "Merch Tent", "lat": 51.981300, "lng": -0.221850, "category": "merch" },
+
+    { "name": "Auto Parts Stall", "lat": 51.981000, "lng": -0.222200, "category": "stall" },
+    { "name": "Detailing Products Stall", "lat": 51.981650, "lng": -0.222350, "category": "stall" },
+    { "name": "Kids Fairground Stall", "lat": 51.981200, "lng": -0.222050, "category": "stall" },
+
+    { "name": "General Camping", "lat": 51.980950, "lng": -0.221700, "category": "camp" },
+
+    {
+      "name": "Premium Vendor – Performance Tuning Co.",
+      "lat": 51.981800,
+      "lng": -0.221950,
+      "category": "stall",
+      "partner": true,
+      "icon": "tuning.png"
+    },
+    {
+      "name": "Premium Vendor – Alloy Wheel Specialists",
+      "lat": 51.981500,
+      "lng": -0.222650,
+      "category": "stall",
+      "partner": true,
+      "icon": "wheels.png"
+    },
+    {
+      "name": "Premium Vendor – Car Care Pro",
+      "lat": 51.981150,
+      "lng": -0.221900,
+      "category": "stall",
+      "partner": true,
+      "icon": "carcare.png"
+    }
+  ]
+}
