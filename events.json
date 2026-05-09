@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "events": [
     {
       "id": "mucky_weekender",
@@ -11,7 +11,7 @@
       "id": "balstock",
       "name": "Balstock Festival",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/balstockpop.json?v=1"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/balstockpop.json?v=2"
     },
     
     {
