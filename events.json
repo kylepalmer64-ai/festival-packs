@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "events": [
     {
       "id": "mucky_weekender",
@@ -20,12 +20,7 @@
       "category": "Festival",
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/car_meet_north.json?v=1"
     },
-    {
-      "id": "download_festival",
-      "name": "Download Festival",
-      "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/download_festival.json?v=1"
-    },
+    
     
     {
       "id": "poles",
