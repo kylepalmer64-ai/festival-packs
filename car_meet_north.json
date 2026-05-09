@@ -41,28 +41,28 @@
     { "name": "General Camping", "lat": 51.980950, "lng": -0.221700, "category": "camp" },
 
     {
-      "name": "Premium Vendor – Performance Tuning Co.",
+      "name": "Commercial Opportunities",
       "lat": 51.981800,
       "lng": -0.221950,
       "category": "stall",
       "partner": true,
-      "icon": "tuning.png"
+      "icon": "bun.png"
     },
     {
-      "name": "Premium Vendor – Alloy Wheel Specialists",
+      "name": "Premier Placements",
       "lat": 51.981500,
       "lng": -0.222650,
       "category": "stall",
       "partner": true,
-      "icon": "wheels.png"
+      "icon": "berg.png"
     },
     {
-      "name": "Premium Vendor – Car Care Pro",
+      "name": "Vendor Visibility",
       "lat": 51.981150,
       "lng": -0.221900,
       "category": "stall",
       "partner": true,
-      "icon": "carcare.png"
+      "icon": "barn.png"
     }
   ]
 }
