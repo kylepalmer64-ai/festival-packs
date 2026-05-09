@@ -11,7 +11,7 @@
       "id": "balstock",
       "name": "Balstock Festival",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/balstockfest.json?v=1"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/balstockpop.json?v=1"
     },
     
     {
@@ -26,34 +26,7 @@
       "category": "Festival",
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/download_festival.json?v=1"
     },
-    {
-      "id": "brighton",
-      "name": "Brighton City Pack",
-      "category": "City",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/brighton.json?v=1"
-    },
-
-    {
-      "id": "london",
-      "name": "London City Pack",
-      "category": "City",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/london.json?v=1"
-    },
-
-    {
-      "id": "manchester",
-      "name": "Manchester City Pack",
-      "category": "City",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/manchester.json?v=1"
-    },
-
-    {
-      "id": "hertsnational",
-      "name": "Herts + National Test Pack",
-      "category": "Location",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/hertsnational.json?v=1"
-    },
-
+    
     {
       "id": "poles",
       "name": "North & South Pole",
