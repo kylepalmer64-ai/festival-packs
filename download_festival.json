@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/downloadamp.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/kteepee.png",
@@ -79,7 +79,7 @@
     { "name": "Merch Tent", "lat": 52.8300, "lng": -1.3750, "category": "merch" },
 
     { "name": "The Village", "lat": 52.8300, "lng": -1.3750, "category": "stall" },
-    { "name": "The Village", "lat": 52.8342, "lng": -1.3779, "category": "stall" },
+    { "name": "?", "lat": 52.8342, "lng": -1.3779, "category": "stall" },
     
 
     { "name": "Main Entrance", "lat": 52.8300, "lng": -1.3750, "category": "entrance" },
