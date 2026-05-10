@@ -1,9 +1,68 @@
 {
-  "version": 1,
-  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/downloadamp.png",
+  "version": 2,
+  
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/kteepee.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/downloadamp.png",
+  "messagesFile": "dl_messages.json",
+
+
+  "listings": [
+    { "stage": "Apex", "time": "17:00", "act": "Burlesque Showcase" },
+
+    { "stage": "Apex", "time": "17:30", "act": "Band F1" },
+    { "stage": "Avalanche", "time": "17:30", "act": "Band O1" },
+    { "stage": "Opus", "time": "17:30", "act": "Band E1" },
+
+    { "stage": "Apex", "time": "18:00", "act": "Band F2" },
+    { "stage": "Avalanche", "time": "18:00", "act": "Band O2" },
+    { "stage": "Opus", "time": "18:00", "act": "Band E2" },
+
+    { "stage": "Apex", "time": "18:30", "act": "Band F3" },
+    { "stage": "Avalanche", "time": "18:30", "act": "Band O3" },
+    { "stage": "Opus", "time": "18:30", "act": "Band E3" },
+
+    { "stage": "Apex", "time": "19:00", "act": "Band F4" },
+    { "stage": "Avalanche", "time": "19:00", "act": "Band O4" },
+    { "stage": "Opus", "time": "19:00", "act": "Band E4" },
+
+    { "stage": "Apex", "time": "19:30", "act": "Band F5" },
+    { "stage": "Avalanche", "time": "19:30", "act": "Band O5" },
+    { "stage": "Opus", "time": "19:30", "act": "Band E5" },
+
+    { "stage": "Apex", "time": "20:00", "act": "Band F6" },
+    { "stage": "Avalanche", "time": "20:00", "act": "Band O6" },
+    { "stage": "Opus", "time": "20:00", "act": "Band E6" },
+
+    { "stage": "Apex", "time": "12:00", "act": "Band S1" },
+    { "stage": "Avalanche", "time": "12:00", "act": "Band S2" },
+    { "stage": "Opus", "time": "12:00", "act": "Band S3" },
+    { "stage": "Dogtooth", "time": "12:00", "act": "Band S4" },
+
+    { "stage": "Apex", "time": "12:30", "act": "Band S5" },
+    { "stage": "Avalanche", "time": "12:30", "act": "Band S6" },
+    { "stage": "Opus", "time": "12:30", "act": "Band S7" },
+    { "stage": "The White Lion", "time": "12:30", "act": "Band S8" },
+
+    { "stage": "Apex", "time": "13:00", "act": "Band S9" },
+    { "stage": "Avalanche", "time": "13:00", "act": "Band S10" },
+    { "stage": "Opus", "time": "13:00", "act": "Band S11" },
+    { "stage": "Dogtooth", "time": "13:00", "act": "Band S12" },
+
+    { "stage": "Apex", "time": "23:00", "act": "Saturday Headliner" },
+    { "stage": "Avalanche", "time": "23:00", "act": "Late Band OT" },
+    { "stage": "The Engine", "time": "23:00", "act": "Late Band EN" },
+
+    { "stage": "Apex", "time": "12:00", "act": "Band U1" },
+    { "stage": "Avalanche", "time": "12:00", "act": "Band U2" },
+    { "stage": "Opus", "time": "12:00", "act": "Band U3" },
+    { "stage": "Dogtooth", "time": "12:00", "act": "Band U4" }
+  ],
+  
   "vendors": [
-    { "name": "Main Stage", "lat": 52.8300, "lng": -1.3750, "category": "stage" },
-    { "name": "Second Stage", "lat": 52.8300, "lng": -1.3750, "category": "stage" },
+    { "name": "Apex", "lat": 52.8300, "lng": -1.3750, "category": "stage" },
+    { "name": "Opus", "lat": 52.8300, "lng": -1.3730, "category": "stage" },
+    { "name": "Avalanche", "lat": 52.8300, "lng": -1.3780, "category": "stage" },
+    { "name": "Dogtooth", "lat": 52.8300, "lng": -1.3852, "category": "stage" },
 
     { "name": "Toilet Block A", "lat": 52.8300, "lng": -1.3750, "category": "toilet" },
 
@@ -19,10 +78,39 @@
 
     { "name": "Merch Tent", "lat": 52.8300, "lng": -1.3750, "category": "merch" },
 
-    { "name": "Market Stalls", "lat": 52.8300, "lng": -1.3750, "category": "stall" },
+    { "name": "The Village", "lat": 52.8300, "lng": -1.3750, "category": "stall" },
 
     { "name": "Main Entrance", "lat": 52.8300, "lng": -1.3750, "category": "entrance" },
 
-    { "name": "Camping Area", "lat": 52.8300, "lng": -1.3750, "category": "camp" }
+    { "name": "Purple Camp", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
+    { "name": "Red Camp", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
+    { "name": "RIP Camping", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
+    { "name": "Mini Moshers", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
+    { "name": "Yellow Camp", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
+
+    {
+      "name": "Dragon's Hoard",
+      "lat": 51.981800,
+      "lng": -0.221950,
+      "category": "stall",
+      "partner": true,
+      "icon": "dhoard.png"
+    },
+    {
+      "name": "Andy's Man Club",
+      "lat": 51.981500,
+      "lng": -0.222650,
+      "category": "stall",
+      "partner": true,
+      "icon": "amcico.png"
+    },
+    {
+      "name": "KteePee",
+      "lat": 51.981150,
+      "lng": -0.221900,
+      "category": "stall",
+      "partner": true,
+      "icon": "kteepee.png"
+    }
   ]
 }
