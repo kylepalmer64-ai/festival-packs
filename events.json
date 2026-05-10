@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "events": [
     {
       "id": "mucky_weekender",
@@ -11,7 +11,7 @@
       "id": "download_festival",
       "name": "Download Festival Unofficial",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/download_festival.json?v=4"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/download_festival.json?v=5"
     },
     {
       "id": "balstock",
