@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/downloadamp.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/kteepee.png",
@@ -88,15 +88,7 @@
     { "name": "Mini Moshers", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
     { "name": "Yellow Camp", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
 
-    
-    {
-      "name": "Andy's Man Club",
-      "lat": 51.981500,
-      "lng": -0.222650,
-      "category": "stall",
-      "partner": true,
-      "icon": "amcico.png"
-    },
+  
     {
       "name": "DRAGONS HOARD",
       "lat": 51.981800,
@@ -104,6 +96,14 @@
       "category": "stall",
       "partner": true,
       "icon": "dhhead.png"
+    },
+    {
+      "name": "Andy's Man Club",
+      "lat": 51.981500,
+      "lng": -0.222650,
+      "category": "stall",
+      "partner": true,
+      "icon": "amcico.png"
     },
     {
       "name": "KteePee",
