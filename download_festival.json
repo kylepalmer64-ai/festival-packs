@@ -88,14 +88,7 @@
     { "name": "Mini Moshers", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
     { "name": "Yellow Camp", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
 
-    {
-      "name": "Dragon's Hoard",
-      "lat": 51.981800,
-      "lng": -0.221950,
-      "category": "stall",
-      "partner": true,
-      "icon": "dhoard.png"
-    },
+    
     {
       "name": "Andy's Man Club",
       "lat": 51.981500,
@@ -103,6 +96,14 @@
       "category": "stall",
       "partner": true,
       "icon": "amcico.png"
+    },
+    {
+      "name": "DRAGONS HOARD",
+      "lat": 51.981800,
+      "lng": -0.221950,
+      "category": "stall",
+      "partner": true,
+      "icon": "dhhead.png"
     },
     {
       "name": "KteePee",
