@@ -1,7 +1,7 @@
 {
   "id": "caldicote_messages",
   "name": "Caldicote Messages",
-  "messages":  [
+  "messages": [
     "Welcome to Caldicote Castle — take a moment to get your bearings before you dive in.",
     "Heading toward the main field? Follow the arrow and enjoy the walk through the grounds.",
     "If you're unsure where you are, check the map and look for the castle walls as your landmark.",
@@ -22,6 +22,5 @@
     "If you're heading to the Parking Entrance, follow the corridor markers.",
     "Check the Caldicote website for more events happening this season.",
     "You’re doing great — keep going and enjoy the day."
-
   ]
 }
