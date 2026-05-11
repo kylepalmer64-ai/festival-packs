@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "mapUrl": "https://kteepee.com/festival-packs/ccotmap.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/kteepee.png",
+  "messagesFile": "caldicote_messages.json",
+
+  "listings": [
+    
+    { "stage": "Castle", "time": "11:00", "act": "Police Car Showcase" },
+    { "stage": "Main Field", "time": "12:30", "act": "Salvation Army Band" },
+    { "stage": "Heli Pad", "time": "13:30", "act": "Fire Service Demonstration" },
+    { "stage": "Castle", "time": "15:30", "act": "Paramedic Hands On Experience" },
+  
+  ],
+
+  "vendors": [
+    { "name": "Castle Stage", "lat": 51.5931, "lng": -2.7418, "category": "stage" },
+    { "name": "Main Area Stage", "lat": 51.5929, "lng": -2.7406, "category": "stage" },
+    { "name": "Helipad Zone", "lat": 51.5934, "lng": -2.7437, "category": "stage" },
+
+    { "name": "Toilets – West Field", "lat": 51.5921, "lng": -2.7431, "category": "toilet" },
+
+    { "name": "Caldicote Castle Café", "lat": 51.5928, "lng": -2.7424, "category": "food" },
+    { "name": "Food Area A", "lat": 51.5932, "lng": -2.7409, "category": "food" },
+    { "name": "Food Area B", "lat": 51.5916, "lng": -2.7408, "category": "food" },
+
+    { "name": "Fair Ground", "lat": 51.5933, "lng": -2.7405, "category": "camp" },
+    { "name": "Playground Area", "lat": 51.5918, "lng": -2.7423, "category": "camp" },
+
+    { "name": "Security HQ", "lat": 51.5921, "lng": -2.7407, "category": "security" },
+    { "name": "Medical Point", "lat": 51.5928, "lng": -2.7418, "category": "medical" },
+
+    { "name": "Water Point North", "lat": 51.5931, "lng": -2.7421, "category": "water" },
+    { "name": "Water Point South", "lat": 51.5917, "lng": -2.7423, "category": "water" },
+
+    { "name": "Main Bar", "lat": 51.5926, "lng": -2.7410, "category": "bar" },
+
+    { "name": "Woodland Bar", "lat": 51.5931, "lng": -2.7423, "category": "bar" },
+
+    { "name": "Merch Tent", "lat": 51.5927, "lng": -2.7408, "category": "merch" },
+
+    { "name": "Market Stalls", "lat": 51.5924, "lng": -2.7412, "category": "stall" },
+
+    { "name": "Jim's Ice Cream Van", "lat": 51.5933, "lng": -2.7422, "category": "food" },
+
+    {
+      "name": "Premium – Jane’s Cakes",
+      "lat": 51.5923,
+      "lng": -2.7409,
+      "category": "food",
+      "partner": true,
+      "icon": "burger.png"
+    },
+
+    { "name": "Castle Entrance", "lat": 51.5929, "lng": -2.7415, "category": "entrance" },
+    { "name": "Parking Entrance", "lat": 51.5921, "lng": -2.7443, "category": "entrance" }
+  ]
+}
