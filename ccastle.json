@@ -1,16 +1,14 @@
 {
-  "version": 2,
+  "version": 3,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/ccotmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/kteepee.png",
   "messagesFile": "caldicote_messages.json",
 
   "listings": [
-    
     { "stage": "Castle", "time": "11:00", "act": "Police Car Showcase" },
     { "stage": "Main Field", "time": "12:30", "act": "Salvation Army Band" },
     { "stage": "Heli Pad", "time": "13:30", "act": "Fire Service Demonstration" },
-    { "stage": "Castle", "time": "15:30", "act": "Paramedic Hands On Experience" },
-  
+    { "stage": "Castle", "time": "15:30", "act": "Paramedic Hands On Experience" }
   ],
 
   "vendors": [
@@ -34,11 +32,9 @@
     { "name": "Water Point South", "lat": 51.5917, "lng": -2.7423, "category": "water" },
 
     { "name": "Main Bar", "lat": 51.5926, "lng": -2.7410, "category": "bar" },
-
     { "name": "Woodland Bar", "lat": 51.5931, "lng": -2.7423, "category": "bar" },
 
     { "name": "Merch Tent", "lat": 51.5927, "lng": -2.7408, "category": "merch" },
-
     { "name": "Market Stalls", "lat": 51.5924, "lng": -2.7412, "category": "stall" },
 
     { "name": "Jim's Ice Cream Van", "lat": 51.5933, "lng": -2.7422, "category": "food" },
@@ -54,7 +50,5 @@
       "partner": true,
       "icon": "burger.png"
     }
-
-    
   ]
 }
