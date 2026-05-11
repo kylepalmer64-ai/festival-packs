@@ -1,5 +1,9 @@
 {
   "version": 3,
+
+  "exclusive": true,
+  "eventEndMillis": 1747121400000,
+
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/ccotmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/kteepee.png",
   "messagesFile": "caldicote_messages.json",
@@ -12,18 +16,18 @@
   ],
 
   "vendors": [
-    { "name": "Castle Stage", "lat": 51.5931, "lng": -2.7418, "category": "stage" },
-    { "name": "Main Area Stage", "lat": 51.5929, "lng": -2.7406, "category": "stage" },
-    { "name": "Helipad Zone", "lat": 51.5934, "lng": -2.7437, "category": "stage" },
+    { "name": "Castle Stage", "lat": 51.5931, "lng": -2.7418, "category": "arena" },
+    { "name": "Main Area Stage", "lat": 51.5929, "lng": -2.7406, "category": "performance" },
+    { "name": "Helipad Zone", "lat": 51.5934, "lng": -2.7437, "category": "zone" },
 
-    { "name": "Toilets – West Field", "lat": 51.5921, "lng": -2.7431, "category": "toilet" },
+    { "name": "Toilets – West Field", "lat": 51.5921, "lng": -2.7431, "category": "washroom" },
 
     { "name": "Caldicote Castle Café", "lat": 51.5928, "lng": -2.7424, "category": "food" },
     { "name": "Food Area A", "lat": 51.5932, "lng": -2.7409, "category": "food" },
     { "name": "Food Area B", "lat": 51.5916, "lng": -2.7408, "category": "food" },
 
-    { "name": "Fair Ground", "lat": 51.5933, "lng": -2.7405, "category": "camp" },
-    { "name": "Playground Area", "lat": 51.5918, "lng": -2.7423, "category": "camp" },
+    { "name": "Fair Ground", "lat": 51.5933, "lng": -2.7405, "category": "funfair" },
+    { "name": "Playground Area", "lat": 51.5918, "lng": -2.7423, "category": "kids" },
 
     { "name": "Security HQ", "lat": 51.5921, "lng": -2.7407, "category": "security" },
     { "name": "Medical Point", "lat": 51.5928, "lng": -2.7418, "category": "medical" },
@@ -35,9 +39,9 @@
     { "name": "Woodland Bar", "lat": 51.5931, "lng": -2.7423, "category": "bar" },
 
     { "name": "Merch Tent", "lat": 51.5927, "lng": -2.7408, "category": "merch" },
-    { "name": "Market Stalls", "lat": 51.5924, "lng": -2.7412, "category": "stall" },
+    { "name": "Market Stalls", "lat": 51.5924, "lng": -2.7412, "category": "market" },
 
-    { "name": "Jim's Ice Cream Van", "lat": 51.5933, "lng": -2.7422, "category": "food" },
+    { "name": "Jim's Ice Cream Van", "lat": 51.5933, "lng": -2.7422, "category": "dessert" },
 
     { "name": "Castle Entrance", "lat": 51.5929, "lng": -2.7415, "category": "entrance" },
     { "name": "Parking Entrance", "lat": 51.5921, "lng": -2.7443, "category": "entrance" },
