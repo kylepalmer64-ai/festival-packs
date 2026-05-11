@@ -1,7 +1,7 @@
 {
-  "version": 5,
+  "version": 6,
   
-  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/downloadamp.png",
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/kteepee.png",
   "messagesFile": "dl_messages.json",
 
