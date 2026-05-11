@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/ccotmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/kteepee.png",
   "messagesFile": "caldicote_messages.json",
@@ -43,6 +43,9 @@
 
     { "name": "Jim's Ice Cream Van", "lat": 51.5933, "lng": -2.7422, "category": "food" },
 
+    { "name": "Castle Entrance", "lat": 51.5929, "lng": -2.7415, "category": "entrance" },
+    { "name": "Parking Entrance", "lat": 51.5921, "lng": -2.7443, "category": "entrance" },
+
     {
       "name": "Premium – Jane’s Cakes",
       "lat": 51.5923,
@@ -50,9 +53,8 @@
       "category": "food",
       "partner": true,
       "icon": "burger.png"
-    },
+    }
 
-    { "name": "Castle Entrance", "lat": 51.5929, "lng": -2.7415, "category": "entrance" },
-    { "name": "Parking Entrance", "lat": 51.5921, "lng": -2.7443, "category": "entrance" }
+    
   ]
 }
