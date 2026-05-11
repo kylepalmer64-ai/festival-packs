@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   "events": [
     {
       "id": "mucky_weekender",
@@ -11,7 +11,7 @@
       "id": "ccastle",
       "name": "Caldicote EM Service Day",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/ccastle.json?v=1"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/ccastle.json?v=2"
     },
     {
       "id": "download_festival",
