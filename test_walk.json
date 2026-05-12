@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "mode": "festival",
+
+  "name": "Plot Test",
+  "heroImage": "herts.png",
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/genamp.png",
+
+  "vendors": [
+    {
+      "id": "water_a",
+      "name": "Plot one",
+      "lat": 51.981707, 
+      "lon": -0.221767,
+      "category": "stage"
+    },
+    {
+      "id": "water_b",
+      "name": "Plot two",
+      "lat": 51.981948, 
+      "lon": -0.219672,
+      "category": "stage"
+    },
+    {
+      "id": "water_c",
+      "name": "Plot three",
+      "lat": 51.981784,
+      "lon": -0.217792,
+      "category": "stage"
+    }
+  ]
+}
