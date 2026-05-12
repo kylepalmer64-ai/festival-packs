@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "events": [
     {
       "id": "mucky_weekender",
@@ -7,24 +7,14 @@
       "category": "Festival",
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mucky_weekender.json?v=1"
     },
-    {
-      "id": "ccastle",
-      "name": "Caldicot EM Service Day",
-      "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/ccastle.json?v=5"
-    },
+    
     {
       "id": "download_festival",
       "name": "Download Festival Unofficial",
       "category": "Festival",
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/download_festival.json?v=6"
     },
-    {
-      "id": "balstock",
-      "name": "Balstock Festival",
-      "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/balstockfest.json?v=2"
-    },
+    
     
     {
       "id": "car_meet_north",
