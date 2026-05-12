@@ -8,6 +8,17 @@
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/kteepee.png",
   "messagesFile": "caldicote_messages.json",
 
+  "categoryColors": {
+    "arena": "#AA00FF",
+    "performance": "#00C2FF",
+    "zone": "#FF8800",
+    "washroom": "#4DA6FF",
+    "funfair": "#FF4D4D",
+    "kids": "#2ECC71",
+    "market": "#E67E22",
+    "dessert": "#FF77DD"
+  },
+
   "listings": [
     { "stage": "Castle", "time": "11:00", "act": "Police Car Showcase" },
     { "stage": "Main Field", "time": "12:30", "act": "Salvation Army Band" },
