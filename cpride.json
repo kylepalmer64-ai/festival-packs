@@ -3,7 +3,7 @@
 
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/pridemap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/cprideh.png",
-  "messagesFile": "caldicote_messages.json",
+  "messagesFile": "pride2026_messages.json",
 
   "categoryColors": {
     "parade": "#FF0000",
