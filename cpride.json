@@ -1,12 +1,12 @@
 {
-  "version": 1,
+  "version": 2,
 
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/pridemap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/cprideh.png",
   "messagesFile": "pride2026_messages.json",
 
   "categoryColors": {
-    "parade": "#FF0000",
+    "parade": "#FF8800",
     "performance": "#FF7F00",
     "zone": "#FFFF00",
     "washroom": "#00FF00",
@@ -20,7 +20,7 @@
     "entrance": "#FFFFFF",
     "security": "#333333",
     "medical": "#FF3333",
-    "food": "#FF8800"
+    "food": "#FF0000" 
   },
 
   "listings": [
