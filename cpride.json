@@ -1,0 +1,81 @@
+{
+  "version": 1,
+
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/pridemap.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/cprideh.png",
+  "messagesFile": "caldicote_messages.json",
+
+  "categoryColors": {
+    "parade": "#FF0000",
+    "performance": "#FF7F00",
+    "zone": "#FFFF00",
+    "washroom": "#00FF00",
+    "funfair": "#0000FF",
+    "kids": "#4B0082",
+    "market": "#8B00FF",
+    "dessert": "#FF66CC",
+    "bar": "#00C2FF",
+    "water": "#4DA6FF",
+    "merch": "#FFAA00",
+    "entrance": "#FFFFFF",
+    "security": "#333333",
+    "medical": "#FF3333",
+    "food": "#FF8800"
+  },
+
+  "listings": [
+    { "stage": "Seafront Parade", "time": "11:00", "act": "Pride March & Rainbow Floats" },
+    { "stage": "Pier Stage", "time": "12:30", "act": "Drag Queens of Essex Showcase" },
+    { "stage": "Greensward Arena", "time": "14:00", "act": "LGBTQ+ Choir & Dance Collective" },
+    { "stage": "Pier Stage", "time": "16:00", "act": "DJ Glitterstorm – Pride Party Set" }
+  ],
+
+  "vendors": [
+    { "name": "Seafront Parade Route", "lat": 51.7898, "lng": 1.1552, "category": "parade" },
+    { "name": "Pier Performance Stage", "lat": 51.7890, "lng": 1.1559, "category": "performance" },
+    { "name": "Greensward Activity Zone", "lat": 51.7922, "lng": 1.1541, "category": "zone" },
+
+    { "name": "Washrooms – Pier", "lat": 51.7892, "lng": 1.1563, "category": "washroom" },
+
+    { "name": "Clacton Pier Food Court", "lat": 51.7891, "lng": 1.1560, "category": "food" },
+    { "name": "Seafront Food Village A", "lat": 51.7904, "lng": 1.1548, "category": "food" },
+    { "name": "Seafront Food Village B", "lat": 51.7912, "lng": 1.1539, "category": "food" },
+
+    { "name": "Pavilion Fun Park", "lat": 51.7895, "lng": 1.1580, "category": "funfair" },
+    { "name": "Marine Parade Gardens – Kids Zone", "lat": 51.7915, "lng": 1.1532, "category": "kids" },
+
+    { "name": "Security HQ – Pier Entrance", "lat": 51.7888, "lng": 1.1561, "category": "security" },
+    { "name": "Medical Tent – Greensward", "lat": 51.7920, "lng": 1.1544, "category": "medical" },
+
+    { "name": "Water Point North", "lat": 51.7918, "lng": 1.1540, "category": "water" },
+    { "name": "Water Point South", "lat": 51.7887, "lng": 1.1560, "category": "water" },
+
+    { "name": "Rainbow Bar – Seafront", "lat": 51.7900, "lng": 1.1550, "category": "bar" },
+    { "name": "Pier Cocktail Bar", "lat": 51.7893, "lng": 1.1562, "category": "bar" },
+
+    { "name": "Pride Merch Tent", "lat": 51.7897, "lng": 1.1554, "category": "merch" },
+    { "name": "Market Stalls – Greensward", "lat": 51.7923, "lng": 1.1542, "category": "market" },
+
+    { "name": "Ice Cream – Rainbow Swirl", "lat": 51.7894, "lng": 1.1557, "category": "dessert" },
+
+    { "name": "Main Entrance – Pier", "lat": 51.7889, "lng": 1.1560, "category": "entrance" },
+    { "name": "Train Station Entrance", "lat": 51.7910, "lng": 1.1550, "category": "entrance" },
+
+    {
+      "name": "Essex Cakes",
+      "lat": 51.7902,
+      "lng": 1.1547,
+      "category": "food",
+      "partner": true,
+      "icon": "burger.png"
+    },
+    {
+      "name": "Max Kebabs",
+      "lat": 51.7902,
+      "lng": 1.1549,
+      "category": "food",
+      "partner": true,
+      "icon": "burger.png"
+    }
+  ]
+}
