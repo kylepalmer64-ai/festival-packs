@@ -1,5 +1,5 @@
 {
-  "version": 19,
+  "version": 20,
   "events": [
     {
       "id": "mucky_weekender",
@@ -17,7 +17,7 @@
       "id": "cpride",
       "name": "Clacton Pride 2026",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/cpride.json?v=1"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/cpride.json?v=2"
     },
     
     {
