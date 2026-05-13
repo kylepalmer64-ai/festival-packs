@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/dl26tpmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/kteepee.png",
@@ -296,7 +296,7 @@
     { "name": "Merch Tent", "lat": 52.8300, "lng": -1.3750, "category": "merch" },
 
     { "name": "The Village", "lat": 52.8300, "lng": -1.3750, "category": "stall" },
-    { "name": "ANT!!", "lat": 51.9600, "lng": -0.2602, "category": "stall" },
+    { "name": "Matt's Blade of Grass", "lat": 51.9688, "lng": -0.2594, "category": "stall" },
     
 
     { "name": "Main Entrance", "lat": 52.8300, "lng": -1.3750, "category": "entrance" },
