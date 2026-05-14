@@ -1,9 +1,23 @@
 {
-  "version": 10,
+  "version": 11,
   
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/dl26tpmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/kteepee.png",
   "messagesFile": "dl_messages.json",
+
+  "categoryColors": {
+    "stage": "#8B0000",
+    "washroom": "#5C5C5C",
+    "funfair": "#2F2F2F",
+    "stall": "#660000",
+    "bar": "#1A1A1A",
+    "water": "#444444",
+    "merch": "#AA0000",
+    "entrance": "#777777",
+    "security": "#111111",
+    "medical": "#FF4444",
+    "food": "#CC0000"
+  },
 
 
   "listings": [
