@@ -1,5 +1,5 @@
 {
-  "version": 24,
+  "version": 25,
   "events": [
     {
       "id": "mucky_weekender",
@@ -24,7 +24,7 @@
       "id": "download_festival",
       "name": "Download Festival Unofficial",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/download_festival.json?v=9"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/download_festival.json?v=10"
     },
       
     
