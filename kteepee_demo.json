@@ -31,7 +31,7 @@
     { "stage": "Festivals", "time": "02:00", "act": "Find Anything Offline" },
     { "stage": "Fares", "time": "03:00", "act": "Sponsors" },
     { "stage": "Markets", "time": "04:00", "act": "Vendors" },
-    { "stage": "Seasonal", "time": "05:00", "act": "Visitors" },
+    { "stage": "Seasonal", "time": "05:00", "act": "Visitors" }
   
   ],
   
