@@ -1,8 +1,10 @@
 {
-  "version": 2,
+  "version": 3,
 
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/pridemap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/cprideh.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/pridemap.png",
+  "panelColor": "#55222222",
   "messagesFile": "pride2026_messages.json",
 
   "categoryColors": {
