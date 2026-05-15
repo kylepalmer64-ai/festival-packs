@@ -1,30 +1,30 @@
 {
-  "version": 31,
+  "version": 1,
   "events": [
     {
       "id": "mucky_weekender",
       "name": "Mucky Weekender",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mucky_weekender.json?v=4"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mucky_weekender.json?v=1"
     },
     {
       "id": "test_walk",
       "name": "Plots",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/test_walk.json?v=2"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/test_walk.json?v=1"
     },
     {
       "id": "cpride",
       "name": "Clacton Pride 2026",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/cpride.json?v=3"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/cpride.json?v=1"
     },
     
     {
       "id": "download_festival",
       "name": "Download Festival Unofficial",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/download_festival.json?v=3"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/download_festival.json?v=1"
     },
       
     
