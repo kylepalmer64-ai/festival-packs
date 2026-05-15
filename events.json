@@ -1,11 +1,11 @@
 {
-  "version": 2,
+  "version": 1,
   "events": [
     {
       "id": "mucky_weekender",
       "name": "Mucky Weekender",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mucky_weekender.json?v=2"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mucky_weekender.json?v=1"
     },
     {
       "id": "test_walk",
