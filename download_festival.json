@@ -7,8 +7,8 @@
   "panelColor": "#55222222",
   "premiumHeader": "On Site Legends",
   "listingsHeader": "Let's Rock",
-  "premiumTileColor": "#301934",
-  "premiumTileBorder": "#71706E",
+  "premiumTileColor": "#C0C0C0",
+  "premiumTileBorder": "#C0C0C0",
   "messagesFile": "dl_messages.json",
 
   "categoryColors": {
