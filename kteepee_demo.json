@@ -13,7 +13,7 @@
 
   "categoryColors": {
     "stage": "#99A902",
-    "washroom": "#073316",
+    "toilet": "#073316",
     "funfair": "#569A19",
     "stall": "#1697E4",
     "bar": "#4E7400",
@@ -25,14 +25,12 @@
     "food": "#143445"
   },
 
-
   "listings": [
     { "stage": "Events", "time": "01:00", "act": "KteePee vs Maps" },
     { "stage": "Festivals", "time": "02:00", "act": "Find Anything Offline" },
     { "stage": "Fares", "time": "03:00", "act": "Sponsors" },
     { "stage": "Markets", "time": "04:00", "act": "Vendors" },
     { "stage": "Seasonal", "time": "05:00", "act": "Visitors" }
-  
   ],
   
   "vendors": [
@@ -53,12 +51,12 @@
     { "name": "Water Point 2", "lat": 52.8300, "lng": -1.3759, "category": "water" },
     { "name": "Water Point 3", "lat": 52.8300, "lng": -1.375892, "category": "water" },
 
-    { "name": "Restaraunt", "lat": 52.8300, "lng": -1.3760, "category": "bar" },
+    { "name": "Restaurant", "lat": 52.8300, "lng": -1.3760, "category": "bar" },
     { "name": "Sporta Bar", "lat": 52.8300, "lng": -1.3760, "category": "bar" },
     { "name": "Cocktail Bar", "lat": 52.8300, "lng": -1.3760, "category": "bar" },
 
     { "name": "Food Court", "lat": 52.8300, "lng": -1.3762, "category": "food" },
-    { "name": "Janes Cakes", "lat": 52.8300, "lng": -1.3762, "category": "food" },
+    { "name": "Jane's Cakes", "lat": 52.8300, "lng": -1.3762, "category": "food" },
     { "name": "Bob's Burgers", "lat": 52.8300, "lng": -1.3762, "category": "food" },
     { "name": "Jim's Ice Cream", "lat": 52.8300, "lng": -1.3762, "category": "food" },
 
@@ -67,9 +65,8 @@
 
     { "name": "The Vintage Shop", "lat": 52.8300, "lng": -1.3766, "category": "stall" },
     { "name": "Crazy Braids", "lat": 51.9688, "lng": -0.2594, "category": "stall" },
-    { "name": "Face Paining £2", "lat": 51.9688, "lng": -0.2594, "category": "stall" },
+    { "name": "Face Painting £2", "lat": 51.9688, "lng": -0.2594, "category": "stall" },
     { "name": "On Site Cafe", "lat": 51.9688, "lng": -0.2594, "category": "stall" },
-    
 
     { "name": "Main Entrance", "lat": 52.8300, "lng": -1.3750, "category": "entrance" },
     { "name": "East Entrance", "lat": 52.8300, "lng": -1.3750, "category": "entrance" },
@@ -83,7 +80,6 @@
 
     { "name": "CUSTOM NAMES", "lat": 52.8300, "lng": -1.3750, "category": "Anything" },
 
-  
     {
       "name": "Premium Placements",
       "lat": 51.981800,
