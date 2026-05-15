@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/kteepee.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap2.png",
+  "panelColor": "#143445",
+  "premiumHeader": "Your Title Here",
+  "listingsHeader": "Full Itinerary",
+  "premiumTileColor": "#99A902",
+  "premiumTileBorder": "#99A902",
+  "messagesFile": "kteepee_messages.json",
+
+  "categoryColors": {
+    "stage": "#99A902",
+    "washroom": "#073316",
+    "funfair": "#569A19",
+    "stall": "#1697E4",
+    "bar": "#4E7400",
+    "water": "#000D06",
+    "merch": "#86BC28",
+    "entrance": "#519213",
+    "security": "#265111",
+    "medical": "#0E88D9",
+    "food": "#143445"
+  },
+
+
+  "listings": [
+    { "stage": "Events", "time": "01:00", "act": "KteePee vs Maps" },
+    { "stage": "Festivals", "time": "02:00", "act": "Find Anything Offline" },
+    { "stage": "Fares", "time": "03:00", "act": "Sponsors" },
+    { "stage": "Markets", "time": "04:00", "act": "Vendors" },
+    { "stage": "Seasonal", "time": "05:00", "act": "Visitors" },
+  
+  ],
+  
+  "vendors": [
+    { "name": "Zone A", "lat": 52.8300, "lng": -1.3750, "category": "stage" },
+    { "name": "Area B", "lat": 52.8300, "lng": -1.3730, "category": "stage" },
+    { "name": "Main Stage", "lat": 52.8300, "lng": -1.3780, "category": "stage" },
+    { "name": "Conference Room", "lat": 52.8300, "lng": -1.3852, "category": "stage" },
+
+    { "name": "Toilet Block A", "lat": 52.8300, "lng": -1.3750, "category": "toilet" },
+    { "name": "Toilet Block B", "lat": 52.8300, "lng": -1.3752, "category": "toilet" },
+
+    { "name": "Security Point", "lat": 52.8300, "lng": -1.3754, "category": "security" },
+    { "name": "Security Point", "lat": 52.8300, "lng": -1.3755, "category": "security" },
+
+    { "name": "Medical Tent", "lat": 52.8300, "lng": -1.3756, "category": "medical" },
+
+    { "name": "Water Point 1", "lat": 52.8300, "lng": -1.3758, "category": "water" },
+    { "name": "Water Point 2", "lat": 52.8300, "lng": -1.3759, "category": "water" },
+    { "name": "Water Point 3", "lat": 52.8300, "lng": -1.375892, "category": "water" },
+
+    { "name": "Restaraunt", "lat": 52.8300, "lng": -1.3760, "category": "bar" },
+    { "name": "Sporta Bar", "lat": 52.8300, "lng": -1.3760, "category": "bar" },
+    { "name": "Cocktail Bar", "lat": 52.8300, "lng": -1.3760, "category": "bar" },
+
+    { "name": "Food Court", "lat": 52.8300, "lng": -1.3762, "category": "food" },
+    { "name": "Janes Cakes", "lat": 52.8300, "lng": -1.3762, "category": "food" },
+    { "name": "Bob's Burgers", "lat": 52.8300, "lng": -1.3762, "category": "food" },
+    { "name": "Jim's Ice Cream", "lat": 52.8300, "lng": -1.3762, "category": "food" },
+
+    { "name": "Merch Tent", "lat": 52.8300, "lng": -1.3764, "category": "merch" },
+    { "name": "Click And Collect", "lat": 52.8300, "lng": -1.3764, "category": "merch" },
+
+    { "name": "The Vintage Shop", "lat": 52.8300, "lng": -1.3766, "category": "stall" },
+    { "name": "Crazy Braids", "lat": 51.9688, "lng": -0.2594, "category": "stall" },
+    { "name": "Face Paining £2", "lat": 51.9688, "lng": -0.2594, "category": "stall" },
+    { "name": "On Site Cafe", "lat": 51.9688, "lng": -0.2594, "category": "stall" },
+    
+
+    { "name": "Main Entrance", "lat": 52.8300, "lng": -1.3750, "category": "entrance" },
+    { "name": "East Entrance", "lat": 52.8300, "lng": -1.3750, "category": "entrance" },
+    { "name": "South Entrance", "lat": 52.8300, "lng": -1.3750, "category": "entrance" },
+
+    { "name": "Purple Camp", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
+    { "name": "Red Camp", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
+    { "name": "RIP Camping", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
+    { "name": "Mini Moshers", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
+    { "name": "Yellow Camp", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
+
+    { "name": "CUSTOM NAMES", "lat": 52.8300, "lng": -1.3750, "category": "Anything" },
+
+  
+    {
+      "name": "Premium Placements",
+      "lat": 51.981800,
+      "lng": -0.221950,
+      "category": "stall",
+      "partner": true,
+      "icon": "herts.png"
+    },
+    {
+      "name": "Vendor Visibility",
+      "lat": 51.981500,
+      "lng": -0.222650,
+      "category": "bar",
+      "partner": true,
+      "icon": "burger.png"
+    },
+    {
+      "name": "KteePee",
+      "lat": 51.981150,
+      "lng": -0.221900,
+      "category": "stage",
+      "partner": true,
+      "icon": "kteepee.png"
+    }
+  ]
+}
