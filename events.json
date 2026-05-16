@@ -1,11 +1,11 @@
 {
-  "version": 3,
+  "version": 4,
   "events": [
     {
       "id": "kteepee_demo",
       "name": "KteePee Demo",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/kteepee_demo.json?v=3"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/kteepee_demo.json?v=4"
     },    
     {
       "id": "poles",
