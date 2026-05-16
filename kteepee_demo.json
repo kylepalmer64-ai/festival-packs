@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 5,
   
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/kteepee.png",
@@ -26,6 +26,16 @@
   },
 
   "listings": [
+    
+    { "stage": "Events", "time": "01:00", "act": "KteePee vs Maps" },
+    { "stage": "Festivals", "time": "02:00", "act": "Find Anything Offline" },
+    { "stage": "Fares", "time": "03:00", "act": "Sponsors" },
+    { "stage": "Markets", "time": "04:00", "act": "Vendors" },
+    { "stage": "Seasonal", "time": "05:00", "act": "Visitors" }
+  ],
+  
+  "vendors": [
+
 
     { "name": "London (England)", "lat": 51.5074, "lng": -0.1278, "category": "stage" },
     { "name": "Edinburgh (Scotland)", "lat": 55.9533, "lng": -3.1883, "category": "stage" },
@@ -49,14 +59,6 @@
     { "name": "Brighton Pier", "lat": 50.8167, "lng": -0.1372, "category": "stage" },
     { "name": "York Minster", "lat": 53.9621, "lng": -1.0815, "category": "stage" },
     
-    { "stage": "Events", "time": "01:00", "act": "KteePee vs Maps" },
-    { "stage": "Festivals", "time": "02:00", "act": "Find Anything Offline" },
-    { "stage": "Fares", "time": "03:00", "act": "Sponsors" },
-    { "stage": "Markets", "time": "04:00", "act": "Vendors" },
-    { "stage": "Seasonal", "time": "05:00", "act": "Visitors" }
-  ],
-  
-  "vendors": [
 
     
     { "name": "Zone A", "lat": 52.8300, "lng": -1.3750, "category": "stage" },
