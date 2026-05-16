@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "events": [
     {
       "id": "kteepee_demo",
@@ -26,7 +26,7 @@
       "id": "mucky_weekender",
       "name": "Mucky Weekender",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mucky_weekender.json?v=1"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mucky_weekender.json?v=2"
     },
 
     {
