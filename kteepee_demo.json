@@ -47,7 +47,7 @@
     { "name": "Manchester Town Hall", "lat": 53.4793, "lng": -2.2453, "category": "stage" },
     { "name": "Birmingham Bullring", "lat": 52.4777, "lng": -1.8936, "category": "stage" },
     { "name": "Brighton Pier", "lat": 50.8167, "lng": -0.1372, "category": "stage" },
-    { "name": "York Minster", "lat": 53.9621, "lng": -1.0815, "category": "stage" }
+    { "name": "York Minster", "lat": 53.9621, "lng": -1.0815, "category": "stage" },
     
     { "stage": "Events", "time": "01:00", "act": "KteePee vs Maps" },
     { "stage": "Festivals", "time": "02:00", "act": "Find Anything Offline" },
