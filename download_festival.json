@@ -12,17 +12,17 @@
   "messagesFile": "dl_messages.json",
 
   "categoryColors": {
-    "stage": "#8B0000",
-    "washroom": "#5C5C5C",
-    "funfair": "#2F2F2F",
-    "stall": "#660000",
-    "bar": "#1A1A1A",
-    "water": "#444444",
-    "merch": "#AA0000",
-    "entrance": "#777777",
-    "security": "#111111",
-    "medical": "#FF4444",
-    "food": "#CC0000"
+    "stage": "#B3001B",
+    "washroom": "#4A4A4A",
+    "funfair": "#5A008A",
+    "stall": "#7A1E00",
+    "bar": "#2A1A00",
+    "water": "#005A66",
+    "merch": "#C4005E",
+   "entrance": "#6E6E6E",
+    "security": "#0A0A0A",
+    "medical": "#FF2E2E",
+    "food": "#992600"
   },
 
 
