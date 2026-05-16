@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/kteepee.png",
@@ -26,6 +26,29 @@
   },
 
   "listings": [
+
+    { "name": "London (England)", "lat": 51.5074, "lng": -0.1278, "category": "stage" },
+    { "name": "Edinburgh (Scotland)", "lat": 55.9533, "lng": -3.1883, "category": "stage" },
+    { "name": "Cardiff (Wales)", "lat": 51.4816, "lng": -3.1791, "category": "stage" },
+    { "name": "Belfast (Northern Ireland)", "lat": 54.5973, "lng": -5.9301, "category": "stage" },
+    { "name": "Douglas (Isle of Man)", "lat": 54.1523, "lng": -4.4861, "category": "stage" },
+
+    { "name": "Big Ben", "lat": 51.5007, "lng": -0.1246, "category": "stage" },
+    { "name": "Buckingham Palace", "lat": 51.5014, "lng": -0.1419, "category": "stage" },
+    { "name": "Tower Bridge", "lat": 51.5055, "lng": -0.0754, "category": "stage" },
+    { "name": "Stonehenge", "lat": 51.1789, "lng": -1.8262, "category": "stage" },
+    { "name": "Edinburgh Castle", "lat": 55.9486, "lng": -3.1999, "category": "stage" },
+    { "name": "Cardiff Castle", "lat": 51.4810, "lng": -3.1817, "category": "stage" },
+    { "name": "Giant's Causeway", "lat": 55.2408, "lng": -6.5116, "category": "stage" },
+    { "name": "Angel of the North", "lat": 54.9145, "lng": -1.5899, "category": "stage" },
+    { "name": "Blackpool Tower", "lat": 53.8145, "lng": -3.0550, "category": "stage" },
+    { "name": "The Shard", "lat": 51.5045, "lng": -0.0865, "category": "stage" },
+    { "name": "Liverpool Docks", "lat": 53.4048, "lng": -2.9925, "category": "stage" },
+    { "name": "Manchester Town Hall", "lat": 53.4793, "lng": -2.2453, "category": "stage" },
+    { "name": "Birmingham Bullring", "lat": 52.4777, "lng": -1.8936, "category": "stage" },
+    { "name": "Brighton Pier", "lat": 50.8167, "lng": -0.1372, "category": "stage" },
+    { "name": "York Minster", "lat": 53.9621, "lng": -1.0815, "category": "stage" }
+    
     { "stage": "Events", "time": "01:00", "act": "KteePee vs Maps" },
     { "stage": "Festivals", "time": "02:00", "act": "Find Anything Offline" },
     { "stage": "Fares", "time": "03:00", "act": "Sponsors" },
@@ -34,6 +57,8 @@
   ],
   
   "vendors": [
+
+    
     { "name": "Zone A", "lat": 52.8300, "lng": -1.3750, "category": "stage" },
     { "name": "Area B", "lat": 52.8300, "lng": -1.3730, "category": "stage" },
     { "name": "Main Stage", "lat": 52.8300, "lng": -1.3780, "category": "stage" },
