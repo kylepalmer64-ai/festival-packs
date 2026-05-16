@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "events": [
+    {
+      "id": "kteepee_demo",
+      "name": "KteePee Demo",
+      "category": "Festival",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/kteepee_demo.json?v=1"
+    },  
+    
+    {
+      "id": "balstock",
+      "name": "Balstock Festival",
+      "category": "Festival",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/balstock.json?v=1"
+    },
+
+    {
+      "id": "download_festival",
+      "name": "Download Festival",
+      "category": "Festival",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/download_festival.json?v=1"
+    },
+
+    {
+      "id": "mucky_weekender",
+      "name": "Mucky Weekender",
+      "category": "Festival",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mucky_weekender.json?v=1"
+    },
+
+    {
+      "id": "cpride",
+      "name": "Clacton Pride 2026",
+      "category": "Festival",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/cpride.json?v=1"
+    },
+
+
+    {
+      "id": "continents",
+      "name": "World Continents",
+      "category": "Test",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/continents.json"
+    },
+
+    {
+      "id": "poles",
+      "name": "North & South Pole",
+      "category": "Test",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/poles.json"
+    }
+  
+  ]
+}
