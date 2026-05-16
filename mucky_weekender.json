@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/muckyamp.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/muckyweb.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/statsmap.png",
@@ -61,6 +61,13 @@
       "category": "food",
       "partner": true,
       "icon": "burger.png"
-    }
+    },
+
+    { "name": "Crew HQ", "lat": 51.9792, "lng": -0.2248, "category": "staff" },
+    { "name": "Staff Welfare Tent", "lat": 51.9799, "lng": -0.2239, "category": "staff" },
+    { "name": "Backstage Access Gate", "lat": 51.9804, "lng": -0.2250, "category": "staff" },
+    { "name": "Power & Generators", "lat": 51.9801, "lng": -0.2280, "category": "staff" },
+    { "name": "Radio Pickup Point", "lat": 51.9795, "lng": -0.2243, "category": "staff" },
+    { "name": "Security Briefing Cabin", "lat": 51.9788, "lng": -0.2268, "category": "staff" }
   ]
 }
