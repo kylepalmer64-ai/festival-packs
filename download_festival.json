@@ -296,7 +296,7 @@
   ],
   
   "vendors": [
-    { "name": "Apex", "lat": 52.8300, "lng": -1.3750, "category": "stage" },
+    { "name": "Apex", "lat": 52.8300, "lng": -1.3750, "category": "stage", "icon": "castle.png" },
     { "name": "Opus", "lat": 52.8300, "lng": -1.3730, "category": "stage" },
     { "name": "Avalanche", "lat": 52.8300, "lng": -1.3780, "category": "stage" },
     { "name": "Dogtooth", "lat": 52.8300, "lng": -1.3852, "category": "stage" },
@@ -315,7 +315,7 @@
 
     { "name": "Merch Tent", "lat": 52.8300, "lng": -1.3750, "category": "merch", "icon": "gift.png" },
 
-    { "name": "The Village", "lat": 52.8300, "lng": -1.3750, "category": "stall" },
+    { "name": "The Village", "lat": 52.8300, "lng": -1.3750, "category": "stall", "icon": "bumper.png" },
     { "name": "Matt's Blade of Grass", "lat": 51.9688, "lng": -0.2594, "category": "stall" },
     
 
