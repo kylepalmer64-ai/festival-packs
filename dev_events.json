@@ -1,11 +1,11 @@
 {
-  "version": 7,
+  "version": 8,
   "events": [
     {
       "id": "kteepee_demo",
       "name": "KteePee Demo",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/kteepee_demo.json?v=1"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/kteepee_demo.json?v=6"
     },
     {
       "id": "test_neon",
