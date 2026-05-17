@@ -1,12 +1,18 @@
 {
-  "version": 2,
+  "version": 3,
   "events": [
     {
       "id": "kteepee_demo",
       "name": "KteePee Demo",
       "category": "Festival",
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/kteepee_demo.json?v=1"
-    },  
+    },
+    {
+      "id": "test_neon",
+      "name": "Balstock Festival",
+      "category": "Festival",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/test_neon.json?v=1"
+    }
     
     {
       "id": "balstock",
