@@ -1,7 +1,5 @@
-{
-  "id": "test_neon",
-  "version": 2,
-
+{ 
+  "version": 3,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/kteepee.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/download_panel.png",
