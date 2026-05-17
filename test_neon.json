@@ -1,27 +1,57 @@
 { 
-  "version": 3,
-  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap.png",
-  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/kteepee.png",
-  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/download_panel.png",
-  "panelColor": "#FF6961",
-  "premiumHeader": "On Site Legends",
-  "listingsHeader": "Let's Rock",
-  "premiumTileColor": "#FF00C8",
-  "premiumTileBorder": "#C6FF00",
-  "messagesFile": "dl_messages.json",
+  "version": 4,
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/pfsmap.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/pfsicon.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/pfssplash.png",
+  "panelColor": "#749C91",
+  "premiumHeader": "Let's Party!",
+  "listingsHeader": "Menu & Showtimes",
+  "premiumTileColor": "#749C91",
+  "premiumTileBorder": "#E61A5d",
+  "messagesFile": "pfs_messages.json",
 
   "categoryColors": {
-    "stage": "#00F6FF"
+    "stage": "#00F6FF",
+    "stall": "#00F6FF"
   },
 
   "listings": [
-    { "stage": "Neon Lounge", "time": "10:00", "act": "Bottomless Brunch" },
-    { "stage": "Neon Lounge", "time": "11:00", "act": "Cocktail Masterclass" },
-    { "stage": "Neon Lounge", "time": "12:00", "act": "Garden Games Hour" },
-    { "stage": "Neon Lounge", "time": "13:00", "act": "Chillout DJ Set" }
+    { "stage": "B' Monroe", "time": "14:00", "act": "Bottomless Brunch" },
+    { "stage": "B' Monroe", "time": "16:00", "act": "Cocktail Hour" },
+    { "stage": "B' Monroe", "time": "17:00", "act": "Becky B's Highly Minogue" },
+    { "stage": "The George", "time": "18:00", "act": "After Party Til Late" }
+    { "stage": "The George", "time": "19:00", "act": "AJ's DJ Set" }
   ],
 
   "vendors": [
-    { "name": "Neon Lounge", "lat": 52.9802, "lng": -1.2801, "category": "stage" }
+    { "name": "BridgeTown Monroe", "lat": 51.9469, "lng": -0.2793, "category": "stage" },
+    { "name": "The George", "lat": 51.9469, -0.2794, "lng", "category": "stage" },
+
+  {
+      "name": "Bridgetown Monroe",
+      "lat": 51.946900,
+      "lng": -0.279350,
+      "category": "bar",
+      "partner": true,
+      "icon": "bmonicon.png"
+    },
+    {
+      "name": "The George",
+      "lat": 51.9469,
+      "lng": -0.2794,
+      "category": "bar",
+      "partner": true,
+      "icon": "george.png"
+    },
+    {
+      "name": "KteePee",
+      "lat": 51.981150,
+      "lng": -0.221900,
+      "category": "stall",
+      "partner": true,
+      "icon": "kteepee.png"
+    }
+
+  
   ]
 }
