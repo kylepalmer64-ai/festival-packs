@@ -1,0 +1,29 @@
+{
+  "id": "test_neon",
+  "version": 1,
+
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/kteepee.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/download_panel.png",
+  "panelColor": "#FF6961",
+  "premiumHeader": "On Site Legends",
+  "listingsHeader": "Let's Rock",
+  "premiumTileColor": "#FF00C8",
+  "premiumTileBorder": "#C6FF00",
+  "messagesFile": "dl_messages.json",
+
+  "categoryColors": {
+    "stage": "#00F6FF"
+  },
+
+  "listings": [
+    { "stage": "Neon Lounge", "time": "10:00", "act": "Bottomless Brunch" },
+    { "stage": "Neon Lounge", "time": "11:00", "act": "Cocktail Masterclass" },
+    { "stage": "Neon Lounge", "time": "12:00", "act": "Garden Games Hour" },
+    { "stage": "Neon Lounge", "time": "13:00", "act": "Chillout DJ Set" }
+  ],
+
+  "vendors": [
+    { "name": "Neon Lounge", "lat": 52.8300, "lng": -1.3750, "category": "stage" }
+  ]
+}
