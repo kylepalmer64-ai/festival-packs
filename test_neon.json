@@ -1,5 +1,5 @@
 { 
-  "version": 5,
+  "version": 6,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/pfsmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/pfsicon.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/pfssplash.png",
@@ -24,34 +24,33 @@
   ],
 
   "vendors": [
-    { "name": "BridgeTown Monroe", "lat": 51.9469, "lng": -0.2793, "category": "stage" },
-    { "name": "The George", "lat": 51.9469, -0.2794, "lng", "category": "stage" },
+  { "name": "BridgeTown Monroe", "lat": 51.9469, "lng": -0.2793, "category": "stage" },
+  { "name": "The George", "lat": 51.9469, "lng": -0.2794, "category": "stage" },
 
   {
-      "name": "Bridgetown Monroe",
-      "lat": 51.946900,
-      "lng": -0.279350,
-      "category": "bar",
-      "partner": true,
-      "icon": "bmonicon.png"
-    },
-    {
-      "name": "The George",
-      "lat": 51.9469,
-      "lng": -0.2794,
-      "category": "bar",
-      "partner": true,
-      "icon": "george.png"
-    },
-    {
-      "name": "KteePee",
-      "lat": 51.981150,
-      "lng": -0.221900,
-      "category": "stall",
-      "partner": true,
-      "icon": "kteepee.png"
-    }
-
-  
+    "name": "Bridgetown Monroe",
+    "lat": 51.946900,
+    "lng": -0.279350,
+    "category": "bar",
+    "partner": true,
+    "icon": "bmonicon.png"
+  },
+  {
+    "name": "The George",
+    "lat": 51.9469,
+    "lng": -0.2794,
+    "category": "bar",
+    "partner": true,
+    "icon": "george.png"
+  },
+  {
+    "name": "KteePee",
+    "lat": 51.981150,
+    "lng": -0.221900,
+    "category": "stall",
+    "partner": true,
+    "icon": "kteepee.png"
+  }
+ 
   ]
 }
