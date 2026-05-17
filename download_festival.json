@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/dl26tpmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/kteepee.png",
@@ -303,17 +303,17 @@
 
     { "name": "Toilet Block A", "lat": 52.8300, "lng": -1.3750, "category": "toilet" },
 
-    { "name": "Security HQ", "lat": 52.8300, "lng": -1.3750, "category": "security" },
+    { "name": "Security HQ", "lat": 52.8300, "lng": -1.3750, "category": "security", "icon": "police.png" },
 
-    { "name": "Medical Tent", "lat": 52.8300, "lng": -1.3750, "category": "medical" },
+    { "name": "Medical Tent", "lat": 52.8300, "lng": -1.3750, "category": "medical", "icon": "ambul.png" },
 
     { "name": "Water Point", "lat": 52.8300, "lng": -1.3750, "category": "water" },
 
-    { "name": "Main Bar", "lat": 52.8300, "lng": -1.3750, "category": "bar" },
+    { "name": "Main Bar", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
 
-    { "name": "Food Court", "lat": 52.8300, "lng": -1.3750, "category": "food" },
+    { "name": "Food Court", "lat": 52.8300, "lng": -1.3750, "category": "food", "icon": "burfri.png" },
 
-    { "name": "Merch Tent", "lat": 52.8300, "lng": -1.3750, "category": "merch" },
+    { "name": "Merch Tent", "lat": 52.8300, "lng": -1.3750, "category": "merch", "icon": "gift.png" },
 
     { "name": "The Village", "lat": 52.8300, "lng": -1.3750, "category": "stall" },
     { "name": "Matt's Blade of Grass", "lat": 51.9688, "lng": -0.2594, "category": "stall" },
