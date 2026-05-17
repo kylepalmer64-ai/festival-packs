@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 1,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/muckyamp.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/muckyweb.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/statsmap.png",
@@ -55,13 +55,30 @@
     { "name": "Quiet Camping", "lat": 51.9787, "lng": -0.2271, "category": "camp" },
 
     {
+      "name": "Main Sponsor",
+      "lat": 51.9799,
+      "lng": -0.2252,
+      "category": "food",
+      "partner": true,
+      "icon": "bolt.png"
+    },
+    {
+      "name": "Local Brewer",
+      "lat": 51.9799,
+      "lng": -0.2252,
+      "category": "bar",
+      "partner": true,
+      "icon": "beerr.png"
+    },
+    {
       "name": "Tom’s Mega Burgers",
       "lat": 51.9799,
       "lng": -0.2252,
       "category": "food",
       "partner": true,
-      "icon": "burger.png"
+      "icon": "burg.png"
     },
+    
 
     { "name": "Crew HQ", "lat": 51.9792, "lng": -0.2248, "category": "staff" },
     { "name": "Staff Welfare Tent", "lat": 51.9799, "lng": -0.2239, "category": "staff" },
