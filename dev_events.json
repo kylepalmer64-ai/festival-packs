@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "events": [
     {
       "id": "kteepee_demo",
@@ -11,7 +11,7 @@
       "id": "test_neon",
       "name": "Perfect Storm Events",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/test_neon.json?v=4"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/test_neon.json?v=5"
     },
     
     {
