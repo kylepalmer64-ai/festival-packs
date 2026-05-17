@@ -113,7 +113,7 @@
       "lng": -0.221950,
       "category": "stall",
       "partner": true,
-      "icon": "herts.png"
+      "icon": "burg.png"
     },
     {
       "name": "Vendor Visibility",
@@ -121,7 +121,7 @@
       "lng": -0.222650,
       "category": "bar",
       "partner": true,
-      "icon": "burger.png"
+      "icon": "bolt.png"
     },
     {
       "name": "KteePee",
