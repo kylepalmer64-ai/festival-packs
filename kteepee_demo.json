@@ -1,14 +1,14 @@
 {
-  "version": 5,
+  "version": 6,
   
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/kteepee.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap2.png",
-  "panelColor": "#143445",
+  "panelColor": "#3ED6A2",
   "premiumHeader": "Your Title Here",
   "listingsHeader": "Full Itinerary",
-  "premiumTileColor": "#99A902",
-  "premiumTileBorder": "#99A902",
+  "premiumTileColor": "#0FA36B",
+  "premiumTileBorder": "#0C8F7A",
   "messagesFile": "kteepee_messages.json",
 
   "categoryColors": {
