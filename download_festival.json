@@ -4,7 +4,7 @@
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/dl26tpmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/dlktp.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/dl26fire.png",
-  "panelColor": "#FF6961",
+  "panelColor": "#F0E2B6",
   "premiumHeader": "Find These Legends",
   "listingsHeader": "Let's Rock",
   "premiumTileColor": "#FF2E2E",
@@ -21,7 +21,8 @@
     "entrance": "#6E6E6E",
     "security": "#0A0A0A",
     "medical": "#FF2E2E",
-    "food": "#A8905E"
+    "food": "#A8905E",
+    "entrance": "#F0E2B6"
   },
 
 
