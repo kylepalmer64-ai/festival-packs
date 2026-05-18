@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/dl26tpmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/dlktp.png",
@@ -296,36 +296,65 @@
   
   "vendors": [
     { "name": "Apex", "lat": 52.8300, "lng": -1.3750, "category": "stage", "icon": "castle.png" },
-    { "name": "Opus", "lat": 52.8300, "lng": -1.3730, "category": "stage" },
-    { "name": "Avalanche", "lat": 52.8300, "lng": -1.3780, "category": "stage" },
-    { "name": "Dogtooth", "lat": 52.8300, "lng": -1.3852, "category": "stage" },
+    { "name": "Opus", "lat": 52.8300, "lng": -1.3730, "category": "stage", "icon": "castle.png" },
+    { "name": "Avalanche", "lat": 52.8300, "lng": -1.3780, "category": "stage", "icon": "castle.png" },
+    { "name": "Dogtooth", "lat": 52.8300, "lng": -1.3852, "category": "stage", "icon": "bigtop.png" },
+    { "name": "DJ Booth", "lat": 52.8300, "lng": -1.3852, "category": "stage", "icon": "vinyl.png" },
+    
 
-    { "name": "Toilet Block A", "lat": 52.8300, "lng": -1.3750, "category": "toilet" },
+    { "name": "Water Purple", "lat": 52.8300, "lng": -1.3750, "category": "water" },
+    { "name": "Water White", "lat": 52.8300, "lng": -1.3750, "category": "water" },
+    { "name": "Water Eco", "lat": 52.8300, "lng": -1.3750, "category": "water" },
+    { "name": "Water Black", "lat": 52.8300, "lng": -1.3750, "category": "water" },
+    { "name": "Water Mini Moshers", "lat": 52.8300, "lng": -1.3750, "category": "water" },
+    { "name": "Water Orange", "lat": 52.8300, "lng": -1.3750, "category": "water" },
 
-    { "name": "Security HQ", "lat": 52.8300, "lng": -1.3750, "category": "security", "icon": "police.png" },
-
-    { "name": "Medical Tent", "lat": 52.8300, "lng": -1.3750, "category": "medical", "icon": "ambul.png" },
-
-    { "name": "Water Point", "lat": 52.8300, "lng": -1.3750, "category": "water" },
-
+    { "name": "Cocktail Bar 1", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "ctail.png" },
+    { "name": "Cocktail Bar 2", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "ctail.png" },
+    { "name": "Cocktail Bar 3", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "ctail.png" },
+    { "name": "Arena Bar Right", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
+    { "name": "Arena Bar Back", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
     { "name": "Main Bar", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
 
     { "name": "Food Court", "lat": 52.8300, "lng": -1.3750, "category": "food", "icon": "burfri.png" },
+    { "name": "Food Court", "lat": 52.8300, "lng": -1.3750, "category": "food", "icon": "kebab.png" },
+    { "name": "Food Court", "lat": 52.8300, "lng": -1.3750, "category": "food", "icon": "yorkie.png" },
+    { "name": "Food Court", "lat": 52.8300, "lng": -1.3750, "category": "food", "icon": "fries.png" },
+    { "name": "Ice Cream", "lat": 52.8300, "lng": -1.3750, "category": "food", "icon": "ice.png" },
 
     { "name": "Merch Tent", "lat": 52.8300, "lng": -1.3750, "category": "merch", "icon": "gift.png" },
+    { "name": "Merch Store", "lat": 52.8300, "lng": -1.3750, "category": "merch", "icon": "gift.png" },
 
-    { "name": "The Village", "lat": 52.8300, "lng": -1.3750, "category": "stall", "icon": "bump.png" },
-    { "name": "Matt's Blade of Grass", "lat": 51.9688, "lng": -0.2594, "category": "stall" },
+    { "name": "The Village", "lat": 52.8300, "lng": -1.3750, "category": "stall", "icon": "ferris.png" },
+    { "name": "Fun Fair", "lat": 52.8300, "lng": -1.3750, "category": "stall", "icon": "bump.png" },
     
-
-    { "name": "Main Entrance", "lat": 52.8300, "lng": -1.3750, "category": "entrance" },
+    { "name": "On site shop", "lat": 51.9688, "lng": -0.2594, "category": "stall", "icon": "gift.png" },
+    { "name": "Coffee", "lat": 51.9688, "lng": -0.2594, "category": "stall" },
+    { "name": "Vegan", "lat": 51.9688, "lng": -0.2594, "category": "stall", "icon": "vegan.png" },
+    { "name": "Smoothies", "lat": 51.9688, "lng": -0.2594, "category": "stall" },
+    { "name": "CLothing Stalls", "lat": 51.9688, "lng": -0.2594, "category": "stall", "icon": "gift.png" },
+    { "name": "Parphanelia", "lat": 51.9688, "lng": -0.2594, "category": "stall", "icon": "craft.png" },
 
     { "name": "Purple Camp", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
     { "name": "Red Camp", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
+    { "name": "Yellow Camp", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
+    { "name": "Pink Camp", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
+    { "name": "Black Camp", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
+    { "name": "White Camping", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
+    { "name": "Orange Camp", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
     { "name": "RIP Camping", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
     { "name": "Mini Moshers", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
-    { "name": "Yellow Camp", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
+    { "name": "Eco Camping", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
+    
 
+    { "name": "Toilet Block A", "lat": 52.8300, "lng": -1.3750, "category": "toilet" },    
+
+    { "name": "Medical Tent", "lat": 52.8300, "lng": -1.3750, "category": "medical", "icon": "ambul.png" },
+
+    { "name": "Security HQ", "lat": 52.8300, "lng": -1.3750, "category": "security", "icon": "police.png" },
+
+    
+    { "name": "Main Entrance", "lat": 52.8300, "lng": -1.3750, "category": "entrance" },
   
     {
       "name": "DRAGONS HOARD",
