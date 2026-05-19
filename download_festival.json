@@ -389,12 +389,12 @@
     { "name": "Accessibility Camp B", "lat": 52.8305, "lng": -1.3935, "category": "camp" },
     { "name": "Accessibility Camp B", "lat": 52.8306, "lng": -1.3936, "category": "water" },
     { "name": "Accessibility Camp B", "lat": 52.8295, "lng": -1.3921, "category": "food" },
-    { "name": "WC Accessibility B", "lat": 52.8306, "lng": -1.3936,, "category": "toilet" },
+    { "name": "WC Accessibility B", "lat": 52.8306, "lng": -1.3936, "category": "toilet" },
 
     { "name": "Accessibility Camp A", "lat": 52.8253, "lng": -1.3805, "category": "camp" },
     { "name": "Accessibility Camp A", "lat": 52.8255, "lng": -1.3823, "category": "water" },
     { "name": "Accessibility Camp A", "lat": 52.8255, "lng": -1.3823, "category": "food" },
-    { "name": "WC Accessibility A", "lat": 52.8255, "lng": -1.3823,, "category": "toilet" },
+    { "name": "WC Accessibility A", "lat": 52.8255, "lng": -1.3823, "category": "toilet" },
 
 
     
@@ -402,7 +402,7 @@
     { "name": "Guest Camp", "lat": 52.3945, "lng": -1.3945, "category": "camp" },
     { "name": "Guest Water", "lat": 52.3945, "lng": -1.3945, "category": "water" },
     { "name": "Guest WC", "lat": 52.3945, "lng": -1.3945, "category": "food" },
-    { "name": "WC Access Camp", "lat": 52.3945, "lng": -1.3945,, "category": "toilet" },
+    { "name": "WC Access Camp", "lat": 52.3945, "lng": -1.3945, "category": "toilet" },
 
     { "name": "Black Camp", "lat": 52.8292, "lng": -1.3912, "category": "camp" },
     { "name": "Black Water", "lat": 52.8292, "lng": -1.3912, "category": "water" },
