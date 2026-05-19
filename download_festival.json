@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/dl26tpmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/dlktp.png",
@@ -336,26 +336,119 @@
     { "name": "CLothing Stalls", "lat": 51.9688, "lng": -0.2594, "category": "stall", "icon": "gift.png" },
     { "name": "Parphanelia", "lat": 51.9688, "lng": -0.2594, "category": "stall", "icon": "craft.png" },
 
+
+    { "name": "RIP Camp", "lat": 52.8269, "lng": -1.3883, "category": "camp" },
+    { "name": "RIP Camp", "lat": 52.8269, "lng": -1.3883, "category": "camp" },
+    { "name": "RIP Camp", "lat": 52.8269, "lng": -1.3883, "category": "camp" },
+    { "name": "RIP Camp", "lat": 52.8269, "lng": -1.3883, "category": "camp" },
+    
     { "name": "Purple Camp", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
-    { "name": "Red Camp", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
-    { "name": "Yellow Camp", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
-    { "name": "Pink Camp", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
-    { "name": "Black Camp", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
-    { "name": "White Camping", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
-    { "name": "Orange Camp", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
-    { "name": "RIP Camping", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
-    { "name": "Mini Moshers", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
-    { "name": "Eco Camping", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
+    { "name": "Purple Water", "lat": 52.8336, "lng": -1.3751, "category": "water" },
+    { "name": "Purple Food", "lat": 52.8344, "lng": -1.3757, "category": "food" },
+    { "name": "WC Purple", "lat": 52.8337, "lng": -1.3755, "category": "toilet" },
+    { "name": "Purple Food B", "lat": 52.8353, "lng": -1.3786, "category": "food" },
+    { "name": "WC Purple B", "lat": 52.8368, "lng": -1.3957, "category": "toilet" },
+    { "name": "WC Purple C", "lat": 52.8369, "lng": -1.3767, "category": "toilet" },
+      
+    { "name": "Green Camping", "lat": 52.8372, "lng": -1.3819, "category": "camp" },
+    { "name": "WC Purple B", "lat": 52.8368, "lng": -1.3957, "category": "toilet" },   
+
+    { "name": "Camping Plus", "lat": 52.3852, "lng": -1.3889, "category": "camp" },
+    { "name": "Camp+ Water", "lat": 52.8348, "lng": -1.3846, "category": "water" },
+    { "name": "Camp+ Food", "lat": 52.8348, "lng": -1.3846, "category": "food" },
+    { "name": "WC Camp +", "lat":  52.8348, "lng": -1.3846, "category": "toilet" },
+
+    { "name": "Camping Plus", "lat": 52.8337, "lng": -1.3850, "category": "camp" },
+    { "name": "Camp+ Water", "lat": 52.3850, "lng": -1.3850, "category": "water" },
+    { "name": "Camp+ Food", "lat": 52.8338, "lng": -1.3860, "category": "food" },
+    { "name": "WC Camp +", "lat":  52.3850, "lng": -1.3850, "category": "toilet" },
+
+    { "name": "Orange Camp top", "lat": 52.8327, "lng": -1.3831, "category": "camp" },
+    { "name": "Camping Water", "lat": 52.8327, "lng": -1.3831, "category": "water" },
+    { "name": "Camping Food top", "lat": 52.8327, "lng": -1.3831, "category": "food" },
+    { "name": "WC Camping top +", "lat":  52.8327, "lng": -1.3831, "category": "toilet" },
+
+    { "name": "Orange Camp low", "lat": 52.8327, "lng": -1.3719, "category": "camp" },
+    { "name": "Orange Water low", "lat": 52.8327, "lng": -1.3719, "category": "water" },
+    { "name": "Orange low Food", "lat": 52.8327, "lng": -1.3719, "category": "food" },
+    { "name": "WC Orange low +", "lat":  52.8327, "lng": -1.3719, "category": "toilet" },
+
+    { "name": "Circle Camp", "lat": 52.8345, "lng": -1.8345, "category": "camp" },
+    { "name": "Circle Water", "lat": 52.8345, "lng": -1.8345, "category": "water" },
+    { "name": "Circle Food", "lat": 52.8345, "lng": -1.8345, "category": "food" },
+    { "name": "WC Circle", "lat":  52.8345, "lng": -1.8345, "category": "toilet" },
+
+    { "name": "Red Camp", "lat": 52.8341, "lng": -1.3702, "category": "camp" },
+    { "name": "Red Water", "lat": 52.8341, "lng": -1.3702, "category": "water" },
+    { "name": "Red Food", "lat": 52.8341, "lng": -1.3702, "category": "food" },
+    { "name": "WC Red", "lat":  52.8341, "lng": -1.3702, "category": "toilet" },
+    { "name": "Red Water B", "lat": 52.8370, "lng": -1.3750, "category": "water" },
+    { "name": "Red Food B", "lat": 52.8370, "lng": -1.3750, "category": "food" },
+    { "name": "WC Red B", "lat":  52.8370, "lng": -1.3750, "category": "toilet" },
+
+    { "name": "Accessibility Camp B", "lat": 52.8305, "lng": -1.3935, "category": "camp" },
+    { "name": "Accessibility Camp B", "lat": 52.8306, "lng": -1.3936, "category": "water" },
+    { "name": "Accessibility Camp B", "lat": 52.8295, "lng": -1.3921, "category": "food" },
+    { "name": "WC Accessibility B", "lat": 52.8306, "lng": -1.3936,, "category": "toilet" },
+
+    { "name": "Accessibility Camp A", "lat": 52.8253, "lng": -1.3805, "category": "camp" },
+    { "name": "Accessibility Camp A", "lat": 52.8255, "lng": -1.3823, "category": "water" },
+    { "name": "Accessibility Camp A", "lat": 52.8255, "lng": -1.3823, "category": "food" },
+    { "name": "WC Accessibility A", "lat": 52.8255, "lng": -1.3823,, "category": "toilet" },
+
+
     
 
-    { "name": "Toilet Block A", "lat": 52.8300, "lng": -1.3750, "category": "toilet" },    
+    { "name": "Guest Camp", "lat": 52.3945, "lng": -1.3945, "category": "camp" },
+    { "name": "Guest Water", "lat": 52.3945, "lng": -1.3945, "category": "water" },
+    { "name": "Guest WC", "lat": 52.3945, "lng": -1.3945, "category": "food" },
+    { "name": "WC Access Camp", "lat": 52.3945, "lng": -1.3945,, "category": "toilet" },
+
+    { "name": "Black Camp", "lat": 52.8292, "lng": -1.3912, "category": "camp" },
+    { "name": "Black Water", "lat": 52.8292, "lng": -1.3912, "category": "water" },
+    { "name": "Black Food", "lat": 52.8292, "lng": -1.3912, "category": "food" },
+    { "name": "WC Black", "lat":  52.8286, "lng": -1.3913, "category": "toilet" },
+
+    
+    { "name": "M'Moshers", "lat": 52.8333, "lng": -1.3968, "category": "camp" },
+    { "name": "M'Moshers Food", "lat": 52.8331, "lng": -1.3986, "category": "food" },
+    { "name": "M'Moshers WC", "lat": 52.8331, "lng": -1.3986, "category": "toilet" },
+    { "name": "M'Moshers Water", "lat": 52.8331, "lng": -1.3983, "category": "water" },
+
+    
+    { "name": "Quiet Camp", "lat": 52.8333, "lng": -1.3967, "category": "camp" },
+    { "name": "Quiet Food", "lat": 52.8343, "lng": -1.3984, "category": "food" },
+    { "name": "WC", "lat": 52.8333, "lng": -1.3963, "category": "toilet" },
+    { "name": "Quiet Water", "lat": 52.8341, "lng": -1.3988, "category": "water" },
+
+
+    { "name": "Blue Camp", "lat": 52.8331, "lng": -1.3957, "category": "camp" },
+    { "name": "Blue Food", "lat": 52.8331, "lng": -1.3957, "category": "food" },
+    { "name": "WC", "lat": 52.8331, "lng": -1.3957, "category": "toilet" },
+    { "name": "WC", "lat": 52.8316, "lng": -1.3939, "category": "toilet" },
+    { "name": "Blue Water B", "lat": 52.8310, "lng": -1.3944, "category": "water" },
+    { "name": "Blue Food B", "lat": 52.8310, "lng": -1.3944, "category": "food" },
+    { "name": "WC B", "lat": 52.8310, "lng": -1.3944, "category": "toilet" },
+    
+    { "name": "Campervan+", "lat": 52.8302, "lng": -1.3668, "category": "camp" },
+    { "name": "Ready to Rock", "lat": 52.8309, "lng": -1.3756, "category": "camp" },
+    { "name": "Campervan", "lat": 52.8244, "lng": -1.3676, "category": "camp" },
+
+    { "name": "Arena Block A", "lat": 52.8300, "lng": -1.3750, "category": "toilet" },    
+    { "name": "Arena Block B", "lat": 52.8300, "lng": -1.3750, "category": "toilet" },   
+    { "name": "Arena Block C", "lat": 52.8300, "lng": -1.3750, "category": "toilet" },   
 
     { "name": "Medical Tent", "lat": 52.8300, "lng": -1.3750, "category": "medical", "icon": "ambul.png" },
 
     { "name": "Security HQ", "lat": 52.8300, "lng": -1.3750, "category": "security", "icon": "police.png" },
 
-    
-    { "name": "Main Entrance", "lat": 52.8300, "lng": -1.3750, "category": "entrance" },
+    { "name": "Arena Entrance Camp", "lat": 52.8300, "lng": -1.3750, "category": "entrance" },
+    { "name": "Arena Entrance Day", "lat": 52.8300, "lng": -1.3750, "category": "entrance" },
+    { "name": "Black Gate", "lat": 52.8300, "lng": -1.3750, "category": "entrance" },
+    { "name": "Green Gate", "lat": 52.8300, "lng": -1.3750, "category": "entrance" },
+    { "name": "Purple Gate", "lat": 52.8300, "lng": -1.3750, "category": "entrance" },
+    { "name": "Blue Gate", "lat": 52.8300, "lng": -1.3750, "category": "entrance" },
+    { "name": "Grey Gate", "lat": 52.8300, "lng": -1.3750, "category": "entrance" },
   
     {
       "name": "DRAGONS HOARD",
