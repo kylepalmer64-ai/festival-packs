@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/boomtown_map.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/boomtown_hero.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/boomtown_panel.png",
+  "panelColor": "#222222",
+  "messagesFile": "boomtown_messages.json",
+
+  "listings": [
+    { "stage": "Grand Central", "time": "21:00", "act": "Placeholder Artist" }
+  ],
+
+  "vendors": [
+    { "name": "Grand Central", "lat": 51.0338, "lng": -1.2405, "category": "stage" },
+    { "name": "Nucleus Stage", "lat": 51.0319, "lng": -1.2378, "category": "stage" },
+    { "name": "Copper County", "lat": 51.0351, "lng": -1.2432, "category": "stage" },
+    { "name": "Oldtown", "lat": 51.0344, "lng": -1.2391, "category": "stage" },
+    { "name": "Metropolis", "lat": 51.0327, "lng": -1.2420, "category": "stage" },
+    { "name": "Forest Parties", "lat": 51.0362, "lng": -1.2455, "category": "stage" },
+
+    { "name": "Toilets A", "lat": 51.0332, "lng": -1.2388, "category": "toilet" },
+    { "name": "Toilets B", "lat": 51.0349, "lng": -1.2417, "category": "toilet" },
+    { "name": "Toilets C", "lat": 51.0324, "lng": -1.2430, "category": "toilet" },
+
+    { "name": "Security North", "lat": 51.0360, "lng": -1.2399, "category": "security" },
+    { "name": "Security South", "lat": 51.0310, "lng": -1.2440, "category": "security" },
+
+    { "name": "Medical HQ", "lat": 51.0335, "lng": -1.2410, "category": "medical" },
+
+    { "name": "Water Point A", "lat": 51.0340, "lng": -1.2385, "category": "water" },
+    { "name": "Water Point B", "lat": 51.0329, "lng": -1.2425, "category": "water" },
+
+    { "name": "Main Bar", "lat": 51.0337, "lng": -1.2438, "category": "bar" },
+    { "name": "Forest Bar", "lat": 51.0358, "lng": -1.2449, "category": "bar" },
+
+    { "name": "Food Court A", "lat": 51.0328, "lng": -1.2397, "category": "food" },
+    { "name": "Food Court B", "lat": 51.0350, "lng": -1.2428, "category": "food" },
+
+    { "name": "Merch Village", "lat": 51.0331, "lng": -1.2445, "category": "merch" },
+    { "name": "Craft Market", "lat": 51.0347, "lng": -1.2382, "category": "stall" },
+
+    { "name": "West Gate", "lat": 51.0315, "lng": -1.2460, "category": "entrance" },
+    { "name": "East Gate", "lat": 51.0365, "lng": -1.2370, "category": "entrance" },
+
+    { "name": "Camp A (Hilltop)", "lat": 51.0370, "lng": -1.2415, "category": "camp" },
+    { "name": "Camp B (Valley)", "lat": 51.0318, "lng": -1.2380, "category": "camp" }
+  ],
+} 
+    
