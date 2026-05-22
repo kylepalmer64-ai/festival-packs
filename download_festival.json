@@ -292,7 +292,7 @@
     { "stage": "The Den (District X)", "time": "23:00", "act": "NEXT GEN" },
     { "stage": "The Doghouse (District X)", "time": "23:00", "act": "Kyden Fire" },
     { "stage": "The Den (District X)", "time": "23:30", "act": "Bongo's Bingo" },
-    { "stage": "The Doghouse (District X)", "time": "23:30", "act": "End Of The World Party" },
+    { "stage": "The Doghouse (District X)", "time": "23:30", "act": "End Of The World Party" }
 
   ],
   
