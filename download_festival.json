@@ -342,15 +342,15 @@ r
     { "name": "Green Camping", "lat": 52.8372, "lng": -1.3819, "category": "camp" },
     { "name": "WC Purple B", "lat": 52.8368, "lng": -1.3957, "category": "toilet" },   
 
-    { "name": "Camping Plus", "lat": 52.3852, "lng": -1.3889, "category": "camp" },
+    { "name": "Camping Plus", "lat": 52.8852, "lng": -1.3889, "category": "camp" },
     { "name": "Camp+ Water", "lat": 52.8348, "lng": -1.3846, "category": "water" },
     { "name": "Camp+ Food", "lat": 52.8348, "lng": -1.3846, "category": "food" },
     { "name": "WC Camp +", "lat":  52.8348, "lng": -1.3846, "category": "toilet" },
 
     { "name": "Camping Plus", "lat": 52.8337, "lng": -1.3850, "category": "camp" },
-    { "name": "Camp+ Water", "lat": 52.3850, "lng": -1.3850, "category": "water" },
+    { "name": "Camp+ Water", "lat": 52.8850, "lng": -1.3850, "category": "water" },
     { "name": "Camp+ Food", "lat": 52.8338, "lng": -1.3860, "category": "food" },
-    { "name": "WC Camp +", "lat":  52.3850, "lng": -1.3850, "category": "toilet" },
+    { "name": "WC Camp +", "lat":  52.8850, "lng": -1.3850, "category": "toilet" },
 
     { "name": "Orange Camp top", "lat": 52.8327, "lng": -1.3831, "category": "camp" },
     { "name": "Camping Water", "lat": 52.8327, "lng": -1.3831, "category": "water" },
@@ -388,10 +388,10 @@ r
 
     
 
-    { "name": "Guest Camp", "lat": 52.3945, "lng": -1.3945, "category": "camp" },
-    { "name": "Guest Water", "lat": 52.3945, "lng": -1.3945, "category": "water" },
-    { "name": "Guest WC", "lat": 52.3945, "lng": -1.3945, "category": "food" },
-    { "name": "WC Access Camp", "lat": 52.3945, "lng": -1.3945, "category": "toilet" },
+    { "name": "Guest Camp", "lat": 52.8945, "lng": -1.3945, "category": "camp" },
+    { "name": "Guest Water", "lat": 52.8945, "lng": -1.3945, "category": "water" },
+    { "name": "Guest WC", "lat": 52.8945, "lng": -1.3945, "category": "food" },
+    { "name": "WC Access Camp", "lat": 52.8945, "lng": -1.3945, "category": "toilet" },
 
     { "name": "Black Camp", "lat": 52.8292, "lng": -1.3912, "category": "camp" },
     { "name": "Black Water", "lat": 52.8292, "lng": -1.3912, "category": "water" },
