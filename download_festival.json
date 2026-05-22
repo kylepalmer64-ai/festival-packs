@@ -21,8 +21,7 @@
     "entrance": "#6E6E6E",
     "security": "#0A0A0A",
     "medical": "#FF2E2E",
-    "food": "#A8905E",
-    "entrance": "#F0E2B6"
+    "food": "#A8905E"
   },
 
 
@@ -309,7 +308,7 @@
     { "name": "Arena Bar Right", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
     { "name": "Arena Bar Back", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
     { "name": "Main Bar", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
-r
+    
     { "name": "Food Court", "lat": 52.8300, "lng": -1.3750, "category": "food", "icon": "burfri.png" },
     { "name": "Food Court", "lat": 52.8300, "lng": -1.3750, "category": "food", "icon": "kebab.png" },
     { "name": "Food Court", "lat": 52.8300, "lng": -1.3750, "category": "food", "icon": "yorkie.png" },
