@@ -302,29 +302,21 @@
     { "name": "Dogtooth", "lat": 52.8300, "lng": -1.3852, "category": "stage", "icon": "bigtop.png" },
     { "name": "DJ Booth", "lat": 52.8300, "lng": -1.3852, "category": "stage", "icon": "vinyl.png" },
     
-
-    { "name": "Water Purple", "lat": 52.8300, "lng": -1.3750, "category": "water" },
-    { "name": "Water White", "lat": 52.8300, "lng": -1.3750, "category": "water" },
-    { "name": "Water Eco", "lat": 52.8300, "lng": -1.3750, "category": "water" },
-    { "name": "Water Black", "lat": 52.8300, "lng": -1.3750, "category": "water" },
-    { "name": "Water Mini Moshers", "lat": 52.8300, "lng": -1.3750, "category": "water" },
-    { "name": "Water Orange", "lat": 52.8300, "lng": -1.3750, "category": "water" },
-
     { "name": "Cocktail Bar 1", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "ctail.png" },
     { "name": "Cocktail Bar 2", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "ctail.png" },
     { "name": "Cocktail Bar 3", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "ctail.png" },
     { "name": "Arena Bar Right", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
     { "name": "Arena Bar Back", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
     { "name": "Main Bar", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
-
+r
     { "name": "Food Court", "lat": 52.8300, "lng": -1.3750, "category": "food", "icon": "burfri.png" },
     { "name": "Food Court", "lat": 52.8300, "lng": -1.3750, "category": "food", "icon": "kebab.png" },
     { "name": "Food Court", "lat": 52.8300, "lng": -1.3750, "category": "food", "icon": "yorkie.png" },
     { "name": "Food Court", "lat": 52.8300, "lng": -1.3750, "category": "food", "icon": "fries.png" },
     { "name": "Ice Cream", "lat": 52.8300, "lng": -1.3750, "category": "food", "icon": "ice.png" },
 
-    { "name": "Merch Tent", "lat": 52.8300, "lng": -1.3750, "category": "merch", "icon": "gift.png" },
-    { "name": "Merch Store", "lat": 52.8300, "lng": -1.3750, "category": "merch", "icon": "gift.png" },
+    { "name": "Arena Merch Tent", "lat": 52.8300, "lng": -1.3750, "category": "merch", "icon": "gift.png" },
+    { "name": "Village Merch Store", "lat": 52.8300, "lng": -1.3750, "category": "merch", "icon": "gift.png" },
 
     { "name": "The Village", "lat": 52.8300, "lng": -1.3750, "category": "stall", "icon": "ferris.png" },
     { "name": "Fun Fair", "lat": 52.8300, "lng": -1.3750, "category": "stall", "icon": "bump.png" },
@@ -337,11 +329,7 @@
     { "name": "Parphanelia", "lat": 51.9688, "lng": -0.2594, "category": "stall", "icon": "craft.png" },
 
 
-    { "name": "RIP Camp", "lat": 52.8269, "lng": -1.3883, "category": "camp" },
-    { "name": "RIP Camp", "lat": 52.8269, "lng": -1.3883, "category": "camp" },
-    { "name": "RIP Camp", "lat": 52.8269, "lng": -1.3883, "category": "camp" },
-    { "name": "RIP Camp", "lat": 52.8269, "lng": -1.3883, "category": "camp" },
-    
+    { "name": "RIP Camp", "lat": 52.8269, "lng": -1.3883, "category": "camp" }, 
     { "name": "Purple Camp", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
     { "name": "Purple Water", "lat": 52.8336, "lng": -1.3751, "category": "water" },
     { "name": "Purple Food", "lat": 52.8344, "lng": -1.3757, "category": "food" },
