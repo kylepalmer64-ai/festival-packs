@@ -262,14 +262,6 @@
     { "name": "The Village", "lat": 52.8300, "lng": -1.3750, "category": "stall", "icon": "ferris.png" },
     { "name": "Fun Fair", "lat": 52.8300, "lng": -1.3750, "category": "stall", "icon": "bump.png" },
     
-    { "name": "On site shop", "lat": 51.9688, "lng": -0.2594, "category": "stall", "icon": "gift.png" },
-    { "name": "Coffee", "lat": 51.9688, "lng": -0.2594, "category": "stall" },
-    { "name": "Vegan", "lat": 51.9688, "lng": -0.2594, "category": "stall", "icon": "vegan.png" },
-    { "name": "Smoothies", "lat": 51.9688, "lng": -0.2594, "category": "stall" },
-    { "name": "CLothing Stalls", "lat": 51.9688, "lng": -0.2594, "category": "stall", "icon": "gift.png" },
-    { "name": "Parphanelia", "lat": 51.9688, "lng": -0.2594, "category": "stall", "icon": "craft.png" },
-
-
     { "name": "RIP Camp", "lat": 52.8269, "lng": -1.3883, "category": "camp" }, 
     { "name": "Purple Camp", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
     { "name": "Purple Water", "lat": 52.8336, "lng": -1.3751, "category": "water" },
@@ -279,18 +271,12 @@
     { "name": "WC Purple B", "lat": 52.8368, "lng": -1.3957, "category": "toilet" },
     { "name": "WC Purple C", "lat": 52.8369, "lng": -1.3767, "category": "toilet" },
       
-    { "name": "Green Camping", "lat": 52.8372, "lng": -1.3819, "category": "camp" },
-    { "name": "WC Purple B", "lat": 52.8368, "lng": -1.3957, "category": "toilet" },   
+    { "name": "Green Camping", "lat": 52.8372, "lng": -1.3819, "category": "camp" },   
 
-    { "name": "Camping Plus", "lat": 52.8852, "lng": -1.3889, "category": "camp" },
-    { "name": "Camp+ Water", "lat": 52.8348, "lng": -1.3846, "category": "water" },
-    { "name": "Camp+ Food", "lat": 52.8348, "lng": -1.3846, "category": "food" },
-    { "name": "WC Camp +", "lat":  52.8348, "lng": -1.3846, "category": "toilet" },
-
-    { "name": "Camping Plus", "lat": 52.8337, "lng": -1.3850, "category": "camp" },
-    { "name": "Camp+ Water", "lat": 52.8850, "lng": -1.3850, "category": "water" },
-    { "name": "Camp+ Food", "lat": 52.8338, "lng": -1.3860, "category": "food" },
-    { "name": "WC Camp +", "lat":  52.8850, "lng": -1.3850, "category": "toilet" },
+    { "name": "Camping+", "lat": 52.8297, "lng": -1.3686, "category": "camp" },
+    { "name": "Camping+ Water", "lat": 52.8297, "lng": -1.3686, "category": "water" },
+    { "name": "Camping+ Food", "lat": 52.8297, "lng": -1.3686, "category": "food" },
+    { "name": "WC Camping+", "lat":  52.8297, "lng": -1.3686, "category": "toilet" },
 
     { "name": "Orange Camp top", "lat": 52.8327, "lng": -1.3831, "category": "camp" },
     { "name": "Camping Water", "lat": 52.8327, "lng": -1.3831, "category": "water" },
@@ -302,10 +288,10 @@
     { "name": "Orange low Food", "lat": 52.8327, "lng": -1.3719, "category": "food" },
     { "name": "WC Orange low +", "lat":  52.8327, "lng": -1.3719, "category": "toilet" },
 
-    { "name": "Circle Camp", "lat": 52.8345, "lng": -1.8345, "category": "camp" },
-    { "name": "Circle Water", "lat": 52.8345, "lng": -1.8345, "category": "water" },
-    { "name": "Circle Food", "lat": 52.8345, "lng": -1.8345, "category": "food" },
-    { "name": "WC Circle", "lat":  52.8345, "lng": -1.8345, "category": "toilet" },
+    { "name": "Circle Camp", "lat": 52.8345, "lng": -1.3703, "category": "camp" },
+    { "name": "Circle Water", "lat": 52.8341, "lng": -1.3703, "category": "water" },
+    { "name": "Circle Food", "lat": 52.8341, "lng": -1.3703, "category": "food" },
+    { "name": "WC Circle", "lat":  52.8341, "lng": -1.3703, "category": "toilet" },
 
     { "name": "Red Camp", "lat": 52.8341, "lng": -1.3702, "category": "camp" },
     { "name": "Red Water", "lat": 52.8341, "lng": -1.3702, "category": "water" },
@@ -328,10 +314,10 @@
 
     
 
-    { "name": "Guest Camp", "lat": 52.8945, "lng": -1.3945, "category": "camp" },
-    { "name": "Guest Water", "lat": 52.8945, "lng": -1.3945, "category": "water" },
-    { "name": "Guest WC", "lat": 52.8945, "lng": -1.3945, "category": "food" },
-    { "name": "WC Access Camp", "lat": 52.8945, "lng": -1.3945, "category": "toilet" },
+    { "name": "Guest Camp", "lat": 52.8288, "lng": -1.3916, "category": "camp" },
+    { "name": "Guest Water", "lat": 52.8288, "lng": -1.3916, "category": "water" },
+    { "name": "Guest Food", "lat": 52.8288, "lng": -1.3916, "category": "food" },
+    { "name": "WC Access Camp", "lat": 52.8288, "lng": -1.3916, "category": "toilet" },
 
     { "name": "Black Camp", "lat": 52.8292, "lng": -1.3912, "category": "camp" },
     { "name": "Black Water", "lat": 52.8292, "lng": -1.3912, "category": "water" },
@@ -347,17 +333,16 @@
     
     { "name": "Quiet Camp", "lat": 52.8333, "lng": -1.3967, "category": "camp" },
     { "name": "Quiet Food", "lat": 52.8343, "lng": -1.3984, "category": "food" },
-    { "name": "WC", "lat": 52.8333, "lng": -1.3963, "category": "toilet" },
+    { "name": "WC Quiet", "lat": 52.8333, "lng": -1.3963, "category": "toilet" },
     { "name": "Quiet Water", "lat": 52.8341, "lng": -1.3988, "category": "water" },
 
 
     { "name": "Blue Camp", "lat": 52.8331, "lng": -1.3957, "category": "camp" },
     { "name": "Blue Food", "lat": 52.8331, "lng": -1.3957, "category": "food" },
-    { "name": "WC", "lat": 52.8331, "lng": -1.3957, "category": "toilet" },
-    { "name": "WC", "lat": 52.8316, "lng": -1.3939, "category": "toilet" },
+    { "name": "WC Blue", "lat": 52.8331, "lng": -1.3957, "category": "toilet" },
     { "name": "Blue Water B", "lat": 52.8310, "lng": -1.3944, "category": "water" },
     { "name": "Blue Food B", "lat": 52.8310, "lng": -1.3944, "category": "food" },
-    { "name": "WC B", "lat": 52.8310, "lng": -1.3944, "category": "toilet" },
+    { "name": "WC Blue B", "lat": 52.8310, "lng": -1.3944, "category": "toilet" },
     
     { "name": "Campervan+", "lat": 52.8302, "lng": -1.3668, "category": "camp" },
     { "name": "Ready to Rock", "lat": 52.8309, "lng": -1.3756, "category": "camp" },
@@ -381,24 +366,24 @@
   
     {
       "name": "DRAGONS HOARD",
-      "lat": 51.981800,
-      "lng": -0.221950,
+      "lat": 52.8300,
+      "lng": -1.3750,
       "category": "stall",
       "partner": true,
       "icon": "dhoard.png"
     },
     {
-      "name": "Andy's Man Club",
-      "lat": 51.981500,
-      "lng": -0.222650,
+      "name": "Your Brand Here",
+      "lat": 52.8300,
+      "lng": -1.3750,
       "category": "stall",
       "partner": true,
-      "icon": "amcico.png"
+      "icon": "teepee.png"
     },
     {
       "name": "KteePee",
-      "lat": 51.981150,
-      "lng": -0.221900,
+      "lat": 52.8300,
+      "lng": -1.3750,
       "category": "stall",
       "partner": true,
       "icon": "kteepee.png"
