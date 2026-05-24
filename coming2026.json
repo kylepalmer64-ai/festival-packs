@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "mode": "tourist",
+  "vendors": [
+    {
+      "name": "Download Festival",
+      "lat": 52.8294,
+      "lng": -1.3750,
+      "icon": "festival"
+    },
+    {
+      "name": "Wireless Festival",
+      "lat": 51.5560,
+      "lng": -0.2796,
+      "icon": "festival"
+    },
+    {
+      "name": "BST Hyde Park",
+      "lat": 51.5074,
+      "lng": -0.1657,
+      "icon": "festival"
+    },
+    {
+      "name": "TRNSMT",
+      "lat": 55.8607,
+      "lng": -4.2425,
+      "icon": "festival"
+    },
+    {
+      "name": "Latitude Festival",
+      "lat": 52.3370,
+      "lng": 1.6270,
+      "icon": "festival"
+    },
+    {
+      "name": "Boomtown Fair",
+      "lat": 51.0330,
+      "lng": -1.2480,
+      "icon": "festival"
+    },
+    {
+      "name": "Boardmasters",
+      "lat": 50.4350,
+      "lng": -5.0550,
+      "icon": "festival"
+    },
+    {
+      "name": "Creamfields",
+      "lat": 53.3370,
+      "lng": -2.6030,
+      "icon": "festival"
+    },
+    {
+      "name": "Reading Festival",
+      "lat": 51.4634,
+      "lng": -0.9842,
+      "icon": "festival"
+    },
+    {
+      "name": "Leeds Festival",
+      "lat": 53.8568,
+      "lng": -1.4921,
+      "icon": "festival"
+    },
+    {
+      "name": "Mucky Weekender",
+      "lat": 51.0950,
+      "lng": -1.2050,
+      "icon": "festival"
+    },
+    {
+      "name": "End of the Road",
+      "lat": 51.0560,
+      "lng": -2.2710,
+      "icon": "festival"
+    },
+    {
+      "name": "Outlook UK",
+      "lat": 53.2800,
+      "lng": -2.6000,
+      "icon": "festival"
+    }
+  ]
+}
