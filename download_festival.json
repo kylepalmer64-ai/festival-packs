@@ -8,20 +8,20 @@
   "premiumHeader": "Find These Legends",
   "listingsHeader": "Let's Rock",
   "premiumTileColor": "#FF2E2E",
-  "premiumTileBorder": "#F0E2B6",
+  "premiumTileBorder": "#F6A43A",
   "messagesFile": "dl_messages.json",
 
   "categoryColors": {
-    "stall": "#C4005E",
-    "stage": "#B3001B",
-    "washroom": "#4A4A4A",
-    "funfair": "#5A008A",
-    "bar": "#A8905E",
-    "merch": "#C4005E",
-    "entrance": "#6E6E6E",
+    "stall": "#F6A43A",
+    "stage": "#D98A2E",
+    "washroom": "#C46F22",
+    "funfair": "#A85A1A",
+    "bar": "#8A4514",
+    "merch": "#6A3410",
+    "entrance": "#1A0E06",
     "security": "#0A0A0A",
     "medical": "#FF2E2E",
-    "food": "#A8905E"
+    "food": "#3C1E0C"
   },
 
 
