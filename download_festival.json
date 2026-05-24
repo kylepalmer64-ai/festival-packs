@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/dl26tpmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/dlktp.png",
@@ -237,30 +237,25 @@
   ],
   
   "vendors": [
-    { "name": "Apex", "lat": 52.8300, "lng": -1.3750, "category": "stage", "icon": "castle.png" },
-    { "name": "Opus", "lat": 52.8300, "lng": -1.3730, "category": "stage", "icon": "castle.png" },
-    { "name": "Avalanche", "lat": 52.8300, "lng": -1.3780, "category": "stage", "icon": "castle.png" },
-    { "name": "Dogtooth", "lat": 52.8300, "lng": -1.3852, "category": "stage", "icon": "bigtop.png" },
-    { "name": "DJ Booth", "lat": 52.8300, "lng": -1.3852, "category": "stage", "icon": "vinyl.png" },
-    
-    { "name": "Cocktail Bar 1", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "ctail.png" },
-    { "name": "Cocktail Bar 2", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "ctail.png" },
-    { "name": "Cocktail Bar 3", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "ctail.png" },
+    { "name": "Apex", "lat": 52.8233, "lng": -1.3762, "category": "stage", "icon": "castle.png" },
+    { "name": "Opus", "lat": 52.8260, "lng": -1.3736, "category": "stage", "icon": "castle.png" },
+    { "name": "Avalanche", "lat": 52.8236, "lng": -1.3725, "category": "stage", "icon": "castle.png" },
+    { "name": "Dogtooth", "lat": 52.8264, "lng": -1.3777, "category": "stage", "icon": "bigtop.png" },
+    { "name": "Doghouse", "lat": 52.8330, "lng": -1.3850, "category": "stage", "icon": "bigtop.png" },
+    { "name": "Hellfire", "lat": 52.8251, "lng": -1.3699, "category": "stage", "icon": "vinyl.png" },
+       
     { "name": "Arena Bar Right", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
     { "name": "Arena Bar Back", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
     { "name": "Main Bar", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
     
-    { "name": "Food Court", "lat": 52.8300, "lng": -1.3750, "category": "food", "icon": "burfri.png" },
-    { "name": "Food Court", "lat": 52.8300, "lng": -1.3750, "category": "food", "icon": "kebab.png" },
-    { "name": "Food Court", "lat": 52.8300, "lng": -1.3750, "category": "food", "icon": "yorkie.png" },
-    { "name": "Food Court", "lat": 52.8300, "lng": -1.3750, "category": "food", "icon": "fries.png" },
-    { "name": "Ice Cream", "lat": 52.8300, "lng": -1.3750, "category": "food", "icon": "ice.png" },
+    { "name": "Food Court", "lat": 52.8320, "lng": -1.38610, "category": "food", "icon": "burfri.png" },
+    
 
-    { "name": "Arena Merch Tent", "lat": 52.8300, "lng": -1.3750, "category": "merch", "icon": "gift.png" },
+    { "name": "Arena Merch Tent", "lat": 52.8264, "lng": -1.3777, "category": "merch", "icon": "gift.png" },
     { "name": "Village Merch Store", "lat": 52.8300, "lng": -1.3750, "category": "merch", "icon": "gift.png" },
 
-    { "name": "The Village", "lat": 52.8300, "lng": -1.3750, "category": "stall", "icon": "ferris.png" },
-    { "name": "Fun Fair", "lat": 52.8300, "lng": -1.3750, "category": "stall", "icon": "bump.png" },
+    { "name": "District X", "lat": 52.8320, "lng": -1.3861, "category": "stall", "icon": "ferris.png" },
+    { "name": "Fun Fair", "lat": 52.8320, "lng": -1.3861, "category": "stall", "icon": "bump.png" },
     
     { "name": "RIP Camp", "lat": 52.8269, "lng": -1.3883, "category": "camp" }, 
     { "name": "Purple Camp", "lat": 52.8300, "lng": -1.3750, "category": "camp" },
@@ -348,20 +343,28 @@
     { "name": "Ready to Rock", "lat": 52.8309, "lng": -1.3756, "category": "camp" },
     { "name": "Campervan", "lat": 52.8244, "lng": -1.3676, "category": "camp" },
 
-    { "name": "Arena Block A", "lat": 52.8300, "lng": -1.3750, "category": "toilet" },    
-    { "name": "Arena Block B", "lat": 52.8300, "lng": -1.3750, "category": "toilet" },   
-    { "name": "Arena Block C", "lat": 52.8300, "lng": -1.3750, "category": "toilet" },   
+    { "name": "Arena Left", "lat": 52.8251, "lng": -1.3766, "category": "toilet" },
+    { "name": "Arena Right", "lat": 52.8264, "lng": -1.3725, "category": "toilet" }, 
+    { "name": "Arena Middle", "lat": 52.8251, "lng": -1.3749, "category": "toilet" },
+    { "name": "Arena Apex", "lat": 52.8238, "lng": -1.3753, "category": "toilet" },
+    { "name": "Arena Avalanche Left", "lat": 52.8227, "lng": -1.3734, "category": "toilet" },
+    { "name": "Arena Avalanche Right", "lat": 52.8236, "lng": -1.3713, "category": "toilet" },
+    { "name": "Arena Access Middle", "lat": 52.82497, "lng": -1.3754, "category": "toilet" },
+    { "name": "Arena Access Right", "lat": 52.8265, "lng": -1.3704, "category": "toilet" },
+    { "name": "Arena Access Avalanche", "lat": 52.8230, "lng": -1.3727, "category": "toilet" },
 
-    { "name": "Medical Tent", "lat": 52.8300, "lng": -1.3750, "category": "medical", "icon": "ambul.png" },
 
-    { "name": "Security HQ", "lat": 52.8300, "lng": -1.3750, "category": "security", "icon": "police.png" },
+    { "name": "Arena Access WC A", "lat": 52.8264, "lng": -1.3725, "category": "toilet" },
 
-    { "name": "Arena Entrance Camp", "lat": 52.8300, "lng": -1.3750, "category": "entrance" },
-    { "name": "Arena Entrance Day", "lat": 52.8300, "lng": -1.3750, "category": "entrance" },
-    { "name": "Black Gate", "lat": 52.8300, "lng": -1.3750, "category": "entrance" },
-    { "name": "Green Gate", "lat": 52.8300, "lng": -1.3750, "category": "entrance" },
-    { "name": "Purple Gate", "lat": 52.8300, "lng": -1.3750, "category": "entrance" },
-    { "name": "Blue Gate", "lat": 52.8300, "lng": -1.3750, "category": "entrance" },
+    { "name": "Medical Tent", "lat": 52.8300, "lng": -1.3861, "category": "medical", "icon": "ambul.png" },
+    { "name": "Security HQ", "lat": 52.8295, "lng": -1.3867, "category": "security", "icon": "police.png" },
+
+    { "name": "Arena Entrance Camp", "lat": 52.8279, "lng": -1.3758, "category": "entrance" },
+    { "name": "Arena Entrance Day", "lat": 52.8274, "lng": -1.3768, "category": "entrance" },
+    { "name": "Black Gate", "lat": 52.8265, "lng": -1.3927, "category": "entrance" },
+    { "name": "Green Gate", "lat": 52.8238, "lng": -1.3664, "category": "entrance" },
+    { "name": "Purple Gate", "lat": 52.8240, "lng": -1.3842, "category": "entrance" },
+    { "name": "Blue Gate", "lat": 52.8265, "lng": -1.3631, "category": "entrance" },
     { "name": "Grey Gate", "lat": 52.8300, "lng": -1.3750, "category": "entrance" },
   
     {
