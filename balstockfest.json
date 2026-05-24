@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/balstockpop.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/balstockgee.png",
   "messagesFile": "balstock_messages.json",
@@ -82,7 +82,7 @@
       "lng": -0.18780,
       "category": "bar",
       "partner": true,
-      "icon": "burger.png"
+      "icon": "beerr.png"
     },
     {
       "name": "Sponsor – Local Street Food",
