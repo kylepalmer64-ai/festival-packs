@@ -11,7 +11,7 @@
   "messagesFile": "mucky_weekender_messages.json",
 
   "listings": [
-    { "stage": "Main Stage", "time": "14:00", "act": "DJ Horizon", "day"; "10th Sept" },
+    { "stage": "Main Stage", "time": "14:00", "act": "DJ Horizon", "day": "10th Sept" },
     { "stage": "Main Stage", "time": "16:00", "act": "The Wild Oaks" },
     { "stage": "Main Stage", "time": "19:00", "act": "Sunset Riot" },
 
@@ -21,7 +21,7 @@
     { "stage": "Forest Stage", "time": "17:00", "act": "Neon Valley" },
     { "stage": "Forest Stage", "time": "20:30", "act": "Midnight Echoes" },
 
-    { "stage": "Main Stage", "time": "13:00", "act": "Silver Comet", "day"; "11th Sept" },
+    { "stage": "Main Stage", "time": "13:00", "act": "Silver Comet", "day": "11th Sept" },
     { "stage": "Main Stage", "time": "17:30", "act": "The Breakers" },
     { "stage": "Main Stage", "time": "21:00", "act": "Neon Skyline" },
     
@@ -31,7 +31,7 @@
     { "stage": "Forest Stage", "time": "16:00", "act": "Moonlit Parade" },
     { "stage": "Forest Stage", "time": "22:00", "act": "Shadow Lanterns" },
 
-    { "stage": "Main Stage", "time": "12:30", "act": "Crimson Avenue", "day"; "12th Sept" },
+    { "stage": "Main Stage", "time": "12:30", "act": "Crimson Avenue", "day": "12th Sept" },
     { "stage": "Main Stage", "time": "15:00", "act": "The Northern Lights" },
     { "stage": "Main Stage", "time": "20:00", "act": "Echo Division" },
     
