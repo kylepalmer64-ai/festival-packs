@@ -250,7 +250,7 @@
     { "name": "Arena Bar Back", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
     { "name": "Main Bar", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
     
-    { "name": "Food Court", "lat": 52.8320, "lng": -1.38610, "category": "food", "icon": "burfri.png" },
+    { "name": "Food Court Dist'X", "lat": 52.8320, "lng": -1.38610, "category": "food", "icon": "burfri.png" },
     
 
     { "name": "Arena Merch Tent", "lat": 52.8264, "lng": -1.3777, "category": "merch", "icon": "gift.png" },
@@ -309,8 +309,6 @@
     { "name": "WC Accessibility A", "lat": 52.8255, "lng": -1.3823, "category": "toilet" },
 
 
-    
-
     { "name": "Guest Camp", "lat": 52.8288, "lng": -1.3916, "category": "camp" },
     { "name": "Guest Water", "lat": 52.8288, "lng": -1.3916, "category": "water" },
     { "name": "Guest Food", "lat": 52.8288, "lng": -1.3916, "category": "food" },
@@ -351,13 +349,12 @@
     { "name": "Arena Apex", "lat": 52.8238, "lng": -1.3753, "category": "toilet" },
     { "name": "Arena Avalanche Left", "lat": 52.8227, "lng": -1.3734, "category": "toilet" },
     { "name": "Arena Avalanche Right", "lat": 52.8236, "lng": -1.3713, "category": "toilet" },
-    { "name": "Arena Access Middle", "lat": 52.82497, "lng": -1.3754, "category": "toilet" },
-    { "name": "Arena Access Right", "lat": 52.8265, "lng": -1.3704, "category": "toilet" },
-    { "name": "Arena Access Avalanche", "lat": 52.8230, "lng": -1.3727, "category": "toilet" },
+    { "name": "Arena Acc'bility Middle", "lat": 52.82497, "lng": -1.3754, "category": "toilet" },
+    { "name": "Arena Acc'bility Right", "lat": 52.8265, "lng": -1.3704, "category": "toilet" },
+    { "name": "Arena Acc'bility Avalanche", "lat": 52.8230, "lng": -1.3727, "category": "toilet" },
 
 
-    { "name": "Arena Access WC A", "lat": 52.8264, "lng": -1.3725, "category": "toilet" },
-
+    
     { "name": "Medical Tent", "lat": 52.8300, "lng": -1.3861, "category": "medical", "icon": "ambul.png" },
     { "name": "Security HQ", "lat": 52.8295, "lng": -1.3867, "category": "security", "icon": "police.png" },
 
