@@ -64,7 +64,7 @@
     { "stage": "The Den (District X)", "time": "23:30", "act": "Bongo's Bingo" },
     { "stage": "The Den (District X)", "time": "01:00", "act": "She They Press Play Showcase" },
 
-     { "stage": "The Doghouse (District X)", "time": "10:00", "act": "RockFit", "day": "THURSDAY" },
+    { "stage": "The Doghouse (District X)", "time": "10:00", "act": "RockFit", "day": "THURSDAY" },
     { "stage": "The Doghouse (District X)", "time": "12:00", "act": "Kyden Fire" },
     { "stage": "The Doghouse (District X)", "time": "13:00", "act": "Heavy Metal Sports" },
     { "stage": "The Doghouse (District X)", "time": "14:30", "act": "Kyden Fire" },
@@ -368,17 +368,17 @@
   
     {
       "name": "DRAGONS HOARD",
-      "lat": 52.8300,
-      "lng": -1.3750,
+      "lat": 52.8316,
+      "lng": -1.3863,
       "category": "stall",
       "partner": true,
       "icon": "dhoard.png"
     },
-    
+        
     {
       "name": "KteePee",
-      "lat": 52.8300,
-      "lng": -1.3750,
+      "lat": 52.8341,
+      "lng": -1.3774,
       "category": "stall",
       "partner": true,
       "icon": "kteepee.png"
