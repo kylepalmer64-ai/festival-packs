@@ -315,12 +315,12 @@
     { "name": "Orange Camp top", "lat": 52.8327, "lng": -1.3831, "category": "camp" },
     { "name": "Camping Water", "lat": 52.8327, "lng": -1.3831, "category": "water" },
     { "name": "Camping Food top", "lat": 52.8327, "lng": -1.3831, "category": "food" },
-    { "name": "WC Camping top +", "lat":  52.8327, "lng": -1.3831, "category": "toilet" },
+    { "name": "WC Camping top", "lat":  52.8327, "lng": -1.3831, "category": "toilet" },
 
     { "name": "Orange Camp low", "lat": 52.8327, "lng": -1.3719, "category": "camp" },
     { "name": "Orange Water low", "lat": 52.8327, "lng": -1.3719, "category": "water" },
     { "name": "Orange low Food", "lat": 52.8327, "lng": -1.3719, "category": "food" },
-    { "name": "WC Orange low +", "lat":  52.8327, "lng": -1.3719, "category": "toilet" },
+    { "name": "WC Orange low", "lat":  52.8327, "lng": -1.3719, "category": "toilet" },
 
     { "name": "Circle Camp", "lat": 52.8345, "lng": -1.3703, "category": "camp" },
     { "name": "Circle Water", "lat": 52.8341, "lng": -1.3703, "category": "water" },
@@ -377,7 +377,6 @@
     { "name": "WC Blue B", "lat": 52.8310, "lng": -1.3944, "category": "toilet" },
     
     { "name": "Campervan+", "lat": 52.8302, "lng": -1.3668, "category": "camp" },
-    { "name": "Ready to Rock", "lat": 52.8309, "lng": -1.3756, "category": "camp" },
     { "name": "Campervan", "lat": 52.8244, "lng": -1.3676, "category": "camp" },
 
     { "name": "Arena Left", "lat": 52.8251, "lng": -1.3766, "category": "toilet" },
