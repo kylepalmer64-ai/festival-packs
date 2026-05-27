@@ -267,6 +267,43 @@
     { "name": "Purple Food B", "lat": 52.8353, "lng": -1.3786, "category": "food" },
     { "name": "WC Purple B", "lat": 52.8368, "lng": -1.3957, "category": "toilet" },
     { "name": "WC Purple C", "lat": 52.8369, "lng": -1.3767, "category": "toilet" },
+    { "name": "Park Farm", "lat": 52.8269, "lng": -1.3899, "category": "camp" },
+    { "name": "P'Farm Water A", "lat": 52.8269, "lng": -1.3899, "category": "water" },
+    { "name": "P'Farm WC A", "lat": 52.8269, "lng": -1.3899, "category": "toilet" },
+    { "name": "P'Farm WC B", "lat": 52.8255, "lng": -1.3866, "category": "toilet" },
+    { "name": "P'Farm Water B", "lat": 52.8255, "lng": -1.3866, "category": "water" },
+    { "name": "P'Farm Food", "lat": 52.8255, "lng": -1.3866, "category": "food" },
+
+    { "name": "District 1", "lat": 52.8266, "lng": -1.3848, "category": "camp" },
+    { "name": "Refresh Retreat", "lat": 52.8308, "lng": -1.3835, "category": "camp" },
+    { "name": "Co-op", "lat": 52.8282, "lng": -1.3871, "category": "stall" },
+
+    { "name": "Ready to Rock", "lat": 52.8310, "lng": -1.3756, "category": "camp" },
+    { "name": "R2R WC", "lat": 52.8310, "lng": -1.3776, "category": "toilet" },
+    { "name": "R2R Food", "lat": 52.8310, "lng": -1.3776, "category": "food" },
+    { "name": "R2R Water", "lat": 52.8310, "lng": -1.3776, "category": "water" },
+
+    { "name": "Metal Meadow 1", "lat": 52.8266, "lng": -1.3829, "category": "camp" },
+    { "name": "M'Meadow 1 Water", "lat": 52.8253, "lng": -1.3832, "category": "water" },
+    { "name": "M'Meadow 1 Food", "lat": 52.8244, "lng": -1.3841, "category": "food" },
+    { "name": "M'Meadow 1 WC", "lat": 52.8253, "lng": -1.3832, "category": "toilet" },
+
+    { "name": "Metal Meadow 2", "lat": 52.8240, "lng": -1.3875, "category": "camp" },
+    { "name": "M'Meadow 2 Water A", "lat": 52.8252, "lng": -1.3891, "category": "water" },
+    { "name": "M'Meadow 2 Water B", "lat": 52.8234, "lng": -1.3901, "category": "water" },
+    { "name": "M'Meadow 2 WC A", "lat": 52.8252, "lng": -1.3891, "category": "toilet" },
+    { "name": "M'Meadow 2 WC B", "lat": 52.8234, "lng": -1.3901, "category": "toilet" },
+
+    { "name": "RIP Lite", "lat": 52.8260, "lng": -1.3938, "category": "camp" },
+    { "name": "RIP Lite Water", "lat": 52.8260, "lng": -1.3938, "category": "water" },
+    { "name": "RIP Lite Food", "lat": 52.8260, "lng": -1.3938, "category": "food" },
+
+    { "name": "Sleepy Hollow", "lat": 52.8245, "lng": -1.3869, "category": "camp" },
+    { "name": "S'Hollow Water A", "lat": 52.8245, "lng": -1.3869, "category": "water" },
+    { "name": "S'Hollow Water B", "lat": 52.8230, "lng": -1.3897, "category": "water" },
+    { "name": "S'Hollow WC A", "lat": 52.8245, "lng": -1.3869, "category": "toilet" },
+    { "name": "S'Hollow WC B", "lat": 52.8230, "lng": -1.3897, "category": "toilet" },
+    { "name": "S'Hollow Food", "lat": 52.8245, "lng": -1.3869, "category": "food" },
       
     { "name": "Green Camping", "lat": 52.8372, "lng": -1.3819, "category": "camp" },   
 
