@@ -256,6 +256,10 @@
     { "name": "Arena Merch Tent", "lat": 52.8264, "lng": -1.3777, "category": "merch", "icon": "gift.png" },
     { "name": "Village Merch Store", "lat": 52.8300, "lng": -1.3750, "category": "merch", "icon": "gift.png" },
 
+    { "name": "Fat Frank's - Accessibility", "lat": 52.8264, "lng": -1.3820, "category": "stall", "icon": "ffhero.png" },
+    { "name": "Fat Frank's - East Gate", "lat": 52.8342, "lng": -1.3694, "category": "stall", "icon": "ffhero.png" },
+    { "name": "Fat Frank's - Dist'X", "lat": 52.8287, "lng": -1.3875, "category": "stall", "icon": "ffhero.png" },
+
     
 
     
@@ -412,6 +416,14 @@
       "category": "stall",
       "partner": true,
       "icon": "dhoard.png"
+    },
+    {
+      "name": "FAT FRANK'S CAMPING SHOP",
+      "lat": 52.8287,
+      "lng": -1.3875,
+      "category": "stall",
+      "partner": true,
+      "icon": "ffhero.png"
     },
            
     {
