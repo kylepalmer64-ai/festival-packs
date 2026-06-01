@@ -249,6 +249,15 @@
     { "name": "Dogtooth", "lat": 52.8264, "lng": -1.3777, "category": "stage", "icon": "bigtop.png" },
     { "name": "Doghouse", "lat": 52.8330, "lng": -1.3850, "category": "stage", "icon": "bigtop.png" },
     { "name": "Hellfire", "lat": 52.8251, "lng": -1.3699, "category": "stage", "icon": "vinyl.png" },
+
+    { "name": "Fat Frank's - Accessibility", "lat": 52.8264, "lng": -1.3820, "category": "stall", "icon": "ffhero.png" },
+    { "name": "Fat Frank's - East Gate", "lat": 52.8342, "lng": -1.3694, "category": "stall", "icon": "ffhero.png" },
+    { "name": "Fat Frank's - Dist'X", "lat": 52.8287, "lng": -1.3875, "category": "stall", "icon": "ffhero.png" },
+
+
+
+
+    
        
     { "name": "Arena Bar Right", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
     { "name": "Arena Bar Back", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
@@ -260,17 +269,15 @@
     { "name": "Arena Merch Tent", "lat": 52.8264, "lng": -1.3777, "category": "merch", "icon": "gift.png" },
     { "name": "Village Merch Store", "lat": 52.8300, "lng": -1.3750, "category": "merch", "icon": "gift.png" },
 
-    { "name": "Fat Frank's - Accessibility", "lat": 52.8264, "lng": -1.3820, "category": "stall", "icon": "ffhero.png" },
-    { "name": "Fat Frank's - East Gate", "lat": 52.8342, "lng": -1.3694, "category": "stall", "icon": "ffhero.png" },
-    { "name": "Fat Frank's - Dist'X", "lat": 52.8287, "lng": -1.3875, "category": "stall", "icon": "ffhero.png" },
+    
 
 
 
     { "name": "Festival Samaritans (24hr)", "lat": 52.8287, "lng": -1.3861, "category": "wellbeing" },
-    { "name": "Mall of Death", "lat": 52.8287, "lng": -1.3875, "category": "stall", "icon": "modhero.png" },
+    { "name": "Mall of Death", "lat": 52.8287, "lng": -1.3875, "category": "stall", "icon": "modhero.png", "partner": true },
     { "name": "Maverix - Dist'X", "lat": 52.8287, "lng": -1.3861, "category": "stall" },
     { "name": "Maverix - Arena", "lat": 52.8264, "lng": -1.3777, "category": "stall" },
-    { "name": "Loki Poke", "lat": 52.8264, "lng": -1.3777, "category": "food", "icon": "lkphero.png" },
+    { "name": "Loki Poke", "lat": 52.8264, "lng": -1.3777, "category": "food", "icon": "lkphero.png", "partner": true },
     
     { "name": "District X", "lat": 52.8320, "lng": -1.3861, "category": "stall", "icon": "ferris.png" },
     { "name": "Fun Fair", "lat": 52.8320, "lng": -1.3861, "category": "stall", "icon": "bump.png" },
