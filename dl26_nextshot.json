@@ -441,7 +441,7 @@
     },
     { "name": "MALL OF DEATH", "lat": 52.8287, "lng": -1.3875, "category": "stall", "icon": "modhero.png", "partner": true },
     { "name": "LOKI POKE", "lat": 52.8264, "lng": -1.3777, "category": "food", "icon": "lkphero.png", "partner": true },
-    { "name": "SCARLET IN CHAINS", "lat": 52.8316, "lng": -1.3863, "category": "wellbeing", "icon": "sichero.png", "partner": true },
+    { "name": "SCARLET IN CHAINS", "lat": 52.8316, "lng": -1.3863, "category": "stall", "icon": "sichero.png", "partner": true },
     { "name": "FESTIVAL SAMARITANS (24hr)", "lat": 52.8287, "lng": -1.3861, "category": "wellbeing", "partner": true },
     
     {
