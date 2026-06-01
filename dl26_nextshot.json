@@ -274,10 +274,9 @@
 
 
     { "name": "Festival Samaritans (24hr)", "lat": 52.8287, "lng": -1.3861, "category": "wellbeing" },
-    { "name": "Mall of Death", "lat": 52.8287, "lng": -1.3875, "category": "stall", "icon": "modhero.png", "partner": true },
     { "name": "Maverix - Dist'X", "lat": 52.8287, "lng": -1.3861, "category": "stall" },
     { "name": "Maverix - Arena", "lat": 52.8264, "lng": -1.3777, "category": "stall" },
-    { "name": "Loki Poke", "lat": 52.8264, "lng": -1.3777, "category": "food", "icon": "lkphero.png", "partner": true },
+    
     
     { "name": "District X", "lat": 52.8320, "lng": -1.3861, "category": "stall", "icon": "ferris.png" },
     { "name": "Fun Fair", "lat": 52.8320, "lng": -1.3861, "category": "stall", "icon": "bump.png" },
@@ -441,7 +440,9 @@
       "partner": true,
       "icon": "ffhero.png"
     },
-           
+    { "name": "Mall of Death", "lat": 52.8287, "lng": -1.3875, "category": "stall", "icon": "modhero.png", "partner": true },
+    { "name": "Loki Poke", "lat": 52.8264, "lng": -1.3777, "category": "food", "icon": "lkphero.png", "partner": true },
+    { "name": "Festival Samaritans (24hr)", "lat": 52.8287, "lng": -1.3861, "category": "wellbeing" },
     {
       "name": "KteePee",
       "lat": 52.8341,
