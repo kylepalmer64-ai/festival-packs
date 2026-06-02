@@ -1,0 +1,98 @@
+{
+  "version": 1,
+
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/NEEDIMAGE.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/NEEDHERO.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/NEEDPANELWLLPAPER.png",
+  "panelColor": "#F0E2B6",
+  "premiumHeader": "wELCOME TO MELA",
+  "listingsHeader": "Stage Listings",
+  "premiumTileColor": "#F6A43A",
+  "premiumTileBorder": "#F6A43A",
+  "messagesFile": "NEEDMESSAGES.json",
+
+  "categoryColors": {
+    "stall": "#F6A43A",
+    "stage": "#D98A2E",
+    "washroom": "#C46F22",
+    "funfair": "#A85A1A",
+    "bar": "#8A4514",
+    "merch": "#6A3410",
+    "entrance": "#1A0E06",
+    "security": "#0A0A0A",
+    "medical": "#FF2E2E",
+    "wellbeing": "#8BBE29",
+    "food": "#3C1E0C"
+  },
+
+  "listings": [
+    { "stage": "City Park", "time": "16:00", "act": "Arjun", "day": "WEDNESDAY" },
+    { "stage": "City Park", "time": "18:00", "act": "Joga Jeezy" },
+
+    { "stage": "City Park", "time": "16:30", "act": "Mani Liaqat", "day": "THURSDAY" },
+    { "stage": "City Park", "time": "20:15", "act": "Nish" },
+
+    { "stage": "City Park", "time": "15:20", "act": "Sahara", "day": "FRIDAY" },
+    { "stage": "City Park", "time": "18:55", "act": "D8" },
+    { "stage": "Centenary Square", "time": "20:50", "act": "Saloni" },
+
+    { "stage": "Centenary Square", "time": "14:10", "act": "Bhangra Smash Up", "day": "SATURDAY" },
+    { "stage": "Centenary Square", "time": "19:40", "act": "Shide Boss" },
+    { "stage": "Centenary Square", "time": "19:35", "act": "Guns N' Roses" },
+
+    { "stage": "City Park", "time": "19:25", "act": "F1rstman", "day": "SUNDAY" },
+    { "stage": "Centenary Square", "time": "21:25", "act": "Mumzy Stanger" }
+  ],
+
+  "vendors": [
+    { "name": "City Park", "lat": 53.7923, "lng": -1.7539, "category": "stage", "icon": "bigtop.png" },
+    { "name": "Centenary Square", "lat": 53.7923, "lng": -1.7539, "category": "stage", "icon": "bigtop.png" },
+    
+
+    { "name": "City Park Bar", "lat": 53.7923, "lng": -1.7539, "category": "bar", "icon": "beerr.png" },
+    { "name": "Centenary Square", "lat": 53.7923, "lng": -1.7539, "category": "bar", "icon": "beerr.png" },
+    { "name": "Food Court", "lat": 53.7923, "lng": -1.7539, "category": "food", "icon": "burfri.png" },
+    { "name": "Mela Merch", "lat": 53.7923, "lng": -1.7539, "category": "merch", "icon": "gift.png" },
+
+    { "name": "Dav's Deli", "lat": 53.7923, "lng": -1.7539, "category": "food" },
+    { "name": "Prita's Cuisine", "lat": 53.7923, "lng": -1.7539, "category": "food" },
+    { "name": "Glorious Kebabs", "lat": 53.7923, "lng": -1.7539, "category": "food" },
+
+    { "name": "Medical Tent", "lat": 53.7923, "lng": -1.7539, "category": "medical", "icon": "ambul.png" },
+    { "name": "Security HQ", "lat": 53.7923, "lng": -1.7539, "category": "security", "icon": "police.png" },
+
+    { "name": "Main Entry", "lat": 53.7923, "lng": -1.7539, "category": "entrance" },
+
+    {
+      "name": "Lyca",
+      "lat": 53.7923,
+      "lng": -1.7539,
+      "category": "stall",
+      "partner": true
+      
+    },
+    {
+      "name": "Avant",
+      "lat": 53.7923,
+      "lng": -1.7539,
+      "category": "stall",
+      "partner": true
+      
+    },
+    {
+      "name": "Priti's Cuisine",
+      "lat": 53.7923,
+      "lng": -1.7539,
+      "category": "stall",
+      "partner": true
+    },
+    {
+      "name": "KteePee",
+      "lat": 53.7923,
+      "lng": -1.7539,
+      "category": "stall",
+      "partner": true,
+      "icon": "kteepee.png"
+    }
+  ]
+}
