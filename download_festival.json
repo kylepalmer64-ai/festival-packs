@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 4,
   
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/dl26tpmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/dlktp.png",
@@ -21,6 +21,7 @@
     "entrance": "#1A0E06",
     "security": "#0A0A0A",
     "medical": "#FF2E2E",
+    "wellbeing": "#8BBE29",
     "food": "#3C1E0C"
   },
 
@@ -237,6 +238,9 @@
     { "stage": "Apex", "time": "21:25", "act": "Linkin Park" },
     { "stage": "The Den (District X)", "time": "00:30", "act": "Sophie K" }
   ],
+
+
+    
   
   "vendors": [
     { "name": "Apex", "lat": 52.8233, "lng": -1.3762, "category": "stage", "icon": "castle.png" },
@@ -245,23 +249,34 @@
     { "name": "Dogtooth", "lat": 52.8264, "lng": -1.3777, "category": "stage", "icon": "bigtop.png" },
     { "name": "Doghouse", "lat": 52.8330, "lng": -1.3850, "category": "stage", "icon": "bigtop.png" },
     { "name": "Hellfire", "lat": 52.8251, "lng": -1.3699, "category": "stage", "icon": "vinyl.png" },
-       
-    { "name": "Arena Bar Right", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
-    { "name": "Arena Bar Back", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
-    { "name": "Main Bar", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
-    
-    { "name": "Food Court Dist'X", "lat": 52.8320, "lng": -1.38610, "category": "food", "icon": "burfri.png" },
-    
-
-    { "name": "Arena Merch Tent", "lat": 52.8264, "lng": -1.3777, "category": "merch", "icon": "gift.png" },
-    { "name": "Village Merch Store", "lat": 52.8300, "lng": -1.3750, "category": "merch", "icon": "gift.png" },
 
     { "name": "Fat Frank's - Accessibility", "lat": 52.8264, "lng": -1.3820, "category": "stall", "icon": "ffhero.png" },
     { "name": "Fat Frank's - East Gate", "lat": 52.8342, "lng": -1.3694, "category": "stall", "icon": "ffhero.png" },
     { "name": "Fat Frank's - Dist'X", "lat": 52.8287, "lng": -1.3875, "category": "stall", "icon": "ffhero.png" },
 
+
+
+
+    
+       
+    { "name": "Arena Bar Right", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
+    { "name": "Arena Bar Back", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
+    { "name": "Main Bar", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
+    
+    { "name": "Food Court Dist'X", "lat": 52.8320, "lng": -1.3861, "category": "food", "icon": "burfri.png" },
     
 
+    { "name": "Arena Merch Tent", "lat": 52.8264, "lng": -1.3777, "category": "merch", "icon": "gift.png" },
+    { "name": "Village Merch Store", "lat": 52.8300, "lng": -1.3750, "category": "merch", "icon": "gift.png" },
+
+    
+
+
+    { "name": "Scarlet In Chains - Dist'X", "lat": 52.8287, "lng": -1.3861, "category": "stall", "icon": "sichero.png" },
+    { "name": "Maverix - Dist'X", "lat": 52.8287, "lng": -1.3861, "category": "stall" },
+    { "name": "Maverix - Arena", "lat": 52.8264, "lng": -1.3777, "category": "stall" },
+    { "name": "Mall of Death", "lat": 52.8251, "lng": -1.3716, "category": "stall", "icon": "modhero.png" },
+    
     
     { "name": "District X", "lat": 52.8320, "lng": -1.3861, "category": "stall", "icon": "ferris.png" },
     { "name": "Fun Fair", "lat": 52.8320, "lng": -1.3861, "category": "stall", "icon": "bump.png" },
@@ -425,7 +440,16 @@
       "partner": true,
       "icon": "ffhero.png"
     },
-           
+    { "name": "MALL OF DEATH", "lat": 52.8318, "lng": -1.3868, "category": "stall", "icon": "modhero.png", "partner": true },
+    { "name": "LOKI POKE", "lat": 52.8264, "lng": -1.3777, "category": "food", "icon": "lkphero.png", "partner": true },
+    { "name": "SCARLET IN CHAINS", "lat": 52.8316, "lng": -1.3863, "category": "stall", "icon": "sichero.png", "partner": true },
+    { "name": "RANV'S RASOI", "lat": 52.8236, "lng": -1.3725, "category": "food", "icon": "rnvhero.png", "partner": true },
+    { "name": "NOCTIFERA CREATIONS", "lat": 52.8236, "lng": -1.3725, "category": "stall", "icon": "ncthero.png", "partner": true },
+    { "name": "RnR TOASTIES", "lat": 52.8287, "lng": -1.3861, "category": "food", "icon": "rnrhero.png", "partner": true },
+    { "name": "FESTIVAL SAMARITANS (24hr)", "lat": 52.8287, "lng": -1.3861, "category": "wellbeing", "icon": "samhero.png", "partner": true },
+    
+    
+        
     {
       "name": "KteePee",
       "lat": 52.8341,
