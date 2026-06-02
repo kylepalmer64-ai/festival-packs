@@ -443,7 +443,7 @@
     { "name": "LOKI POKE", "lat": 52.8264, "lng": -1.3777, "category": "food", "icon": "lkphero.png", "partner": true },
     { "name": "SCARLET IN CHAINS", "lat": 52.8316, "lng": -1.3863, "category": "stall", "icon": "sichero.png", "partner": true },
     { "name": "RANV'S RASOI", "lat": 52.8236, "lng": -1.3725, "category": "food", "icon": "rnvhero.png", "partner": true },
-    { "name": "Noctifera Creations", "lat": 52.8236, "lng": -1.3725, "category": "food", "icon": "ncthero.png", "partner": true },
+    { "name": "Noctifera Creations", "lat": 52.8236, "lng": -1.3725, "category": "stall", "icon": "ncthero.png", "partner": true },
     { "name": "FESTIVAL SAMARITANS (24hr)", "lat": 52.8287, "lng": -1.3861, "category": "wellbeing", "icon": "samhero.png", "partner": true },
     
         
