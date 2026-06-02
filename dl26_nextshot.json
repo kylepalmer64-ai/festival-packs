@@ -272,7 +272,7 @@
     
 
 
-    { "name": "Scarlet In Chains - Dist'X", "lat": 52.8287, "lng": -1.3861, "category": "stall", "icon": "sichero.png", "partner": true },
+    { "name": "Scarlet In Chains - Dist'X", "lat": 52.8287, "lng": -1.3861, "category": "stall", "icon": "sichero.png" },
     { "name": "Maverix - Dist'X", "lat": 52.8287, "lng": -1.3861, "category": "stall" },
     { "name": "Maverix - Arena", "lat": 52.8264, "lng": -1.3777, "category": "stall" },
     
