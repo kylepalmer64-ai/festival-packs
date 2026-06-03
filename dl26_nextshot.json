@@ -446,6 +446,7 @@
     { "name": "RANV'S RASOI", "lat": 52.8236, "lng": -1.3725, "category": "food", "icon": "rnvhero.png", "partner": true },
     { "name": "NOCTIFERA CREATIONS", "lat": 52.8236, "lng": -1.3725, "category": "stall", "icon": "ncthero.png", "partner": true },
     { "name": "RnR TOASTIES", "lat": 52.8287, "lng": -1.3861, "category": "food", "icon": "rnrhero.png", "partner": true },
+    { "name": "GAME & FLAMES", "lat": 52.8287, "lng": -1.3875, "category": "food", "icon": "gnfhero.png", "partner": true },
     { "name": "FESTIVAL SAMARITANS (24hr)", "lat": 52.8287, "lng": -1.3861, "category": "wellbeing", "icon": "samhero.png", "partner": true },
     
     
@@ -455,7 +456,6 @@
       "lat": 52.8341,
       "lng": -1.3774,
       "category": "stall",
-      "partner": true,
       "icon": "kteepee.png"
     }
   ]
