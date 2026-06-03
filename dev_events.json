@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "events": [
     {
       "id": "kteepee_demo",
@@ -17,7 +17,7 @@
       "id": "bfcmela26",
       "name": "BFC Mela 2026 Festival",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/bfcmela26.json?v=1"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/bfcmela26.json?v=2"
     },
     {
       "id": "test_neon",
