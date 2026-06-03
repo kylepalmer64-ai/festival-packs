@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
 
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/bfcmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/bfchero.png",
@@ -12,17 +12,17 @@
   "messagesFile": "bfcmela_messages.json",
 
   "categoryColors": {
-    "stall": "#F4C542", 
-    "stage": "#E89A00",
-    "toilet": "#4AC7E8",
-    "funfair": "#D94ED1",
-    "bar": "#B82E2E",
-    "merch": "#6A4AE8",
-    "entrance": "#2E1A47",
-    "security": "#A0A0A0",
-    "medical": "#FF3B5C",
-    "wellbeing": "#3CCB7F",
-    "food": "#E86A2E"
+     "stall": "#FFD84D",
+      "stage": "#FF9A3C",
+      "toilet": "#4ED9FF",
+      "funfair": "#FF4EDB",
+      "bar": "#E63946",
+      "merch": "#7C4BFF",
+      "entrance": "#2D1B69",
+      "security": "#C8C8D0",
+      "medical": "#FF4A6E",
+      "wellbeing": "#2EDB8A",
+      "food": "#FF7A3C"
   },
 
   "listings": [
