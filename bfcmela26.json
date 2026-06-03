@@ -12,17 +12,17 @@
   "messagesFile": "bfcmela_messages.json",
 
   "categoryColors": {
-    "stall": "#F8B84C",
-    "stage": "#E59A3A",
-    "toilet": "#C97B2E",
-    "funfair": "#B06224",
-    "bar": "#944E1A",
-    "merch": "#7A3C14",
-    "entrance": "#2A1A10",
-    "security": "#1A1A1A",
-    "medical": "#FF4A4A",
-    "wellbeing": "#9FD94A",
-    "food": "#4E2814"
+    "stall": "#F4C542", 
+    "stage": "#E89A00",
+    "toilet": "#4AC7E8",
+    "funfair": "#D94ED1",
+    "bar": "#B82E2E",
+    "merch": "#6A4AE8",
+    "entrance": "#2E1A47",
+    "security": "#A0A0A0",
+    "medical": "#FF3B5C",
+    "wellbeing": "#3CCB7F",
+    "food": "#E86A2E"
   },
 
   "listings": [
