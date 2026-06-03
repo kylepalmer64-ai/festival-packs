@@ -7,14 +7,14 @@
   "panelColor": "#F0E2B6",
   "premiumHeader": "WELCOME TO MELA",
   "listingsHeader": "Stage Listings",
-  "premiumTileColor": "#F6A43A",
-  "premiumTileBorder": "#F6A43A",
+  "premiumTileColor": "#7C4BFF",
+  "premiumTileBorder": "#7C4BFF",
   "messagesFile": "bfcmela_messages.json",
 
   "categoryColors": {
      "stall": "#FFD84D",
       "stage": "#FF9A3C",
-      "toilet": "#4ED9FF",
+      "WC": "#4ED9FF",
       "funfair": "#FF4EDB",
       "bar": "#E63946",
       "merch": "#7C4BFF",
@@ -57,6 +57,9 @@
     { "name": "Dav's Deli", "lat": 53.7923, "lng": -1.7539, "category": "food" },
     { "name": "Prita's Cuisine", "lat": 53.7923, "lng": -1.7539, "category": "food" },
     { "name": "Glorious Kebabs", "lat": 53.7923, "lng": -1.7539, "category": "food" },
+
+    { "name": "WC Female", "lat": 53.7923, "lng": -1.7539, "category": "WC" },
+    { "name": "Wc Male", "lat": 53.7923, "lng": -1.7539, "category": "WC", },
 
     { "name": "Medical Tent", "lat": 53.7923, "lng": -1.7539, "category": "medical", "icon": "ambul.png" },
     { "name": "Security HQ", "lat": 53.7923, "lng": -1.7539, "category": "security", "icon": "police.png" },
