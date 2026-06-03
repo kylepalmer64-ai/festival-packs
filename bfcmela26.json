@@ -59,7 +59,7 @@
     { "name": "Glorious Kebabs", "lat": 53.7923, "lng": -1.7539, "category": "food" },
 
     { "name": "WC Female", "lat": 53.7923, "lng": -1.7539, "category": "WC" },
-    { "name": "Wc Male", "lat": 53.7923, "lng": -1.7539, "category": "WC", },
+    { "name": "Wc Male", "lat": 53.7923, "lng": -1.7539, "category": "WC" },
 
     { "name": "Medical Tent", "lat": 53.7923, "lng": -1.7539, "category": "medical", "icon": "ambul.png" },
     { "name": "Security HQ", "lat": 53.7923, "lng": -1.7539, "category": "security", "icon": "police.png" },
