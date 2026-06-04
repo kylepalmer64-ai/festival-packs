@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/dl26tpmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/dlktp.png",
@@ -448,15 +448,6 @@
     { "name": "RnR TOASTIES", "lat": 52.8287, "lng": -1.3861, "category": "food", "icon": "rnrhero.png", "partner": true },
     { "name": "GAME & FLAMES", "lat": 52.8287, "lng": -1.3875, "category": "food", "icon": "gnfhero.png", "partner": true },
     { "name": "FESTIVAL SAMARITANS (24hr)", "lat": 52.8287, "lng": -1.3861, "category": "wellbeing", "icon": "samhero.png", "partner": true },
-    
-    
-        
-    {
-      "name": "KteePee",
-      "lat": 52.8341,
-      "lng": -1.3774,
-      "category": "stall",
-      "icon": "kteepee.png"
-    }
+    { "name": "FESTPOD", "lat": 52.8233, "lng": -1.3762, "category": "stage", "icon": "fphero.png", "partner": true }
   ]
 }
