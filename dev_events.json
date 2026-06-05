@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "events": [
     {
       "id": "kteepee_demo",
@@ -37,7 +37,7 @@
       "id": "download_festival",
       "name": "DL-26 pre",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/dl26_nextshot.json?v=7"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/dl26_nextshot.json?v=8"
     },
 
     {
