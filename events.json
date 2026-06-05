@@ -1,11 +1,11 @@
 {
-  "version": 16,
+  "version": 17,
   "events": [
     {
       "id": "download_festival",
       "name": "DL-26",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/download_festival.json?v=11"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/download_festival.json?v=12"
     },
     {
       "id": "kteepee_demo",
