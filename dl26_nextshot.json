@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/dl26tpmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/dlktp.png",
@@ -15,14 +15,14 @@
     "stall": "#F6A43A",
     "stage": "#D98A2E",
     "washroom": "#C46F22",
-    "funfair": "#A85A1A",
     "bar": "#8A4514",
     "merch": "#6A3410",
     "entrance": "#1A0E06",
     "security": "#0A0A0A",
     "medical": "#FF2E2E",
     "wellbeing": "#8BBE29",
-    "food": "#3C1E0C"
+    "food": "#3C1E0C",
+    "podcasts": "#A85A1A" 
   },
 
 
@@ -478,6 +478,34 @@
     { "name": "Purple Gate", "lat": 52.8240, "lng": -1.3842, "category": "entrance" },
     { "name": "Blue Gate", "lat": 52.8265, "lng": -1.3631, "category": "entrance" },
     { "name": "Grey Gate", "lat": 52.8300, "lng": -1.3750, "category": "entrance" },
+
+    {
+      "name": "THE LOADDOWN PODCAST",
+      "lat": 52.8299,
+      "lng": -1.3902,
+      "category": "podcasts",
+      "partner": true,
+      "icon": "vinyl.png",
+       "url": "https://linktr.ee/LoaddownPodcast"
+    },
+    {
+      "name": "THE METAL ROUNDUP",
+      "lat": 52.8299,
+      "lng": -1.3902,
+      "category": "podcasts",
+      "partner": true,
+      "icon": "vinyl.png",
+      "url": "https://www.patreon.com/TheMetalRoundup"
+    },
+    {
+      "name": "SAPPENIN' PODCAST",
+      "lat": 52.8299,
+      "lng": -1.3902,
+      "category": "podcasts",
+      "partner": true,
+      "icon": "vinyl.png",
+      "url": "https://pod.link/1444032537"
+    },
   
     {
       "name": "DRAGONS HOARD",
@@ -511,7 +539,7 @@
       "name": "FESTPOD",
       "lat": 52.8287,
       "lng": -1.3875,
-      "category": "stage",
+      "category": "podcasts",
       "icon": "fphero.png",
       "partner": true,
       "url": "https://festpod.co.uk/"
