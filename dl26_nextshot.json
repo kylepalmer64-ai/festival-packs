@@ -479,34 +479,7 @@
     { "name": "Blue Gate", "lat": 52.8265, "lng": -1.3631, "category": "entrance" },
     { "name": "Grey Gate", "lat": 52.8300, "lng": -1.3750, "category": "entrance" },
 
-    {
-      "name": "THE LOADDOWN PODCAST",
-      "lat": 52.8299,
-      "lng": -1.3902,
-      "category": "podcasts",
-      "partner": true,
-      "icon": "vinyl.png",
-       "url": "https://linktr.ee/LoaddownPodcast"
-    },
-    {
-      "name": "THE METAL ROUNDUP",
-      "lat": 52.8299,
-      "lng": -1.3902,
-      "category": "podcasts",
-      "partner": true,
-      "icon": "vinyl.png",
-      "url": "https://www.patreon.com/TheMetalRoundup"
-    },
-    {
-      "name": "SAPPENIN' PODCAST",
-      "lat": 52.8299,
-      "lng": -1.3902,
-      "category": "podcasts",
-      "partner": true,
-      "icon": "vinyl.png",
-      "url": "https://pod.link/1444032537"
-    },
-  
+    
     {
       "name": "DRAGONS HOARD",
       "lat": 52.8316,
@@ -516,6 +489,40 @@
       "icon": "dhoard.png",
       "url": "https://www.instagram.com/dragonshoardbm/"
     },
+    {
+      "name": "THE LOADDOWN PODCAST",
+      "lat": 52.8299,
+      "lng": -1.3902,
+      "category": "podcasts",
+      "icon": "vinyl.png",
+       "url": "https://linktr.ee/LoaddownPodcast"
+    },
+    {
+      "name": "THE METAL ROUNDUP",
+      "lat": 52.8299,
+      "lng": -1.3902,
+      "category": "podcasts",
+      "icon": "vinyl.png",
+      "url": "https://www.patreon.com/TheMetalRoundup"
+    },
+    {
+      "name": "SAPPENIN' PODCAST",
+      "lat": 52.8299,
+      "lng": -1.3902,
+      "category": "podcasts",
+      "icon": "vinyl.png",
+      "url": "https://pod.link/1444032537"
+    },
+    },
+    {
+      "name": "Kerrang Radio",
+      "lat": 52.8299,
+      "lng": -1.3902,
+      "category": "podcasts",
+      "icon": "vinyl.png",
+      "url": "https://www.kerrang.com/"
+    },
+  
     {
       "name": "FAT FRANK'S CAMPING SHOP",
       "lat": 52.8287,
