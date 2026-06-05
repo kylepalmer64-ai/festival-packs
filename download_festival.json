@@ -6,7 +6,7 @@
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/dl26fire.png",
   "panelColor": "#F0E2B6",
   "premiumHeader": "Find These Legends",
-  "listingsHeader": "Press To Rock!!",
+  "listingsHeader": "Let's Rock 🤘",
   "premiumTileColor": "#F6A43A",
   "premiumTileBorder": "#F6A43A",
   "messagesFile": "dl_messages.json",
@@ -27,7 +27,23 @@
 
 
   "listings": [
-    { "stage": "The Doghouse (District X)", "time": "16:00", "act": "40000 Leagues", "day": "WEDNESDAY" },
+   
+    { "stage": "The Outpost (District X)", "time": "13:00", "act": "School of Rock",  "day": "WEDNESDAY"  },   
+    { "stage": "Ace of Spades (District X)", "time": "15:00", "act": "Panic! At The Bingo" },
+    { "stage": "Ace of Spades (District X)", "time": "17:30", "act": "Chris Fleming Millennial Magician" },
+    { "stage": "Ace of Spades (District X)", "time": "19:00", "act": "Sappenin' Podcast" },
+    { "stage": "Ace of Spades (District X)", "time": "20:30", "act": "Live Band Karaoke with Ten Years Too Late" },
+    { "stage": "Ace of Spades (District X)", "time": "23:00", "act": "Silent Disco – Attitude Era vs Soundtrax" },
+    { "stage": "Ace of Spades (District X)", "time": "01:00", "act": "Silent Disco – Metalcore vs Hair Metal" },
+    { "stage": "Ace of Spades (District X)", "time": "10:30", "act": "MEYBA Football Quiz" },
+    { "stage": "Ace of Spades (District X)", "time": "13:30", "act": "Panic! At The Bingo" },
+    { "stage": "Ace of Spades (District X)", "time": "16:00", "act": "The Metal Roundup Podcast" },
+    { "stage": "Ace of Spades (District X)", "time": "19:00", "act": "Never Mind The Download Pub Quiz" },
+    { "stage": "Ace of Spades (District X)", "time": "21:30", "act": "Ace Of Slays" },
+    { "stage": "Ace of Spades (District X)", "time": "23:30", "act": "Silent Disco – Ozzy & Black Sabbath vs Back to the Beginning Bands" },
+    { "stage": "Ace of Spades (District X)", "time": "01:00", "act": "Silent Disco – Buffy vs Twilight" },
+    { "stage": "Ace of Spades (District X)", "time": "02:00", "act": "Silent Disco – Disney vs Dad Rock" },
+    { "stage": "The Doghouse (District X)", "time": "16:00", "act": "40000 Leagues" },
     { "stage": "The Doghouse (District X)", "time": "16:30", "act": "Celavi" },
     { "stage": "The Doghouse (District X)", "time": "17:05", "act": "Pryma" },
     { "stage": "The Doghouse (District X)", "time": "17:45", "act": "DeadWax" },
@@ -40,6 +56,14 @@
     { "stage": "The Doghouse (District X)", "time": "23:00", "act": "Tasmin Taylor" },
     { "stage": "The Doghouse (District X)", "time": "00:00", "act": "STVW" },
     { "stage": "The Doghouse (District X)", "time": "02:00", "act": "Savannah" },
+
+    { "stage": "RIP Courtyard", "time": "15:45", "act": "Nephwrack" },
+    { "stage": "RIP Courtyard", "time": "17:00", "act": "Cwfen" },
+    { "stage": "RIP Courtyard", "time": "18:15", "act": "The Howling" },
+    { "stage": "RIP Courtyard", "time": "19:30", "act": "Knives" },
+    { "stage": "RIP Courtyard", "time": "20:45", "act": "Margarita Witch Cult" },
+    { "stage": "RIP Courtyard", "time": "22:00", "act": "Split Dogs" },
+    
     { "stage": "The Den (District X)", "time": "14:00", "act": "Matt Reid" },
     { "stage": "The Den (District X)", "time": "14:15", "act": "Rich Wilson" },
     { "stage": "The Den (District X)", "time": "14:30", "act": "Tom Wrigglesworth" },
@@ -65,7 +89,27 @@
     { "stage": "The Den (District X)", "time": "23:30", "act": "Bongo's Bingo" },
     { "stage": "The Den (District X)", "time": "01:00", "act": "She They Press Play Showcase" },
 
-    { "stage": "The Doghouse (District X)", "time": "10:00", "act": "RockFit", "day": "THURSDAY" },
+
+    
+    { "stage": "The Outpost (District X)", "time": "10:00", "act": "Flowstate", "day": "THURSDAY" },
+    { "stage": "The Outpost (District X)", "time": "12:00", "act": "School of Rock" },
+    { "stage": "The Outpost (District X)", "time": "21:30", "act": "London Short Film Festival" },
+    { "stage": "Ace of Spades (District X)", "time": "10:30", "act": "MEYBA Football Quiz", "day": "THURSDAY" },
+    { "stage": "Ace of Spades (District X)", "time": "13:30", "act": "Panic! At The Bingo" },
+    { "stage": "Ace of Spades (District X)", "time": "16:00", "act": "The Metal Roundup Podcast" },
+    { "stage": "Ace of Spades (District X)", "time": "19:00", "act": "Never Mind The Download Pub Quiz" },
+    { "stage": "Ace of Spades (District X)", "time": "21:30", "act": "Ace Of Slays" },
+    { "stage": "Ace of Spades (District X)", "time": "23:30", "act": "Silent Disco – Ozzy & Black Sabbath vs Back to the Beginning Bands" },
+    { "stage": "Ace of Spades (District X)", "time": "01:00", "act": "Silent Disco – Buffy vs Twilight" },
+    { "stage": "Ace of Spades (District X)", "time": "02:00", "act": "Silent Disco – Disney vs Dad Rock" },
+    { "stage": "RIP Courtyard", "time": "14:00", "act": "The LoadDown Podcast" },
+    { "stage": "RIP Courtyard", "time": "15:45", "act": "Outlander" },
+    { "stage": "RIP Courtyard", "time": "17:00", "act": "Silo" },
+    { "stage": "RIP Courtyard", "time": "18:15", "act": "Mallavora" },
+    { "stage": "RIP Courtyard", "time": "19:30", "act": "Creeping Jean" },
+    { "stage": "RIP Courtyard", "time": "20:45", "act": "Tropic Gold" },
+    { "stage": "RIP Courtyard", "time": "22:00", "act": "Riding The Low" },
+    { "stage": "The Doghouse (District X)", "time": "10:00", "act": "RockFit" },
     { "stage": "The Doghouse (District X)", "time": "12:00", "act": "Kyden Fire" },
     { "stage": "The Doghouse (District X)", "time": "13:00", "act": "Heavy Metal Sports" },
     { "stage": "The Doghouse (District X)", "time": "14:30", "act": "Kyden Fire" },
@@ -81,6 +125,7 @@
     { "stage": "The Doghouse (District X)", "time": "23:00", "act": "Kyden Fire" },
     { "stage": "The Doghouse (District X)", "time": "23:30", "act": "Heavy Metal Time Machine" },
     { "stage": "The Doghouse (District X)", "time": "02:00", "act": "Nickelbrat" },
+    
     { "stage": "The Den (District X)", "time": "11:00", "act": "RuMac" },
     { "stage": "The Den (District X)", "time": "12:30", "act": "Kerrang! Radio" },
     { "stage": "The Den (District X)", "time": "14:00", "act": "Danny Mc" },
@@ -107,8 +152,13 @@
     { "stage": "The Den (District X)", "time": "23:30", "act": "Bongo's Bingo" },
     { "stage": "The Den (District X)", "time": "01:00", "act": "Liam Cormier" },
 
-    { "stage": "The Den (District X)", "time": "10:00", "act": "Rock Kids", "day": "FRIDAY" },
+    
+    { "stage": "The Outpost (District X)", "time": "09:00", "act": "Flowstate", "day": "FRIDAY"  },
+    { "stage": "The Den (District X)", "time": "10:00", "act": "Rock Kids"},
     { "stage": "The Doghouse (District X)", "time": "11:00", "act": "RockFit" },
+    { "stage": "Ace of Spades (District X)", "time": "11:00", "act": "Download Family Feud" },
+    { "stage": "Ace of Spades (District X)", "time": "23:30", "act": "OCT (On Company Time)" },
+    { "stage": "Ace of Spades (District X)", "time": "01:00", "act": "Silent Disco – K-Pop vs Emo" },
     { "stage": "Dogtooth", "time": "13:00", "act": "Headwreck" },
     { "stage": "Dogtooth", "time": "13:45", "act": "Slay Squad" },
     { "stage": "Dogtooth", "time": "14:30", "act": "James and the Cold Gun" },
@@ -153,7 +203,13 @@
     { "stage": "The Doghouse (District X)", "time": "01:30", "act": "Creeper DJ Set" },
     { "stage": "The Doghouse (District X)", "time": "02:30", "act": "Chop Suey" },
   
-    { "stage": "The Den (District X)", "time": "10:00", "act": "Rock Kids", "day": "SATURDAY" },
+    { "stage": "The Outpost (District X)", "time": "09:00", "act": "Flowstste", "day": "SATURDAY" },
+    { "stage": "The Den (District X)", "time": "10:00", "act": "Rock Kids"},
+    { "stage": "Ace of Spades (District X)", "time": "10:30", "act": "ADHD Love" },
+    { "stage": "Ace of Spades (District X)", "time": "23:00", "act": "Silent Disco – System of a Down vs Slipknot" },
+    { "stage": "Ace of Spades (District X)", "time": "00:00", "act": "Silent Disco – Metallica vs AC/DC" },
+    { "stage": "Ace of Spades (District X)", "time": "01:00", "act": "Silent Disco – Avril vs Blink" },
+    { "stage": "Ace of Spades (District X)", "time": "02:00", "act": "Silent Disco – My Chemical Romance vs The Used" },
     { "stage": "Dogtooth", "time": "11:00", "act": "Pussyliquor" },
     { "stage": "Dogtooth", "time": "11:45", "act": "Tropic Gold" },
     { "stage": "Dogtooth", "time": "12:30", "act": "Tailgunner" },
@@ -197,6 +253,9 @@
     { "stage": "The Den (District X)", "time": "01:30", "act": "Master of Pop Hits"},
   
     { "stage": "The Den (District X)", "time": "10:00", "act": "Rock Kids", "day": "SUNDAY" },
+    { "stage": "Ace of Spades (District X)", "time": "11:00", "act": "Download Family Feud" },
+    { "stage": "Ace of Spades (District X)", "time": "23:00", "act": "Silent Disco – Football Anthems vs Power Anthems" },
+    { "stage": "Ace of Spades (District X)", "time": "01:00", "act": "Silent Disco – DL26 Pre-2000 vs DL26 Post-2000" },
     { "stage": "Dogtooth", "time": "11:00", "act": "Spitting Glass" },
     { "stage": "Dogtooth", "time": "11:45", "act": "Private School" },
     { "stage": "Dogtooth", "time": "12:30", "act": "Wayside" },
@@ -238,9 +297,7 @@
     { "stage": "Apex", "time": "21:25", "act": "Linkin Park" },
     { "stage": "The Den (District X)", "time": "00:30", "act": "Sophie K" }
   ],
-
-
-    
+   
   
   "vendors": [
     { "name": "Apex", "lat": 52.8233, "lng": -1.3762, "category": "stage", "icon": "castle.png" },
@@ -249,15 +306,14 @@
     { "name": "Dogtooth", "lat": 52.8264, "lng": -1.3777, "category": "stage", "icon": "bigtop.png" },
     { "name": "Doghouse", "lat": 52.8330, "lng": -1.3850, "category": "stage", "icon": "bigtop.png" },
     { "name": "Hellfire", "lat": 52.8251, "lng": -1.3699, "category": "stage", "icon": "vinyl.png" },
+    { "name": "Ace of Spades (District X)", "lat": 52.8299, "lng": -1.3902, "category": "stage", "icon": "bigtop.png" },
+    { "name": "The Outpost (District X)", "lat": 52.8290, "lng": -1.3900, "category": "stage", "icon": "bigtop.png" },
+    { "name": "RIP Courtyard", "lat": 52.8248, "lng": -1.3866, "category": "stage", "icon": "bigtop.png" },
 
     { "name": "Fat Frank's - Accessibility", "lat": 52.8264, "lng": -1.3820, "category": "stall", "icon": "ffhero.png" },
     { "name": "Fat Frank's - East Gate", "lat": 52.8342, "lng": -1.3694, "category": "stall", "icon": "ffhero.png" },
     { "name": "Fat Frank's - Dist'X", "lat": 52.8287, "lng": -1.3875, "category": "stall", "icon": "ffhero.png" },
-
-
-
-
-    
+   
        
     { "name": "Arena Bar Right", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
     { "name": "Arena Bar Back", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
@@ -273,8 +329,7 @@
 
 
     { "name": "Scarlet In Chains - Dist'X", "lat": 52.8287, "lng": -1.3861, "category": "stall", "icon": "sichero.png" },
-    { "name": "Maverix - Dist'X", "lat": 52.8287, "lng": -1.3861, "category": "stall" },
-    { "name": "Maverix - Arena", "lat": 52.8264, "lng": -1.3777, "category": "stall" },
+    { "name": "Maverix Supply Co. - Arena", "lat": 52.8264, "lng": -1.3777, "category": "stall" },
     { "name": "Mall of Death", "lat": 52.8251, "lng": -1.3716, "category": "stall", "icon": "modhero.png" },
     
     
@@ -438,7 +493,8 @@
       "lng": -1.3875,
       "category": "stall",
       "partner": true,
-      "icon": "ffhero.png"
+      "icon": "ffhero.png",
+      "url": "https://www.fatfranksatdownload.hungrrr.co.uk/"
     },
     { "name": "MALL OF DEATH", "lat": 52.8318, "lng": -1.3868, "category": "stall", "icon": "modhero.png", "partner": true },
     { "name": "LOKI POKE", "lat": 52.8264, "lng": -1.3777, "category": "food", "icon": "lkphero.png", "partner": true },
@@ -446,17 +502,17 @@
     { "name": "RANV'S RASOI", "lat": 52.8236, "lng": -1.3725, "category": "food", "icon": "rnvhero.png", "partner": true },
     { "name": "NOCTIFERA CREATIONS", "lat": 52.8236, "lng": -1.3725, "category": "stall", "icon": "ncthero.png", "partner": true },
     { "name": "RnR TOASTIES", "lat": 52.8287, "lng": -1.3861, "category": "food", "icon": "rnrhero.png", "partner": true },
-    { "name": "FESTIVAL SAMARITANS (24hr)", "lat": 52.8287, "lng": -1.3861, "category": "wellbeing", "icon": "samhero.png", "partner": true },
-    
-    
-        
+    { "name": "GAME & FLAMES", "lat": 52.8287, "lng": -1.3875, "category": "food", "icon": "gnfhero.png", "partner": true },
+    { "name": "Maverix Supply Co.", "lat": 52.8287, "lng": -1.3861, "category": "stall", "icon": "mvxhero.png", "partner": true },
+    { "name": "FESTIVAL SAMARITANS (24hr)", "lat": 52.8287, "lng": -1.3861, "category": "wellbeing", "icon": "samhero.png", "partner": true},
     {
-      "name": "KteePee",
-      "lat": 52.8341,
-      "lng": -1.3774,
-      "category": "stall",
+      "name": "FESTPOD",
+      "lat": 0.0,
+      "lng": 0.0,
+      "category": "stage",
+      "icon": "fphero.png",
       "partner": true,
-      "icon": "kteepee.png"
+      "url": "https://festpod.co.uk/"
     }
-  ]
-}
+      ]
+    }
