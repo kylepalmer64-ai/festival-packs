@@ -1,84 +1,92 @@
 {
-  "version": 1,
+  "version": 2,
   "mode": "tourist",
+  
+  "categoryColors": {
+    "festival": "#C46F22",
+    
+  },
+  
   "vendors": [
+    
     {
-      "name": "Download Festival",
-      "lat": 52.8294,
-      "lng": -1.3750,
-      "icon": "festival"
-    },
-    {
-      "name": "Wireless Festival",
-      "lat": 51.5560,
-      "lng": -0.2796,
-      "icon": "festival"
-    },
-    {
-      "name": "BST Hyde Park",
-      "lat": 51.5074,
-      "lng": -0.1657,
-      "icon": "festival"
-    },
-    {
-      "name": "TRNSMT",
-      "lat": 55.8607,
-      "lng": -4.2425,
-      "icon": "festival"
-    },
-    {
-      "name": "Latitude Festival",
-      "lat": 52.3370,
-      "lng": 1.6270,
-      "icon": "festival"
-    },
-    {
-      "name": "Boomtown Fair",
-      "lat": 51.0330,
-      "lng": -1.2480,
-      "icon": "festival"
-    },
-    {
-      "name": "Boardmasters",
-      "lat": 50.4350,
-      "lng": -5.0550,
-      "icon": "festival"
-    },
-    {
-      "name": "Creamfields",
-      "lat": 53.3370,
-      "lng": -2.6030,
-      "icon": "festival"
-    },
-    {
-      "name": "Reading Festival",
-      "lat": 51.4634,
-      "lng": -0.9842,
-      "icon": "festival"
-    },
-    {
-      "name": "Leeds Festival",
-      "lat": 53.8568,
-      "lng": -1.4921,
-      "icon": "festival"
-    },
-    {
-      "name": "Mucky Weekender",
+      "name": "Major City -Aug'26",
       "lat": 51.0950,
       "lng": -1.2050,
-      "icon": "festival"
+      "icon": "bigtop"
+    }, 
+    {
+      "name": "To Be Announced - Sept26",
+      "lat": 51.0950,
+      "lng": -1.2050,
+      "icon": "bigtop"
+    },  
+    {
+      "name": "Wireless Festival (Unofficial)",
+      "lat": 51.5560,
+      "lng": -0.2796,
+      "icon": "bigtop"
     },
     {
-      "name": "End of the Road",
+      "name": "BST Hyde Park (Unofficial)",
+      "lat": 51.5074,
+      "lng": -0.1657,
+      "icon": "bigtop"
+    },
+    {
+      "name": "TRNSMT (Unofficial)",
+      "lat": 55.8607,
+      "lng": -4.2425,
+      "icon": "bigtop"
+    },
+    {
+      "name": "Latitude Festival (Unofficial)",
+      "lat": 52.3370,
+      "lng": 1.6270,
+      "icon": "bigtop"
+    },
+    {
+      "name": "Boomtown Fair (Unofficial)",
+      "lat": 51.0330,
+      "lng": -1.2480,
+      "icon": "bigtop"
+    },
+    {
+      "name": "Boardmasters (Unofficial)",
+      "lat": 50.4350,
+      "lng": -5.0550,
+      "icon": "bigtop"
+    },
+    {
+      "name": "Creamfields (Unofficial)",
+      "lat": 53.3370,
+      "lng": -2.6030,
+      "icon": "bigtop"
+    },
+    {
+      "name": "Reading Festival (Unofficial)",
+      "lat": 51.4634,
+      "lng": -0.9842,
+      "icon": "bigtop"
+    },
+    {
+      "name": "Leeds Festival (Unofficial)",
+      "lat": 53.8568,
+      "lng": -1.4921,
+      "icon": "bigtop"
+    },
+    
+    {
+      "name": "End of the Road (Unofficial)",
       "lat": 51.0560,
       "lng": -2.2710,
-      "icon": "festival"
+      "icon": "bigtop"
     },
     {
-      "name": "Outlook UK",
+      "name": "Outlook UK (Unofficial)",
       "lat": 53.2800,
       "lng": -2.6000,
-      "icon": "festival"
+      "icon": "bigtop"
     }
   ]
 }
