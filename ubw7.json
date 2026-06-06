@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/7thmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/ubwhero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/7thbanel.png",
@@ -11,7 +11,7 @@
   "messagesFile": "ubw7msg.json",
 
   "categoryColors": {
-    "Crowning Glory": "#F6A43A",
+    "crowning glory": "#F6A43A",
     "stage": "#66040E",
     "bar": "#66040E",
     "merch": "#C39422",
@@ -44,7 +44,7 @@
       "name": "UBW - Jun 7",
       "lat": 51.9799,
       "lng": -0.2252,
-      "category": "Crowning Glory",
+      "category": "crowning clory",
       "partner": true,
       "url": "https://squareonegym.co.uk/event/the-ultimate-british-wrestling-tour-2026-biggleswade/",
       "icon": "ubwhero.png"
@@ -53,7 +53,7 @@
       "name": "Square One Gym",
       "lat": 51.9799,
       "lng": -0.2252,
-      "category": "Crowning Glory",
+      "category": "crowning glory",
       "partner": true,
       "url": "https://squareonegym.co.uk/",
       "icon": "ubwhero.png"
@@ -62,7 +62,7 @@
       "name": "UBW - Jun 27",
       "lat": 51.9799,
       "lng": -0.2252,
-      "category": "Crowning Glory",
+      "category": "crowning clory",
       "partner": true,
       "url": "https://squareonegym.co.uk/event/the-ultimate-british-wrestling-tour-2026-fairfield/",
       "icon": "ubwhero.png"
