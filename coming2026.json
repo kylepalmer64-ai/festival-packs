@@ -1,6 +1,8 @@
 {
   "version": 3,
   "mode": "tourist",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/kteepee.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap2.png",
   
   "categoryColors": {
     "festival": "#0FA36B"
