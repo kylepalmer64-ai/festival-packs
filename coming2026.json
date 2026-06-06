@@ -3,7 +3,7 @@
   "mode": "tourist",
   
   "categoryColors": {
-    "festival": "#C46F22"
+    "festival": "#0FA36B"
     
   },
   
@@ -14,6 +14,7 @@
       "lat": 51.7926,
       "lng": -1.7541,
       "category": "festival",
+      "premium": true,
       "icon": "bigtop.png"
     }, 
     {
@@ -21,6 +22,7 @@
       "lat": 51.0950,
       "lng": -1.2050,
       "category": "festival",
+      "premium": true,
       "icon": "bigtop.png"
     },  
     {
