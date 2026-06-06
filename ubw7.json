@@ -41,11 +41,12 @@
 
 
     {
-      "name": "UBW",
+      "name": "UBW - Jun 7",
       "lat": 51.9799,
       "lng": -0.2252,
       "category": "Crowning Glory",
       "partner": true,
+      "url": "https://squareonegym.co.uk/event/the-ultimate-british-wrestling-tour-2026-biggleswade/",
       "icon": "ubwhero.png"
     },
     {
@@ -54,6 +55,16 @@
       "lng": -0.2252,
       "category": "Crowning Glory",
       "partner": true,
+      "url": "https://squareonegym.co.uk/",
+      "icon": "ubwhero.png"
+    },
+    {
+      "name": "UBW - Jun 27",
+      "lat": 51.9799,
+      "lng": -0.2252,
+      "category": "Crowning Glory",
+      "partner": true,
+      "url": "https://squareonegym.co.uk/event/the-ultimate-british-wrestling-tour-2026-fairfield/",
       "icon": "ubwhero.png"
     }
     
