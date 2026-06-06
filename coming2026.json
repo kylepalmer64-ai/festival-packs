@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "mode": "tourist",
   
   "categoryColors": {
@@ -11,82 +11,95 @@
     
     {
       "name": "Major City -Aug'26",
-      "lat": 51.0950,
-      "lng": -1.2050,
-      "icon": "bigtop"
+      "lat": 51.7926,
+      "lng": -1.7541,
+      "category": "festival",
+      "icon": "bigtop.png"
     }, 
     {
       "name": "To Be Announced - Sept26",
       "lat": 51.0950,
       "lng": -1.2050,
-      "icon": "bigtop"
+      "category": "festival",
+      "icon": "bigtop.png"
     },  
     {
       "name": "Wireless Festival (Unofficial)",
       "lat": 51.5560,
       "lng": -0.2796,
-      "icon": "bigtop"
+      "category": "festival",
+      "icon": "bigtop.png"
     },
     {
       "name": "BST Hyde Park (Unofficial)",
       "lat": 51.5074,
       "lng": -0.1657,
-      "icon": "bigtop"
+      "category": "festival",
+      "icon": "bigtop.png"
     },
     {
       "name": "TRNSMT (Unofficial)",
       "lat": 55.8607,
       "lng": -4.2425,
-      "icon": "bigtop"
+      "category": "festival",
+      "icon": "bigtop.png"
     },
     {
       "name": "Latitude Festival (Unofficial)",
       "lat": 52.3370,
       "lng": 1.6270,
-      "icon": "bigtop"
+      "category": "festival",
+      "icon": "bigtop.png"
     },
     {
       "name": "Boomtown Fair (Unofficial)",
       "lat": 51.0330,
       "lng": -1.2480,
-      "icon": "bigtop"
+      "category": "festival",
+      "icon": "bigtop.png"
     },
     {
       "name": "Boardmasters (Unofficial)",
       "lat": 50.4350,
       "lng": -5.0550,
-      "icon": "bigtop"
+      "category": "festival",
+      "icon": "bigtop.png"
     },
     {
       "name": "Creamfields (Unofficial)",
       "lat": 53.3370,
       "lng": -2.6030,
-      "icon": "bigtop"
+      "category": "festival",
+      "icon": "bigtop.png"
     },
     {
       "name": "Reading Festival (Unofficial)",
       "lat": 51.4634,
       "lng": -0.9842,
-      "icon": "bigtop"
+      "category": "festival",
+      "icon": "bigtop.png"
     },
     {
       "name": "Leeds Festival (Unofficial)",
       "lat": 53.8568,
       "lng": -1.4921,
-      "icon": "bigtop"
+      "category": "festival",
+      "icon": "bigtop.png"
     },
     
     {
       "name": "End of the Road (Unofficial)",
       "lat": 51.0560,
       "lng": -2.2710,
-      "icon": "bigtop"
+      "category": "festival",
+      "icon": "bigtop.png"
     },
     {
       "name": "Outlook UK (Unofficial)",
       "lat": 53.2800,
       "lng": -2.6000,
-      "icon": "bigtop"
+      "category": "festival",
+      "icon": "bigtop.png"
     }
   ]
 }
