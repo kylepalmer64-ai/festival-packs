@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/7thmap.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/ubwhero.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/7thbanel.png",
+  "panelColor": "#C39422",
+  "premiumHeader": "C39422",
+  "listingsHeader": "Event Card",
+  "premiumTileColor": "#66040E",
+  "premiumTileBorder": "#C39422",
+  "messagesFile": "ubw7msg.json",
+
+  "categoryColors": {
+    "Crowning Glory": "#F6A43A",
+    "stage": "#66040E",
+    "bar": "#66040E",
+    "merch": "#C39422",
+    "food": "#66040E"
+  },
+
+  
+  "listings": [
+    { "stage": "Main Stage", "time": "14:00", "act": "Axeman Bunting V Spike Valentine", "day": "7th June" },
+    { "stage": "Main Stage", "time": "14:00", "act": "Black & Gold v Act 2" },
+    { "stage": "Main Stage", "time": "14:00", "act": "Connor Allbright v Freddie Idol" },
+    { "stage": "Main Stage", "time": "14:00", "act": "Molly Spartan v ???" },
+    { "stage": "Main Stage", "time": "14:00", "act": "Sunset Riot" },
+    { "stage": "Main Stage", "time": "14:00", "act": "Danny Isit v Air Felix" },
+    { "stage": "Main Stage", "time": "14:00", "act": "Ben Deberz v Ben Gedling" },
+
+  
+  ],
+
+  "vendors": [
+    { "name": "Ring", "lat": 51.9798, "lng": -0.2255, "category": "stage", "icon": "ring.png", "partner": true },
+
+    { "name": "Meet the Talent", "lat": 51.9795, "lng": -0.2276, "category": "merch", "icon": "ubwhero.png" },
+    { "name": "WC", "lat": 51.9796, "lng": -0.2250, "category": "toilet" },
+    { "name": "Refreshments", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "burfri.png" },
+    
+
+
+    {
+      "name": "UBW",
+      "lat": 51.9799,
+      "lng": -0.2252,
+      "category": "Crowning Glory",
+      "partner": true,
+      "icon": "ubwhero.png"
+    },
+    {
+      "name": "Square One Gym",
+      "lat": 51.9799,
+      "lng": -0.2252,
+      "category": "Crowning Glory",
+      "partner": true,
+      "icon": "ubwhero.png"
+    }
+    
+  ]
+}
