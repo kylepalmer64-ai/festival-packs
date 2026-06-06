@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "events": [
     {
       "id": "kteepee_demo",
@@ -11,7 +11,7 @@
       "id": "uvw7",
       "name": "UBW - Crowning Glory",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/ubw7.json?v=1"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/ubw7.json?v=2"
     },
     {
       "id": "coming2026",
