@@ -21,13 +21,13 @@
 
   
   "listings": [
-    { "stage": "Main Stage", "time": "14:00", "act": "Axeman Bunting V Spike Valentine", "day": "7th June" },
-    { "stage": "Main Stage", "time": "14:00", "act": "Black & Gold v Act 2" },
-    { "stage": "Main Stage", "time": "14:00", "act": "Connor Allbright v Freddie Idol" },
-    { "stage": "Main Stage", "time": "14:00", "act": "Molly Spartan v ???" },
-    { "stage": "Main Stage", "time": "14:00", "act": "Sunset Riot" },
-    { "stage": "Main Stage", "time": "14:00", "act": "Danny Isit v Air Felix" },
-    { "stage": "Main Stage", "time": "14:00", "act": "Ben Deberz v Ben Gedling" },
+    { "stage": "In Ring", "time": "14:00", "act": "Axeman Bunting V Spike Valentine", "day": "7th June" },
+    { "stage": "In Ring", "time": "14:00", "act": "Black & Gold v Act 2" },
+    { "stage": "In Ring", "time": "14:00", "act": "Connor Allbright v Freddie Idol" },
+    { "stage": "In Ring", "time": "14:00", "act": "Molly Spartan v ???" },
+    { "stage": "In Ring", "time": "14:00", "act": "Sunset Riot" },
+    { "stage": "In Ring", "time": "14:00", "act": "Danny Isit v Air Felix" },
+    { "stage": "Main Event", "time": "14:00", "act": "Ben Deberz v Ben Gedling" },
 
   
   ],
