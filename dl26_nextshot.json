@@ -313,7 +313,7 @@
     { "name": "Fat Frank's - Accessibility", "lat": 52.8264, "lng": -1.3820, "category": "stall", "icon": "ffhero.png" },
     { "name": "Fat Frank's - East Gate", "lat": 52.8342, "lng": -1.3694, "category": "stall", "icon": "ffhero.png" },
     { "name": "Fat Frank's - Dist'X", "lat": 52.8287, "lng": -1.3875, "category": "stall", "icon": "ffhero.png" },
-   
+    { "name": "Nale Studios - Body Art & Piercings", "lat": 52.8287, "lng": -1.3875, "category": "stall", "icon": "nalahero.png", "URL": "https://nalastudio.co.uk/" },
        
     { "name": "Arena Bar Right", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
     { "name": "Arena Bar Back", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
