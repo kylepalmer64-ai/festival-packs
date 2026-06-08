@@ -1,12 +1,12 @@
 {
-  "version": 9,
+  "version": 10,
   
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/dl26tpmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/dlktp.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/dl26fire.png",
   "panelColor": "#F0E2B6",
   "premiumHeader": "Find These Legends",
-  "listingsHeader": "Let's Rock",
+  "listingsHeader": "Let's Rock 🤘",
   "premiumTileColor": "#F6A43A",
   "premiumTileBorder": "#F6A43A",
   "messagesFile": "dl_messages.json",
@@ -15,14 +15,14 @@
     "stall": "#F6A43A",
     "stage": "#D98A2E",
     "washroom": "#C46F22",
+    "funfair": "#A85A1A",
     "bar": "#8A4514",
     "merch": "#6A3410",
     "entrance": "#1A0E06",
     "security": "#0A0A0A",
     "medical": "#FF2E2E",
     "wellbeing": "#8BBE29",
-    "food": "#3C1E0C",
-    "podcasts": "#A85A1A" 
+    "food": "#3C1E0C"
   },
 
 
@@ -35,14 +35,6 @@
     { "stage": "Ace of Spades (District X)", "time": "20:30", "act": "Live Band Karaoke with Ten Years Too Late" },
     { "stage": "Ace of Spades (District X)", "time": "23:00", "act": "Silent Disco – Attitude Era vs Soundtrax" },
     { "stage": "Ace of Spades (District X)", "time": "01:00", "act": "Silent Disco – Metalcore vs Hair Metal" },
-    { "stage": "Ace of Spades (District X)", "time": "10:30", "act": "MEYBA Football Quiz" },
-    { "stage": "Ace of Spades (District X)", "time": "13:30", "act": "Panic! At The Bingo" },
-    { "stage": "Ace of Spades (District X)", "time": "16:00", "act": "The Metal Roundup Podcast" },
-    { "stage": "Ace of Spades (District X)", "time": "19:00", "act": "Never Mind The Download Pub Quiz" },
-    { "stage": "Ace of Spades (District X)", "time": "21:30", "act": "Ace Of Slays" },
-    { "stage": "Ace of Spades (District X)", "time": "23:30", "act": "Silent Disco – Ozzy & Black Sabbath vs Back to the Beginning Bands" },
-    { "stage": "Ace of Spades (District X)", "time": "01:00", "act": "Silent Disco – Buffy vs Twilight" },
-    { "stage": "Ace of Spades (District X)", "time": "02:00", "act": "Silent Disco – Disney vs Dad Rock" },
     { "stage": "The Doghouse (District X)", "time": "16:00", "act": "40000 Leagues" },
     { "stage": "The Doghouse (District X)", "time": "16:30", "act": "Celavi" },
     { "stage": "The Doghouse (District X)", "time": "17:05", "act": "Pryma" },
@@ -170,6 +162,16 @@
     { "stage": "Dogtooth", "time": "19:40", "act": "Band-Maid" },
     { "stage": "Dogtooth", "time": "20:45", "act": "Corrosion of Conformity" },
     { "stage": "Dogtooth", "time": "21:50", "act": "Cavalera Chaos AD" },
+    { "stage": "Rocktail Cocktail", "time": "12:00", "act": "Tasmin Taylor" },
+    { "stage": "Rocktail Cocktail", "time": "13:00", "act": "Zavi" },
+    { "stage": "Rocktail Cocktail", "time": "14:00", "act": "Tasmin Taylor" },
+    { "stage": "Rocktail Cocktail", "time": "15:00", "act": "Zavi" },
+    { "stage": "Rocktail Cocktail", "time": "16:00", "act": "Gemma Edwards" },
+    { "stage": "Rocktail Cocktail", "time": "17:00", "act": "Emo Diva" },
+    { "stage": "Rocktail Cocktail", "time": "18:00", "act": "Luna Tunes" },
+    { "stage": "Rocktail Cocktail", "time": "19:00", "act": "Hang The DJs" },
+    { "stage": "Rocktail Cocktail", "time": "20:00", "act": "Gemma Edwards" },
+    { "stage": "Rocktail Cocktail", "time": "21:00", "act": "Luna Tunes" },
     { "stage": "Avalanche", "time": "13:00", "act": "Native James" },
     { "stage": "Avalanche", "time": "13:50", "act": "Silly Goose" },
     { "stage": "Avalanche", "time": "14:40", "act": "Holywatr" },
@@ -222,6 +224,17 @@
     { "stage": "Dogtooth", "time": "18:25", "act": "Elder" },
     { "stage": "Dogtooth", "time": "19:25", "act": "Decapitated" },
     { "stage": "Dogtooth", "time": "20:30", "act": "Blood Incantation" },
+    { "stage": "Rocktail Cocktail", "time": "10:00", "act": "Luna Tunes" },
+    { "stage": "Rocktail Cocktail", "time": "11:00", "act": "Zavi" },
+    { "stage": "Rocktail Cocktail", "time": "12:00", "act": "Tasmin Taylor" },
+    { "stage": "Rocktail Cocktail", "time": "13:00", "act": "Gemma Edwards" },
+    { "stage": "Rocktail Cocktail", "time": "14:00", "act": "Charlotte Hannah" },
+    { "stage": "Rocktail Cocktail", "time": "15:00", "act": "Emo Diva" },
+    { "stage": "Rocktail Cocktail", "time": "16:00", "act": "Tasmin Taylor" },
+    { "stage": "Rocktail Cocktail", "time": "17:00", "act": "Zavi" },
+    { "stage": "Rocktail Cocktail", "time": "18:00", "act": "Luna Tunes" },
+    { "stage": "Rocktail Cocktail", "time": "19:00", "act": "Gemma Edwards" },
+    { "stage": "Rocktail Cocktail", "time": "20:00", "act": "Hang The DJs (2hr set!)" },    
     { "stage": "Avalanche", "time": "11:00", "act": "Kerrang! Radio - The Deal Winner" },
     { "stage": "Avalanche", "time": "11:50", "act": "Frozemode" },
     { "stage": "Avalanche", "time": "12:45", "act": "Nevertel" },
@@ -267,6 +280,19 @@
     { "stage": "Dogtooth", "time": "18:25", "act": "Gatecreeper" },
     { "stage": "Dogtooth", "time": "19:25", "act": "Spineshank" },
     { "stage": "Dogtooth", "time": "20:30", "act": "Static X" },
+    { "stage": "Rocktail Cocktail", "time": "10:00", "act": "Luna Tunes" },
+    { "stage": "Rocktail Cocktail", "time": "11:00", "act": "Emo Diva" },
+    { "stage": "Rocktail Cocktail", "time": "12:00", "act": "Gemma Edwards" },
+    { "stage": "Rocktail Cocktail", "time": "13:00", "act": "Zavi" },
+    { "stage": "Rocktail Cocktail", "time": "14:00", "act": "Tasmin Taylor" },
+    { "stage": "Rocktail Cocktail", "time": "15:00", "act": "Luna Tunes" },
+    { "stage": "Rocktail Cocktail", "time": "16:00", "act": "Zavi" },
+    { "stage": "Rocktail Cocktail", "time": "17:00", "act": "Tasmin Taylor" },
+    { "stage": "Rocktail Cocktail", "time": "18:00", "act": "Hang The DJs" },
+    { "stage": "Rocktail Cocktail", "time": "19:00", "act": "Emo Diva" },
+    { "stage": "Rocktail Cocktail", "time": "20:00", "act": "Gemma Edwards" },
+    { "stage": "Rocktail Cocktail", "time": "21:00", "act": "Luna Tunes" },
+    
     { "stage": "Avalanche", "time": "11:00", "act": "Mould" },
     { "stage": "Avalanche", "time": "11:50", "act": "Zero 9:36" },
     { "stage": "Avalanche", "time": "12:50", "act": "Ivri" },
@@ -309,11 +335,12 @@
     { "name": "Ace of Spades (District X)", "lat": 52.8299, "lng": -1.3902, "category": "stage", "icon": "bigtop.png" },
     { "name": "The Outpost (District X)", "lat": 52.8290, "lng": -1.3900, "category": "stage", "icon": "bigtop.png" },
     { "name": "RIP Courtyard", "lat": 52.8248, "lng": -1.3866, "category": "stage", "icon": "bigtop.png" },
+    { "name": "Rocktail Cocktail", "lat": 52.8236, "lng": -1.3725, "category": "stage", "icon": "vinyl.png" },
 
     { "name": "Fat Frank's - Accessibility", "lat": 52.8264, "lng": -1.3820, "category": "stall", "icon": "ffhero.png" },
     { "name": "Fat Frank's - East Gate", "lat": 52.8342, "lng": -1.3694, "category": "stall", "icon": "ffhero.png" },
     { "name": "Fat Frank's - Dist'X", "lat": 52.8287, "lng": -1.3875, "category": "stall", "icon": "ffhero.png" },
-    { "name": "Nale Studios - Body Art & Piercings", "lat": 52.8287, "lng": -1.3875, "category": "stall", "icon": "nalahero.png", "URL": "https://nalastudio.co.uk/" },
+   
        
     { "name": "Arena Bar Right", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
     { "name": "Arena Bar Back", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
@@ -329,9 +356,9 @@
 
 
     { "name": "Scarlet In Chains - Dist'X", "lat": 52.8287, "lng": -1.3861, "category": "stall", "icon": "sichero.png" },
-    { "name": "Maverix Supply Co. - Arena", "lat": 52.8264, "lng": -1.3777, "category": "stall" },
+    { "name": "Maverix Supply Co. - Arena", "lat": 52.8264, "lng": -1.3777, "category": "stall", "icon": "mvxhero.png" },
     { "name": "Mall of Death", "lat": 52.8251, "lng": -1.3716, "category": "stall", "icon": "modhero.png" },
-    
+    { "name": "Nale Studios - Body Art & Piercings", "lat": 52.8287, "lng": -1.3875, "category": "stall", "icon": "nalahero.png", "url": "https://nalastudio.co.uk/" },
     
     { "name": "District X", "lat": 52.8320, "lng": -1.3861, "category": "stall", "icon": "ferris.png" },
     { "name": "Fun Fair", "lat": 52.8320, "lng": -1.3861, "category": "stall", "icon": "bump.png" },
@@ -465,7 +492,13 @@
     { "name": "Arena Acc'bility Middle", "lat": 52.82497, "lng": -1.3754, "category": "toilet" },
     { "name": "Arena Acc'bility Right", "lat": 52.8265, "lng": -1.3704, "category": "toilet" },
     { "name": "Arena Acc'bility Avalanche", "lat": 52.8230, "lng": -1.3727, "category": "toilet" },
-
+    { "name": "Accessible Info Dist'X", "lat": 52.8307, "lng": -1.3862, "category": "wellbeing" },
+    { "name": "Accessible Info Arena", "lat": 52.8254, "lng": -1.3770, "category": "wellbeing" },
+    { "name": "Wellbeing Help Arena", "lat": 52.8273, "lng": -1.3770, "category": "wellbeing" },
+    { "name": "Wellbeing Help Dist'X", "lat": 52.8300, "lng": -1.3861, "category": "wellbeing" },
+    { "name": "Medical Arena", "lat": 52.8273, "lng": -1.3770, "category": "wellbeing" },
+    
+    { "name": "Accessible Info Dist X", "lat": 52.8299, "lng": -1.3892, "category": "wellbeing" },
 
     
     { "name": "Medical Tent", "lat": 52.8300, "lng": -1.3861, "category": "medical", "icon": "ambul.png" },
@@ -478,8 +511,7 @@
     { "name": "Purple Gate", "lat": 52.8240, "lng": -1.3842, "category": "entrance" },
     { "name": "Blue Gate", "lat": 52.8265, "lng": -1.3631, "category": "entrance" },
     { "name": "Grey Gate", "lat": 52.8300, "lng": -1.3750, "category": "entrance" },
-
-    
+  
     {
       "name": "DRAGONS HOARD",
       "lat": 52.8316,
@@ -490,40 +522,6 @@
       "url": "https://www.instagram.com/dragonshoardbm/"
     },
     {
-      "name": "THE LOADDOWN PODCAST",
-      "lat": 52.8299,
-      "lng": -1.3902,
-      "category": "podcasts",
-      "icon": "vinyl.png",
-       "url": "https://linktr.ee/LoaddownPodcast"
-    },
-    {
-      "name": "THE METAL ROUNDUP",
-      "lat": 52.8299,
-      "lng": -1.3902,
-      "category": "podcasts",
-      "icon": "vinyl.png",
-      "url": "https://www.patreon.com/TheMetalRoundup"
-    },
-    {
-      "name": "SAPPENIN' PODCAST",
-      "lat": 52.8299,
-      "lng": -1.3902,
-      "category": "podcasts",
-      "icon": "vinyl.png",
-      "url": "https://pod.link/1444032537"
-    },
-    
-    {
-      "name": "Kerrang Radio",
-      "lat": 52.8299,
-      "lng": -1.3902,
-      "category": "podcasts",
-      "icon": "vinyl.png",
-      "url": "https://kerrangradio.co.uk/"
-    },
-  
-    {
       "name": "FAT FRANK'S CAMPING SHOP",
       "lat": 52.8287,
       "lng": -1.3875,
@@ -532,21 +530,21 @@
       "icon": "ffhero.png",
       "url": "https://www.fatfranksatdownload.hungrrr.co.uk/"
     },
-    { "name": "MALL OF DEATH", "lat": 52.8318, "lng": -1.3868, "category": "stall", "icon": "modhero.png", "partner": true },
+    { "name": "MALL OF DEATH", "lat": 52.8318, "lng": -1.3868, "category": "stall", "icon": "modhero.png", "partner": true, "url": "https://www.facebook.com/mallofdeath2025/" },
     { "name": "LOKI POKE", "lat": 52.8264, "lng": -1.3777, "category": "food", "icon": "lkphero.png", "partner": true },
     { "name": "SCARLET IN CHAINS", "lat": 52.8316, "lng": -1.3863, "category": "stall", "icon": "sichero.png", "partner": true, "url": "https://scarletinchains.com/"},
-    { "name": "RANV'S RASOI", "lat": 52.8236, "lng": -1.3725, "category": "food", "icon": "rnvhero.png", "partner": true },
-    { "name": "NOCTIFERA CREATIONS", "lat": 52.8236, "lng": -1.3725, "category": "stall", "icon": "ncthero.png", "partner": true },
+    { "name": "RANV'S RASOI", "lat": 52.8260, "lng": -1.3716, "category": "food", "icon": "rnvhero.png", "partner": true },
+    { "name": "NOCTIFERA CREATIONS", "lat": 52.8236, "lng": -1.3725, "category": "stall", "icon": "ncthero.png", "partner": true, "url": "https://www.facebook.com/share/17ZvjK2WsT/" },
     { "name": "RnR TOASTIES", "lat": 52.8287, "lng": -1.3861, "category": "food", "icon": "rnrhero.png", "partner": true, "url": "https://www.instagram.com/rnrtoasties" },
     { "name": "GAME & FLAMES", "lat": 52.8287, "lng": -1.3875, "category": "food", "icon": "gnfhero.png", "partner": true },
-    { "name": "Maverix Supply Co.", "lat": 52.8287, "lng": -1.3861, "category": "stall", "icon": "mvxhero.png", "partner": true },
+    { "name": "Maverix Supply Co.", "lat": 52.8260, "lng": -1.3716, "category": "stall", "icon": "mvxhero.png", "partner": true, "url": "https://www.instagram.com/maverixsupplyco" },
     { "name": "FESTIVAL SAMARITANS (24hr)", "lat": 52.8299, "lng": -1.3892, "category": "wellbeing", "icon": "samhero.png", "partner": true, "url": "https://www.samaritans.org/branches/festival-branch/" },
     { "name": "MANDALA - Himalayan Dumplings & Rice Boxes", "lat": 52.8236, "lng": -1.3725, "category": "food", "icon": "mdlhero.png", "url": "https://www.instagram.com/mandalastreetfood/" },
     {
       "name": "FESTPOD",
       "lat": 52.8287,
       "lng": -1.3875,
-      "category": "podcasts",
+      "category": "stage",
       "icon": "fphero.png",
       "partner": true,
       "url": "https://festpod.co.uk/"
