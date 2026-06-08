@@ -9,7 +9,6 @@
   "premiumTileColor": "#66040E",
   "premiumTileBorder": "#C62828",
   "messagesFile": "ubw7msg.json",
-
   "categoryColors": {
     "Square One Gym": "#C62828",
     "watford": "#F6A43A",
@@ -18,27 +17,18 @@
     "basildon": "#C62828",
     "stage": "#C62828",
     "merch": "#C62828"
-  },
-
-  
+  },  
   "listings": [
     { "stage": "Singles", "time": "14:00", "act": "Axeman Bunting V Spike Valentine", "day": "7th June" },
     { "stage": "UBW Tag Team Championship", "time": "14:00", "act": "Black & Gold v Act 2" },
     { "stage": "British Crown Cup 1st Rnd", "time": "14:00", "act": "Connor Allbright v Freddie Idol" },
     { "stage": "Mystery Opponent!", "time": "14:00", "act": "Molly Spartan v ???" },
     { "stage": "British Crown Cup 1st Rnd", "time": "14:00", "act": "Danny Isit v Air Felix" },
-    { "stage": "Battle of the Bens", "time": "14:00", "act": "Ben Deberz v Ben Gedling" }
-
-  
+    { "stage": "Battle of the Bens", "time": "14:00", "act": "Ben Deberz v Ben Gedling" },  
   ],
-
   "vendors": [
     { "name": "Ring", "lat": 51.9798, "lng": -0.2255, "category": "stage", "icon": "ring.png", "partner": true },
-
     { "name": "Meet the Talent", "lat": 51.9795, "lng": -0.2276, "category": "merch", "icon": "ubwhero.png" },
-    { "name": "WC", "lat": 51.9796, "lng": -0.2250, "category": "toilet" },
-    
-
     {
       "name": "Square One Gym",
       "lat": 51.9662,
