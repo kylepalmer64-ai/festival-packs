@@ -3,22 +3,21 @@
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/27map.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/ubwhero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/27panel.png",
-  "panelColor": "#C39422",
+  "panelColor": "#C62828",
   "premiumHeader": "UBW TOUR DATES",
   "listingsHeader": "Event Card",
   "premiumTileColor": "#66040E",
-  "premiumTileBorder": "#C39422",
+  "premiumTileBorder": "#C62828",
   "messagesFile": "ubw7msg.json",
 
   "categoryColors": {
-    "Square One Gym": "#C39422",
+    "Square One Gym": "#C62828",
     "watford": "#F6A43A",
-    "fairfield": "#F6A43A",
-    "stevenage": "#F6A43A",
-    "basildon": "#F6A43A",
-    "stage": "#66040E",
-    "merch": "#C39422",
-    "food": "#66040E"
+    "fairfield": "#C62828",
+    "stevenage": "#C62828",
+    "basildon": "#C62828",
+    "stage": "#C62828",
+    "merch": "#C62828"
   },
 
   
@@ -38,7 +37,6 @@
 
     { "name": "Meet the Talent", "lat": 51.9795, "lng": -0.2276, "category": "merch", "icon": "ubwhero.png" },
     { "name": "WC", "lat": 51.9796, "lng": -0.2250, "category": "toilet" },
-    { "name": "Refreshments", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "burfri.png" },
     
 
     {
