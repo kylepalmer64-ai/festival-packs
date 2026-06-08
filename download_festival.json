@@ -358,7 +358,7 @@
     { "name": "Scarlet In Chains - Dist'X", "lat": 52.8287, "lng": -1.3861, "category": "stall", "icon": "sichero.png" },
     { "name": "Maverix Supply Co. - Arena", "lat": 52.8264, "lng": -1.3777, "category": "stall", "icon": "mvxhero.png" },
     { "name": "Mall of Death", "lat": 52.8251, "lng": -1.3716, "category": "stall", "icon": "modhero.png" },
-    { "name": "Nale Studios - Body Art & Piercings", "lat": 52.8287, "lng": -1.3875, "category": "stall", "icon": "nalahero.png", "url": "https://nalastudio.co.uk/" },
+    { "name": "Nala Studios - Body Art & Piercings", "lat": 52.8287, "lng": -1.3875, "category": "stall", "icon": "nalahero.png", "url": "https://nalastudio.co.uk/" },
     
     { "name": "District X", "lat": 52.8320, "lng": -1.3861, "category": "stall", "icon": "ferris.png" },
     { "name": "Fun Fair", "lat": 52.8320, "lng": -1.3861, "category": "stall", "icon": "bump.png" },
