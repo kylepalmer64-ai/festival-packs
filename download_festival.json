@@ -1,5 +1,5 @@
 {
-  "version": 14,
+  "version": 15,
   
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/dl26tpmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/dlktp.png",
@@ -35,14 +35,6 @@
     { "stage": "Ace of Spades (District X)", "time": "20:30", "act": "Live Band Karaoke with Ten Years Too Late" },
     { "stage": "Ace of Spades (District X)", "time": "23:00", "act": "Silent Disco – Attitude Era vs Soundtrax" },
     { "stage": "Ace of Spades (District X)", "time": "01:00", "act": "Silent Disco – Metalcore vs Hair Metal" },
-    { "stage": "Ace of Spades (District X)", "time": "10:30", "act": "MEYBA Football Quiz" },
-    { "stage": "Ace of Spades (District X)", "time": "13:30", "act": "Panic! At The Bingo" },
-    { "stage": "Ace of Spades (District X)", "time": "16:00", "act": "The Metal Roundup Podcast" },
-    { "stage": "Ace of Spades (District X)", "time": "19:00", "act": "Never Mind The Download Pub Quiz" },
-    { "stage": "Ace of Spades (District X)", "time": "21:30", "act": "Ace Of Slays" },
-    { "stage": "Ace of Spades (District X)", "time": "23:30", "act": "Silent Disco – Ozzy & Black Sabbath vs Back to the Beginning Bands" },
-    { "stage": "Ace of Spades (District X)", "time": "01:00", "act": "Silent Disco – Buffy vs Twilight" },
-    { "stage": "Ace of Spades (District X)", "time": "02:00", "act": "Silent Disco – Disney vs Dad Rock" },
     { "stage": "The Doghouse (District X)", "time": "16:00", "act": "40000 Leagues" },
     { "stage": "The Doghouse (District X)", "time": "16:30", "act": "Celavi" },
     { "stage": "The Doghouse (District X)", "time": "17:05", "act": "Pryma" },
@@ -331,7 +323,7 @@
     { "name": "Scarlet In Chains - Dist'X", "lat": 52.8287, "lng": -1.3861, "category": "stall", "icon": "sichero.png" },
     { "name": "Maverix Supply Co. - Arena", "lat": 52.8264, "lng": -1.3777, "category": "stall", "icon": "mvxhero.png" },
     { "name": "Mall of Death", "lat": 52.8251, "lng": -1.3716, "category": "stall", "icon": "modhero.png" },
-    { "name": "Nale Studios - Body Art & Piercings", "lat": 52.8287, "lng": -1.3875, "category": "stall", "icon": "nalahero.png", "URL": "https://nalastudio.co.uk/" },
+    { "name": "Nale Studios - Body Art & Piercings", "lat": 52.8287, "lng": -1.3875, "category": "stall", "icon": "nalahero.png", "url": "https://nalastudio.co.uk/" },
     
     { "name": "District X", "lat": 52.8320, "lng": -1.3861, "category": "stall", "icon": "ferris.png" },
     { "name": "Fun Fair", "lat": 52.8320, "lng": -1.3861, "category": "stall", "icon": "bump.png" },
