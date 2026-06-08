@@ -498,9 +498,7 @@
     { "name": "Wellbeing Help Dist'X", "lat": 52.8300, "lng": -1.3861, "category": "wellbeing" },
     { "name": "Medical Arena", "lat": 52.8273, "lng": -1.3770, "category": "wellbeing" },
     
-    { "name": "Accessible Info Dist X", "lat": 52.8299, "lng": -1.3892, "category": "wellbeing" },
-
-    
+      
     { "name": "Medical Tent", "lat": 52.8300, "lng": -1.3861, "category": "medical", "icon": "ambul.png" },
     { "name": "Security HQ", "lat": 52.8295, "lng": -1.3867, "category": "security", "icon": "police.png" },
 
