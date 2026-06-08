@@ -1,8 +1,8 @@
 {
-  "version": 3,
-  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/7thmap.png",
+  "version": 4,
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/27map.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/ubwhero.png",
-  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/7thbanel.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/27panel.png",
   "panelColor": "#C39422",
   "premiumHeader": "UBW TOUR DATES",
   "listingsHeader": "Event Card",
@@ -21,12 +21,11 @@
   
   "listings": [
     { "stage": "Singles", "time": "14:00", "act": "Axeman Bunting V Spike Valentine", "day": "7th June" },
-    { "stage": "Tag Team", "time": "14:00", "act": "Black & Gold v Act 2" },
-    { "stage": "Singles", "time": "14:00", "act": "Connor Allbright v Freddie Idol" },
+    { "stage": "UBW Tag Team Championship", "time": "14:00", "act": "Black & Gold v Act 2" },
+    { "stage": "British Crown Cup 1st Rnd", "time": "14:00", "act": "Connor Allbright v Freddie Idol" },
     { "stage": "Mystery Opponent!", "time": "14:00", "act": "Molly Spartan v ???" },
-    { "stage": "Singles", "time": "14:00", "act": "Sunset Riot" },
-    { "stage": "Singles", "time": "14:00", "act": "Danny Isit v Air Felix" },
-    { "stage": "UBW Heavyweight Championship", "time": "14:00", "act": "Ben Deberz v Ben Gedling" }
+    { "stage": "British Crown Cup 1st Rnd", "time": "14:00", "act": "Danny Isit v Air Felix" },
+    { "stage": "Battle of the Bens", "time": "14:00", "act": "Ben Deberz v Ben Gedling" }
 
   
   ],
@@ -39,16 +38,6 @@
     { "name": "Refreshments", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "burfri.png" },
     
 
-
-    {
-      "name": "UBW - Jun 7",
-      "lat": 51.9799,
-      "lng": -0.2252,
-      "category": "crowning glory",
-      "partner": true,
-      "url": "https://squareonegym.co.uk/event/the-ultimate-british-wrestling-tour-2026-biggleswade/",
-      "icon": "ubwhero.png"
-    },
     {
       "name": "Square One Gym",
       "lat": 51.9799,
@@ -65,6 +54,15 @@
       "category": "house show",
       "partner": true,
       "url": "https://squareonegym.co.uk/event/the-ultimate-british-wrestling-tour-2026-fairfield/",
+      "icon": "ubwhero.png"
+    },
+    {
+      "name": "UBW - Jun 7",
+      "lat": 51.9799,
+      "lng": -0.2252,
+      "category": "crowning glory",
+      "partner": true,
+      "url": "https://squareonegym.co.uk/event/the-ultimate-british-wrestling-tour-2026-watford/",
       "icon": "ubwhero.png"
     }
     
