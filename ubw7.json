@@ -12,7 +12,7 @@
   "categoryColors": {
     "Square One Gym": "#C62828",
     "watford": "#F6A43A",
-    "fairfield": "#C62828",
+    "fairfield park": "#C62828",
     "stevenage": "#C62828",
     "basildon": "#C62828",
     "stage": "#C62828",
@@ -27,7 +27,7 @@
     { "stage": "Battle of the Bens", "time": "14:00", "act": "Ben Deberz v Ben Gedling" },  
   ],
   "vendors": [
-    { "name": "Ring", "lat": 51.9798, "lng": -0.2255, "category": "stage", "icon": "ring.png", "partner": true },
+
     { "name": "Meet the Talent", "lat": 51.9795, "lng": -0.2276, "category": "merch", "icon": "ubwhero.png" },
     {
       "name": "Square One Gym",
