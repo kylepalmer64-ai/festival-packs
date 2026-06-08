@@ -1,11 +1,11 @@
 {
-  "version": 19,
+  "version": 20,
   "events": [
     {
       "id": "download_festival",
       "name": "DL-26",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/download_festival.json?v=14"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/download_festival.json?v=15"
     },
     {
       "id": "coming2026",
