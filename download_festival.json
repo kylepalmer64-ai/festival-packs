@@ -1,5 +1,5 @@
 {
-  "version": 18,
+  "version": 19,
   
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/dl26tpmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/dlktp.png",
@@ -340,26 +340,17 @@
     { "name": "Fat Frank's - Accessibility", "lat": 52.8264, "lng": -1.3820, "category": "stall", "icon": "ffhero.png" },
     { "name": "Fat Frank's - East Gate", "lat": 52.8342, "lng": -1.3694, "category": "stall", "icon": "ffhero.png" },
     { "name": "Fat Frank's - Dist'X", "lat": 52.8287, "lng": -1.3875, "category": "stall", "icon": "ffhero.png" },
-   
-       
     { "name": "Arena Bar Right", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
     { "name": "Arena Bar Back", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
     { "name": "Main Bar", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
-    
     { "name": "Food Court Dist'X", "lat": 52.8320, "lng": -1.3861, "category": "food", "icon": "burfri.png" },
-    
-
     { "name": "Arena Merch Tent", "lat": 52.8264, "lng": -1.3777, "category": "merch", "icon": "gift.png" },
     { "name": "Village Merch Store", "lat": 52.8300, "lng": -1.3750, "category": "merch", "icon": "gift.png" },
-
-    
-
-
     { "name": "Scarlet In Chains - Dist'X", "lat": 52.8287, "lng": -1.3861, "category": "stall", "icon": "sichero.png" },
     { "name": "Maverix Supply Co. - Arena", "lat": 52.8264, "lng": -1.3777, "category": "stall", "icon": "mvxhero.png" },
     { "name": "Mall of Death", "lat": 52.8251, "lng": -1.3716, "category": "stall", "icon": "modhero.png" },
-    { "name": "Nala Studios - Body Art & Piercings", "lat": 52.8287, "lng": -1.3875, "category": "stall", "icon": "nalahero.png", "url": "https://nalastudio.co.uk/" },
-    
+    { "name": "Nala Studios - Body Art & Piercings", "lat": 52.8287, "lng": -1.3875, "category": "stall", "icon": "nalahero.png" },
+    { "name": "KteePee", "lat": 52.8342, "lng": -1.3783, "category": "stall", "icon": "kteepee.png" },
     { "name": "District X", "lat": 52.8320, "lng": -1.3861, "category": "stall", "icon": "ferris.png" },
     { "name": "Fun Fair", "lat": 52.8320, "lng": -1.3861, "category": "stall", "icon": "bump.png" },
     
@@ -459,19 +450,16 @@
     { "name": "Black Water", "lat": 52.8292, "lng": -1.3912, "category": "water" },
     { "name": "Black Food", "lat": 52.8292, "lng": -1.3912, "category": "food" },
     { "name": "WC Black", "lat":  52.8286, "lng": -1.3913, "category": "toilet" },
-
     
     { "name": "M'Moshers", "lat": 52.8333, "lng": -1.3968, "category": "camp" },
     { "name": "M'Moshers Food", "lat": 52.8331, "lng": -1.3986, "category": "food" },
     { "name": "M'Moshers WC", "lat": 52.8331, "lng": -1.3986, "category": "toilet" },
     { "name": "M'Moshers Water", "lat": 52.8331, "lng": -1.3983, "category": "water" },
-
     
     { "name": "Quiet Camp", "lat": 52.8333, "lng": -1.3967, "category": "camp" },
     { "name": "Quiet Food", "lat": 52.8343, "lng": -1.3984, "category": "food" },
     { "name": "WC Quiet", "lat": 52.8333, "lng": -1.3963, "category": "toilet" },
     { "name": "Quiet Water", "lat": 52.8341, "lng": -1.3988, "category": "water" },
-
 
     { "name": "Blue Camp", "lat": 52.8331, "lng": -1.3957, "category": "camp" },
     { "name": "Blue Food", "lat": 52.8331, "lng": -1.3957, "category": "food" },
@@ -497,7 +485,6 @@
     { "name": "Wellbeing Help Arena", "lat": 52.8273, "lng": -1.3770, "category": "wellbeing" },
     { "name": "Wellbeing Help Dist'X", "lat": 52.8300, "lng": -1.3861, "category": "wellbeing" },
     { "name": "Medical Arena", "lat": 52.8273, "lng": -1.3770, "category": "wellbeing" },
-    
       
     { "name": "Medical Tent", "lat": 52.8300, "lng": -1.3861, "category": "medical", "icon": "ambul.png" },
     { "name": "Security HQ", "lat": 52.8295, "lng": -1.3867, "category": "security", "icon": "police.png" },
@@ -516,8 +503,7 @@
       "lng": -1.3863,
       "category": "stall",
       "partner": true,
-      "icon": "dhoard.png",
-      "url": "https://www.instagram.com/dragonshoardbm/"
+      "icon": "dhoard.png"
     },
     {
       "name": "FAT FRANK'S CAMPING SHOP",
@@ -525,19 +511,18 @@
       "lng": -1.3875,
       "category": "stall",
       "partner": true,
-      "icon": "ffhero.png",
-      "url": "https://www.fatfranksatdownload.hungrrr.co.uk/"
+      "icon": "ffhero.png"
     },
-    { "name": "MALL OF DEATH", "lat": 52.8318, "lng": -1.3868, "category": "stall", "icon": "modhero.png", "partner": true, "url": "https://www.facebook.com/mallofdeath2025/" },
+    { "name": "MALL OF DEATH", "lat": 52.8318, "lng": -1.3868, "category": "stall", "icon": "modhero.png", "partner": true },
     { "name": "LOKI POKE", "lat": 52.8264, "lng": -1.3777, "category": "food", "icon": "lkphero.png", "partner": true },
-    { "name": "SCARLET IN CHAINS", "lat": 52.8316, "lng": -1.3863, "category": "stall", "icon": "sichero.png", "partner": true, "url": "https://scarletinchains.com/"},
+    { "name": "SCARLET IN CHAINS", "lat": 52.8316, "lng": -1.3863, "category": "stall", "icon": "sichero.png", "partner": true },
     { "name": "RANV'S RASOI", "lat": 52.8260, "lng": -1.3716, "category": "food", "icon": "rnvhero.png", "partner": true },
-    { "name": "NOCTIFERA CREATIONS", "lat": 52.8236, "lng": -1.3725, "category": "stall", "icon": "ncthero.png", "partner": true, "url": "https://www.facebook.com/share/17ZvjK2WsT/" },
-    { "name": "RnR TOASTIES", "lat": 52.8287, "lng": -1.3861, "category": "food", "icon": "rnrhero.png", "partner": true, "url": "https://www.instagram.com/rnrtoasties" },
+    { "name": "NOCTIFERA CREATIONS", "lat": 52.8236, "lng": -1.3725, "category": "stall", "icon": "ncthero.png", "partner": true },
+    { "name": "RnR TOASTIES", "lat": 52.8287, "lng": -1.3861, "category": "food", "icon": "rnrhero.png", "partner": true },
     { "name": "GAME & FLAMES", "lat": 52.8287, "lng": -1.3875, "category": "food", "icon": "gnfhero.png", "partner": true },
-    { "name": "Maverix Supply Co.", "lat": 52.8260, "lng": -1.3716, "category": "stall", "icon": "mvxhero.png", "partner": true, "url": "https://www.instagram.com/maverixsupplyco" },
-    { "name": "FESTIVAL SAMARITANS (24hr)", "lat": 52.8299, "lng": -1.3892, "category": "wellbeing", "icon": "samhero.png", "partner": true, "url": "https://www.samaritans.org/branches/festival-branch/" },
-    { "name": "MANDALA - Himalayan Dumplings & Rice Boxes", "lat": 52.8236, "lng": -1.3725, "category": "food", "icon": "mdlhero.png", "url": "https://www.instagram.com/mandalastreetfood/" },
+    { "name": "Maverix Supply Co.", "lat": 52.8260, "lng": -1.3716, "category": "stall", "icon": "mvxhero.png", "partner": true },
+    { "name": "FESTIVAL SAMARITANS (24hr)", "lat": 52.8299, "lng": -1.3892, "category": "wellbeing", "icon": "samhero.png", "partner": true },
+    { "name": "MANDALA - Himalayan Dumplings & Rice Boxes", "lat": 52.8236, "lng": -1.3725, "category": "food", "icon": "mdlhero.png" },
     {
       "name": "FESTPOD",
       "lat": 52.8287,
