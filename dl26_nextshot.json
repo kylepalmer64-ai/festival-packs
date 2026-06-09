@@ -340,26 +340,17 @@
     { "name": "Fat Frank's - Accessibility", "lat": 52.8264, "lng": -1.3820, "category": "stall", "icon": "ffhero.png" },
     { "name": "Fat Frank's - East Gate", "lat": 52.8342, "lng": -1.3694, "category": "stall", "icon": "ffhero.png" },
     { "name": "Fat Frank's - Dist'X", "lat": 52.8287, "lng": -1.3875, "category": "stall", "icon": "ffhero.png" },
-   
-       
     { "name": "Arena Bar Right", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
     { "name": "Arena Bar Back", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
     { "name": "Main Bar", "lat": 52.8300, "lng": -1.3750, "category": "bar", "icon": "beerr.png" },
-    
     { "name": "Food Court Dist'X", "lat": 52.8320, "lng": -1.3861, "category": "food", "icon": "burfri.png" },
-    
-
     { "name": "Arena Merch Tent", "lat": 52.8264, "lng": -1.3777, "category": "merch", "icon": "gift.png" },
     { "name": "Village Merch Store", "lat": 52.8300, "lng": -1.3750, "category": "merch", "icon": "gift.png" },
-
-    
-
-
     { "name": "Scarlet In Chains - Dist'X", "lat": 52.8287, "lng": -1.3861, "category": "stall", "icon": "sichero.png" },
     { "name": "Maverix Supply Co. - Arena", "lat": 52.8264, "lng": -1.3777, "category": "stall", "icon": "mvxhero.png" },
     { "name": "Mall of Death", "lat": 52.8251, "lng": -1.3716, "category": "stall", "icon": "modhero.png" },
     { "name": "Nala Studios - Body Art & Piercings", "lat": 52.8287, "lng": -1.3875, "category": "stall", "icon": "nalahero.png" },
-    
+    { "name": "KteePee", "lat": 52.8342, "lng": -1.3783, "category": "stall", "icon": "kteepee.png" },
     { "name": "District X", "lat": 52.8320, "lng": -1.3861, "category": "stall", "icon": "ferris.png" },
     { "name": "Fun Fair", "lat": 52.8320, "lng": -1.3861, "category": "stall", "icon": "bump.png" },
     
@@ -459,19 +450,16 @@
     { "name": "Black Water", "lat": 52.8292, "lng": -1.3912, "category": "water" },
     { "name": "Black Food", "lat": 52.8292, "lng": -1.3912, "category": "food" },
     { "name": "WC Black", "lat":  52.8286, "lng": -1.3913, "category": "toilet" },
-
     
     { "name": "M'Moshers", "lat": 52.8333, "lng": -1.3968, "category": "camp" },
     { "name": "M'Moshers Food", "lat": 52.8331, "lng": -1.3986, "category": "food" },
     { "name": "M'Moshers WC", "lat": 52.8331, "lng": -1.3986, "category": "toilet" },
     { "name": "M'Moshers Water", "lat": 52.8331, "lng": -1.3983, "category": "water" },
-
     
     { "name": "Quiet Camp", "lat": 52.8333, "lng": -1.3967, "category": "camp" },
     { "name": "Quiet Food", "lat": 52.8343, "lng": -1.3984, "category": "food" },
     { "name": "WC Quiet", "lat": 52.8333, "lng": -1.3963, "category": "toilet" },
     { "name": "Quiet Water", "lat": 52.8341, "lng": -1.3988, "category": "water" },
-
 
     { "name": "Blue Camp", "lat": 52.8331, "lng": -1.3957, "category": "camp" },
     { "name": "Blue Food", "lat": 52.8331, "lng": -1.3957, "category": "food" },
@@ -497,7 +485,6 @@
     { "name": "Wellbeing Help Arena", "lat": 52.8273, "lng": -1.3770, "category": "wellbeing" },
     { "name": "Wellbeing Help Dist'X", "lat": 52.8300, "lng": -1.3861, "category": "wellbeing" },
     { "name": "Medical Arena", "lat": 52.8273, "lng": -1.3770, "category": "wellbeing" },
-    
       
     { "name": "Medical Tent", "lat": 52.8300, "lng": -1.3861, "category": "medical", "icon": "ambul.png" },
     { "name": "Security HQ", "lat": 52.8295, "lng": -1.3867, "category": "security", "icon": "police.png" },
