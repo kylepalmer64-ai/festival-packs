@@ -1,5 +1,5 @@
 {
-  "version": 22,
+  "version": 23,
   
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/dl26tpmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/dlktp.png",
@@ -499,8 +499,8 @@
   
     {
       "name": "DRAGONS HOARD",
-      "lat": 52.8316,
-      "lng": -1.3863,
+      "lat": 52.8269,
+      "lng": -1.3733,
       "category": "stall",
       "partner": true,
       "icon": "dhoard.png"
