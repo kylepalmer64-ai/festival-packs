@@ -1,5 +1,5 @@
 {
-  "version": 20,
+  "version": 21,
   
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/dl26tpmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/dlktp.png",
@@ -347,7 +347,7 @@
     { "name": "Arena Merch Tent", "lat": 52.8264, "lng": -1.3777, "category": "merch", "icon": "gift.png" },
     { "name": "Village Merch Store", "lat": 52.8300, "lng": -1.3750, "category": "merch", "icon": "gift.png" },
     { "name": "Scarlet In Chains - Dist'X", "lat": 52.8287, "lng": -1.3861, "category": "stall", "icon": "sichero.png" },
-    { "name": "Maverix Supply Co. - Arena", "lat": 52.8264, "lng": -1.3777, "category": "stall", "icon": "mvxhero.png" },
+    { "name": "Maverix Supply Co. - Arena", "lat": 52.8269, "lng": -1.3733, "category": "stall", "icon": "mvxhero.png" },
     { "name": "Mall of Death", "lat": 52.8251, "lng": -1.3716, "category": "stall", "icon": "modhero.png" },
     { "name": "Nala Studios - Body Art & Piercings", "lat": 52.8287, "lng": -1.3875, "category": "stall", "icon": "nalahero.png" },
     { "name": "KteePee", "lat": 52.8342, "lng": -1.3783, "category": "stall", "icon": "kteepee.png" },
