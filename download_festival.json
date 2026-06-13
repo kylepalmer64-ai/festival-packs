@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/dl26tpmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/dlktp.png",
@@ -515,7 +515,7 @@
     },
     { "name": "MALL OF DEATH", "lat": 52.8318, "lng": -1.3868, "category": "stall", "icon": "modhero.png", "partner": true },
     { "name": "LOKI POKE", "lat": 52.8264, "lng": -1.3777, "category": "food", "icon": "lkphero.png", "partner": true },
-    { "name": "SCARLET IN CHAINS", "lat": 52.8316, "lng": -1.3863, "category": "stall", "icon": "sichero.png", "partner": true },
+    { "name": "SCARLET IN CHAINS", "lat": 52.8240, "lng": -1.3707, "category": "stall", "icon": "sichero.png", "partner": true },
     { "name": "RANV'S RASOI", "lat": 52.8260, "lng": -1.3716, "category": "food", "icon": "rnvhero.png", "partner": true },
     { "name": "NOCTIFERA CREATIONS", "lat": 52.8236, "lng": -1.3725, "category": "stall", "icon": "ncthero.png", "partner": true },
     { "name": "RnR TOASTIES", "lat": 52.8264, "lng": -1.3734, "category": "food", "icon": "rnrhero.png", "partner": true },
