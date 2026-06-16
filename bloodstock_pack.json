@@ -1,0 +1,58 @@
+{
+  "version": 1,
+
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/bsmap.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/bshero.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/bspanel.png",
+  "panelColor": "#55222222",
+  "messagesFile": "bs26_messages.json",
+
+  "categoryColors": {
+    "stage": "#66040E",
+    "market": "#8B00FF",
+    "camping": "#228B22",
+    "washroom": "#00FF00",
+    "bar": "#00C2FF",
+    "water": "#4DA6FF",
+    "merch": "#FFAA00",
+    "entrance": "#FFFFFF",
+    "security": "#333333",
+    "medical": "#FF3333",
+    "food": "#FF0000"
+  },
+
+  "listings": [
+    { "stage": "Main Stage", "time": "12:00", "act": "TBA" },
+    { "stage": "Second Stage", "time": "13:00", "act": "TBA" },
+    { "stage": "New Blood Stage", "time": "14:00", "act": "TBA" }
+  ],
+
+  "vendors": [
+    { "name": "Main Stage", "lat": 52.7460, "lng": -1.6280, "category": "stage", "icon": "bigtop.png" },
+    { "name": "Second Stage", "lat": 52.7468, "lng": -1.6295, "category": "stage", "icon": "bigtop.png" },
+    { "name": "New Blood Stage", "lat": 52.7455, "lng": -1.6270, "category": "stage", "icon": "bigtop.png" },
+
+    { "name": "Washrooms - Main Arena", "lat": 52.7463, "lng": -1.6285, "category": "washroom" },
+    { "name": "Washrooms - Camping", "lat": 52.7445, "lng": -1.6300, "category": "washroom" },
+
+    { "name": "Food Court - Main Arena", "lat": 52.7462, "lng": -1.6278, "category": "food" },
+    { "name": "Food Village - Camping", "lat": 52.7448, "lng": -1.6305, "category": "food" },
+
+    { "name": "Security HQ - Main Entrance", "lat": 52.7458, "lng": -1.6310, "category": "security" },
+    { "name": "Medical Tent", "lat": 52.7461, "lng": -1.6282, "category": "medical" },
+
+    { "name": "Water Point North", "lat": 52.7466, "lng": -1.6290, "category": "water" },
+    { "name": "Water Point South", "lat": 52.7450, "lng": -1.6296, "category": "water" },
+
+    { "name": "Bar - Main Arena", "lat": 52.7464, "lng": -1.6283, "category": "bar" },
+    { "name": "Bar - Camping", "lat": 52.7446, "lng": -1.6302, "category": "bar" },
+
+    { "name": "Merch Tent", "lat": 52.7459, "lng": -1.6286, "category": "merch" },
+    { "name": "Trading Village", "lat": 52.7457, "lng": -1.6288, "category": "market" },
+
+    { "name": "Camping - General", "lat": 52.7440, "lng": -1.6310, "category": "camping" },
+
+    { "name": "Main Entrance", "lat": 52.7458, "lng": -1.6312, "category": "entrance" },
+    { "name": "Camping Entrance", "lat": 52.7438, "lng": -1.6315, "category": "entrance" }
+  ]
+}
