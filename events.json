@@ -1,11 +1,11 @@
 {
-  "version": 28,
+  "version": 29,
   "events": [
     {
-      "id": "download_festival",
-      "name": "DL-26",
+      "id": "bloodstock_pack",
+      "name": "BLD-STK-26 🤟🏻",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/download_festival.json?v=25"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/bloodstock_pack.json?v=1"
     },
     {
       "id": "coming2026",
