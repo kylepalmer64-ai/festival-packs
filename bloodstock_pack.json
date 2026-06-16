@@ -5,7 +5,7 @@
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/bshero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/bspanel.png",
   "panelColor": "#55222222",
-  "messagesFile": "bs26_messages.json",
+  "messagesFile": "bs_messages.json",
 
   "categoryColors": {
     "stage": "#66040E",
