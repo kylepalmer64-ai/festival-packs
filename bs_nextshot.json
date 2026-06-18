@@ -54,5 +54,35 @@
 
     { "name": "Main Entrance", "lat": 52.7458, "lng": -1.6312, "category": "entrance" },
     { "name": "Camping Entrance", "lat": 52.7438, "lng": -1.6315, "category": "entrance" }
+  
+    {
+      "name": "DRAGONS HOARD",
+      "lat": 52.8269,
+      "lng": -1.3733,
+      "category": "stall",
+      "partner": true,
+      "icon": "dhoard.png"
+    },
+    {
+      "name": "FAT FRANK'S CAMPING SHOP",
+      "lat": 52.8287,
+      "lng": -1.3875,
+      "category": "stall",
+      "partner": true,
+      "icon": "ffhero.png"
+    },
+    { "name": "SCARLET IN CHAINS", "lat": 52.8240, "lng": -1.3707, "category": "stall", "icon": "sichero.png", "partner": true },
+    { "name": "MALL OF DEATH", "lat": 52.8318, "lng": -1.3868, "category": "stall", "icon": "modhero.png", "partner": true },
+    { "name": "RANV'S RASOI", "lat": 52.8260, "lng": -1.3716, "category": "food", "icon": "rnvhero.png", "partner": true },
+    { "name": "FESTIVAL SAMARITANS (24hr)", "lat": 52.8299, "lng": -1.3892, "category": "wellbeing", "icon": "samhero.png", "partner": true },
+    {
+      "name": "FESTPOD",
+      "lat": 52.8287,
+      "lng": -1.3875,
+      "category": "stage",
+      "icon": "fphero.png",
+      "partner": true,
+      "url": "https://festpod.co.uk/"
+    }
   ]
 }
