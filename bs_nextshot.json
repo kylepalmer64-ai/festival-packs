@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
 
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/bsmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/bshero.png",
@@ -53,7 +53,7 @@
     { "name": "Camping - General", "lat": 52.7440, "lng": -1.6310, "category": "camping" },
 
     { "name": "Main Entrance", "lat": 52.7458, "lng": -1.6312, "category": "entrance" },
-    { "name": "Camping Entrance", "lat": 52.7438, "lng": -1.6315, "category": "entrance" }
+    { "name": "Camping Entrance", "lat": 52.7438, "lng": -1.6315, "category": "entrance" },
   
     {
       "name": "DRAGONS HOARD",
