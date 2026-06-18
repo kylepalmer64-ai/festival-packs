@@ -12,9 +12,9 @@
   "messagesFile": "bs_messages.json",
 
   "categoryColors": {
-    "stall": "66040E",
+    "stall": "#66040E",
     "stage": "#66040E",
-    "wellbeing": "00FF00",
+    "wellbeing": "#00FF00",
     "market": "#8B00FF",
     "camping": "#228B22",
     "washroom": "#4DA6FF",
