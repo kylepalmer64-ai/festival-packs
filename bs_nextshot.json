@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
 
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/bsmap2.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/bshero.png",
@@ -28,7 +28,7 @@
   },
 
   "listings": [
-    { "stage": "Ronnie James Dio", "time": "17:15", "act": "Heavysaurus" },   
+    { "stage": "Ronnie James Dio", "time": "17:15", "act": "Heavysaurus", "day": "Thur 7th" },   
     { "stage": "Ronnie James Dio", "time": "18:55", "act": "Evil Scarecrow" }, 
     { "stage": "Ronnie James Dio", "time": "21:10", "act": "Saxon" }, 
     
@@ -38,7 +38,7 @@
     { "stage": "Sophie Lancaster Stage", "time": "21:00", "act": "Black Spiders" },
     { "stage": "Sophie Lancaster Stage", "time": "22:40", "act": "Cryptopsy" },
     
-    { "stage": "Ronnie James Dio", "time": "10:45", "act": "Battlesnake" },   
+    { "stage": "Ronnie James Dio", "time": "10:45", "act": "Battlesnake", "day": "Fri 8th" },   
     { "stage": "Ronnie James Dio", "time": "11:45", "act": "Party Cannon" }, 
     { "stage": "Ronnie James Dio", "time": "12:45", "act": "SKYND" }, 
     { "stage": "Ronnie James Dio", "time": "13:45", "act": "Life of Agony" }, 
@@ -53,7 +53,6 @@
     { "stage": "Sophie Lancaster Stage", "time": "12:10", "act": "Hammer" },
     { "stage": "Sophie Lancaster Stage", "time": "13:10", "act": "Sellsword" },
     { "stage": "Sophie Lancaster Stage", "time": "14:20", "act": "Hidden Intent" },
-    
     { "stage": "Sophie Lancaster Stage", "time": "15:40", "act": "Excrementory Grindfuckers" },
     { "stage": "Sophie Lancaster Stage", "time": "17:00", "act": "Seething Akira" },
     { "stage": "Sophie Lancaster Stage", "time": "18:25", "act": "Neckbreakker" },
@@ -80,7 +79,7 @@
     { "stage": "EMP Stage", "time": "18:30", "act": "Soulride" },
     { "stage": "EMP Stage", "time": "20:15", "act": "Vanitas" },
 
-    { "stage": "Ronnie James Dio", "time": "10:45", "act": "Inhuman Nature"  },   
+    { "stage": "Ronnie James Dio", "time": "10:45", "act": "Inhuman Nature". "day": "Sat 9th"  },   
     { "stage": "Ronnie James Dio", "time": "11:45", "act": "Imperial Age" }, 
     { "stage": "Ronnie James Dio", "time": "12:45", "act": "The Scratch" }, 
     { "stage": "Ronnie James Dio", "time": "13:45", "act": "Urne" }, 
@@ -121,7 +120,7 @@
     { "stage": "EMP Stage", "time": "18:40", "act": "Troll Mother" },
     { "stage": "EMP Stage", "time": "20:15", "act": "Dosed" },
 
-    { "stage": "Ronnie James Dio", "time": "10:45", "act": "Bootyard Bandits" },   
+    { "stage": "Ronnie James Dio", "time": "10:45", "act": "Bootyard Bandits", "day": "Sun 10th" },   
     { "stage": "Ronnie James Dio", "time": "11:45", "act": "Graphic Nature" }, 
     { "stage": "Ronnie James Dio", "time": "12:45", "act": "Castle Rat" }, 
     { "stage": "Ronnie James Dio", "time": "13:45", "act": "Kittie" }, 
