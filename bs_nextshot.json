@@ -195,7 +195,7 @@
     { "name": "Merch Tent", "lat": 52.7459, "lng": -1.6286, "category": "merch" },
     { "name": "Trading Village", "lat": 52.7457, "lng": -1.6288, "category": "market" },
 
-    { "name": "Luxury", "lat": 52.7440, "lng": -1.6310, "category": "camping" },
+    { "name": "Luxury", "lat": 52.7440, "lng": -1.6310, "category": "camping", "icon": "luhero.png" },
     { "name": "Serpent's Lair", "lat": 52.7440, "lng": -1.6310, "category": "camping", "icon": "serphero.png" },
     { "name": "Niflheim", "lat": 52.7440, "lng": -1.6310, "category": "camping", "icon": "nihero.png" },
     { "name": "Valahalla", "lat": 52.7440, "lng": -1.6310, "category": "camping", "icon": "valhero.png" },
@@ -204,7 +204,7 @@
     { "name": "Ragnarok", "lat": 52.7440, "lng": -1.6310, "category": "camping", "icon": "raghero.png" },
     { "name": "Vanaheim", "lat": 52.7440, "lng": -1.6310, "category": "camping", "icon": "vanhero.png" },
     { "name": "Kyrr (quiet)", "lat": 52.7440, "lng": -1.6310, "category": "camping", "icon": "kyhero.png" },
-    { "name": "Asgard", "lat": 52.7440, "lng": -1.6310, "category": "camping", "icon": "ashero.png", "icon": "luhero.png" },
+    { "name": "Asgard", "lat": 52.7440, "lng": -1.6310, "category": "camping", "icon": "ashero.png" },
 
     { "name": "Main Entrance", "lat": 52.7458, "lng": -1.6312, "category": "entrance" },
     { "name": "Arena Entrance", "lat": 52.7438, "lng": -1.6315, "category": "entrance" },
