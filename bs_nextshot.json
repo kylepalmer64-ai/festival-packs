@@ -28,7 +28,7 @@
   },
 
   "listings": [
-    { "stage": "Ronnie James Dio", "time": "17:15", "act": "Heavysaurus",  "day": "THU 7th"  },   
+    { "stage": "Ronnie James Dio", "time": "17:15", "act": "Heavysaurus" },   
     { "stage": "Ronnie James Dio", "time": "18:55", "act": "Evil Scarecrow" }, 
     { "stage": "Ronnie James Dio", "time": "21:10", "act": "Saxon" }, 
     
@@ -38,7 +38,7 @@
     { "stage": "Sophie Lancaster Stage", "time": "21:00", "act": "Black Spiders" },
     { "stage": "Sophie Lancaster Stage", "time": "22:40", "act": "Cryptopsy" },
     
-    { "stage": "Ronnie James Dio", "time": "10:45", "act": "Battlesnake",  "day": "FRI 8th"  },   
+    { "stage": "Ronnie James Dio", "time": "10:45", "act": "Battlesnake" },   
     { "stage": "Ronnie James Dio", "time": "11:45", "act": "Party Cannon" }, 
     { "stage": "Ronnie James Dio", "time": "12:45", "act": "SKYND" }, 
     { "stage": "Ronnie James Dio", "time": "13:45", "act": "Life of Agony" }, 
@@ -80,7 +80,7 @@
     { "stage": "EMP Stage", "time": "18:30", "act": "Soulride" },
     { "stage": "EMP Stage", "time": "20:15", "act": "Vanitas" },
 
-    { "stage": "Ronnie James Dio", "time": "10:45", "act": "Inhuman Nature",  "day": "SAT 9th"  },   
+    { "stage": "Ronnie James Dio", "time": "10:45", "act": "Inhuman Nature"  },   
     { "stage": "Ronnie James Dio", "time": "11:45", "act": "Imperial Age" }, 
     { "stage": "Ronnie James Dio", "time": "12:45", "act": "The Scratch" }, 
     { "stage": "Ronnie James Dio", "time": "13:45", "act": "Urne" }, 
@@ -121,7 +121,7 @@
     { "stage": "EMP Stage", "time": "18:40", "act": "Troll Mother" },
     { "stage": "EMP Stage", "time": "20:15", "act": "Dosed" },
 
-    { "stage": "Ronnie James Dio", "time": "10:45", "act": "Bootyard Bandits",  "day": "SUN 10th"  },   
+    { "stage": "Ronnie James Dio", "time": "10:45", "act": "Bootyard Bandits" },   
     { "stage": "Ronnie James Dio", "time": "11:45", "act": "Graphic Nature" }, 
     { "stage": "Ronnie James Dio", "time": "12:45", "act": "Castle Rat" }, 
     { "stage": "Ronnie James Dio", "time": "13:45", "act": "Kittie" }, 
