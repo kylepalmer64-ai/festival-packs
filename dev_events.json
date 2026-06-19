@@ -1,5 +1,5 @@
 {
-  "version": 26,
+  "version": 27,
   "events": [
     {
       "id": "kteepee_demo",
@@ -43,7 +43,7 @@
       "id": "bloodstock_pack",
       "name": "BLD-STK-26 🤟🏻",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/bs_nextshot.json?v=5"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/bs_nextshot.json?v=6"
     },
 
     {
