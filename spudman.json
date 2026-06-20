@@ -8,7 +8,7 @@
   "premiumTileColor": "#FF3F98",
   "premiumTileBorder": "#FF3F98",
   "panelColor": "#331010EE",
-  "messagesFile": "spd_messages.json",
+  "messagesFile": "spd_mesages.json",
   "categoryColors": {
     "spudman live": "#FF3F98",
     "stage": "#FF3F98",
