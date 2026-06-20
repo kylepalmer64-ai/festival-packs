@@ -45,23 +45,28 @@
   ],
 
   "vendors": [
-    { "name": "Main Stage", "lat": 51.9798, "lng": -0.2255, "category": "stage" },
-    { "name": "Second Stage", "lat": 51.9792, "lng": -0.2268, "category": "stage" },
-    { "name": "Forest Stage", "lat": 51.9801, "lng": -0.2272, "category": "stage" },
+    
 
+
+
+    { "name": "The Ashworth Madhouse", "lat": 51.9798, "lng": -0.2255, "category": "stage", "icon": "marq.png" },
+    { "name": "The Riot Noise Truck", "lat": 51.9792, "lng": -0.2268, "category": "stage", "icon": "trkstg.png"},
+    { "name": "The Crazy Diamonds Club", "lat": 51.9801, "lng": -0.2272, "category": "stage", "icon": "rkstg.png" },
+    { "name": "USS Seanie T in The Woods", "lat": 51.9801, "lng": -0.2272, "category": "stage", "icon": "wdstg.png" },
+   
     { "name": "Toilet Block A", "lat": 51.9796, "lng": -0.2250, "category": "toilet" },
     { "name": "Toilet Block B", "lat": 51.9790, "lng": -0.2259, "category": "toilet" },
     { "name": "Toilet Block C", "lat": 51.9803, "lng": -0.2264, "category": "toilet" },
 
-    { "name": "Security Point North", "lat": 51.9804, "lng": -0.2258, "category": "security" },
-    { "name": "Security Point South", "lat": 51.9789, "lng": -0.2263, "category": "security" },
+    { "name": "Security Point North", "lat": 51.9804, "lng": -0.2258, "category": "security", "icon": "police.png" },
+    { "name": "Security Point South", "lat": 51.9789, "lng": -0.2263, "category": "security", "icon": "police.png" },
 
-    { "name": "Medical Tent", "lat": 51.9797, "lng": -0.2270, "category": "medical" },
+    { "name": "Medical Tent", "lat": 51.9797, "lng": -0.2270, "category": "medical", "icon": "ambul.png" },
 
     { "name": "Water Refill Station A", "lat": 51.9794, "lng": -0.2261, "category": "water" },
     { "name": "Water Refill Station B", "lat": 51.9800, "lng": -0.2253, "category": "water" },
 
-    { "name": "Main Bar", "lat": 51.9793, "lng": -0.2274, "category": "bar" },
+    { "name": "Main Bar", "lat": 51.9793, "lng": -0.2274, "category": "bar", "icon": "brbar.png" },
     { "name": "Forest Bar", "lat": 51.9802, "lng": -0.2251, "category": "bar" },
 
     { "name": "Food Court A", "lat": 51.9791, "lng": -0.2266, "category": "food" },
@@ -70,8 +75,8 @@
     { "name": "Merch Tent", "lat": 51.9795, "lng": -0.2276, "category": "merch" },
     { "name": "Craft Stalls", "lat": 51.9803, "lng": -0.2267, "category": "stall" },
 
-    { "name": "Main Entrance", "lat": 51.9788, "lng": -0.2257, "category": "entrance" },
-    { "name": "Camping Entrance", "lat": 51.9805, "lng": -0.2275, "category": "entrance" },
+    { "name": "Main Entrance", "lat": 51.9788, "lng": -0.2257, "category": "entrance", "icon": "entry2.png" },
+    { "name": "Camping Entrance", "lat": 51.9805, "lng": -0.2275, "category": "entrance", "icon": "entry1.png" },
 
     { "name": "General Camping", "lat": 51.9806, "lng": -0.2262, "category": "camp" },
     { "name": "Quiet Camping", "lat": 51.9787, "lng": -0.2271, "category": "camp" },
@@ -98,7 +103,7 @@
       "lng": -0.2252,
       "category": "food",
       "partner": true,
-      "icon": "burg.png"
+      "icon": "burfri.png"
     },
     
 
