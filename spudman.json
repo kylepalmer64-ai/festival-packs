@@ -5,14 +5,13 @@
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/spdpanel.png",
   "premiumHeader": "Spudman Live Events",
   "listingsHeader": "When & Where",
-  "premiumTileColor": "#FF3F98",
+  "premiumTileColor": "#C2185B",
   "premiumTileBorder": "#FF3F98",
   "panelColor": "#331010EE",
   "messagesFile": "spd_mesages.json",
   "categoryColors": {
-    "spudman live": "#FF3F98",
-    "next stop": "#FF3F98",
-    "socials": "#FF3F98"
+    "next stops": "#C2185B",
+    "socials": "#C2185B"
   },
   "listings": [
     { "stage": "Biggleswade", "time": "09:00", "act": "Town Center", "day": "Thur 7th" },
@@ -20,11 +19,11 @@
     { "stage": "Tamworth", "time": "09:30", "act": "Town Fair", "day": "Sat 10th" }
   ],
   "vendors": [
-    { "name": "Biggleswade", "lat": 52.7460, "lng": -1.6280, "category": "next stop", "icon": "spdhero.png" },
-    { "name": "Letchworth", "lat": 52.7468, "lng": -1.6295, "category": "next stop", "icon": "spdhero.png" },
-    { "name": "Tamworth", "lat": 52.7455, "lng": -1.6270, "category": "next stop", "icon": "spdhero.png" },
+    { "name": "Biggleswade", "lat": 52.7460, "lng": -1.6280, "category": "next stops", "icon": "spdhero.png" },
+    { "name": "Letchworth", "lat": 52.7468, "lng": -1.6295, "category": "next stops", "icon": "spdhero.png" },
+    { "name": "Tamworth", "lat": 52.7455, "lng": -1.6270, "category": "next stops", "icon": "spdhero.png" },
 
-    { "name": "Spudman Live", "lat": 52.7455, "lng": -1.6270, "category": "spudman live", "partner": true, "icon": "spdhero.png" },
+    { "name": "Spudman", "lat": 52.7455, "lng": -1.6270, "category": "next stops", "partner": true, "icon": "spdhero.png" },
     
     { "name": "Insta", "lat": 52.8240, "lng": -1.3707, "category": "socials", "icon": "inhero.png", "url": "https://www.instagram.com/spudmanofficial/" },
     { "name": "Facebook", "lat": 52.8318, "lng": -1.3868, "category": "socials", "icon": "fbhero.png", "url": "https://www.facebook.com/spudmantamworth" },
