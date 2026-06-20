@@ -11,7 +11,7 @@
   "messagesFile": "spd_mesages.json",
   "categoryColors": {
     "spudman live": "#FF3F98",
-    "stage": "#FF3F98",
+    "next stop": "#FF3F98",
     "socials": "#FF3F98"
   },
   "listings": [
@@ -20,9 +20,9 @@
     { "stage": "Tamworth", "time": "09:30", "act": "Town Fair", "day": "Sat 10th" }
   ],
   "vendors": [
-    { "name": "Biggleswade", "lat": 52.7460, "lng": -1.6280, "category": "stage", "icon": "spdhero.png" },
-    { "name": "Letchworth", "lat": 52.7468, "lng": -1.6295, "category": "stage", "icon": "spdhero.png" },
-    { "name": "Tamworth", "lat": 52.7455, "lng": -1.6270, "category": "stage", "icon": "spdhero.png" },
+    { "name": "Biggleswade", "lat": 52.7460, "lng": -1.6280, "category": "next stop", "icon": "spdhero.png" },
+    { "name": "Letchworth", "lat": 52.7468, "lng": -1.6295, "category": "next stop", "icon": "spdhero.png" },
+    { "name": "Tamworth", "lat": 52.7455, "lng": -1.6270, "category": "next stop", "icon": "spdhero.png" },
     {
       "name": "Spudman",
       "lat": 52.8269,
@@ -32,11 +32,11 @@
       "icon": "spdhero.png",
       "url": "https://spudman.co.uk/"
     },
-    { "name": "Insta", "lat": 52.8240, "lng": -1.3707, "category": "socials", "icon": "sichero.png", "partner": true, "url": "https://www.instagram.com/spudmanofficial/" },
-    { "name": "Facebook", "lat": 52.8318, "lng": -1.3868, "category": "socials", "icon": "modhero.png", "partner": true, "url": "https://www.facebook.com/spudmantamworth" },
-    { "name": "TikTok", "lat": 52.8260, "lng": -1.3716, "category": "socials", "icon": "rnvhero.png", "partner": true, "url": "https://www.tiktok.com/@spudarmy?lang=en" },
-    { "name": "YouTube", "lat": 52.8260, "lng": -1.3716, "category": "socials", "icon": "mvxhero.png", "partner": true, "url": "https://www.youtube.com/@SpudManYT" },
-    { "name": "Official", "lat": 52.8299, "lng": -1.3892, "category": "socials", "icon": "samhero.png", "partner": true, "url": "https://spudman.co.uk/" },
+    { "name": "Insta", "lat": 52.8240, "lng": -1.3707, "category": "socials", "icon": "spdhero.png", "partner": true, "url": "https://www.instagram.com/spudmanofficial/" },
+    { "name": "Facebook", "lat": 52.8318, "lng": -1.3868, "category": "socials", "icon": "spdhero.png", "partner": true, "url": "https://www.facebook.com/spudmantamworth" },
+    { "name": "TikTok", "lat": 52.8260, "lng": -1.3716, "category": "socials", "icon": "spdhero.png", "partner": true, "url": "https://www.tiktok.com/@spudarmy?lang=en" },
+    { "name": "YouTube", "lat": 52.8260, "lng": -1.3716, "category": "socials", "icon": "spdhero.png", "partner": true, "url": "https://www.youtube.com/@SpudManYT" },
+    { "name": "Official", "lat": 52.8299, "lng": -1.3892, "category": "socials", "icon": "spdhero.png", "partner": true, "url": "https://spudman.co.uk/" },
     {
       "name": "KteePee",
       "lat": 51.981150,
