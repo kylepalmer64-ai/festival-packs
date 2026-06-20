@@ -1,0 +1,127 @@
+{
+  "version": 1,
+  "mode": "festival",
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/2trmap.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/2trhero.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/2trpanel.png",
+  "premiumHeader": "Theougj the Wilderness",
+  "listingsHeader": "Show Times",
+  "premiumTileColor": "#FFCC33",
+  "premiumTileBorder": "#FFCC33",
+  "panelColor": "#FF222222",
+  "messagesFile": "2tr_messages.json",
+  "categoryColors": {
+    "stage": "#E94B3C",
+    "food": "#4CAF50",
+    "bar": "#9C6F44",
+    "trader": "#3F8EFC",
+    "toilet": "#888888",
+    "medical": "#FF4444",
+    "security": "#222222",
+    "camping": "#6B4F9C"
+  },
+  "listings": [
+    { "stage": "Main Stage", "time": "TBC", "act": "TBC", "day": "Wed 8th" },
+    { "stage": "The Cave", "time": "TBC", "act": "TBC", "day": "Wed 8th" },
+    { "stage": "Forest Stage", "time": "TBC", "act": "TBC", "day": "Wed 8th" },
+
+    { "stage": "Main Stage", "time": "TBC", "act": "TBC", "day": "Thu 9th" },
+    { "stage": "The Cave", "time": "TBC", "act": "TBC", "day": "Thu 9th" },
+    { "stage": "Forest Stage", "time": "TBC", "act": "TBC", "day": "Thu 9th" },
+
+    { "stage": "Main Stage", "time": "TBC", "act": "TBC", "day": "Fri 10th" },
+    { "stage": "The Cave", "time": "TBC", "act": "TBC", "day": "Fri 10th" },
+    { "stage": "Forest Stage", "time": "TBC", "act": "TBC", "day": "Fri 10th" },
+
+    { "stage": "Main Stage", "time": "TBC", "act": "TBC", "day": "Sat 11th" },
+    { "stage": "The Cave", "time": "TBC", "act": "TBC", "day": "Sat 11th" },
+    { "stage": "Forest Stage", "time": "TBC", "act": "TBC", "day": "Sat 11th" }
+  ],
+  "vendors": [
+    {
+      "name": "Main Stage",
+      "lat": 51.8770,
+      "lng": -1.9530,
+      "category": "stage",
+      "icon": "rkstg.png"
+    },
+    {
+      "name": "The Cave",
+      "lat": 51.8775,
+      "lng": -1.9540,
+      "category": "stage",
+      "icon": "marq.png"
+    },
+    {
+      "name": "Forest Stage",
+      "lat": 51.8765,
+      "lng": -1.9520,
+      "category": "stage",
+      "icon": "bigtop.png"
+    },
+
+    {
+      "name": "EXAMPLE PREMIUM FOOD VENDOR",
+      "lat": 51.8772,
+      "lng": -1.9535,
+      "category": "food",
+      "partner": true,
+      "icon": "burgri.png",
+    },
+    {
+      "name": "EXAMPLE STANDARD FOOD VENDOR",
+      "lat": 51.8768,
+      "lng": -1.9528,
+      "category": "food",
+      "icon": "babfri.png"
+    },
+
+    {
+      "name": "EXAMPLE BAR",
+      "lat": 51.8773,
+      "lng": -1.9533,
+      "category": "bar",
+      "icon": "beerr.png"
+    },
+
+    {
+      "name": "EXAMPLE TRADER STALL",
+      "lat": 51.8769,
+      "lng": -1.9525,
+      "category": "trader",
+      "icon": "beerr.png"
+    },
+
+    {
+      "name": "Toilets - Main Field",
+      "lat": 51.8771,
+      "lng": -1.9531,
+      "category": "toilet",
+      "icon": "toilet.png"
+    },
+
+    {
+      "name": "Medical Tent",
+      "lat": 51.8774,
+      "lng": -1.9529,
+      "category": "medical",
+      "icon": "ambul.png"
+    },
+
+    {
+      "name": "Welfare / Security Point",
+      "lat": 51.8767,
+      "lng": -1.9534,
+      "category": "security",
+      "icon": "police.png"
+    },
+
+    {
+      "name": "Campsite Entrance",
+      "lat": 51.8780,
+      "lng": -1.9545,
+      "category": "camping",
+      "icon": "tent.png"
+    }
+  ]
+}
