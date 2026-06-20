@@ -1,11 +1,17 @@
 {
-  "version": 27,
+  "version": 28,
   "events": [
     {
       "id": "kteepee_demo",
       "name": "KteePee Demo",
       "category": "Festival",
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/kteepee_demo.json?v=6"
+    },
+    {
+      "id": "bloodstock_pack",
+      "name": "BLD-STK-26 🤟🏻",
+      "category": "Festival",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/bs_nextshot.json?v=7"
     },
     {
       "id": "ubw7",
@@ -39,12 +45,7 @@
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/balstock.json?v=3"
     },
 
-    {
-      "id": "bloodstock_pack",
-      "name": "BLD-STK-26 🤟🏻",
-      "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/bs_nextshot.json?v=6"
-    },
+    
 
     {
       "id": "mucky_weekender",
