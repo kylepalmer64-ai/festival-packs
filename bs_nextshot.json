@@ -178,8 +178,8 @@
     { "name": "Food Court - Main Arena", "lat": 52.7462, "lng": -1.6278, "category": "food" },
     { "name": "Food Village - Camping", "lat": 52.7448, "lng": -1.6305, "category": "food" },
 
-    { "name": "Security HQ - Main Entrance", "lat": 52.7458, "lng": -1.6310, "category": "security" },
-    { "name": "Medical Tent", "lat": 52.7461, "lng": -1.6282, "category": "medical" },
+    { "name": "Security HQ - Main Entrance", "lat": 52.7458, "lng": -1.6310, "category": "security", "icon": "police.png" },
+    { "name": "Medical Tent", "lat": 52.7461, "lng": -1.6282, "category": "medical", "icon": "ambul.png" },
 
     { "name": "Water Point North", "lat": 52.7466, "lng": -1.6290, "category": "water" },
     { "name": "Water Point South", "lat": 52.7450, "lng": -1.6296, "category": "water" },
