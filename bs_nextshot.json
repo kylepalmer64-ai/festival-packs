@@ -169,14 +169,14 @@
   "vendors": [
     { "name": "Ronnie James DIO", "lat": 52.7460, "lng": -1.6280, "category": "stage", "icon": "distg.png" },
     { "name": "Sophie Lancaster", "lat": 52.7468, "lng": -1.6295, "category": "stage", "icon": "bigtop.png" },
-    { "name": "New Blood", "lat": 52.7455, "lng": -1.6270, "category": "stage", "icon": "bigtop.png" },
+    { "name": "New Blood", "lat": 52.7455, "lng": -1.6270, "category": "stage", "icon": "marq.png" },
     { "name": "EMP", "lat": 52.7455, "lng": -1.6270, "category": "stage", "icon": "bigtop.png" },
 
     { "name": "Washrooms - Main Arena", "lat": 52.7463, "lng": -1.6285, "category": "washroom" },
     { "name": "Washrooms - Camping", "lat": 52.7445, "lng": -1.6300, "category": "washroom" },
 
-    { "name": "Food Court - Main Arena", "lat": 52.7462, "lng": -1.6278, "category": "food" },
-    { "name": "Food Village - Camping", "lat": 52.7448, "lng": -1.6305, "category": "food" },
+    { "name": "Food Court - Main Arena", "lat": 52.7462, "lng": -1.6278, "category": "food", "icon": "burfri.png" },
+    { "name": "Food Village - Camping", "lat": 52.7448, "lng": -1.6305, "category": "food", "icon": "fries.png" },
 
     { "name": "Security HQ - Main Entrance", "lat": 52.7458, "lng": -1.6310, "category": "security", "icon": "police.png" },
     { "name": "Medical Tent", "lat": 52.7461, "lng": -1.6282, "category": "medical", "icon": "ambul.png" },
@@ -205,8 +205,8 @@
     { "name": "Kyrr (quiet)", "lat": 52.7440, "lng": -1.6310, "category": "camping", "icon": "kyhero.png" },
     { "name": "Asgard", "lat": 52.7440, "lng": -1.6310, "category": "camping", "icon": "ashero.png" },
 
-    { "name": "Main Entrance", "lat": 52.7458, "lng": -1.6312, "category": "entrance" },
-    { "name": "Arena Entrance", "lat": 52.7438, "lng": -1.6315, "category": "entrance" },
+    { "name": "Main Entrance", "lat": 52.7458, "lng": -1.6312, "category": "entrance", "icon": "entry2.png" },
+    { "name": "Arena Entrance", "lat": 52.7438, "lng": -1.6315, "category": "entrance", "icon": "entry1.png" },
   
     {
       "name": "DRAGONS HOARD",
