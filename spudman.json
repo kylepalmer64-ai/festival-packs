@@ -11,7 +11,7 @@
   "messagesFile": "spd_messages.json",
   "categoryColors": {
     "spudman live": "#FF3F98",
-    "next stop": "#FF3F98",
+    "stage": "#FF3F98",
     "socials": "#FF3F98"
   },
   "listings": [
@@ -20,9 +20,9 @@
     { "stage": "Tamworth", "time": "09:30", "act": "Town Fair", "day": "Sat 10th" }
   ],
   "vendors": [
-    { "name": "Biggleswade", "lat": 52.7460, "lng": -1.6280, "category": "next stop", "icon": "spdhero.png" },
-    { "name": "Letchworth", "lat": 52.7468, "lng": -1.6295, "category": "next stop", "icon": "spdhero.png" },
-    { "name": "Tamworth", "lat": 52.7455, "lng": -1.6270, "category": "next stop", "icon": "spdhero.png" },
+    { "name": "Biggleswade", "lat": 52.7460, "lng": -1.6280, "category": "stage", "icon": "spdhero.png" },
+    { "name": "Letchworth", "lat": 52.7468, "lng": -1.6295, "category": "stage", "icon": "spdhero.png" },
+    { "name": "Tamworth", "lat": 52.7455, "lng": -1.6270, "category": "stage", "icon": "spdhero.png" },
     {
       "name": "Spudman",
       "lat": 52.8269,
@@ -50,7 +50,7 @@
       "name": "Spudman",
       "lat": 52.8287,
       "lng": -1.3875,
-      "category": "next stop",
+      "category": "stage",
       "icon": "spdhero.png",
       "partner": true,
       "url": "https://spudman.co.uk/"
