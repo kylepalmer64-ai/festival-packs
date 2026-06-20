@@ -1,30 +1,30 @@
 {
-  "version": 4,
+  "version": 5,
 
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/bsmap2.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/bshero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/bspanel.png",
   "premiumHeader": "On Site Must Haves!",
   "listingsHeader": "Set Times 🤘",
-  "premiumTileColor": "#BB0000",
+  "premiumTileColor": "#7A0A0A",
   "premiumTileBorder": "#BB0000",
-  "panelColor": "#55222222",
+  "panelColor": "#331010EE",
   "messagesFile": "bs_messages.json",
 
   "categoryColors": {
-    "stall": "#66040E",
-    "stage": "#66040E",
-    "wellbeing": "#00FF00",
-    "market": "#8B00FF",
-    "camping": "#228B22",
-    "washroom": "#4DA6FF",
-    "bar": "#00C2FF",
-    "water": "#4DA6FF",
-    "merch": "#FFAA00",
-    "entrance": "#66040E",
-    "security": "#333333",
-    "medical": "#FF3333",
-    "food": "#FF0000"
+    "stall": "#5A0E12",
+    "stage": "#7A0A0A",
+    "wellbeing": "#8A9A7B",
+    "market": "#5E2A6E",
+    "camping": "#3A4A32",
+    "washroom": "#3A4F5F",
+    "bar": "#7A3A00",
+    "water": "#2E4A5A",
+    "merch": "#8A5A1A",
+    "entrance": "#550000",
+    "security": "#1A1A1A",
+    "medical": "#A11212",
+    "food": "#7A1A1A"
   },
 
   "listings": [
@@ -167,28 +167,28 @@
   ],
 
   "vendors": [
-    { "name": "Ronnie James DIO", "lat": 52.7460, "lng": -1.6280, "category": "stage", "icon": "bigtop.png" },
+    { "name": "Ronnie James DIO", "lat": 52.7460, "lng": -1.6280, "category": "stage", "icon": "distg.png" },
     { "name": "Sophie Lancaster", "lat": 52.7468, "lng": -1.6295, "category": "stage", "icon": "bigtop.png" },
-    { "name": "New Blood", "lat": 52.7455, "lng": -1.6270, "category": "stage", "icon": "bigtop.png" },
+    { "name": "New Blood", "lat": 52.7455, "lng": -1.6270, "category": "stage", "icon": "marq.png" },
     { "name": "EMP", "lat": 52.7455, "lng": -1.6270, "category": "stage", "icon": "bigtop.png" },
 
     { "name": "Washrooms - Main Arena", "lat": 52.7463, "lng": -1.6285, "category": "washroom" },
     { "name": "Washrooms - Camping", "lat": 52.7445, "lng": -1.6300, "category": "washroom" },
 
-    { "name": "Food Court - Main Arena", "lat": 52.7462, "lng": -1.6278, "category": "food" },
-    { "name": "Food Village - Camping", "lat": 52.7448, "lng": -1.6305, "category": "food" },
+    { "name": "Food Court - Main Arena", "lat": 52.7462, "lng": -1.6278, "category": "food", "icon": "burfri.png" },
+    { "name": "Food Village - Camping", "lat": 52.7448, "lng": -1.6305, "category": "food", "icon": "fries.png" },
 
-    { "name": "Security HQ - Main Entrance", "lat": 52.7458, "lng": -1.6310, "category": "security" },
-    { "name": "Medical Tent", "lat": 52.7461, "lng": -1.6282, "category": "medical" },
+    { "name": "Security HQ - Main Entrance", "lat": 52.7458, "lng": -1.6310, "category": "security", "icon": "police.png" },
+    { "name": "Medical Tent", "lat": 52.7461, "lng": -1.6282, "category": "medical", "icon": "ambul.png" },
 
     { "name": "Water Point North", "lat": 52.7466, "lng": -1.6290, "category": "water" },
     { "name": "Water Point South", "lat": 52.7450, "lng": -1.6296, "category": "water" },
 
-    { "name": "Bar - Main Arena", "lat": 52.7464, "lng": -1.6283, "category": "bar" },
-    { "name": "Serpent's Lair VIP", "lat": 52.7446, "lng": -1.6302, "category": "bar" },
-    { "name": "Arena New Blood", "lat": 52.7446, "lng": -1.6302, "category": "bar" },
-    { "name": "Arena Dio Left", "lat": 52.7446, "lng": -1.6302, "category": "bar" },
-    { "name": "Arena Sophie", "lat": 52.7446, "lng": -1.6302, "category": "bar" },
+    { "name": "Bar - Main Arena", "lat": 52.7464, "lng": -1.6283, "category": "bar", "icon": "brbar.png" },
+    { "name": "Serpent's Lair VIP", "lat": 52.7446, "lng": -1.6302, "category": "bar", "icon": "vipbar.png" },
+    { "name": "Arena New Blood", "lat": 52.7446, "lng": -1.6302, "category": "bar", "icon": "beerr.png" },
+    { "name": "Arena Dio Left", "lat": 52.7446, "lng": -1.6302, "category": "bar", "icon": "beerr.png" },
+    { "name": "Arena Sophie", "lat": 52.7446, "lng": -1.6302, "category": "bar", "icon": "beerr.png" },
     
 
     { "name": "Merch Tent", "lat": 52.7459, "lng": -1.6286, "category": "merch" },
@@ -205,8 +205,8 @@
     { "name": "Kyrr (quiet)", "lat": 52.7440, "lng": -1.6310, "category": "camping", "icon": "kyhero.png" },
     { "name": "Asgard", "lat": 52.7440, "lng": -1.6310, "category": "camping", "icon": "ashero.png" },
 
-    { "name": "Main Entrance", "lat": 52.7458, "lng": -1.6312, "category": "entrance" },
-    { "name": "Arena Entrance", "lat": 52.7438, "lng": -1.6315, "category": "entrance" },
+    { "name": "Main Entrance", "lat": 52.7458, "lng": -1.6312, "category": "entrance", "icon": "entry2.png" },
+    { "name": "Arena Entrance", "lat": 52.7438, "lng": -1.6315, "category": "entrance", "icon": "entry1.png" },
   
     {
       "name": "DRAGONS HOARD",
@@ -214,7 +214,7 @@
       "lng": -1.3733,
       "category": "stall",
       "partner": true,
-      "icon": "dhoard.png",
+      "icon": "dhgrn2.png",
       "url": "https://dragonshoardbm.co/"
     },
     {
@@ -229,7 +229,17 @@
     { "name": "SCARLET IN CHAINS", "lat": 52.8240, "lng": -1.3707, "category": "stall", "icon": "sichero.png", "partner": true, "url": "https://www.instagram.com/scarletinchains/" },
     { "name": "MALL OF DEATH", "lat": 52.8318, "lng": -1.3868, "category": "stall", "icon": "modhero.png", "partner": true, "url": "https://www.facebook.com/mallofdeath2025/" },
     { "name": "RANV'S RASOI", "lat": 52.8260, "lng": -1.3716, "category": "food", "icon": "rnvhero.png", "partner": true, "url": "https://www.instagram.com/ranvsrasoi/" },
+    { "name": "Maverix Supply Co.", "lat": 52.8260, "lng": -1.3716, "category": "stall", "icon": "mvxhero.png", "partner": true, "url": "https://www.instagram.com/maverixsupplyco/" },
     { "name": "FESTIVAL SAMARITANS (24hr)", "lat": 52.8299, "lng": -1.3892, "category": "wellbeing", "icon": "samhero.png", "partner": true, "url": "https://www.samaritans.org/branches/festival-branch/" },
+    {
+      "name": "KteePee",
+      "lat": 51.981150,
+      "lng": -0.221900,
+      "category": "stage",
+      "partner": true,
+      "icon": "kteepee.png",
+      "url": "https://www.facebook.com/kteepeeevents/"
+    },
     {
       "name": "FESTPOD",
       "lat": 52.8287,
