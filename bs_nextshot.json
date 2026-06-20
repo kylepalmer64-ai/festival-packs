@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
 
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/bsmap2.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/bshero.png",
@@ -214,7 +214,7 @@
       "lng": -1.3733,
       "category": "stall",
       "partner": true,
-      "icon": "dhoard.png",
+      "icon": "dhgrn.png",
       "url": "https://dragonshoardbm.co/"
     },
     {
