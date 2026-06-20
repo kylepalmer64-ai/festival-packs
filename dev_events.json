@@ -1,11 +1,17 @@
 {
-  "version": 28,
+  "version": 29,
   "events": [
     {
       "id": "kteepee_demo",
       "name": "KteePee Demo",
       "category": "Festival",
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/kteepee_demo.json?v=6"
+    },
+    {
+      "id": "spudman",
+      "name": "Spudman Live",
+      "category": "Festival",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/spudman.json?v=1"
     },
     {
       "id": "bloodstock_pack",
