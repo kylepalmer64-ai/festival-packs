@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "events": [
     {
       "id": "kteepee_demo",
@@ -11,7 +11,7 @@
       "id": "spudman",
       "name": "Spudman Live",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/spudman.json?v=1"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/spudman.json?v=2"
     },
     {
       "id": "bloodstock_pack",
