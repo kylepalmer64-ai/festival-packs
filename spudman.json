@@ -23,7 +23,8 @@
     { "name": "Biggleswade", "lat": 52.7460, "lng": -1.6280, "category": "next stop", "icon": "spdhero.png" },
     { "name": "Letchworth", "lat": 52.7468, "lng": -1.6295, "category": "next stop", "icon": "spdhero.png" },
     { "name": "Tamworth", "lat": 52.7455, "lng": -1.6270, "category": "next stop", "icon": "spdhero.png" },
-    
+
+    { "name": "Spudman Live", "lat": 52.7455, "lng": -1.6270, "category": "spudman live", "partner": true, "icon": "spdhero.png" },
     
     { "name": "Insta", "lat": 52.8240, "lng": -1.3707, "category": "socials", "icon": "inhero.png", "url": "https://www.instagram.com/spudmanofficial/" },
     { "name": "Facebook", "lat": 52.8318, "lng": -1.3868, "category": "socials", "icon": "fbhero.png", "url": "https://www.facebook.com/spudmantamworth" },
