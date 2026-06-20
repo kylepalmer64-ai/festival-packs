@@ -50,7 +50,7 @@
       "name": "Spudman",
       "lat": 52.8287,
       "lng": -1.3875,
-      "category": "stage",
+      "category": "next stop",
       "icon": "spdhero.png",
       "partner": true,
       "url": "https://spudman.co.uk/"
