@@ -167,7 +167,7 @@
   ],
 
   "vendors": [
-    { "name": "Ronnie James DIO", "lat": 52.7460, "lng": -1.6280, "category": "stage", "icon": "bigtop.png" },
+    { "name": "Ronnie James DIO", "lat": 52.7460, "lng": -1.6280, "category": "stage", "icon": "distg.png" },
     { "name": "Sophie Lancaster", "lat": 52.7468, "lng": -1.6295, "category": "stage", "icon": "bigtop.png" },
     { "name": "New Blood", "lat": 52.7455, "lng": -1.6270, "category": "stage", "icon": "bigtop.png" },
     { "name": "EMP", "lat": 52.7455, "lng": -1.6270, "category": "stage", "icon": "bigtop.png" },
