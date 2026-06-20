@@ -184,11 +184,11 @@
     { "name": "Water Point North", "lat": 52.7466, "lng": -1.6290, "category": "water" },
     { "name": "Water Point South", "lat": 52.7450, "lng": -1.6296, "category": "water" },
 
-    { "name": "Bar - Main Arena", "lat": 52.7464, "lng": -1.6283, "category": "bar" },
+    { "name": "Bar - Main Arena", "lat": 52.7464, "lng": -1.6283, "category": "bar", "icon": "brbar.png" },
     { "name": "Serpent's Lair VIP", "lat": 52.7446, "lng": -1.6302, "category": "bar", "icon": "vipbar.png" },
-    { "name": "Arena New Blood", "lat": 52.7446, "lng": -1.6302, "category": "bar" },
-    { "name": "Arena Dio Left", "lat": 52.7446, "lng": -1.6302, "category": "bar" },
-    { "name": "Arena Sophie", "lat": 52.7446, "lng": -1.6302, "category": "bar" },
+    { "name": "Arena New Blood", "lat": 52.7446, "lng": -1.6302, "category": "bar", "icon": "beerr.png" },
+    { "name": "Arena Dio Left", "lat": 52.7446, "lng": -1.6302, "category": "bar", "icon": "beerr.png" },
+    { "name": "Arena Sophie", "lat": 52.7446, "lng": -1.6302, "category": "bar", "icon": "beerr.png" },
     
 
     { "name": "Merch Tent", "lat": 52.7459, "lng": -1.6286, "category": "merch" },
