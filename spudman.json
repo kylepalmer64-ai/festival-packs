@@ -24,7 +24,7 @@
     { "name": "Letchworth", "lat": 52.7468, "lng": -1.6295, "category": "next stop", "icon": "spdhero.png" },
     { "name": "Tamworth", "lat": 52.7455, "lng": -1.6270, "category": "next stop", "icon": "spdhero.png" },
     {
-      "name": "Spudman",
+      "name": "Spudman Next",
       "lat": 52.8269,
       "lng": -1.3733,
       "category": "spudman live",
