@@ -6,11 +6,11 @@
   "premiumHeader": "Live & Local",
   "listingsHeader": "When & Where",
   "premiumTileColor": "#89CFF0",
-  "premiumTileBorder": "#05472A",
+  "premiumTileBorder": "#D4AF37",
   "panelColor": "#331010EE",
   "messagesFile": "kteepee_messages.json",
   "categoryColors": {
-    "venues": "#89CFF0",
+    "venues": "#D4AF37",
     "keep up to date": "#89CFF0"
   },
   "listings": [
