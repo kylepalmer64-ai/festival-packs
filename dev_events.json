@@ -1,5 +1,5 @@
 {
-  "version": 34,
+  "version": 35,
   "events": [
     {
       "id": "kteepee_demo",
@@ -11,7 +11,7 @@
       "id": "whathitch.json",
       "name": "Hitchin Live & Local",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/whathitch.json?v=1"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/whathitch.json?v=2"
     },
     {
       "id": "whatbaldock.json",
