@@ -1,11 +1,17 @@
 {
-  "version": 32,
+  "version": 33,
   "events": [
     {
       "id": "kteepee_demo",
       "name": "KteePee Demo",
       "category": "Festival",
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/kteepee_demo.json?v=6"
+    },
+    {
+      "id": "whatbaldock.json",
+      "name": "What's On - Baldock",
+      "category": "Festival",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/whatbaldock.json?v=1"
     },
     {
       "id": "dl26_nextshot",
