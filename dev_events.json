@@ -1,5 +1,5 @@
 {
-  "version": 33,
+  "version": 34,
   "events": [
     {
       "id": "kteepee_demo",
@@ -8,8 +8,14 @@
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/kteepee_demo.json?v=6"
     },
     {
+      "id": "whathitch.json",
+      "name": "Hitchin Live & Local",
+      "category": "Festival",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/whathitch.json?v=1"
+    },
+    {
       "id": "whatbaldock.json",
-      "name": "What's On - Baldock",
+      "name": "Baldock Live & Local",
       "category": "Festival",
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/whatbaldock.json?v=1"
     },
