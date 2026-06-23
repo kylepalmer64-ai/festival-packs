@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/kteepee.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap2.png",
+  "premiumHeader": "Live & Local",
+  "listingsHeader": "When & Where",
+  "premiumTileColor": "#05472A",
+  "premiumTileBorder": "#05472A",
+  "panelColor": "#331010EE",
+  "messagesFile": "kteepee_messages.json",
+  "categoryColors": {
+    "venues": "#05472A",
+    "socials": "#05472A"
+  },
+  "listings": [
+    { "stage": "Hen 'n' Chickens", "time": "19:00", "act": "Gee La Roche", "day": "Thur 7th" },
+    { "stage": "The Cock", "time": "19:30", "act": "Black Squirrels", "day": "Sat 10th" },
+    { "stage": "White Lion", "time": "20:00", "act": "Highly Minogue", "day": "Wed 14th" },
+    { "stage": "White Lion", "time": "19:30", "act": "Black Squirrels", "day": "Thur 15th" },
+    { "stage": "White Lion", "time": "10:00", "act": "Open Mic", "day": "Sat 17th" },
+    { "stage": "The Cock", "time": "20:30", "act": "Comedy Club" },
+    { "stage": "White Lion", "time": "19:00", "act": "Becky B", "day": "Wed 14th" }
+  ],
+  "vendors": [
+    { "name": "Hen 'n' Chickens", "lat": 52.7460, "lng": -1.6280, "category": "venues", "icon": "kteepee.png" },
+    { "name": "The Cock", "lat": 52.7468, "lng": -1.6295, "category": "venues", "icon": "kteepee.png" },
+    { "name": "White Lion", "lat": 52.7455, "lng": -1.6270, "category": "venues", "icon": "kteepee.png" },
+    { "name": "The Victoria", "lat": 52.7460, "lng": -1.6280, "category": "venues", "icon": "kteepee.png" },
+    { "name": "White Horse", "lat": 52.7468, "lng": -1.6295, "category": "venues", "icon": "kteepee.png" },
+    { "name": "Orange Tree", "lat": 52.7455, "lng": -1.6270, "category": "venues", "icon": "kteepee.png" },
+
+    { "name": "The Cock", "lat": 52.7455, "lng": -1.6270, "category": "venues", "partner": true, "icon": "kteepee.png" },
+    
+    { "name": "Insta", "lat": 52.8240, "lng": -1.3707, "category": "socials", "icon": "inhero.png" },
+    { "name": "Facebook", "lat": 52.8318, "lng": -1.3868, "category": "socials", "icon": "fbhero.png" },
+    { "name": "TikTok", "lat": 52.8260, "lng": -1.3716, "category": "socials", "icon": "tkhero.png" },
+    { "name": "YouTube", "lat": 52.8260, "lng": -1.3716, "category": "socials", "icon": "ythero.png" },
+    { "name": "Official", "lat": 52.8299, "lng": -1.3892, "category": "socials", "icon": "kteepee.png" }
+  ]
+}
