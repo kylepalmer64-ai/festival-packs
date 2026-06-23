@@ -24,10 +24,9 @@
   ],
   "vendors": [
     { "name": "Hen 'n' Chickens", "lat": 52.7460, "lng": -1.6280, "category": "venues", "icon": "kteepee.png" },
-    { "name": "The Cock", "lat": 52.7468, "lng": -1.6295, "category": "venues", "icon": "kteepee.png" },
-    { "name": "White Lion", "lat": 52.7455, "lng": -1.6270, "category": "venues", "icon": "kteepee.png" },
+    { "name": "White Lion", "lat": 52.7455, "lng": -1.6270, "category": "venues", "partner": true, "icon": "kteepee.png" },
     { "name": "The Victoria", "lat": 52.7460, "lng": -1.6280, "category": "venues", "icon": "kteepee.png" },
-    { "name": "White Horse", "lat": 52.7468, "lng": -1.6295, "category": "venues", "icon": "kteepee.png" },
+    { "name": "White Horse", "lat": 52.7468, "lng": -1.6295, "category": "venues","partner": true, "icon": "kteepee.png" },
     { "name": "Orange Tree", "lat": 52.7455, "lng": -1.6270, "category": "venues", "icon": "kteepee.png" },
 
     { "name": "The Cock", "lat": 52.7455, "lng": -1.6270, "category": "venues", "partner": true, "icon": "kteepee.png" },
