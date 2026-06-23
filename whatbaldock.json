@@ -5,13 +5,13 @@
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap2.png",
   "premiumHeader": "Live & Local",
   "listingsHeader": "When & Where",
-  "premiumTileColor": "#05472A",
+  "premiumTileColor": "#89CFF0",
   "premiumTileBorder": "#05472A",
   "panelColor": "#331010EE",
   "messagesFile": "kteepee_messages.json",
   "categoryColors": {
-    "venues": "#05472A",
-    "socials": "#05472A"
+    "venues": "#89CFF0",
+    "socials": "#89CFF0"
   },
   "listings": [
     { "stage": "Hen 'n' Chickens", "time": "19:00", "act": "Gee La Roche", "day": "Thur 7th" },
