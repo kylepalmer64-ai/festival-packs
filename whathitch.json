@@ -10,7 +10,7 @@
   "panelColor": "#331010EE",
   "messagesFile": "kteepee_messages.json",
   "categoryColors": {
-    "bridge street monroe": "#C1121F",
+    "bridgetown monroe": "#C1121F",
     "the george": "#C1121F",
     "the Albert Inn": "#C1121F",
     "the angels share": "#C1121F",
@@ -20,15 +20,15 @@
   },
   "categoryIcons": {
     "the george": "george.png",
-    "bridge street monroe": "george.png",
+    "bridgetown monroe": "george.png",
     "the angels share": "anghero.png",
     "the Albert Inn": "albhero.png",
     "the victoria": "vichero.png"
   },
   
   "listings": [
-    { "stage": "Bridge Street Monroe", "time": "19:00", "act": "Happy Hour", "day": "Thur 7th" },
-    { "stage": "Bridge Street Monroe", "time": "19:30", "act": "2-4-1 Cocktails", "day": "Sat 10th" },
+    { "stage": "Bridgetown Monroe", "time": "19:00", "act": "Happy Hour", "day": "Thur 7th" },
+    { "stage": "Bridgetown Monroe", "time": "19:30", "act": "2-4-1 Cocktails", "day": "Sat 10th" },
     { "stage": "The George", "time": "20:00", "act": "Highly Minogue", "day": "Wed 14th" },
     { "stage": "The George", "time": "19:30", "act": "Black Squirrels", "day": "Thur 15th" },
     { "stage": "The Angels Share", "time": "10:00", "act": "Johny Ricks", "day": "Sat 17th" },
@@ -36,8 +36,8 @@
     { "stage": "The Albert Inn", "time": "19:00", "act": "Becky B", "day": "Wed 14th" }
   ],
   "vendors": [
-    { "name": "Happy Hour", "lat": 52.7460, "lng": -1.6280, "category": "Bridge Street Monroe","icon": "bmonicon.png" },
-    { "name": "2-4-1 Cocktails", "lat": 52.7460, "lng": -1.6280, "category": "Bridge Street Monroe", "icon": "bmonicon.png" },
+    { "name": "Happy Hour", "lat": 52.7460, "lng": -1.6280, "category": "Bridgetown Monroe","icon": "bmonicon.png" },
+    { "name": "2-4-1 Cocktails", "lat": 52.7460, "lng": -1.6280, "category": "Bridgetown Monroe", "icon": "bmonicon.png" },
     { "name": "Highly Minogue", "lat": 52.7460, "lng": -1.6280, "category": "The George", "icon": "george.png" },
     { "name": "Black Squirrels", "lat": 52.7455, "lng": -1.6270, "category": "The George","icon": "george.png" },
     { "name": "DJ Joda", "lat": 52.7455, "lng": -1.6270, "category": "The George", "icon": "george.png" },
