@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/hitchmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/hithero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap2.png",
@@ -19,7 +19,7 @@
     "keep up to date": "#C1121F"
   },
   "categoryIcons": {
-    "the george": "george.png",
+    "the george": "bmonicon.png",
     "bridgetown monroe": "george.png",
     "the angels share": "anghero.png",
     "the Albert Inn": "albhero.png",
