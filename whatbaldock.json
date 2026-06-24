@@ -9,6 +9,7 @@
   "premiumTileBorder": "#D4AF37",
   "panelColor": "#331010EE",
   "messagesFile": "kteepee_messages.json",
+
   "categoryColors": {
     "Hen 'n' Chickens": "#D4AF37",
     "The Cock": "#D4AF37",
@@ -18,7 +19,13 @@
     "The Victoria": "#D4AF37",
     "keep up to date": "#89CFF0"
   },
-  
+
+  "categoryIcons": {
+    "The Cock": "kteepee.png",
+    "Orange Tree": "kteepee.png",
+    "The Victoria": "kteepee.png"
+  },
+
   "listings": [
     { "stage": "Hen 'n' Chickens", "time": "19:00", "act": "Gee La Roche", "day": "Thur 7th" },
     { "stage": "The Cock", "time": "19:30", "act": "Black Squirrels", "day": "Sat 10th" },
@@ -28,20 +35,25 @@
     { "stage": "The Cock", "time": "20:30", "act": "Comedy Club" },
     { "stage": "White Lion", "time": "19:00", "act": "Becky B", "day": "Wed 14th" }
   ],
+
   "vendors": [
     { "name": "Band A", "lat": 52.7460, "lng": -1.6280, "category": "Hen 'n' Chickens", "icon": "kteepee.png" },
     { "name": "Band B", "lat": 52.7460, "lng": -1.6280, "category": "Hen 'n' Chickens", "icon": "kteepee.png" },
     { "name": "Band 1", "lat": 52.7460, "lng": -1.6280, "category": "Hen 'n' Chickens", "icon": "kteepee.png" },
+
     { "name": "Band 2", "lat": 52.7455, "lng": -1.6270, "category": "White Lion", "icon": "kteepee.png" },
     { "name": "Band 3", "lat": 52.7455, "lng": -1.6270, "category": "White Lion", "icon": "kteepee.png" },
     { "name": "Band F", "lat": 52.7455, "lng": -1.6270, "category": "White Lion", "icon": "kteepee.png" },
+
     { "name": "Band G", "lat": 52.7460, "lng": -1.6280, "category": "The Victoria", "icon": "kteepee.png" },
     { "name": "Band H", "lat": 52.7460, "lng": -1.6280, "category": "The Victoria", "icon": "kteepee.png" },
     { "name": "Band 9", "lat": 52.7460, "lng": -1.6280, "category": "The Victoria", "icon": "kteepee.png" },
+
     { "name": "Band 10", "lat": 52.7468, "lng": -1.6295, "category": "White Horse", "icon": "kteepee.png" },
     { "name": "Band 11", "lat": 52.7468, "lng": -1.6295, "category": "White Horse", "icon": "kteepee.png" },
     { "name": "Band 12", "lat": 52.7468, "lng": -1.6295, "category": "White Horse", "icon": "kteepee.png" },
     { "name": "Band X", "lat": 52.7468, "lng": -1.6295, "category": "White Horse", "icon": "kteepee.png" },
+
     { "name": "Band Y", "lat": 52.7455, "lng": -1.6270, "category": "Orange Tree", "icon": "kteepee.png" },
     { "name": "Band Z", "lat": 52.7455, "lng": -1.6270, "category": "Orange Tree", "icon": "kteepee.png" },
     { "name": "Band P", "lat": 52.7455, "lng": -1.6270, "category": "Orange Tree", "icon": "kteepee.png" },
@@ -50,7 +62,7 @@
     { "name": "Band 21", "lat": 52.7455, "lng": -1.6270, "category": "The Cock", "icon": "kteepee.png" },
     { "name": "Band 22", "lat": 52.7455, "lng": -1.6270, "category": "The Cock", "icon": "kteepee.png" },
     { "name": "Band 23", "lat": 52.7455, "lng": -1.6270, "category": "The Cock", "icon": "kteepee.png" },
-    
+
     { "name": "Facebook", "lat": 52.8318, "lng": -1.3868, "category": "keep up to date", "icon": "fbhero.png", "url": "https://www.facebook.com/KteePeeEvents" },
     { "name": "Insta", "lat": 52.8240, "lng": -1.3707, "category": "keep up to date", "icon": "inhero.png", "url": "https://www.instagram.com/kteepee.events/" },
     { "name": "Official", "lat": 52.8299, "lng": -1.3892, "category": "keep up to date", "icon": "kteepee.png", "url": "https://www.kteepee.com/" }
