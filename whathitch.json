@@ -18,6 +18,13 @@
     "the coopers": "#C1121F",
     "keep up to date": "#C1121F"
   },
+  "categoryIcons": {
+    "bridge street monroe": "bmicon.png",
+    "the george": "george.png",
+    "the angels share": "anghero.png",
+    "the Albert Inn": "albhero.png",
+    "the victoria": "vichero.png"
+  },
   
   "listings": [
     { "stage": "Bridge Street Monroe", "time": "19:00", "act": "Happy Hour", "day": "Thur 7th" },
