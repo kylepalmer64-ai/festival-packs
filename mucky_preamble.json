@@ -1,19 +1,19 @@
 {
-  "version": 3,
+  "version": 4,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/muckypre.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/muckyweb.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/statsmap.png",
   "panelColor": "#6F8FAF",
-  "premiumHeader": " Let's Get Mucky!!",
+  "premiumHeader": " Get Ready - 10th Sept",
   "listingsHeader": "Set Times - TBC",
-  "premiumTileColor": "#C8102E",
-  "premiumTileBorder": "#6F8FAF",
+  "premiumTileColor": "#E0213A",
+  "premiumTileBorder": "#8AA9C8",
   "messagesFile": "mucky_weekender_messages2.json",
 
   "categoryColors": {
-    "tickets": "#D3542A",
-    "socials": "#F2E6D8",
-    "stages": "#142A55"
+    "tickets": "#E86A3A",
+    "socials": "#F8EFE3",
+    "stages": "#1C3A77"
   },
 
   "categoryIcons": {
