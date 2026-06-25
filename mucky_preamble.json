@@ -12,6 +12,7 @@
 
   "categoryColors": {
     "tickets": "#C8102E",
+    "vicarage farm": "#76A7C8",
     "socials": "#F8EFE3",
     "stages": "#0A1A3F"
   },
@@ -190,7 +191,7 @@
     { "name": "Instagram", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "inhero.png" },
     { "name": "2025 Aftervideo", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "ythero.png", "url": "https://youtu.be/AU0E0mXPkxI?is=kt2pQu15uu1POvOj" },
     { "name": "2024 Aftervideo", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "ythero.png", "url": "https://youtu.be/aDA0VlqsKzo?is=1DzrHG1Wb8N0xi1l" },
-    { "name": "Vicarage Farm", "lat": 51.1760, "lng": -1.2149, "catagory": "vicarage farm" },
+    { "name": "Vicarage Farm", "lat": 51.1760, "lng": -1.2149, "catagory": "vicarage farm", "icon": "castle.png" },
    
     {
       "name": "Tickets",
