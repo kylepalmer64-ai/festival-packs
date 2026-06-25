@@ -6,7 +6,7 @@
   "panelColor": "#6F8FAF",
   "premiumHeader": " Get Ready - 10th Sept",
   "listingsHeader": "Set Times - TBC",
-  "premiumTileColor": "#E0213A",
+  "premiumTileColor": "#E8D8B0",
   "premiumTileBorder": "#76A7C8",
   "messagesFile": "mucky_weekender_messages2.json",
 
@@ -18,10 +18,10 @@
   },
 
   "categoryIcons": {
-    "tickets": "mwhero2.png",
-    "vicarage farm": "castle.png",
-    "socials": "mwhero2.png",
-    "stages": "mwhero2.png"
+    "tickets": "mk2hero.png",
+    "vicarage farm": "mk2hero.png",
+    "socials": "mk2hero.png",
+    "stages": "mk2hero.png"
   },
 
   "listings": [
@@ -205,7 +205,7 @@
       "url": "https://mucky-weekender.co.uk/"
     },
     { "name": "Mucky Merch", "lat": 51.9799, "lng": -0.2252, "category": "tickets", "partner": true, "icon": "dubphero.png", "url": "https://dubpistolsmusic.co.uk/product-category/muckyweekender/" },
-    { "name": "Gallery", "lat": 51.9799, "lng": -0.2252, "category": "socials", "partner": true, "icon": "muckyweb.png", "url": "https://mucky-weekender.co.uk/gallery-2/" },
+    { "name": "Gallery", "lat": 51.9799, "lng": -0.2252, "category": "socials", "partner": true, "icon": "mk2hero.png", "url": "https://mucky-weekender.co.uk/gallery-2/" },
     { "name": "Follow Us", "lat": 51.9799, "lng": -0.2252, "category": "socials",  "partner": true, "icon": "fbhero1.png", "url": "https://www.facebook.com/muckyweekender"
      
     }
