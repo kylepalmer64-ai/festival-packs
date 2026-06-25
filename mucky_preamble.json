@@ -188,7 +188,7 @@
       "category": "tickets",
       "partner": true,
       "icon": "muckyhero.png",
-      "url": "https://mucky-weekender.co.uk/" }
+      "url": "https://mucky-weekender.co.uk/"
     },
     {
       "name": "Mucky Facebook",
@@ -197,7 +197,7 @@
       "category": "socials",
       "partner": true,
       "icon": "fbhro.png",
-      "url": "https://www.facebook.com/muckyweekender" },
+      "url": "https://www.facebook.com/muckyweekender"
     },
     {
       "name": "Mucky Instagram",   
