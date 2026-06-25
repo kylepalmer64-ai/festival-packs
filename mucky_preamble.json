@@ -187,7 +187,7 @@
     { "name": "The Crazy Diamonds Club", "lat": 51.1760, "lng": -1.2149, "category": "stages", "icon": "muckyhero.png" },
     { "name": "USS Seanie T in The Woods", "lat": 51.1760, "lng": -1.2149, "category": "stages", "icon": "muckyhero.png" },
 
-    { "name": "Instagram", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "inhero.png" },
+    { "name": "Instagram", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "inhero.png", "url": "https://www.instagram.com/muckyweekender/" },
     { "name": "2025 Aftervideo", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "ythero.png", "url": "https://youtu.be/AU0E0mXPkxI?is=kt2pQu15uu1POvOj" },
     { "name": "2024 Aftervideo", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "ythero.png", "url": "https://youtu.be/aDA0VlqsKzo?is=1DzrHG1Wb8N0xi1l" },
     
