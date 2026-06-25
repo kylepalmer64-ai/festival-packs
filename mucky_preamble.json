@@ -181,25 +181,25 @@
   "vendors": [
     
 
-    { "name": "Ashworth Madhouse", "lat": 51.9798, "lng": -0.2255, "category": "stages", "icon": "mwhero2.png" },
-    { "name": "Riot Truck", "lat": 51.9792, "lng": -0.2268, "category": "stages", "icon": "muckyhero.png"},
-    { "name": "The Crazy Diamonds Club", "lat": 51.9801, "lng": -0.2272, "category": "stages", "icon": "muckyhero.png" },
-    { "name": "USS Seanie T in The Woods", "lat": 51.9801, "lng": -0.2272, "category": "stages", "icon": "muckyhero.png" },
+    { "name": "Ashworth Madhouse", "lat": 51.1760, "lng": -1.2149, "category": "stages", "icon": "mwhero2.png" },
+    { "name": "Riot Truck", "lat": 51.1760, "lng": -1.2149, "category": "stages", "icon": "muckyhero.png"},
+    { "name": "The Crazy Diamonds Club", "lat": 51.1760, "lng": -1.2149, "category": "stages", "icon": "muckyhero.png" },
+    { "name": "USS Seanie T in The Woods", "lat": 51.1760, "lng": -1.2149, "category": "stages", "icon": "muckyhero.png" },
 
-    { "name": "Instagram", "lat": 51.9799, "lng": -0.2252, "category": "socials", "icon": "inhero.png" },
-    { "name": "2025 Aftervideo", "lat": 51.9799, "lng": -0.2252, "category": "socials", "icon": "ythero.png", "url": "https://youtu.be/AU0E0mXPkxI?is=kt2pQu15uu1POvOj" },
-    { "name": "2024 Aftervideo", "lat": 51.9799, "lng": -0.2252, "category": "socials", "icon": "ythero.png", "url": "https://youtu.be/aDA0VlqsKzo?is=1DzrHG1Wb8N0xi1l" },
+    { "name": "Instagram", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "inhero.png" },
+    { "name": "2025 Aftervideo", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "ythero.png", "url": "https://youtu.be/AU0E0mXPkxI?is=kt2pQu15uu1POvOj" },
+    { "name": "2024 Aftervideo", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "ythero.png", "url": "https://youtu.be/aDA0VlqsKzo?is=1DzrHG1Wb8N0xi1l" },
    
     {
       "name": "Tickets",
-      "lat": 51.9799,
-      "lng": -0.2252,
+      "lat": 51.1760,
+      "lng": -1.2149,
       "category": "tickets",
       "partner": true,
       "icon": "mwhero2.png",
       "url": "https://mucky-weekender.co.uk/"
     },
-    { "name": "Mucky Merch", "lat": 51.9799, "lng": -0.2252, "category": "socials", "partner": true, "icon": "dubphero.png", "url": "https://dubpistolsmusic.co.uk/product-category/muckyweekender/" },
+    { "name": "Mucky Merch", "lat": 51.9799, "lng": -0.2252, "category": "tickets", "partner": true, "icon": "dubphero.png", "url": "https://dubpistolsmusic.co.uk/product-category/muckyweekender/" },
     { "name": "Gallery", "lat": 51.9799, "lng": -0.2252, "category": "socials", "partner": true, "icon": "muckyweb.png", "url": "https://mucky-weekender.co.uk/gallery-2/" },
     { "name": "Follow Us", "lat": 51.9799, "lng": -0.2252, "category": "socials",  "partner": true, "icon": "fbhero1.png", "url": "https://www.facebook.com/muckyweekender"
      
