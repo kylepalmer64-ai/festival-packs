@@ -182,7 +182,7 @@
 
   "vendors": [
 
-    { "name": "Vicarage Farm", "lat": 51.1760, "lng": -1.2149, "catagory": "vicarage farm", "icon": "castle.png" },
+    { "name": "Vicarage Farm", "lat": 51.1760, "lng": -1.2149, "category": "vicarage farm", "icon": "castle.png" },
     
 
     { "name": "Ashworth Madhouse", "lat": 51.1760, "lng": -1.2149, "category": "stages", "icon": "mwhero2.png" },
