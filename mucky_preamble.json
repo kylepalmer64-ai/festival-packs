@@ -13,13 +13,13 @@
   "categoryColors": {
     "tickets": "#D3542A",
     "socials": "#F2E6D8",
-    "stages": "#142A55",
+    "stages": "#142A55"
   },
 
   "categoryIcons": {
     "tickets": "muckyhero.png",
     "socials": "muckyhero.png",
-    "stages": "muckyhero.png",
+    "stages": "muckyhero.png"
   },
 
   "listings": [
