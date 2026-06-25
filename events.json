@@ -1,5 +1,5 @@
 {
-  "version": 35,
+  "version": 36,
   "events": [
     {
       "id": "bloodstock_pack",
@@ -23,7 +23,7 @@
       "id": "dl26_nextshot",
       "name": "Download 2027",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/dl26_nextshot.json.json?v=1"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/dl26_nextshot.json?v=2"
     },
     {
       "id": "poles",
