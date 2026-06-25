@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/muckmap1.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/mwhero2.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/statsmap.png",
@@ -7,7 +7,7 @@
   "premiumHeader": " Get Ready - 10th Sept",
   "listingsHeader": "Set Times - TBC",
   "premiumTileColor": "#E0213A",
-  "premiumTileBorder": "#898BCE",
+  "premiumTileBorder": "#2243b6 ",
   "messagesFile": "mucky_weekender_messages2.json",
 
   "categoryColors": {
@@ -200,7 +200,7 @@
       "url": "https://mucky-weekender.co.uk/"
     },
     { "name": "Mucky Merch", "lat": 51.9799, "lng": -0.2252, "category": "socials", "partner": true, "icon": "dubphero.png", "url": "https://dubpistolsmusic.co.uk/product-category/muckyweekender/" },
-    { "name": "Gallery", "lat": 51.9799, "lng": -0.2252, "category": "socials", "partner": true, "icon": "mwhero2.png", "url": "https://mucky-weekender.co.uk/gallery-2/" },
+    { "name": "Gallery", "lat": 51.9799, "lng": -0.2252, "category": "socials", "partner": true, "icon": "muckyweb.png", "url": "https://mucky-weekender.co.uk/gallery-2/" },
     { "name": "Follow Us", "lat": 51.9799, "lng": -0.2252, "category": "socials",  "partner": true, "icon": "fbhero1.png", "url": "https://www.facebook.com/muckyweekender"
      
     }
