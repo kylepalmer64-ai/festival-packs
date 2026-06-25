@@ -1,19 +1,19 @@
 {
-  "version": 4,
-  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/muckypre.png",
-  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/muckyweb.png",
+  "version": 5,
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/muckmap1.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/mwhero2.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/statsmap.png",
   "panelColor": "#6F8FAF",
   "premiumHeader": " Get Ready - 10th Sept",
   "listingsHeader": "Set Times - TBC",
   "premiumTileColor": "#E0213A",
-  "premiumTileBorder": "#8AA9C8",
+  "premiumTileBorder": "#C8102E",
   "messagesFile": "mucky_weekender_messages2.json",
 
   "categoryColors": {
-    "tickets": "#E86A3A",
+    "tickets": "#C8102E",
     "socials": "#F8EFE3",
-    "stages": "#1C3A77"
+    "stages": "#0A1A3F"
   },
 
   "categoryIcons": {
@@ -24,11 +24,14 @@
 
   "listings": [
     { "stage": "Main", "time": "00:01", "act": "Beatles Dub Club (with horns)", "day": "THURSDAY" },
-    { "stage": "Main", "time": "00:02", "act": "Dub Catalyst" },
-    { "stage": "Main", "time": "00:03", "act": "Gentlemen's Dub Club" },
-    { "stage": "Main", "time": "00:04", "act": "Goldie Looking Chain" },
-    { "stage": "Main", "time": "00:05", "act": "Sabres of Paradise" },
-    { "stage": "Main", "time": "00:6", "act": "The Scribes" },
+    { "stage": "Main", "time": "00:02", "act": "David Rodigan" },
+    { "stage": "Main", "time": "00:03", "act": "Don Letts" },
+    { "stage": "Main", "time": "00:04", "act": "Dub Catalyst" },
+    { "stage": "Main", "time": "00:05", "act": "Gentlemen's Dub Club" },
+    { "stage": "Main", "time": "00:06", "act": "Goldie Looking Chain" },
+    { "stage": "Main", "time": "00:07", "act": "The Sabres of Paradise" },
+    { "stage": "Main", "time": "00:08", "act": "The Scribes" },
+
 
     { "stage": "Crazy Diamond", "time": "00:01", "act": "DJ Yoda" },
     { "stage": "Crazy Diamond", "time": "00:02", "act": "Frank Gane" },
@@ -40,7 +43,7 @@
     { "stage": "Crazy Diamond", "time": "00:08", "act": "Terry Farley" },
 
     
-    { "stage": "Bar", "time": "00:00", "act": "Barry Ashworth (DJ Set)" },
+    { "stage": "Bar", "time": "00:01", "act": "Barry Ashworth (DJ Set)" },
     { "stage": "Bar", "time": "00:02", "act": "Deekline" },
     { "stage": "Bar", "time": "00:03", "act": "Jinx in Dub" },
     { "stage": "Bar", "time": "00:04", "act": "Jonny Rockstar" },
@@ -60,21 +63,23 @@
     { "stage": "Woods", "time": "00:02", "act": "Aries" },
     { "stage": "Woods", "time": "00:03", "act": "Daddy Nature" },
     { "stage": "Woods", "time": "00:04", "act": "Daddy Nature B2B DJ Dansey" },
-    { "stage": "Woods", "time": "00:05", "act": "DJ Amiah" },
+    { "stage": "Woods", "time": "00:05", "act": "DJ Amiah w Tiny K" },
     { "stage": "Woods", "time": "00:06", "act": "Jamie Rodigan" },
-    { "stage": "Woods", "time": "00:07", "act": "Sammy C" },
-    { "stage": "Woods", "time": "00:08", "act": "Seanie T" },
-    { "stage": "Woods", "time": "00:.9", "act": "Speaker Louis B2B G-Class" },
-    { "stage": "Woods", "time": "00:10", "act": "The Nextmen Ft Kiko Bun" },
-    { "stage": "Woods", "time": "00:11", "act": "This is Inja" },
-    { "stage": "Woods", "time": "00:12", "act": "Tiny K" },
+    { "stage": "Woods", "time": "00:07", "act": "Krafty Kuts" },
+    { "stage": "Woods", "time": "00:08", "act": "I Like Wires" },
+    { "stage": "Woods", "time": "00:09", "act": "Sammy C" },
+    { "stage": "Woods", "time": "00:10", "act": "Seanie T" },
+    { "stage": "Woods", "time": "00:11", "act": "Speaker Louis B2B G-Class" },
+    { "stage": "Woods", "time": "00:12", "act": "The Nextmen Ft Kiko Bun" },
+    { "stage": "Woods", "time": "00:13", "act": "This is Inja" },
+    { "stage": "Woods", "time": "00:14", "act": "Tiny K" },
 
 
-    { "stage": "Crazy Diamond", "time": "00:01", "act": "Altern 8" },
+    { "stage": "Crazy Diamond", "time": "00:01", "act": "Altern8" },
     { "stage": "Crazy Diamond", "time": "00:02", "act": "Brandon Block" },
     { "stage": "Crazy Diamond", "time": "00:03", "act": "Carly Wilford" },
     { "stage": "Crazy Diamond", "time": "00:04", "act": "Darren Emerson" },
-    { "stage": "Crazy Diamond", "time": "00:05", "act": "Hobbs (and Ron Mexico)" },
+    { "stage": "Crazy Diamond", "time": "00:05", "act": "Hobbs & Ron Mexico" },
     { "stage": "Crazy Diamond", "time": "00:06", "act": "Jon Edis" },
     { "stage": "Crazy Diamond", "time": "00:07", "act": "Mr Scruff" },
     { "stage": "Crazy Diamond", "time": "00:08", "act": "Norman Jay MBE" },
@@ -86,9 +91,9 @@
     { "stage": "Bar", "time": "00:02", "act": "Chris Hawkins" },
     { "stage": "Bar", "time": "00:03", "act": "Gawp" },
     { "stage": "Bar", "time": "00:04", "act": "Graham Gold" },
-    { "stage": "Bar", "time": "00:05", "act": "Hobbs (and Ron Mexico)" },
-    { "stage": "Bar", "time": "00:06", "act": "Jack Hammer" },
-    { "stage": "Bar", "time": "00:07", "act": "James Atkin (EMF)" },
+    { "stage": "Bar", "time": "00:05", "act": "Hobbs & Ron Mexico" },
+    { "stage": "Bar", "time": "00:06", "act": "Rave Hammer" },
+    { "stage": "Bar", "time": "00:07", "act": "James Atkins (EMF)" },
     { "stage": "Bar", "time": "00:08", "act": "JFB" },
     { "stage": "Bar", "time": "00:09", "act": "Nick Rayman" },
     { "stage": "Bar", "time": "00:10", "act": "Soul45" },
@@ -96,12 +101,12 @@
 
     { "stage": "Riot Truck", "time": "00:01", "act": "Chris Tofu" },
     { "stage": "Riot Truck", "time": "00:02", "act": "Jay Cunning" },
-    { "stage": "Riot Truck", "time": "00:03", "act": "Kaptin Barrett and Dregz" },
+    { "stage": "Riot Truck", "time": "00:03", "act": "Kaptin Barrett & Dregz" },
     { "stage": "Riot Truck", "time": "00:04", "act": "Kings of the Rave" },
     { "stage": "Riot Truck", "time": "00:05", "act": "Sam Supplier" },
     { "stage": "Riot Truck", "time": "00:06", "act": "Slipmatt" },
     { "stage": "Riot Truck", "time": "00:07", "act": "Traktor Girl" },
-    { "stage": "Riot Truck", "time": "00:09", "act": "Woody Cook" },
+    { "stage": "Riot Truck", "time": "00:08", "act": "Woody Cook" },
 
     { "stage": "Main", "time": "00:01", "act": "Cuban Brothers", "day": "SATURDAY" },
     { "stage": "Main", "time": "00:02", "act": "Dr Meaker Live" },
@@ -114,14 +119,15 @@
     { "stage": "Main", "time": "00:09", "act": "Utah Saints" },
 
     { "stage": "Woods", "time": "00:01", "act": "Bazza Ranks" },
-    { "stage": "Woods", "time": "00:02", "act": "Dreadzone (DJ Set)" },
+    { "stage": "Woods", "time": "00:02", "act": "Dreadzone Greg Dread (DJ Set)" },
     { "stage": "Woods", "time": "00:03", "act": "Dub Defenders" },
     { "stage": "Woods", "time": "00:04", "act": "Madame Electrifie" },
     { "stage": "Woods", "time": "00:05", "act": "Manasseh" },
     { "stage": "Woods", "time": "00:06", "act": "Mooqee" },
     { "stage": "Woods", "time": "00:07", "act": "Mr Thing" },
     { "stage": "Woods", "time": "00:08", "act": "Shaka Loves You" },
-    { "stage": "Woods", "time": "00:09", "act": "X-Ray Ted" },
+    { "stage": "Woods", "time": "00:09", "act": "Kiernan" },
+    { "stage": "Woods", "time": "00:10", "act": "X-Ray Ted" },
 
     { "stage": "Crazy Diamond", "time": "00:01", "act": "Albi NHZ" },
     { "stage": "Crazy Diamond", "time": "00:02", "act": "Barrington" },
@@ -167,7 +173,6 @@
     { "stage": "Riot Truck", "time": "00:07", "act": "Shillin" },
     { "stage": "Riot Truck", "time": "00:08", "act": "Soul of Man" },
     { "stage": "Riot Truck", "time": "00:09", "act": "The Glitter Bosher" }
-
     
     
 
@@ -176,10 +181,14 @@
   "vendors": [
     
 
-    { "name": "Ashworth Madhouse", "lat": 51.9798, "lng": -0.2255, "category": "stages", "icon": "muckyhero.png" },
+    { "name": "Ashworth Madhouse", "lat": 51.9798, "lng": -0.2255, "category": "stages", "icon": "mwhero2.png" },
     { "name": "Riot Truck", "lat": 51.9792, "lng": -0.2268, "category": "stages", "icon": "muckyhero.png"},
     { "name": "The Crazy Diamonds Club", "lat": 51.9801, "lng": -0.2272, "category": "stages", "icon": "muckyhero.png" },
     { "name": "USS Seanie T in The Woods", "lat": 51.9801, "lng": -0.2272, "category": "stages", "icon": "muckyhero.png" },
+
+    { "name": "Instagram", "lat": 51.9799, "lng": -0.2252, "category": "socials", "icon": "inhero.png" },
+    { "name": "2025 Aftervideo", "lat": 51.9799, "lng": -0.2252, "category": "socials", "icon": "ythero.png", "url": "https://youtu.be/AU0E0mXPkxI?is=kt2pQu15uu1POvOj" },
+    { "name": "2024 Aftervideo", "lat": 51.9799, "lng": -0.2252, "category": "socials", "icon": "ythero.png", "url": "https://youtu.be/aDA0VlqsKzo?is=1DzrHG1Wb8N0xi1l" },
    
     {
       "name": "Tickets",
@@ -187,25 +196,13 @@
       "lng": -0.2252,
       "category": "tickets",
       "partner": true,
-      "icon": "muckyhero.png",
+      "icon": "mwhero2.png",
       "url": "https://mucky-weekender.co.uk/"
     },
-    {
-      "name": "Mucky Facebook",
-      "lat": 51.9799,
-      "lng": -0.2252,
-      "category": "socials",
-      "partner": true,
-      "icon": "fbhero.png",
-      "url": "https://www.facebook.com/muckyweekender"
-    },
-    {
-      "name": "Mucky Instagram",   
-      "lat": 51.9799,
-      "lng": -0.2252,
-      "category": "socials",
-      "partner": true,
-      "icon": "inhero.png"
+    { "name": "Mucky Merch", "lat": 51.9799, "lng": -0.2252, "category": "socials", "partner": true, "icon": "dubphero.png", "url": "https://dubpistolsmusic.co.uk/product-category/muckyweekender/" },
+    { "name": "Gallery", "lat": 51.9799, "lng": -0.2252, "category": "socials", "partner": true, "icon": "mwhero2.png", "url": "https://youtu.be/AU0E0mXPkxI?is=kt2pQu15uu1POvOj" },
+    { "name": "Follow Us", "lat": 51.9799, "lng": -0.2252, "category": "socials",  "partner": true, "icon": "fbhero1.png", "url": "https://www.facebook.com/muckyweekender"
+     
     }
   ]
 }
