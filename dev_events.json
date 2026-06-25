@@ -1,11 +1,23 @@
 {
-  "version": 38,
+  "version": 39,
   "events": [
     {
       "id": "kteepee_demo",
       "name": "KteePee Demo",
       "category": "Festival",
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/kteepee_demo.json?v=6"
+    },
+    {
+      "id": "mucky_weekender",
+      "name": "Mucky Weekender 10th-12th Sept",
+      "category": "Festival",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mucky_preamble.json?v=1"
+    },
+    {
+      "id": "mucky_weekender",
+      "name": "Mucky Weekender",
+      "category": "Festival",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mucky_weekender.json?v=5"
     },
     {
       "id": "whathitch.json",
@@ -67,15 +79,6 @@
       "name": "Balstock Festival",
       "category": "Festival",
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/balstock.json?v=3"
-    },
-
-    
-
-    {
-      "id": "mucky_weekender",
-      "name": "Mucky Weekender",
-      "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mucky_weekender.json?v=5"
     },
 
     {
