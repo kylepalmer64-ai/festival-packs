@@ -43,7 +43,7 @@
     { "stage": "Crazy Diamond", "time": "13:30", "act": "Stanton Warriors" },
     { "stage": "Crazy Diamond", "time": "13:40", "act": "Terry Farley" },
     
-    { "stage": "Bar", "time": "13:50", "act": "Barry Ashworth (DJ Set)" "day": "Thu 10th"},
+    { "stage": "Bar", "time": "13:50", "act": "Barry Ashworth (DJ Set)", "day": "Thu 10th"},
     { "stage": "Bar", "time": "14:00", "act": "Deekline" },
     { "stage": "Bar", "time": "14:10", "act": "Jinx in Dub" },
     { "stage": "Bar", "time": "14:20", "act": "Jonny Rockstar" },
@@ -59,7 +59,7 @@
     { "stage": "Main", "time": "15:50", "act": "Roni Size" },
     { "stage": "Main", "time": "16:00", "act": "The Mighty Flux" },
     
-    { "stage": "Woods", "time": "16:10", "act": "Aphrodite", "day": "Thu 10th" },
+    { "stage": "Woods", "time": "16:10", "act": "Aphrodite", "day": "Fri 11th" },
     { "stage": "Woods", "time": "16:20", "act": "Aries" },
     { "stage": "Woods", "time": "16:30", "act": "Daddy Nature" },
     { "stage": "Woods", "time": "16:40", "act": "Daddy Nature B2B DJ Dansey" },
@@ -74,7 +74,7 @@
     { "stage": "Woods", "time": "23:30", "act": "Speaker Louis B2B G-Class" },
     { "stage": "Woods", "time": "23:40", "act": "The Nextmen Ft Kiko Bun" },
     
-    { "stage": "Crazy Diamond", "time": "20:00", "act": "Altern8" },
+    { "stage": "Crazy Diamond", "time": "20:00", "act": "Altern8",  "day": "Fri 11th"  },
     { "stage": "Crazy Diamond", "time": "20:10", "act": "Brandon Block" },
     { "stage": "Crazy Diamond", "time": "20:20", "act": "Carly Wilford" },
     { "stage": "Crazy Diamond", "time": "20:30", "act": "Darren Emerson" },
@@ -86,7 +86,7 @@
     { "stage": "Crazy Diamond", "time": "21:30", "act": "Von Adams" },
     { "stage": "Crazy Diamond", "time": "21:40", "act": "X-Press 2" },
     
-    { "stage": "Bar", "time": "20:00", "act": "Bronx Cheer", "day": "Thu 10th" },
+    { "stage": "Bar", "time": "20:00", "act": "Bronx Cheer", "day": "Fri 11th"  },
     { "stage": "Bar", "time": "20:10", "act": "Chris Hawkins" },
     { "stage": "Bar", "time": "20:20", "act": "Gawp" },
     { "stage": "Bar", "time": "20:30", "act": "Graham Gold" },
@@ -98,7 +98,7 @@
     { "stage": "Bar", "time": "21:30", "act": "Soul45" },
     { "stage": "Bar", "time": "21:40", "act": "Vanessa Van Dyk" },
     
-    { "stage": "Riot Truck", "time": "21:00", "act": "Chris Tofu", "day": "Thu 10th" },
+    { "stage": "Riot Truck", "time": "21:00", "act": "Chris Tofu", "day": "Fri 11th"  },
     { "stage": "Riot Truck", "time": "21:10", "act": "Jay Cunning" },
     { "stage": "Riot Truck", "time": "21:20", "act": "Kaptin Barrett & Dregz" },
     { "stage": "Riot Truck", "time": "21:30", "act": "Kings of the Rave" },
