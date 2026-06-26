@@ -26,7 +26,7 @@
 
   "listings": [
     { "stage": "Main", "time": "10:10", "act": "Beatles Dub Club (with horns)", "day": "Thu 10th" },
-    { "stage": "Main", "time": "10:20", "act": "David Rodigan" },
+    { "stage": "Main", "time": "10:20", "act": "David Rodigan", },
     { "stage": "Main", "time": "10:30", "act": "Don Letts" },
     { "stage": "Main", "time": "10:40", "act": "Dub Catalyst" },
     { "stage": "Main", "time": "10:50", "act": "Gentlemen's Dub Club" },
@@ -34,7 +34,7 @@
     { "stage": "Main", "time": "11:10", "act": "The Sabres of Paradise" },
     { "stage": "Main", "time": "11:20", "act": "The Scribes" },
     
-    { "stage": "Crazy Diamond", "time": "11:30", "act": "DJ Yoda" },
+    { "stage": "Crazy Diamond", "time": "11:30", "act": "DJ Yoda", "day": "Thu 10th" },
     { "stage": "Crazy Diamond", "time": "11:40", "act": "Frank Gane" },
     { "stage": "Crazy Diamond", "time": "11:50", "act": "Greg Wilson" },
     { "stage": "Crazy Diamond", "time": "12:00", "act": "Leeroy Thornhill" },
@@ -43,7 +43,7 @@
     { "stage": "Crazy Diamond", "time": "13:30", "act": "Stanton Warriors" },
     { "stage": "Crazy Diamond", "time": "13:40", "act": "Terry Farley" },
     
-    { "stage": "Bar", "time": "13:50", "act": "Barry Ashworth (DJ Set)" },
+    { "stage": "Bar", "time": "13:50", "act": "Barry Ashworth (DJ Set)" "day": "Thu 10th"},
     { "stage": "Bar", "time": "14:00", "act": "Deekline" },
     { "stage": "Bar", "time": "14:10", "act": "Jinx in Dub" },
     { "stage": "Bar", "time": "14:20", "act": "Jonny Rockstar" },
@@ -59,7 +59,7 @@
     { "stage": "Main", "time": "15:50", "act": "Roni Size" },
     { "stage": "Main", "time": "16:00", "act": "The Mighty Flux" },
     
-    { "stage": "Woods", "time": "16:10", "act": "Aphrodite" },
+    { "stage": "Woods", "time": "16:10", "act": "Aphrodite", "day": "Thu 10th" },
     { "stage": "Woods", "time": "16:20", "act": "Aries" },
     { "stage": "Woods", "time": "16:30", "act": "Daddy Nature" },
     { "stage": "Woods", "time": "16:40", "act": "Daddy Nature B2B DJ Dansey" },
@@ -86,7 +86,7 @@
     { "stage": "Crazy Diamond", "time": "21:30", "act": "Von Adams" },
     { "stage": "Crazy Diamond", "time": "21:40", "act": "X-Press 2" },
     
-    { "stage": "Bar", "time": "20:00", "act": "Bronx Cheer" },
+    { "stage": "Bar", "time": "20:00", "act": "Bronx Cheer", "day": "Thu 10th" },
     { "stage": "Bar", "time": "20:10", "act": "Chris Hawkins" },
     { "stage": "Bar", "time": "20:20", "act": "Gawp" },
     { "stage": "Bar", "time": "20:30", "act": "Graham Gold" },
@@ -98,7 +98,7 @@
     { "stage": "Bar", "time": "21:30", "act": "Soul45" },
     { "stage": "Bar", "time": "21:40", "act": "Vanessa Van Dyk" },
     
-    { "stage": "Riot Truck", "time": "21:00", "act": "Chris Tofu" },
+    { "stage": "Riot Truck", "time": "21:00", "act": "Chris Tofu", "day": "Thu 10th" },
     { "stage": "Riot Truck", "time": "21:10", "act": "Jay Cunning" },
     { "stage": "Riot Truck", "time": "21:20", "act": "Kaptin Barrett & Dregz" },
     { "stage": "Riot Truck", "time": "21:30", "act": "Kings of the Rave" },
@@ -117,7 +117,7 @@
     { "stage": "Main", "time": "13:10", "act": "Surreal Madrid" },
     { "stage": "Main", "time": "13:20", "act": "Utah Saints" },
     
-    { "stage": "Woods", "time": "14:00", "act": "Bazza Ranks" },
+    { "stage": "Woods", "time": "14:00", "act": "Bazza Ranks",  "day": "Sat 12th" },
     { "stage": "Woods", "time": "14:10", "act": "Dreadzone Greg Dread (DJ Set)" },
     { "stage": "Woods", "time": "14:20", "act": "Dub Defenders" },
     { "stage": "Woods", "time": "14:30", "act": "Madame Electrifie" },
@@ -128,7 +128,7 @@
     { "stage": "Woods", "time": "15:20", "act": "Kiernan" },
     { "stage": "Woods", "time": "15:30", "act": "X-Ray Ted" },
     
-    { "stage": "Crazy Diamond", "time": "20:00", "act": "Albi NHZ" },
+    { "stage": "Crazy Diamond", "time": "20:00", "act": "Albi NHZ",  "day": "Sat 12th" },
     { "stage": "Crazy Diamond", "time": "20:10", "act": "Barrington" },
     { "stage": "Crazy Diamond", "time": "20:20", "act": "Boxer Banton" },
     { "stage": "Crazy Diamond", "time": "20:30", "act": "Chalkie White" },
@@ -148,7 +148,7 @@
     { "stage": "Crazy Diamond", "time": "22:50", "act": "Mr Quest" },
     { "stage": "Crazy Diamond", "time": "23:00", "act": "Uncle Dugs" },
     
-    { "stage": "Bar", "time": "20:00", "act": "Ben the Bee" },
+    { "stage": "Bar", "time": "20:00", "act": "Ben the Bee",  "day": "Sat 12th" },
     { "stage": "Bar", "time": "20:10", "act": "Carlos Van D" },
     { "stage": "Bar", "time": "20:20", "act": "Chris Ashworth" },
     { "stage": "Bar", "time": "20:30", "act": "Dave Stalker" },
@@ -163,7 +163,7 @@
     { "stage": "Bar", "time": "22:00", "act": "Tim Toil" },
     { "stage": "Bar", "time": "22:10", "act": "Von Adams" },
     
-    { "stage": "Riot Truck", "time": "21:00", "act": "A Skillz" },
+    { "stage": "Riot Truck", "time": "21:00", "act": "A Skillz",  "day": "Sat 12th" },
     { "stage": "Riot Truck", "time": "21:10", "act": "Evil Nine" },
     { "stage": "Riot Truck", "time": "21:20", "act": "Freestylers" },
     { "stage": "Riot Truck", "time": "21:30", "act": "Jimi Needles" },
