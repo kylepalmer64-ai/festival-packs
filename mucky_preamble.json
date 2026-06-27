@@ -165,4 +165,33 @@
     { "stage": "Riot Truck", "time": "20:00", "act": "Soul of Man" },
     { "stage": "Riot Truck", "time": "21:00", "act": "Plump DJ's" },
     { "stage": "Riot Truck", "time": "22:00", "act": "Freestylers" },
-    { "stage": "Riot Truck
+    { "stage": "Riot Truck", "time": "23:00", "act": "Krafty Kuts" }
+  ],
+
+  "vendors": [
+    { "name": "Vicarage Farm", "lat": 51.1760, "lng": -1.2149, "category": "vicarage farm", "icon": "castle.png" },
+
+    { "name": "Ashworth Madhouse", "lat": 51.1760, "lng": -1.2149, "category": "stages", "icon": "mwsq1.png" },
+    { "name": "Riot Truck", "lat": 51.1760, "lng": -1.2149, "category": "stages", "icon": "mwsq1.png" },
+    { "name": "The Crazy Diamonds Club", "lat": 51.1760, "lng": -1.2149, "category": "stages", "icon": "mwsq1.png" },
+    { "name": "USS Seanie T in The Woods UFO", "lat": 51.1760, "lng": -1.2149, "category": "stages", "icon": "mwsq1.png" },
+
+    { "name": "Instagram", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "inhero.png", "url": "https://www.instagram.com/muckyweekender/" },
+    { "name": "TikTok", "lat": 51.1760, "lng": -12149, "category": "socials", "icon": "tkhero.png", "url": "https://www.tiktok.com/@muckyweekender/" },
+    { "name": "2025 Aftervideo", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "ythero.png", "url": "https://youtu.be/AU0E0mXPkxI?is=kt2pQu15uu1POvOj" },
+    { "name": "2024 Aftervideo", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "ythero.png", "url": "https://youtu.be/aDA0VlqsKzo?is=1DzrHG1Wb8N0xi1l" },
+
+    {
+      "name": "Tickets",
+      "lat": 51.1760,
+      "lng": -1.2149,
+      "category": "tickets",
+      "partner": true,
+      "icon": "mwsq1.png",
+      "url": "https://mucky-weekender.co.uk/"
+    },
+    { "name": "Mucky Merch", "lat": 51.9799, "lng": -0.2252, "category": "tickets", "partner": true, "icon": "dubphero.png", "url": "https://dubpistolsmusic.co.uk/product-category/muckyweekender/" },
+    { "name": "Gallery", "lat": 51.9799, "lng": -0.2252, "category": "socials", "partner": true, "icon": "mwsq1.png", "url": "https://mucky-weekender.co.uk/gallery-2/" },
+    { "name": "Follow Us", "lat": 51.9799, "lng": -0.2252, "category": "socials", "partner": true, "icon": "fbhero1.png", "url": "https://www.facebook.com/muckyweekender" }
+  ]
+}
