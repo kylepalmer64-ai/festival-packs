@@ -58,8 +58,8 @@
 
     { "name": "Band 10", "lat": 52.7468, "lng": -1.6295, "category": "White Horse", "icon": "owlhero.png" },
     { "name": "Band 11", "lat": 52.7468, "lng": -1.6295, "category": "White Horse", "icon": "owlhero.png" },
-    { "name": "Band 12", "lat": 52.7468, "lng": -1.6295, "category": "White Horse", "icon": "ollhero.png" },
-    { "name": "Band X", "lat": 52.7468, "lng": -1.6295, "category": "White Horse", "icon": "wlhero.png" },
+    { "name": "Band 12", "lat": 52.7468, "lng": -1.6295, "category": "White Horse", "icon": "owlhero.png" },
+    { "name": "Band X", "lat": 52.7468, "lng": -1.6295, "category": "White Horse", "icon": "owlhero.png" },
     { "name": "Follow Us!", "lat": 52.7460, "lng": -1.6280, "category": "White Horse", "icon": "fbhero.png", "url": "https://www.facebook.com/oldwhitehorse/" },
 
     { "name": "Band Y", "lat": 52.7455, "lng": -1.6270, "Orange Tree", "icon": "ojhero.png" },
