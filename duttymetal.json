@@ -66,7 +66,7 @@
     { "name": "The Black Heart",           "lat": 51.5396, "lng": -0.1439, "category": "Camden", "icon": "beerr.png" },
     { "name": "The World's End",           "lat": 51.5398, "lng": -0.1465, "category": "Camden", "icon": "beerr.png" },
     { "name": "The Underworld",            "lat": 51.5397, "lng": -0.1467, "category": "Camden", "icon": "beerr.png" },
-    { "name": "Garlic & Shots", "lat": 51.5126, "lng": -0.1317, "category": "Soho",, "icon": "beerr.png" },
+    { "name": "Garlic & Shots", "lat": 51.5126, "lng": -0.1317, "category": "Soho",  "icon": "beerr.png" },
     { "name": "The Hippodrome Casino", "lat": 51.5107, "lng": -0.1280, "category": "Leicester Square" },
     { "name": "For Your Eyes Only", "lat": 51.5253, "lng": -0.0877, "category": "Shoreditch" }
   ]
