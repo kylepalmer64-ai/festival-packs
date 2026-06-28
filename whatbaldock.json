@@ -46,9 +46,9 @@
     { "name": "Band 1", "lat": 52.7460, "lng": -1.6280, "category": "Hen 'n' Chickens", "icon": "hnchero.png" },
     { "name": "Follow Us!", "lat": 52.7460, "lng": -1.6280, "category": "Hen 'n' Chickens", "icon": "fbhero.png", "url": "https://www.facebook.com/pages/The%20Hen%20&%20Chickens,%20Baldock/244047932379512/#" },
 
-    { "name": "Band 2", "lat": 52.7455, "lng": -1.6270, "category": "White Lion", "icon": "owlhero.png" },
-    { "name": "Band 3", "lat": 52.7455, "lng": -1.6270, "category": "White Lion", "icon": "owlhero.png" },
-    { "name": "Band F", "lat": 52.7455, "lng": -1.6270, "category": "White Lion", "icon": "owlhero.png" },
+    { "name": "Band 2", "lat": 52.7455, "lng": -1.6270, "category": "White Lion", "icon": "wlhero.png" },
+    { "name": "Band 3", "lat": 52.7455, "lng": -1.6270, "category": "White Lion", "icon": "wlhero.png" },
+    { "name": "Band F", "lat": 52.7455, "lng": -1.6270, "category": "White Lion", "icon": "wlhero.png" },
     { "name": "Follow Us!", "lat": 52.7460, "lng": -1.6280, "category": "White Lion", "icon": "fbhero.png", "url": "https://www.facebook.com/whitelion.baldock/" },
 
     { "name": "Band G", "lat": 52.7460, "lng": -1.6280, "category": "The Victoria", "icon": "vicbhero.png" },
@@ -56,13 +56,13 @@
     { "name": "Band 9", "lat": 52.7460, "lng": -1.6280, "category": "The Victoria", "icon": "vicbhero.png" },
     { "name": "Follow Us!", "lat": 52.7460, "lng": -1.6280, "category": "The Victoria", "icon": "fbhero.png", "url": "https://www.facebook.com/The.Victoria.Baldock/" },
 
-    { "name": "Band 10", "lat": 52.7468, "lng": -1.6295, "category": "White Horse", "icon": "wlhero.png" },
-    { "name": "Band 11", "lat": 52.7468, "lng": -1.6295, "category": "White Horse", "icon": "wlhero.png" },
-    { "name": "Band 12", "lat": 52.7468, "lng": -1.6295, "category": "White Horse", "icon": "wlhero.png" },
+    { "name": "Band 10", "lat": 52.7468, "lng": -1.6295, "category": "White Horse", "icon": "owlhero.png" },
+    { "name": "Band 11", "lat": 52.7468, "lng": -1.6295, "category": "White Horse", "icon": "owlhero.png" },
+    { "name": "Band 12", "lat": 52.7468, "lng": -1.6295, "category": "White Horse", "icon": "ollhero.png" },
     { "name": "Band X", "lat": 52.7468, "lng": -1.6295, "category": "White Horse", "icon": "wlhero.png" },
     { "name": "Follow Us!", "lat": 52.7460, "lng": -1.6280, "category": "White Horse", "icon": "fbhero.png", "url": "https://www.facebook.com/oldwhitehorse/" },
 
-    { "name": "Band Y", "lat": 52.7455, "lng": -1.6270, "category": "Orange Tree", "icon": "ojhero.png" },
+    { "name": "Band Y", "lat": 52.7455, "lng": -1.6270, "Orange Tree", "icon": "ojhero.png" },
     { "name": "Band Z", "lat": 52.7455, "lng": -1.6270, "category": "Orange Tree", "icon": "ojhero.png" },
     { "name": "Band P", "lat": 52.7455, "lng": -1.6270, "category": "Orange Tree", "icon": "ojhero.png" },
     { "name": "Band Q", "lat": 52.7455, "lng": -1.6270, "category": "Orange Tree", "icon": "ojhero.png" },
