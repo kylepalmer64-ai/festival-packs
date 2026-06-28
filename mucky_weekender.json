@@ -6,12 +6,13 @@
   "panelColor": "#6F8FAF",
   "premiumHeader": " Let's Get Mucky!!",
   "listingsHeader": "Skank Menu",
-  "premiumTileColor": "#C8102E",
-  "premiumTileBorder": "#6F8FAF",
+  "premiumTileColor": "#E8D8B0",
+  "premiumTileBorder": "#76A7C8",
   "messagesFile": "mucky_weekender_messages.json",
 
   "categoryColors": {
     "tickets": "#C8102E",
+    "stages": "#0A1A3F",
     "socials": "#F8EFE3"
   },
 
