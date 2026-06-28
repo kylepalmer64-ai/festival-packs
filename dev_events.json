@@ -2,6 +2,12 @@
   "version": 45,
   "events": [
     {
+      "id": "duttymetal",
+      "name": "Dutty Metal Weekend",
+      "category": "Festival",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/duttymetal.json?v=1"
+    },
+    {
       "id": "kteepee_demo",
       "name": "KteePee Demo",
       "category": "Festival",
