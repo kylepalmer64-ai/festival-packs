@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/mtlmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/mtlshero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/mtlmap.png",
@@ -33,7 +33,7 @@
     { "stage": "Stratford International", "time": "13:30", "act": "ARRIVE Stratford International. 20 min walk through Olympic Park to London Stadium — follow the crowd and signs.",   "day": "Fri 3rd" },
     { "stage": "London Stadium",          "time": "14:00", "act": "GATES OPEN — Get in early, get beers in, find your spots. Support: Knocked Loose (first up) + Gojira.",              "day": "Fri 3rd" },
     { "stage": "London Stadium",          "time": "17:00", "act": "GOJIRA — French metal gods. Do not miss this. Front or die.",                                                         "day": "Fri 3rd" },
-    { "stage": "London Stadium",          "time": "20:00", "act": "METALLICA — Night 1. No Repeat Weekend: unique setlist tonight only. Welcome to the pit.",                            "day": "Fri 3rd" },
+    { "stage": "London Stadium",          "time": "19:30", "act": "METALLICA — Night 1. No Repeat Weekend: unique setlist tonight only. Welcome to the pit.",                            "day": "Fri 3rd" },
     { "stage": "London Stadium",          "time": "23:00", "act": "SHOW ENDS — Walk back to Stratford International, Javelin back to St Pancras, tube to hotel.",                       "day": "Fri 3rd" },
 
     { "stage": "Hotel",                   "time": "12:00", "act": "NOON CHECKOUT or bag drop. Recovery beers. Today is yours.",                                                          "day": "Sat 4th" },
@@ -49,7 +49,7 @@
     { "stage": "Stratford International", "time": "13:30", "act": "DEPART hotel — head to Stratford International. Walk through Olympic Park, get in early.",                           "day": "Sun 5th" },
     { "stage": "London Stadium",          "time": "14:00", "act": "GATES OPEN — Night 2. Support: Avatar + Pantera. Different lineup, different energy.",                               "day": "Sun 5th" },
     { "stage": "London Stadium",          "time": "17:00", "act": "PANTERA — Reinvented, relentless. This is the one.",                                                                 "day": "Sun 5th" },
-    { "stage": "London Stadium",          "time": "20:00", "act": "METALLICA — Night 2. Zero songs repeated from Friday. Full new setlist. This is why you came.",                      "day": "Sun 5th" },
+    { "stage": "London Stadium",          "time": "19:30", "act": "METALLICA — Night 2. Zero songs repeated from Friday. Full new setlist. This is why you came.",                      "day": "Sun 5th" },
     { "stage": "London Stadium",          "time": "23:00", "act": "SHOW ENDS — Stratford International → St Pancras Javelin → Kings Cross. Check return trains before you go in.",     "day": "Sun 5th" },
 
     { "stage": "Kings Cross",             "time": "09:00", "act": "DEPART — Thameslink from Kings Cross back to Letchworth Garden City (~40 min). You made it. Get home.",             "day": "Mon 6th" },
