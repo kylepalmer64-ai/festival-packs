@@ -1,11 +1,11 @@
 {
-  "version": 37,
+  "version": 38,
   "events": [
     {
       "id": "duttymetal",
       "name": "London M72 3rd-5th",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/duttymetal.json?v=1"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/duttymetal.json?v=2"
     },
     {
       "id": "bloodstock_pack",
