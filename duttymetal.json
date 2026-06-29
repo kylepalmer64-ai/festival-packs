@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/mtlmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/mtlshero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/mtlmap.png",
@@ -8,7 +8,7 @@
   "premiumTileColor": "#FFD700",
   "premiumTileBorder": "#C49A00",
   "panelColor": "#0d0d0dEE",
-  "messagesFile": "kteepee_messages.json",
+  "messagesFile": "metal_messages.json",
 
   "categoryColors": {
     "Letchworth Station": "#C49A00",
