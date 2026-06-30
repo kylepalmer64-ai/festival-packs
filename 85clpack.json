@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/cl8map.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/c85hero.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/c85panel.png",
+  "premiumHeader": "Club 85 Live",
+  "listingsHeader": "What & When",
+  "premiumTileColor": "#FF3CAC",
+  "premiumTileBorder": "#C42FE0",
+  "panelColor": "#331010EE",
+  "messagesFile": "c85_messages.json",
+  "categoryColors": {
+    "this week": "#7B2FF7",
+    "socials": "#3D8BFF"
+  },
+  "listings": [
+    { "stage": "Club 85", "time": "09:00", "act": "DJ Yoda", "day": "Thur 7th" },
+    { "stage": "Club 85", "time": "09:30", "act": "AC/DC Tribute", "day": "Sat 10th" },
+    { "stage": "Club 85", "time": "09:30", "act": "Zumba", "day": "Thur 14th" }
+  ],
+  "vendors": [
+    { "name": "Example Band", "lat": 52.7455, "lng": -1.6270, "category": "this week", "icon": "c85hero.png" },    
+    { "name": "Example Band 2", "lat": 52.7455, "lng": -1.6270, "category": "this week", "icon": "c85hero.png" },  
+    { "name": "Insta", "lat": 52.8240, "lng": -1.3707, "category": "socials", "icon": "inhero.png", "url": "https://www.instagram.com/club_85_hitchin/" },
+    { "name": "Facebook", "lat": 52.8318, "lng": -1.3868, "category": "socials", "icon": "fbhero.png", "url": "https://www.facebook.com/club85hitchin/" },
+    { "name": "TikTok", "lat": 52.8260, "lng": -1.3716, "category": "socials", "icon": "tkhero.png", "url": "https://www.tiktok.com/tag/85club/" },
+    { "name": "YouTube", "lat": 52.8260, "lng": -1.3716, "category": "socials", "icon": "ythero.png", "url": "https://www.youtube.com/@club_85_hitchin" },
+    { "name": "Official", "lat": 52.8299, "lng": -1.3892, "category": "socials", "icon": "c85hero.png", "url": "https://club-85.co.uk/" }
+  ]
+}
