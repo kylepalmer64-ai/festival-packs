@@ -11,19 +11,19 @@
   "messagesFile": "ubw7msg.json",
   "categoryColors": {
     "Square One Gym": "#C62828",
-    "1st aug": "#C62828",
-    "2nd aug": "#C62828",
-    "15th aug": "#C62828",
-    "29th aug": "#C62828",
+    "1st Aug": "#C62828",
+    "2nd Aug": "#C62828",
+    "15th Aug": "#C62828",
+    "29th Aug": "#C62828",
     "socials": "#C62828"
   },
   
   "categoryIcons": {
     "socials": "ubwhero.png",
-    "1st aug": "ubwhero.png",
-    "2nd aug": "ubwhero.png",
-    "15th aug": "ubwhero.png",
-    "29th aug": "ubwhero.png"
+    "1st Aug": "ubwhero.png",
+    "2nd Aug": "ubwhero.png",
+    "15th Aug": "ubwhero.png",
+    "29th Aug": "ubwhero.png"
   },
   
   "listings": [
@@ -55,7 +55,7 @@
       "name": "Basildon",
       "lat": 51.5790,
       "lng": -0.4478,
-      "category": "1st aug",
+      "category": "1st Aug",
       "url": "https://squareonegym.co.uk/event/the-ultimate-british-wrestling-tour-2026-basildon/",
       "icon": "ubwhero.png"
     },
@@ -63,7 +63,7 @@
       "name": "Royston",
       "lat": 51.8902,
       "lng": -0.1729,
-      "category": "2nd aug",
+      "category": "2nd Aug",
       "url": "https://squareonegym.co.uk/event/the-ultimate-british-wrestling-tour-2026-royston/",
       "icon": "ubwhero.png"
     },
@@ -71,7 +71,7 @@
       "name": "Hitchin",
       "lat": 51.6959,
       "lng": -0.3919,
-      "category": "15th aug",
+      "category": "15th Aug",
       "url": "https://squareonegym.co.uk/event/square-one-hitchin-gym-wars-5/",
       "icon": "ubwhero.png"
     },
@@ -79,10 +79,10 @@
       "name": "Hockly",
       "lat": 51.9998,
       "lng": -0.2493,
-      "category": "29th aug",    
-      "url": "https://squareonegym.co.uk/event/the-ultimate-british-wrestling-tour-2026-fairfield/",
+      "category": "29th Aug",    
+      "url": "https://squareonegym.co.uk/event/the-ultimate-british-wrestling-tour-2026-clements-hall/",
       "icon": "ubwhero.png"
     }
-            
+  
   ]
 }
