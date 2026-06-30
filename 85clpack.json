@@ -52,7 +52,6 @@
     { "stage": "Club 85", "time": "18:30", "act": "Zumba", "day": "Tue 20th Sept" },
     { "stage": "Club 85", "time": "19:30", "act": "STEVE IGNORANT BAND + CLUB BRAT", "day": "Fri 23rd Sept" },
     { "stage": "Club 85", "time": "18:30", "act": "Zumba", "day": "Tue 27th Sept" },
-    { "stage": "Club 85", "time": "18:45", "act": "EARTHBOUND HALLOWEEN @ CLUB 85", "day": "Sat 31st Sept" },
     
     { "stage": "Club 85", "time": "18:30", "act": "Zumba", "day": "Tue 3rd Oct" },
     { "stage": "Club 85", "time": "19:30", "act": "Arctic Numpties", "day": "Fri 6th Oct" },
@@ -66,6 +65,7 @@
     { "stage": "Club 85", "time": "17:30", "act": "OZRIC TENTACLES + support", "day": "Sun 22nd Oct" },
     { "stage": "Club 85", "time": "18:30", "act": "Zumba", "day": "Tue 24th Oct" },
     { "stage": "Club 85", "time": "19:30", "act": "STIPE – THE DEFINITIVE R.E.M TRIBUTE", "day": "Fri 27th Oct" },
+    { "stage": "Club 85", "time": "18:45", "act": "EARTHBOUND HALLOWEEN @ CLUB 85", "day": "Sat 31st Oct" },
     
     { "stage": "Club 85", "time": "18:30", "act": "Zumba", "day": "Tue 1st Nov" },
     { "stage": "Club 85", "time": "19:30", "act": "REANIMATION – Linkin Park Tribute + Guests", "day": "Fri 4th Nov" },
@@ -78,13 +78,13 @@
     { "stage": "Club 85", "time": "19:30", "act": "BOOTLEG BLONDIE", "day": "Sat 2nd Dec" },
     { "stage": "Club 85", "time": "18:30", "act": "Zumba", "day": "Tue 5th Dec" },
     { "stage": "Club 85", "time": "18:30", "act": "Zumba", "day": "Tue 12th Dec" },
-    { "stage": "Club 85", "time": "18:30", "act": "Zumba", "day": "Tue 19t Dech" }
+    { "stage": "Club 85", "time": "18:30", "act": "Zumba", "day": "Tue 19t Dec" }
   ],
   
   "vendors": [
     { "name": "Gurt, NXMA, Koba, Kushthulhu", "lat": 52.7455, "lng": -1.6270, "partner": true, "category": "this week", "icon": "c85hero.png" },    
     { "name": "Heavy Wild, The Silent Archive, Dead Colours, Emergence", "lat": 52.7455, "lng": -1.6270, "partner": true,  "category": "this month", "icon": "c85hero.png" },
-    { "name": "Official", "lat": 52.8299, "lng": -1.3892, "category": "Club 85 Official", "partner": true, "icon": "c85hero.png", "url": "https://club-85.co.uk/" }
+    { "name": "Official", "lat": 52.8299, "lng": -1.3892, "category": "club 85 official", "partner": true, "icon": "c85hero.png", "url": "https://club-85.co.uk/" },
     { "name": "KC Blackwater, Matty Ram, The Julia Set, One Punch Wonder", "lat": 52.7455, "lng": -1.6270, "category": "this month", "icon": "c85hero.png" },  
     { "name": "Must Kill, Extreme Death Art, Draugheim, Burdonsome", "lat": 52.7455, "lng": -1.6270, "category": "this month", "icon": "c85hero.png" },  
     { "name": "Insta", "lat": 52.8240, "lng": -1.3707, "category": "socials", "icon": "inhero.png", "url": "https://www.instagram.com/club_85_hitchin/" },
