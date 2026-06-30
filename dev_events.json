@@ -1,5 +1,5 @@
 {
-  "version": 48,
+  "version": 49,
   "events": [
     {
       "id": "duttymetal",
@@ -11,7 +11,7 @@
       "id": "85clpack",
       "name": "Club 85 Hitchin",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/85clpack.json?v=2"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/85clpack.json?v=3"
     },
     {
       "id": "kteepee_demo",
