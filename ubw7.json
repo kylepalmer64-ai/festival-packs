@@ -41,6 +41,10 @@
     { "name": "Instagram", "lat": 0.0, "lng": -0.0, "category": "socials", "icon": "inhero.png", "url": "https://www.instagram.com/squareoneacademy/" },
     { "name": "Facebook", "lat": 0.0, "lng": -0.0, "category": "socials", "icon": "fbhero.png", "url": "https://www.facebook.com/WEAREUBW/" },
     { "name": "JoeTalksWrestling", "lat": 0.0, "lng": -0.0, "category": "socials", "icon": "ythero.png", "url": "https://www.youtube.com/@joetalkswrestling" },
+        { "name": "JoeTalksWrestling", "lat": 51.9661, "lng": -0.2624, "category": "1st Aug", "icon": "ubwhero.png" },
+        { "name": "Leisure Center", "lat": 52.0558, "lng": -0.0115, "category": "2nd Aug", "icon": "ubwhero.png" },
+        { "name": "Sporting Village", "lat": 51.5792, "lng": 0.4478, "category": "15th Aug", "icon": "ubwhero.png" },
+        { "name": "Clements Hall", "lat": 51.5945, "lng": 0.6725, "category": "29th Aug", "icon": "ubwhero.png" }, 
 
     {
       "name": "Square One Gym",
