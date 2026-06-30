@@ -13,11 +13,12 @@
   
   "categoryColors": {
     "Square One Gym": "#C62828",
-    "1st Aug": "#C62828",
-    "2nd Aug": "#C62828",
-    "15th Aug": "#C62828",
-    "29th Aug": "#C62828",
-    "socials": "#C62828"
+    "1st Aug": "#B32323",
+    "2nd Aug": "#9F1F1F",
+    "15th Aug": "#8C1B1B",
+    "29th Aug": "#791717",
+    "socials": "#661313"
+
   },
   
   "categoryIcons": {
