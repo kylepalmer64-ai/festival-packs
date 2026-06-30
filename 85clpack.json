@@ -15,11 +15,12 @@
   },
   "listings": [
     { "stage": "Club 85", "time": "18:30", "act": "Zumba", "day": "Tue 30th June" },
+    
     { "stage": "Club 85", "time": "19:45", "act": "LOCUST FURNACE PRESENTS: GURT / NXMA / KOBA / KUSHTHULHU", "day": "Sat 4th July" },
     { "stage": "Club 85", "time": "18:30", "act": "Zumba", "day": "Tue 7th July" },
     { "stage": "Club 85", "time": "18:30", "act": "Zumba", "day": "Tue 14th July" },
     { "stage": "Club 85", "time": "18:45", "act": "HEAVY WILD / THE SILENT ARCHIVE / DEAD COLOURS / EMERGENCE", "day": "Thur 16th July" },
-    { "stage": "Club 85", "time": "19:30", "act": "BA'AL / DENALI / THE SCOLERI BROTHERS / BELA KISS", "day": "Sat 18t Julyh" },
+    { "stage": "Club 85", "time": "19:30", "act": "BA'AL / DENALI / THE SCOLERI BROTHERS / BELA KISS", "day": "Sat 18th July" },
     { "stage": "Club 85", "time": "18:30", "act": "Zumba", "day": "Tue 21st July" },
     { "stage": "Club 85", "time": "18:45", "act": "KC BLACKWATER / MATTY RAM / THE JULIA SET / ONE PUNCH WONDER", "day": "Thur 23rd July" },
     { "stage": "Club 85", "time": "18:00", "act": "ADK PRESENTS...MUST KILL | EXTREME DEATH ART | DRAUGRHEIM | BURDENSOME", "day": "Sun 26th July" },
@@ -27,8 +28,7 @@
     { "stage": "Club 85", "time": "19:30", "act": "***SOLD OUT*** WE ARE SCIENTISTS", "day": "Wed 29th July" },
     
     { "stage": "Club 85", "time": "19:45", "act": "Locust Furnace Presents: JOTNARR / TOMB SLAB / WRENCH / DREADBEGGAR", "day": "Sat 1st Aug" },
-    { "stage": "Club 85", "time": "19:30", "act": "PRETENDULUM / WREX / DEAD REYNOLDS", "day": "Fri 7th" },
-    
+    { "stage": "Club 85", "time": "19:30", "act": "PRETENDULUM / WREX / DEAD REYNOLDS", "day": "Fri 7th Aug" },
     { "stage": "Club 85", "time": "18:30", "act": "Zumba", "day": "Tue 1st Aug" },
     { "stage": "Club 85", "time": "18:30", "act": "Zumba", "day": "Tue 8th Aug" },
     { "stage": "Club 85", "time": "18:30", "act": "Zumba", "day": "Tue 15th Aug" },
