@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/c85map.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/c85hero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/c85panel.png",
@@ -10,6 +10,7 @@
   "panelColor": "#331010EE",
   "messagesFile": "c85_messages.json",
   "categoryColors": {
+    "club 85 official": "#FF3CAC",
     "this week": "#7B2FF7",
     "this month": "#C42FE0",
     "socials": "#3D8BFF"
