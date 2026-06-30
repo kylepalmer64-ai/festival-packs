@@ -52,7 +52,7 @@
       "icon": "ubwhero.png"
     },
     {
-      "name": "Basildon"
+      "name": "Basildon",
       "lat": 51.5790,
       "lng": -0.4478,
       "category": "1st aug",
@@ -72,7 +72,7 @@
       "name": "Hitchin",
       "lat": 51.6959,
       "lng": -0.3919,
-      "category": "15th Aug",
+      "category": "15th aug",
       "url": "https://squareonegym.co.uk/event/square-one-hitchin-gym-wars-5/",
       "icon": "ubwhero.png"
     },
