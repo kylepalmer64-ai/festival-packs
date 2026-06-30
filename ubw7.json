@@ -2,13 +2,15 @@
   "version": 4,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/ub15aug.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/ubwhero.png",
-  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/27panel.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/ubpanel.png",
   "panelColor": "#C62828",
   "premiumHeader": "UBW 2026 TOUR",
   "listingsHeader": "Event Card",
   "premiumTileColor": "#FFFFF0",
   "premiumTileBorder": "#C62828",
   "messagesFile": "ubw7msg.json",
+
+  
   "categoryColors": {
     "Square One Gym": "#C62828",
     "1st Aug": "#C62828",
