@@ -1,79 +1,92 @@
 {
   "version": 4,
-  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/27map.png",
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/ub15aug.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/ubwhero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/27panel.png",
   "panelColor": "#C62828",
-  "premiumHeader": "UBW TOUR DATES",
+  "premiumHeader": "UBW 2026 TOUR",
   "listingsHeader": "Event Card",
   "premiumTileColor": "#66040E",
   "premiumTileBorder": "#C62828",
   "messagesFile": "ubw7msg.json",
   "categoryColors": {
     "Square One Gym": "#C62828",
-    "watford": "#F6A43A",
-    "fairfield park": "#C62828",
-    "stevenage": "#C62828",
+    "clements hall - hockly": "#C62828",
+    "hitchin": "#C62828",
+    "royston": "#C62828",
     "basildon": "#C62828",
-    "stage": "#C62828",
-    "merch": "#C62828"
-  },  
+    "socials": "#C62828"
+  },
+  
+  "categoryIcons": {
+    "tickets": "ubwhero.png",
+    "socials": "ubwhero.png",
+    "clements hall - hockly": "ubwhero.png",
+    "hitchin": "ubwhero.png",
+    "royston": "ubwhero.png",
+    "basildon": "ubwhero.png"
+  },
+  
   "listings": [
     { "stage": "Singles", "time": "14:00", "act": "Axeman Bunting V Spike Valentine", "day": "7th June" },
     { "stage": "UBW Tag Team Championship", "time": "14:00", "act": "Black & Gold v Act 2" },
     { "stage": "British Crown Cup 1st Rnd", "time": "14:00", "act": "Connor Allbright v Freddie Idol" },
+    { "stage": "Meet the Wrestlers", "time": "14:00", "act": "UBW Superstars" },
     { "stage": "Mystery Opponent!", "time": "14:00", "act": "Molly Spartan v ???" },
     { "stage": "British Crown Cup 1st Rnd", "time": "14:00", "act": "Danny Isit v Air Felix" },
     { "stage": "Battle of the Bens", "time": "14:00", "act": "Ben Deberz v Ben Gedling" },  
   ],
   "vendors": [
 
-    { "name": "Meet the Talent", "lat": 51.9795, "lng": -0.2276, "category": "merch", "icon": "ubwhero.png" },
+
+    { "name": "Instagram", "lat": 0.0, "lng": -0.0, "category": "socials", "icon": "inhero.png", "url": "https://www.instagram.com/squareoneacademy/" },
+    { "name": "Facebook", "lat": 0.0, "lng": -0.0, "category": "socials", "icon": "fbhero.png", "url": "https://www.facebook.com/WEAREUBW/" },
+    { "name": "JoeTalksWrestling", "lat": 0.0, "lng": -0.0, "category": "socials", "icon": "ythero.png", "url": "https://www.youtube.com/@joetalkswrestling" },
+
     {
       "name": "Square One Gym",
       "lat": 51.9662,
       "lng": -0.2624,
-      "category": "Square One Gym",
-      "partner": true,
+      "category": "socials",
       "url": "https://squareonegym.co.uk/",
       "icon": "ubwhero.png"
     },
     {
-      "name": "UBW - June 27",
-      "lat": 51.9998,
-      "lng": -0.2493,
-      "category": "Fairfield Park",
-      "partner": true,
-      "url": "https://squareonegym.co.uk/event/the-ultimate-british-wrestling-tour-2026-fairfield/",
-      "icon": "ubwhero.png"
-    },
-    {
-      "name": "UBW - July 4",
-      "lat": 51.6959,
-      "lng": -0.3919,
-      "category": "Watford",
-      "partner": true,
-      "url": "https://squareonegym.co.uk/event/the-ultimate-british-wrestling-tour-2026-watford/",
-      "icon": "ubwhero.png"
-    },
-    {
-      "name": "UBW - July 18",
-      "lat": 51.8902,
-      "lng": -0.1729,
-      "category": "Stevenage",
-      "partner": true,
-      "url": "https://squareonegym.co.uk/event/square-one-stevenage-2/",
-      "icon": "ubwhero.png"
-    },
-    {
-      "name": "UBW - Jun 27",
+      "name": "UBW - Aug 1st",
       "lat": 51.5790,
       "lng": -0.4478,
-      "category": "Basildon",
+      "category": "basildon",
       "partner": true,
       "url": "https://squareonegym.co.uk/event/the-ultimate-british-wrestling-tour-2026-basildon/",
       "icon": "ubwhero.png"
+    },
+    {
+      "name": "UBW - Aug 2nd",
+      "lat": 51.8902,
+      "lng": -0.1729,
+      "category": "royston",
+      "partner": true,
+      "url": "https://squareonegym.co.uk/event/the-ultimate-british-wrestling-tour-2026-royston/",
+      "icon": "ubwhero.png"
+    },
+    {
+      "name": "UBW - Aug 15th",
+      "lat": 51.6959,
+      "lng": -0.3919,
+      "category": "hitchin",
+      "partner": true,
+      "url": "https://squareonegym.co.uk/event/square-one-hitchin-gym-wars-5/",
+      "icon": "ubwhero.png"
+    },
+    {
+      "name": "UBW - Aug 29th",
+      "lat": 51.9998,
+      "lng": -0.2493,
+      "category": "clements hall - hockly",
+      "partner": true,
+      "url": "https://squareonegym.co.uk/event/the-ultimate-british-wrestling-tour-2026-fairfield/",
+      "icon": "ubwhero.png"
     }
-    
+            
   ]
 }
