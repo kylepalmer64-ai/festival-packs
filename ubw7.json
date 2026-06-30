@@ -56,7 +56,6 @@
       "lat": 51.5790,
       "lng": -0.4478,
       "category": "1st aug",
-      "partner": true,
       "url": "https://squareonegym.co.uk/event/the-ultimate-british-wrestling-tour-2026-basildon/",
       "icon": "ubwhero.png"
     },
@@ -80,8 +79,7 @@
       "name": "Hockly",
       "lat": 51.9998,
       "lng": -0.2493,
-      "category": "29th aug",
-      "partner": true,
+      "category": "29th aug",    
       "url": "https://squareonegym.co.uk/event/the-ultimate-british-wrestling-tour-2026-fairfield/",
       "icon": "ubwhero.png"
     }
