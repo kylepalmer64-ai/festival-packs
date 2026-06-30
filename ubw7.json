@@ -12,18 +12,18 @@
   "categoryColors": {
     "Square One Gym": "#C62828",
     "1st aug": "#C62828",
-    "29th aug": "#C62828",
-    "15th aug": "#C62828",
     "2nd aug": "#C62828",
+    "15th aug": "#C62828",
+    "29th aug": "#C62828",
     "socials": "#C62828"
   },
   
   "categoryIcons": {
     "socials": "ubwhero.png",
-    "29 aug": "ubwhero.png",
-    "15th aug": "ubwhero.png",
+    "1st aug": "ubwhero.png",
     "2nd aug": "ubwhero.png",
-    "1st aug": "ubwhero.png"
+    "15th aug": "ubwhero.png",
+    "29th aug": "ubwhero.png"
   },
   
   "listings": [
