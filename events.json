@@ -1,5 +1,5 @@
 {
-  "version": 39,
+  "version": 40,
   "events": [
     {
       "id": "duttymetal",
@@ -11,7 +11,7 @@
       "id": "bloodstock_pack",
       "name": "BLD-STK-26 🤟🏻",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/bloodstock_pack.json?v=5"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/bloodstock_pack.json?v=6"
     },
     {
       "id": "coming2026",
