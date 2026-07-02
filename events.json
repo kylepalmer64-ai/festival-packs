@@ -1,5 +1,5 @@
 {
-  "version": 42,
+  "version": 43,
   "events": [
     {
       "id": "duttymetal",
@@ -9,15 +9,15 @@
     },
     {
       "id": "red_lion",
-      "name": "Red Lion - OT (SG6) 🤟🏻",
+      "name": "The Red Lion - Old Town Stevenage",
       "category": "Festival",
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/red_lion.json?v=2"
     },
     {
       "id": "85clpack",
-      "name": "Club 85 - Hitchin 🤟🏻",
+      "name": "Club 85 Hitchin",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/85clpack.json?v=2"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/85clpack.json?v=3"
     },
     {
       "id": "bloodstock_pack",
