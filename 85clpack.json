@@ -82,14 +82,14 @@
   ],
   
   "vendors": [
-    { "name": "Gurt, NXMA, Koba, Kushthulhu", "lat": 52.7455, "lng": -1.6270, "partner": true, "category": "this week", "icon": "c85hero.png" },    
-    { "name": "Heavy Wild, The Silent Archive, Dead Colours, Emergence", "lat": 52.7455, "lng": -1.6270, "partner": true,  "category": "this month", "icon": "c85hero.png" },
-    { "name": "Official", "lat": 52.8299, "lng": -1.3892, "category": "club 85 official", "partner": true, "icon": "c85hero.png", "url": "https://club-85.co.uk/" },
-    { "name": "KC Blackwater, Matty Ram, The Julia Set, One Punch Wonder", "lat": 52.7455, "lng": -1.6270, "category": "this month", "icon": "c85hero.png" },  
-    { "name": "Must Kill, Extreme Death Art, Draugheim, Burdonsome", "lat": 52.7455, "lng": -1.6270, "category": "this month", "icon": "c85hero.png" },  
-    { "name": "Insta", "lat": 52.8240, "lng": -1.3707, "category": "socials", "icon": "inhero.png", "url": "https://www.instagram.com/club_85_hitchin/" },
-    { "name": "Facebook", "lat": 52.8318, "lng": -1.3868, "category": "socials", "icon": "fbhero.png", "url": "https://www.facebook.com/club85hitchin/" },
-    { "name": "TikTok", "lat": 52.8260, "lng": -1.3716, "category": "socials", "icon": "tkhero.png", "url": "https://www.tiktok.com/tag/85club/" },
-    { "name": "YouTube", "lat": 52.8260, "lng": -1.3716, "category": "socials", "icon": "ythero.png", "url": "https://www.youtube.com/@club_85_hitchin" }
+    { "name": "Gurt, NXMA, Koba, Kushthulhu", "lat": 51.9532, "lng": -0.2718, "partner": true, "category": "this week", "icon": "c85hero.png" },    
+    { "name": "Heavy Wild, The Silent Archive, Dead Colours, Emergence", "lat": 51.9532, "lng": -0.2718, "partner": true,  "category": "this month", "icon": "c85hero.png" },
+    { "name": "Official", "lat": 51.9532, "lng": -0.2718, "category": "club 85 official", "partner": true, "icon": "c85hero.png", "url": "https://club-85.co.uk/" },
+    { "name": "KC Blackwater, Matty Ram, The Julia Set, One Punch Wonder", "lat": 51.9532, "lng": -0.2718, "category": "this month", "icon": "c85hero.png" },  
+    { "name": "Must Kill, Extreme Death Art, Draugheim, Burdonsome", "lat": 51.9532, "lng": -0.2718, "category": "this month", "icon": "c85hero.png" },  
+    { "name": "Insta", "lat": 51.9532, "lng": -0.2718, "category": "socials", "icon": "inhero.png", "url": "https://www.instagram.com/club_85_hitchin/" },
+    { "name": "Facebook", "lat": 51.9532, "lng": -0.2718, "category": "socials", "icon": "fbhero.png", "url": "https://www.facebook.com/club85hitchin/" },
+    { "name": "TikTok", "lat": 51.9532, "lng": -0.2718, "category": "socials", "icon": "tkhero.png", "url": "https://www.tiktok.com/tag/85club/" },
+    { "name": "YouTube", "lat": 51.9532, "lng": -0.2718, "category": "socials", "icon": "ythero.png", "url": "https://www.youtube.com/@club_85_hitchin" }
   ]
 }
