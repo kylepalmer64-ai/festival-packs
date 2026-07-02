@@ -1,11 +1,23 @@
 {
-  "version": 40,
+  "version": 41,
   "events": [
     {
       "id": "duttymetal",
       "name": "London M72 3rd-5th",
       "category": "Festival",
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/duttymetal.json?v=3"
+    },
+    {
+      "id": "red_lion",
+      "name": "Red Lion - OT (SG6) 🤟🏻",
+      "category": "Festival",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/red_lion.json?v=1"
+    },
+    {
+      "id": "85clpack",
+      "name": "Club 85 - Hitchin 🤟🏻",
+      "category": "Festival",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/85clpack.json?v=1"
     },
     {
       "id": "bloodstock_pack",
