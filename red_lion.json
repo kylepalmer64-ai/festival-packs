@@ -57,10 +57,10 @@
   ],
 
   "vendors": [
-    { "name": "Red Lion", "lat": 52.7460, "lng": -1.6280, "category": "Red Lion", "partner": true, "icon": "ythero.png", "url": "https://www.instagram.com/negativeframeldn/" },
+    { "name": "Red Lion", "lat": 52.7460, "lng": -1.6280, "category": "Red Lion", "icon": "rdhero.png", "url": "https://www.greeneking.co.uk/pubs/hertfordshire/red-lion" },
     
     { "name": "Negative Frame", "lat": 52.7460, "lng": -1.6280, "category": "Upcoming Bands", "icon": "ythero.png", "url": "https://www.instagram.com/negativeframeldn/" },
-    { "name": "Dygora", "lat": 52.7460, "lng": -1.6280, "category": "Upcoming Bands", "icon": "rdhero.png", "url": "https://dygora.com/home/" },
+    { "name": "Dygora", "lat": 52.7460, "lng": -1.6280, "category": "Upcoming Bands", "icon": "ythero.png", "url": "https://dygora.com/home/" },
     { "name": "Ramon Goose", "lat": 52.7460, "lng": -1.6280, "category": "Upcoming Bands", "icon": "ythero.png", "url": "https://www.youtube.com/user/deadhartsuk" },
 
 
