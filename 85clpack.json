@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/c85map.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/c85hero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/c85panel.png",
@@ -82,11 +82,11 @@
   ],
   
   "vendors": [
-    { "name": "Gurt, NXMA, Koba, Kushthulhu", "lat": 51.9532, "lng": -0.2718, "partner": true, "category": "this week", "icon": "c85hero.png" },    
-    { "name": "Heavy Wild, The Silent Archive, Dead Colours, Emergence", "lat": 51.9532, "lng": -0.2718, "partner": true,  "category": "this month", "icon": "c85hero.png" },
+    { "name": "Gurt, NXMA, Koba, Kushthulhu", "lat": 51.9532, "lng": -0.2718, "partner": true, "category": "this week", "icon": "c85hero.png", "url": "https://club-85.co.uk/" },    
+    { "name": "Heavy Wild, The Silent Archive, Dead Colours, Emergence", "lat": 51.9532, "lng": -0.2718, "partner": true,  "category": "this month", "icon": "c85hero.png", "url": "https://club-85.co.uk/" },
     { "name": "Official", "lat": 51.9532, "lng": -0.2718, "category": "club 85 official", "partner": true, "icon": "c85hero.png", "url": "https://club-85.co.uk/" },
-    { "name": "KC Blackwater, Matty Ram, The Julia Set, One Punch Wonder", "lat": 51.9532, "lng": -0.2718, "category": "this month", "icon": "c85hero.png" },  
-    { "name": "Must Kill, Extreme Death Art, Draugheim, Burdonsome", "lat": 51.9532, "lng": -0.2718, "category": "this month", "icon": "c85hero.png" },  
+    { "name": "KC Blackwater, Matty Ram, The Julia Set, One Punch Wonder", "lat": 51.9532, "lng": -0.2718, "category": "this month", "icon": "c85hero.png","url": "https://club-85.co.uk"  },  
+    { "name": "Must Kill, Extreme Death Art, Draugheim, Burdonsome", "lat": 51.9532, "lng": -0.2718, "category": "this month", "icon": "c85hero.png", "url": "https://club-85.co.uk" },  
     { "name": "Insta", "lat": 51.9532, "lng": -0.2718, "category": "socials", "icon": "inhero.png", "url": "https://www.instagram.com/club_85_hitchin/" },
     { "name": "Facebook", "lat": 51.9532, "lng": -0.2718, "category": "socials", "icon": "fbhero.png", "url": "https://www.facebook.com/club85hitchin/" },
     { "name": "TikTok", "lat": 51.9532, "lng": -0.2718, "category": "socials", "icon": "tkhero.png", "url": "https://www.tiktok.com/tag/85club/" },
