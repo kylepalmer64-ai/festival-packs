@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/rdmap.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/rdhero.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/rdmap.png",
+  "premiumHeader": "Red Lion - Old Town",
+  "listingsHeader": "Home of Live Music",
+  "premiumTileColor": "#FE4145",
+  "premiumTileBorder": "#F63C40",
+  "panelColor": "#331010EE",
+  "messagesFile": "red_messages.json",
+
+  "categoryColors": {
+    "Red Lion": "#FE4145",
+    "Upcoming Bands": "#F63C40",
+    "keep up to date": "#F63C40"
+  },
+
+  "categoryIcons": {
+    "Red Lion": "rdhero.png",
+    "Upcoming Bands": "rdhero.png",
+    "keep up to date": "rdhero.png"
+  },
+
+  "listings": [
+    { "stage": "Red Lion", "time": "17:00", "act": "Ramon Goose", "day": "Sun 5th Jul" },
+  
+    { "stage": "Red Lion", "time": "13:59", "act": "Tombstone Takeover", "day": "11th Jul" },
+    { "stage": "Red Lion", "time": "14:00", "act": "Praetorian", "day": "11th Jul" },
+    { "stage": "Red Lion", "time": "14:50", "act": "Lobotomica", "day": "11th Jul" },
+    { "stage": "Red Lion", "time": "15:40", "act": "Chaos Reigns", "day": "11th Jul" },
+    { "stage": "Red Lion", "time": "16:30", "act": "Casket Feeder", "day": "11th Jul" },
+    { "stage": "Red Lion", "time": "17:20", "act": "Opium Lord", "day": "11th Jul" },
+    { "stage": "Red Lion", "time": "18:30", "act": "Arrogante (SE)", "day": "11th Jul" },
+    { "stage": "Red Lion", "time": "19:20", "act": "Dead Harts", "day": "11th Jul" },
+    { "stage": "Red Lion", "time": "20:10", "act": "Mensvreters", "day": "11th Jul" },
+    { "stage": "Red Lion", "time": "21:00", "act": "Dygora", "day": "11th Jul" },
+    { "stage": "Red Lion", "time": "22:00", "act": "Negative Frame", "day": "11th Jul" },
+    { "stage": "Red Lion", "time": "20:00", "act": "Weekly Blues Nights", "day": "12th Jul" },
+  
+    { "stage": "Red Lion", "time": "20:00", "act": "Weekly Blues Nights", "day": "2nd Aug" },
+    { "stage": "Red Lion", "time": "17:00", "act": "Metalworks (Classic Rock & Heavy Metal Covers)", "day": "Sat 8th Aug" },
+    { "stage": "Red Lion", "time": "20:00", "act": "Weekly Blues Nights", "day": "9th Aug" },
+    { "stage": "Red Lion", "time": "20:00", "act": "Weekly Blues Nights", "day": "16th Aug" },
+    { "stage": "Red Lion", "time": "20:00", "act": "Weekly Blues Nights", "day": "23rd Aug" },
+    { "stage": "Red Lion", "time": "20:00", "act": "Weekly Blues Nights", "day": "30th Aug" },
+    { "stage": "Red Lion", "time": "20:00", "act": "Weekly Blues Nights", "day": "6th Sep" },
+    { "stage": "Red Lion", "time": "20:00", "act": "Weekly Blues Nights", "day": "13th Sep" },
+    { "stage": "Red Lion", "time": "20:00", "act": "Weekly Blues Nights", "day": "20th Sep" },
+    { "stage": "Red Lion", "time": "20:00", "act": "Weekly Blues Nights", "day": "27th Sep" },
+    
+    { "stage": "Red Lion", "time": "20:00", "act": "Weekly Blues Nights", "day": "4th Oct" },
+    { "stage": "Red Lion", "time": "20:00", "act": "Jamie Williams & The Roots Collective", "day": "11th Oct" },
+    { "stage": "Red Lion", "time": "20:00", "act": "Weekly Blues Nights", "day": "18th Oct" },
+    { "stage": "Red Lion", "time": "20:00", "act": "Weekly Blues Nights", "day": "25th Oct" }
+
+  ],
+
+  "vendors": [
+    { "name": "Red Lion", "lat": 52.7460, "lng": -1.6280, "category": "Red Lion", "partner": true, "icon": "ythero.png", "url": "https://www.instagram.com/negativeframeldn/" },
+    
+    { "name": "Negative Frame", "lat": 52.7460, "lng": -1.6280, "category": "Upcoming Bands", "icon": "ythero.png", "url": "https://www.instagram.com/negativeframeldn/" },
+    { "name": "Dygora", "lat": 52.7460, "lng": -1.6280, "category": "Upcoming Bands", "icon": "rdhero.png", "url": "https://dygora.com/home/" },
+    { "name": "Ramon Goose", "lat": 52.7460, "lng": -1.6280, "category": "Upcoming Bands", "icon": "ythero.png", "url": "https://www.youtube.com/user/deadhartsuk" },
+
+
+    { "name": "KteePee - Facebook", "lat": 52.8299, "lng": -1.3892, "category": "keep up to date", "icon": "kteepee.png", "url": "https://www.facebook.com/KteePeeEvents/" },
+    { "name": "Red Lion - Facebook", "lat": 52.8318, "lng": -1.3868, "category": "keep up to date", "icon": "fbhero.png", "url": "https://www.facebook.com/RedLionStevenage/" },
+    { "name": "Red Lion - Insta", "lat": 52.8240, "lng": -1.3707, "category": "keep up to date", "icon": "inhero.png", "url": "https://www.instagram.com/redlion4274/" }
+    
+  ]
+}
