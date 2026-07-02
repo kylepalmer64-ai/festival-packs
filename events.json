@@ -1,5 +1,5 @@
 {
-  "version": 43,
+  "version": 44,
   "events": [
     {
       "id": "duttymetal",
@@ -17,7 +17,7 @@
       "id": "85clpack",
       "name": "Club 85 Hitchin",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/85clpack.json?v=4"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/85clpack.json?v=5"
     },
     {
       "id": "bloodstock_pack",
