@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/c85map.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/c85hero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/c85panel.png",
@@ -16,10 +16,9 @@
     "socials": "#3D8BFF"
   },
   "listings": [
-    { "stage": "Club 85", "time": "18:30", "act": "Zumba", "day": "Tue 30th June" },
+
     
-    { "stage": "Club 85", "time": "19:45", "act": "LOCUST FURNACE PRESENTS: GURT / NXMA / KOBA / KUSHTHULHU", "day": "Sat 4th July" },
-    { "stage": "Club 85", "time": "18:30", "act": "Zumba", "day": "Tue 7th July" },
+
     { "stage": "Club 85", "time": "18:30", "act": "Zumba", "day": "Tue 14th July" },
     { "stage": "Club 85", "time": "18:45", "act": "HEAVY WILD / THE SILENT ARCHIVE / DEAD COLOURS / EMERGENCE", "day": "Thur 16th July" },
     { "stage": "Club 85", "time": "19:30", "act": "BA'AL / DENALI / THE SCOLERI BROTHERS / BELA KISS", "day": "Sat 18th July" },
@@ -82,7 +81,7 @@
   ],
   
   "vendors": [
-    { "name": "Gurt, NXMA, Koba, Kushthulhu", "lat": 51.9532, "lng": -0.2718, "partner": true, "category": "this week", "icon": "c85hero.png", "url": "https://club-85.co.uk/" },    
+    
     { "name": "Heavy Wild, The Silent Archive, Dead Colours, Emergence", "lat": 51.9532, "lng": -0.2718, "partner": true,  "category": "this month", "icon": "c85hero.png", "url": "https://club-85.co.uk/" },
     { "name": "Official", "lat": 51.9532, "lng": -0.2718, "category": "club 85 official", "partner": true, "icon": "c85hero.png", "url": "https://club-85.co.uk/" },
     { "name": "KC Blackwater, Matty Ram, The Julia Set, One Punch Wonder", "lat": 51.9532, "lng": -0.2718, "category": "this month", "icon": "c85hero.png","url": "https://club-85.co.uk"  },  
