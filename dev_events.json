@@ -1,5 +1,5 @@
 {
-  "version": 50,
+  "version": 51,
   "events": [
     {
       "id": "duttymetal",
@@ -53,7 +53,7 @@
       "id": "dl26_nextshot",
       "name": "DL27TEST Demo",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/dl26_nextshot.json?v=1"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/dl26_nextshot.json?v=8"
     },
     {
       "id": "spudman",
