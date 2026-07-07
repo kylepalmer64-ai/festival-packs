@@ -2,12 +2,6 @@
   "version": 51,
   "events": [
     {
-      "id": "duttymetal",
-      "name": "Dutty Metal Weekend",
-      "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/duttymetal.json?v=2"
-    },
-    {
       "id": "red_lion",
       "name": "The Red Lion - Old Town Stevenage",
       "category": "Festival",
@@ -65,7 +59,7 @@
       "id": "bloodstock_pack",
       "name": "BLD-STK-26 🤟🏻",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/bs_nextshot.json?v=7"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/bs_nextshot.json?v=8"
     },
     {
       "id": "ubw7",
