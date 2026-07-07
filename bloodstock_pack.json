@@ -1,13 +1,13 @@
 {
-  "version": 6,
+  "version": 8,
 
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/bsmap2.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/bshero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/bspanel.png",
   "premiumHeader": "On Site Must Haves!",
   "listingsHeader": "Set Times 🤘",
-  "premiumTileColor": "#7A0A0A",
-  "premiumTileBorder": "#BB0000",
+  "premiumTileColor": "#BB0000",
+  "premiumTileBorder": "#A11212",
   "panelColor": "#331010EE",
   "messagesFile": "bs_messages.json",
 
@@ -17,7 +17,7 @@
     "wellbeing": "#8A9A7B",
     "market": "#5E2A6E",
     "camping": "#3A4A32",
-    "WC": "#3A4F5F",
+    "washroom": "#3A4F5F",
     "bar": "#7A3A00",
     "water": "#2E4A5A",
     "merch": "#8A5A1A",
@@ -167,15 +167,13 @@
   ],
 
   "vendors": [
-    { "name": "Ronnie James DIO", "lat": 52.7419, "lng": -1.6954, "category": "stage", "icon": "distg.png" },
-    { "name": "Sophie Lancaster", "lat": 52.7404, "lng": -1.6960, "category": "stage", "icon": "bigtop.png" },
-    { "name": "New Blood", "lat": 52.7429, "lng": -1.6970, "category": "stage", "icon": "marq.png" },
-    { "name": "EMP", "lat": 52.7411, "lng": -1.6967, "category": "stage", "icon": "bigtop.png" },
+    { "name": "Ronnie James DIO", "lat": 52.7460, "lng": -1.6280, "category": "stage", "icon": "distg.png" },
+    { "name": "Sophie Lancaster", "lat": 52.7468, "lng": -1.6295, "category": "stage", "icon": "bigtop.png" },
+    { "name": "New Blood", "lat": 52.7455, "lng": -1.6270, "category": "stage", "icon": "marq.png" },
+    { "name": "EMP", "lat": 52.7455, "lng": -1.6270, "category": "stage", "icon": "bigtop.png" },
 
-    { "name": "WC (New Blood)", "lat": 52.7429, "lng": -1.6966, "category": "WC" },
-    { "name": "WC (SL Stage)", "lat": 52.7404, "lng": -1.6960, "category": "WC" },
-    { "name": "WC (Lair VIP )", "lat": 52.7419, "lng": -1.6954, "category": "WC" },
-
+    { "name": "Washrooms - Main Arena", "lat": 52.7463, "lng": -1.6285, "category": "washroom" },
+    { "name": "Washrooms - Camping", "lat": 52.7445, "lng": -1.6300, "category": "washroom" },
 
     { "name": "Food Court - Main Arena", "lat": 52.7462, "lng": -1.6278, "category": "food", "icon": "burfri.png" },
     { "name": "Food Village - Camping", "lat": 52.7448, "lng": -1.6305, "category": "food", "icon": "fries.png" },
@@ -183,34 +181,32 @@
     { "name": "Security HQ - Main Entrance", "lat": 52.7458, "lng": -1.6310, "category": "security", "icon": "police.png" },
     { "name": "Medical Tent", "lat": 52.7461, "lng": -1.6282, "category": "medical", "icon": "ambul.png" },
 
-    { "name": "Near New Blood", "lat": 52.7429, "lng": -1.6966, "category": "water" },
-    { "name": "Behind Sophie L", "lat": 52.7404, "lng": -1.6960, "category": "water" },
-    { "name": "Near Main Entrance", "lat": 52.7395, "lng": -1.6952, "category": "water" },
+    { "name": "Water Point North", "lat": 52.7466, "lng": -1.6290, "category": "water" },
+    { "name": "Water Point South", "lat": 52.7450, "lng": -1.6296, "category": "water" },
 
-    
-
-    { "name": "Lemmy's Bar", "lat": 52.7421, "lng": -1.6970, "category": "bar", "icon": "brbar.png" },
-    { "name": "Serpent's Lair VIP", "lat": 52.7419, "lng": -1.6954, "category": "bar", "icon": "vipbar.png" },
+    { "name": "Bar - Main Arena", "lat": 52.7464, "lng": -1.6283, "category": "bar", "icon": "brbar.png" },
+    { "name": "Serpent's Lair VIP", "lat": 52.7446, "lng": -1.6302, "category": "bar", "icon": "vipbar.png" },
+    { "name": "Arena New Blood", "lat": 52.7446, "lng": -1.6302, "category": "bar", "icon": "beerr.png" },
+    { "name": "Arena Dio Left", "lat": 52.7446, "lng": -1.6302, "category": "bar", "icon": "beerr.png" },
+    { "name": "Arena Sophie", "lat": 52.7446, "lng": -1.6302, "category": "bar", "icon": "beerr.png" },
     
 
     { "name": "Merch Tent", "lat": 52.7459, "lng": -1.6286, "category": "merch" },
     { "name": "Trading Village", "lat": 52.7457, "lng": -1.6288, "category": "market" },
 
-    { "name": "Luxury", "lat": 52.7434, "lng": -1.6954, "category": "camping", "icon": "luhero.png" },
-    { "name": "Serpent's Lair", "lat": 52.7421, "lng": -1.6926, "category": "camping", "icon": "serphero.png" },
-    { "name": "Niflheim", "lat": 52.7413, "lng": -1.6924, "category": "camping", "icon": "nihero.png" },
-    { "name": "Valahalla", "lat": 52.7397, "lng": -1.6913, "category": "camping", "icon": "valhero.png" },
-    { "name": "Ironwood", "lat": 52.7371, "lng": -1.6943, "category": "camping", "icon": "irhero.png" },
-    { "name": "Jutenheim", "lat": 52.7369, "lng": -1.6916, "category": "camping", "icon": "juhero.png" },
-    { "name": "Ragnarok (queit)", "lat": 52.7365, "lng": -1.6967, "category": "camping", "icon": "raghero.png" },
-    { "name": "Vanaheim", "lat": 52.7341, "lng": -1.6967, "category": "camping", "icon": "vanhero.png" },
-    { "name": "Kyrr (quiet)", "lat": 52.7327, "lng": -1.7001, "category": "camping", "icon": "kyhero.png" },
-    { "name": "Asgard", "lat": 52.7408, "lng": -1.6921, "category": "camping", "icon": "ashero.png" },.
-    { "name": "Midgard", "lat": 52.7382, "lng": -1.6961, "category": "camping", "icon": "ashero.png" },
-    { "name": "Hel Camp", "lat": 52.7364, "lng": -1.6973, "category": "camping", "icon": "ashero.png" },
-    
-    { "name": "Main Entrance", "lat": 52.7395, "lng": -1.6952, "category": "entrance", "icon": "entry2.png" },
-    { "name": "Arena Entrance", "lat": 52.7402, "lng": -1.6941, "category": "entrance", "icon": "entry1.png" },
+    { "name": "Luxury", "lat": 52.7440, "lng": -1.6310, "category": "camping", "icon": "luhero.png" },
+    { "name": "Serpent's Lair", "lat": 52.7440, "lng": -1.6310, "category": "camping", "icon": "serphero.png" },
+    { "name": "Niflheim", "lat": 52.7440, "lng": -1.6310, "category": "camping", "icon": "nihero.png" },
+    { "name": "Valahalla", "lat": 52.7440, "lng": -1.6310, "category": "camping", "icon": "valhero.png" },
+    { "name": "Ironwood", "lat": 52.7440, "lng": -1.6310, "category": "camping", "icon": "irhero.png" },
+    { "name": "Jutenheim", "lat": 52.7440, "lng": -1.6310, "category": "camping", "icon": "juhero.png" },
+    { "name": "Ragnarok", "lat": 52.7440, "lng": -1.6310, "category": "camping", "icon": "raghero.png" },
+    { "name": "Vanaheim", "lat": 52.7440, "lng": -1.6310, "category": "camping", "icon": "vanhero.png" },
+    { "name": "Kyrr (quiet)", "lat": 52.7440, "lng": -1.6310, "category": "camping", "icon": "kyhero.png" },
+    { "name": "Asgard", "lat": 52.7440, "lng": -1.6310, "category": "camping", "icon": "ashero.png" },
+
+    { "name": "Main Entrance", "lat": 52.7458, "lng": -1.6312, "category": "entrance", "icon": "entry2.png" },
+    { "name": "Arena Entrance", "lat": 52.7438, "lng": -1.6315, "category": "entrance", "icon": "entry1.png" },
   
     {
       "name": "DRAGONS HOARD",
@@ -234,6 +230,7 @@
     { "name": "MALL OF DEATH", "lat": 52.8318, "lng": -1.3868, "category": "stall", "icon": "modhero.png", "partner": true, "url": "https://www.facebook.com/mallofdeath2025/" },
     { "name": "RANV'S RASOI", "lat": 52.8260, "lng": -1.3716, "category": "food", "icon": "rnvhero.png", "partner": true, "url": "https://www.instagram.com/ranvsrasoi/" },
     { "name": "Maverix Supply Co.", "lat": 52.8260, "lng": -1.3716, "category": "stall", "icon": "mvxhero.png", "partner": true, "url": "https://www.instagram.com/maverixsupplyco/" },
+    { "name": "Sally's Sweet Stop", "lat": 52.8299, "lng": -1.3892, "category": "food", "icon": "strfdhero.png", "partner": true, "url": "https://www.facebook.com/profile.php?id=61571473362374/" },
     { "name": "Paellaria", "lat": 52.8260, "lng": -1.3716, "category": "food", "icon": "paelhero.png", "partner": true, "url": "https://www.instagram.com/paellariauk/" },
     { "name": "FESTIVAL SAMARITANS (24hr)", "lat": 52.8299, "lng": -1.3892, "category": "wellbeing", "icon": "samhero.png", "partner": true, "url": "https://www.samaritans.org/branches/festival-branch/" },
     {
@@ -250,7 +247,7 @@
       "lat": 52.8287,
       "lng": -1.3875,
       "category": "stage",
-      "icon": "fphero.png",
+      "icon": "fstrvhero.png",
       "partner": true,
       "url": "https://festpod.co.uk/"
     }
