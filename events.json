@@ -1,11 +1,17 @@
 {
-  "version": 50,
+  "version": 51,
   "events": [
     {
       "id": "bloodstock_pack",
       "name": "BLD-STK-26 🤟🏻",
       "category": "Festival",
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/bloodstock_pack.json?v=10"
+    },
+    {
+     "id": "creamfields26",
+     "name": "Creamfields 2026 🎧",
+     "category": "Festival",
+     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/creamfields26.json?v=1"
     },
     {
       "id": "red_lion",
