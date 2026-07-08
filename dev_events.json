@@ -1,6 +1,12 @@
 {
-  "version": 51,
+  "version": 52,
   "events": [
+    {
+      "id": "cmpbst",
+      "name": "Camp Bestival 🎉",
+      "category": "Festival",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/cmpbst.json?v=1"
+    },
     {
       "id": "red_lion",
       "name": "The Red Lion - Old Town Stevenage",
