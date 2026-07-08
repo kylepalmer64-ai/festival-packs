@@ -232,7 +232,7 @@
     { "name": "Maverix Supply Co.", "lat": 52.8260, "lng": -1.3716, "category": "stall", "icon": "mvxhero.png", "partner": true, "url": "https://www.instagram.com/maverixsupplyco/" },
     { "name": "Sally's Sweet Stop", "lat": 52.8299, "lng": -1.3892, "category": "food", "icon": "strfdhero.png", "partner": true, "url": "https://www.instagram.com/streetfoodbysally/" },
     { "name": "Paellaria", "lat": 52.8260, "lng": -1.3716, "category": "food", "icon": "paelhero.png", "partner": true, "url": "https://www.instagram.com/paellariauk/" },
-    { "name": "Grimm Prints Clothing", "lat": 52.8260, "lng": -1.3716, "category": "food", "icon": "gphero.png", "partner": true, "url": "https://www.grimmprints.com/products" },
+    { "name": "Grimm Prints Clothing", "lat": 52.8260, "lng": -1.3716, "category": "stall", "icon": "gphero.png", "partner": true, "url": "https://www.grimmprints.com/products" },
     { "name": "FESTIVAL SAMARITANS (24hr)", "lat": 52.8299, "lng": -1.3892, "category": "wellbeing", "icon": "samhero.png", "partner": true, "url": "https://www.samaritans.org/branches/festival-branch/" },
     {
       "name": "KteePee",
