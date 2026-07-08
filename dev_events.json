@@ -1,6 +1,24 @@
 {
-  "version": 52,
-  "events": [
+  "version": 53,
+  "events": [  
+    {
+     "id": "creamfields26",
+     "name": "Creamfields 2026 🎧",
+     "category": "Festival",
+     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/creamfields26.json?v=1"
+    },
+    {
+      "id": "reading26",
+      "name": "Reading Festival 2026",
+      "category": "Festival",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/reading26.json?v=1"
+    },
+    {
+     "id": "leeds26",
+      "name": "Leeds Festival 2026",
+      "category": "Festival",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/leeds26.json?v=1"
+    },
     {
       "id": "cmpbst",
       "name": "Camp Bestival 🎉",
