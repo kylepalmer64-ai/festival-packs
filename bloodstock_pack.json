@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
 
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/bsmap2.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/bshero.png",
@@ -209,7 +209,7 @@
     { "name": "Arena Entrance", "lat": 52.7438, "lng": -1.6315, "category": "entrance", "icon": "entry1.png" },
   
     {
-      "name": "DRAGONS HOARD",
+      "name": "Dragon's Hoard",
       "lat": 52.8269,
       "lng": -1.3733,
       "category": "stall",
@@ -218,7 +218,7 @@
       "url": "https://dragonshoardbm.co/"
     },
     {
-      "name": "FAT FRANK'S CAMPING SHOP",
+      "name": "Fat Frank's Camping Shop",
       "lat": 52.8287,
       "lng": -1.3875,
       "category": "stall",
@@ -226,12 +226,13 @@
       "icon": "ffhero.png",
       "url": "https://www.fatfrankscampingshop.com/click-and-collect/"
     },
-    { "name": "SCARLET IN CHAINS", "lat": 52.8240, "lng": -1.3707, "category": "stall", "icon": "sichero.png", "partner": true, "url": "https://www.instagram.com/scarletinchains/" },
-    { "name": "MALL OF DEATH", "lat": 52.8318, "lng": -1.3868, "category": "stall", "icon": "modhero.png", "partner": true, "url": "https://www.facebook.com/mallofdeath2025/" },
-    { "name": "RANV'S RASOI", "lat": 52.8260, "lng": -1.3716, "category": "food", "icon": "rnvhero.png", "partner": true, "url": "https://www.instagram.com/ranvsrasoi/" },
+    { "name": "Scarlet In Chains", "lat": 52.8240, "lng": -1.3707, "category": "stall", "icon": "sichero.png", "partner": true, "url": "https://www.instagram.com/scarletinchains/" },
+    { "name": "Mall oF Death", "lat": 52.8318, "lng": -1.3868, "category": "stall", "icon": "modhero.png", "partner": true, "url": "https://www.facebook.com/mallofdeath2025/" },
+    { "name": "Ranv's Rasoi", "lat": 52.8260, "lng": -1.3716, "category": "food", "icon": "rnvhero.png", "partner": true, "url": "https://www.instagram.com/ranvsrasoi/" },
     { "name": "Maverix Supply Co.", "lat": 52.8260, "lng": -1.3716, "category": "stall", "icon": "mvxhero.png", "partner": true, "url": "https://www.instagram.com/maverixsupplyco/" },
-    { "name": "The Sweet Spot", "lat": 52.8299, "lng": -1.3892, "category": "food", "icon": "strfdhero.png", "partner": true, "url": "https://www.streetfoodbysally.co.uk" },
+    { "name": "Sally's Sweet Stop", "lat": 52.8299, "lng": -1.3892, "category": "food", "icon": "strfdhero.png", "partner": true, "url": "https://www.instagram.com/streetfoodbysally/" },
     { "name": "Paellaria", "lat": 52.8260, "lng": -1.3716, "category": "food", "icon": "paelhero.png", "partner": true, "url": "https://www.instagram.com/paellariauk/" },
+    { "name": "Grimm Prints Clothing", "lat": 52.8260, "lng": -1.3716, "category": "stall", "icon": "gphero.png", "partner": true, "url": "https://www.grimmprints.com/products" },
     { "name": "FESTIVAL SAMARITANS (24hr)", "lat": 52.8299, "lng": -1.3892, "category": "wellbeing", "icon": "samhero.png", "partner": true, "url": "https://www.samaritans.org/branches/festival-branch/" },
     {
       "name": "KteePee",
@@ -251,5 +252,4 @@
       "partner": true,
       "url": "https://festpod.co.uk/"
     }
-  ]
-}
+ }
