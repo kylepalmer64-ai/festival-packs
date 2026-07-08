@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/cfmap.png",
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/cfpanel.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/cfhero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/cfpanel.png",
-  "premiumHeader": "20 Years of Creamfields",
-  "listingsHeader": "Stage Times",
+  "premiumHeader": "Creamfield 20th",
+  "listingsHeader": "Stage Times TBC",
   "premiumTileColor": "#7B2FBE",
   "premiumTileBorder": "#E040FB",
   "panelColor": "#0D0D2BEE",
@@ -107,6 +107,6 @@
     { "name": "Instagram", "lat": 53.3467, "lng": -2.6290, "category": "socials", "icon": "inhero.png", "url": "https://www.instagram.com/creamfieldsofficial/" },
     { "name": "Facebook", "lat": 53.3467, "lng": -2.6290, "category": "socials", "icon": "fbhero.png", "url": "https://www.facebook.com/officialcreamfields/" },
     { "name": "TikTok", "lat": 53.3467, "lng": -2.6290, "category": "socials", "icon": "tkhero.png", "url": "https://www.tiktok.com/@creamfieldsofficial" },
-    { "name": "Official Site", "lat": 53.3467, "lng": -2.6290, "category": "socials", "icon": "cfhero.png", "url": "https://creamfields.com/", "partner": true }
+    { "name": "Official Site", "lat": 53.3467, "lng": -2.6290, "category": "socials", "partner": true, "icon": "cfhero.png", "url": "https://creamfields.com/", "partner": true }
   ]
 }
