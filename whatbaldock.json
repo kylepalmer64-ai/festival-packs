@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/hitchmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/bdkhero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap2.png",
@@ -30,47 +30,27 @@
   },
 
   "listings": [
-    { "stage": "Hen 'n' Chickens", "time": "19:00", "act": "Gee La Roche", "day": "Thur 7th" },
-    { "stage": "The Cock", "time": "19:30", "act": "Black Squirrels", "day": "Sat 10th" },
-    { "stage": "White Lion", "time": "20:00", "act": "Highly Minogue", "day": "Wed 14th" },
-    { "stage": "White Lion", "time": "19:30", "act": "Black Squirrels", "day": "Thur 15th" },
-    { "stage": "White Lion", "time": "10:00", "act": "Open Mic", "day": "Sat 17th" },
-    { "stage": "The Cock", "time": "20:30", "act": "Comedy Club" },
-    { "stage": "The Cock", "time": "12:00", "act": "Sunday Roast Club" , "day":  "Sundays" },
-    { "stage": "White Lion", "time": "19:00", "act": "Becky B", "day": "Wed 14th" }
+    { "stage": "Baldock Venues", "time": "00:01", "act": "Everything thats on", "day": "TBC" }
+    
   ],
 
   "vendors": [
-    { "name": "Band A", "lat": 52.7460, "lng": -1.6280, "category": "Hen 'n' Chickens", "icon": "hnchero.png" },
-    { "name": "Band B", "lat": 52.7460, "lng": -1.6280, "category": "Hen 'n' Chickens", "icon": "hnchero.png" },
-    { "name": "Band 1", "lat": 52.7460, "lng": -1.6280, "category": "Hen 'n' Chickens", "icon": "hnchero.png" },
+    
     { "name": "Follow Us!", "lat": 52.7460, "lng": -1.6280, "category": "Hen 'n' Chickens", "icon": "fbhero.png", "url": "https://www.facebook.com/pages/The%20Hen%20&%20Chickens,%20Baldock/244047932379512/#" },
 
-    { "name": "Band 2", "lat": 52.7455, "lng": -1.6270, "category": "White Lion", "icon": "wlhero.png" },
-    { "name": "Band 3", "lat": 52.7455, "lng": -1.6270, "category": "White Lion", "icon": "wlhero.png" },
-    { "name": "Band F", "lat": 52.7455, "lng": -1.6270, "category": "White Lion", "icon": "wlhero.png" },
+    
     { "name": "Follow Us!", "lat": 52.7460, "lng": -1.6280, "category": "White Lion", "icon": "fbhero.png", "url": "https://www.facebook.com/whitelion.baldock/" },
 
-    { "name": "Band G", "lat": 52.7460, "lng": -1.6280, "category": "The Victoria", "icon": "vicbhero.png" },
-    { "name": "Band H", "lat": 52.7460, "lng": -1.6280, "category": "The Victoria", "icon": "vicbhero.png" },
-    { "name": "Band 9", "lat": 52.7460, "lng": -1.6280, "category": "The Victoria", "icon": "vicbhero.png" },
+    
     { "name": "Follow Us!", "lat": 52.7460, "lng": -1.6280, "category": "The Victoria", "icon": "fbhero.png", "url": "https://www.facebook.com/The.Victoria.Baldock/" },
 
-    { "name": "Band 10", "lat": 52.7468, "lng": -1.6295, "category": "White Horse", "icon": "owlhero.png" },
-    { "name": "Band 11", "lat": 52.7468, "lng": -1.6295, "category": "White Horse", "icon": "owlhero.png" },
-    { "name": "Band 12", "lat": 52.7468, "lng": -1.6295, "category": "White Horse", "icon": "owlhero.png" },
-    { "name": "Band X", "lat": 52.7468, "lng": -1.6295, "category": "White Horse", "icon": "owlhero.png" },
+    
     { "name": "Follow Us!", "lat": 52.7460, "lng": -1.6280, "category": "White Horse", "icon": "fbhero.png", "url": "https://www.facebook.com/oldwhitehorse/" },
 
-    { "name": "Band Y", "lat": 52.7455, "lng": -1.6270, "category": "Orange Tree", "icon": "ojhero.png" },
-    { "name": "Band Z", "lat": 52.7455, "lng": -1.6270, "category": "Orange Tree", "icon": "ojhero.png" },
-    { "name": "Band P", "lat": 52.7455, "lng": -1.6270, "category": "Orange Tree", "icon": "ojhero.png" },
-    { "name": "Band Q", "lat": 52.7455, "lng": -1.6270, "category": "Orange Tree", "icon": "ojhero.png" },
+    
     { "name": "Follow Us!", "lat": 52.7460, "lng": -1.6280, "category": "Orange Tree", "icon": "fbhero.png", "url": "https://www.facebook.com/The.Orange.Tree.Baldock/" },
 
-    { "name": "Band 21", "lat": 52.7455, "lng": -1.6270, "category": "The Cock", "icon": "chkero2.png" },
-    { "name": "Band 22", "lat": 52.7455, "lng": -1.6270, "category": "The Cock", "icon": "chkero2.png" },
-    { "name": "Band 23", "lat": 52.7455, "lng": -1.6270, "category": "The Cock", "icon": "chkero2.png" },
+    
     { "name": "Follow Us!", "lat": 52.7460, "lng": -1.6280, "category": "The Cock", "icon": "fbhero.png", "url": "https://www.facebook.com/The.Cock.Baldock" },
 
     { "name": "Official", "lat": 52.8299, "lng": -1.3892, "category": "keep up to date", "icon": "kteepee.png", "url": "https://www.kteepee.com/" },
