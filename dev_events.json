@@ -1,5 +1,5 @@
 {
-  "version": 55,
+  "version": 56,
   "events": [  
     {
      "id": "creamfields26",
@@ -23,7 +23,7 @@
       "id": "cmpbst",
       "name": "Camp Bestival 🎉",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/cmpbst.json?v=3"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/cmpbst.json?v=4"
     },
     {
       "id": "red_lion",
