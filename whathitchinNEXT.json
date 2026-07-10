@@ -50,6 +50,9 @@
 
   
   "vendors": [
+
+    { "name": "Happy Hour", "lat": 52.7460, "lng": -1.6280, "category": "Bridgetown Monroe","icon": "bmonicon.png" },
+    { "name": "2-4-1 Cocktails", "lat": 52.7460, "lng": -1.6280, "category": "Bridgetown Monroe", "icon": "bmonicon.png" },
     
     { "name": "Follow Us", "lat": 52.7455, "lng": -1.6270, "category": "The Cock", "icon": "inhero.png", "url": "https://www.instagram.com/the.cock.hitchin/" },
     { "name": "What's On", "lat": 52.7455, "lng": -1.6270, "category": "The Cock", "icon": "tckhero.png", "url": "https://thecockhitchin.co.uk/whats-on-at-the-cock-hitchin/" },
@@ -58,11 +61,7 @@
     { "name": "What's On", "lat": 52.7460, "lng": -1.6280, "category": "Osinsky's", "icon": "oskhero.png", "url": "https://osinskys.co.uk/whats-on/" },
     { "name": "Follow Us", "lat": 52.7460, "lng": -1.6280, "category": "Osinsky's", "icon": "inhero.png", "url": "https://www.instagram.com/osinskys/" },
     { "name": "Catch UWith Us", "lat": 52.7460, "lng": -1.6280, "category": "Osinsky's", "icon": "fbhero.png", "url": "https://www.facebook.com/Osinskys" },
-   
-    { "name": "Happy Hour", "lat": 52.7460, "lng": -1.6280, "category": "Bridgetown Monroe","icon": "bmonicon.png" },
-    { "name": "2-4-1 Cocktails", "lat": 52.7460, "lng": -1.6280, "category": "Bridgetown Monroe", "icon": "bmonicon.png" },
-    
-    
+      
     { "name": "Insta", "lat": 52.7455, "lng": -1.6270, "category": "Molly Malones", "icon": "inhero.png", "url": "https://www.instagram.com/molly_malones_sg5/" },
     { "name": "Facebook", "lat": 52.7455, "lng": -1.6270, "category": "Molly Malones", "icon": "fbhero.png", "url": "https://www.facebook.com/mollymaloneshitchin/" },
 
@@ -79,7 +78,7 @@
     { "name": "Amy J", "lat": 52.7460, "lng": -1.6280, "category": "The Angels Share", "icon": "fbhero.png", "url": "https://www.instagram.com/the.cock.hitchin/" },
     { "name": "The Call", "lat": 52.7460, "lng": -1.6280, "category": "The Angels Share", "icon": "inhero.png", "url": "https://www.instagram.com/explore/locations/487817156/the-angels-share/" },
 
-    { "name": "Garden Party", "lat": 52.7460, "lng": -1.6280, "category": "The coopers arms", "icon": "anghero.png" },
+    { "name": "Garden Party", "lat": 52.7460, "lng": -1.6280, "category": "The Coopers Arms", "icon": "cpahero.png" },
     
     { "name": "Official Website", "lat": 52.7460, "lng": -1.6280, "category": "The Victoria", "icon": "vichero.png", "url": "https://www.thevictoriahitchin.com/" },
     { "name": "Follow Us", "lat": 52.7468, "lng": -1.6295, "category": "The Victoria", "icon": "fbhero.png", "url": "https://www.facebook.com/thevichitchin/" },
