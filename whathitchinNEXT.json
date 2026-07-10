@@ -62,7 +62,7 @@
 
     { "name": "Garden Party", "lat": 52.7460, "lng": -1.6280, "category": "The coopers arms", "icon": "anghero.png" },
     
-    { "name": "Band 9", "lat": 52.7460, "lng": -1.6280, "category": "The Victoria", "icon": "vichero.png" },
+    { "name": "Official Website", "lat": 52.7460, "lng": -1.6280, "category": "The Victoria", "icon": "vichero.png", "url": "https://www.thevictoriahitchin.com/" },
     { "name": "Band 10", "lat": 52.7468, "lng": -1.6295, "category": "The Victoria", "icon": "vichero.png" },
     { "name": "Band 11", "lat": 52.7468, "lng": -1.6295, "category": "The Victoria", "icon": "vichero.png" },
     { "name": "Band 12", "lat": 52.7468, "lng": -1.6295, "category": "The Victoria", "icon": "vichero.png" },
