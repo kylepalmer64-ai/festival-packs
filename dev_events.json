@@ -1,5 +1,5 @@
 {
-  "version": 56,
+  "version": 57,
   "events": [  
     {
      "id": "creamfields26",
@@ -59,7 +59,7 @@
       "id": "whathitch.json",
       "name": "Hitchin Live & Local",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/whathitch.json?v=4"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/whathitchinNEXT.json?v=1"
     },
     {
       "id": "whatbaldock.json",
