@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/hitchmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/hithero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap2.png",
@@ -12,6 +12,7 @@
   "categoryColors": {
     "bridgetown monroe": "#C1121F",
     "the brickyard": "#C1121F",
+    "osinsky's": "#C1121F",
     "the cock": "#C1121F",
     "molly malones" : "#C1121F",
     "the george": "#C1121F",
@@ -24,7 +25,8 @@
   },
   "categoryIcons": {
     "bridgetown monroe": "bmonicon.png",
-    "the brickyard": "bydhero.png",
+    "the brickyard": "oskhero.png",
+    "osinsky's": "bydhero.png",
     "the cock": "tckhero.png",
     "molly malones": "mmhero.png",
     "the george": "george.png",
@@ -52,6 +54,10 @@
     { "name": "Follow Us", "lat": 52.7455, "lng": -1.6270, "category": "The Cock", "icon": "inhero.png", "url": "https://www.instagram.com/the.cock.hitchin/" },
     { "name": "What's On", "lat": 52.7455, "lng": -1.6270, "category": "The Cock", "icon": "tckhero.png", "url": "https://thecockhitchin.co.uk/whats-on-at-the-cock-hitchin/" },
     { "name": "Our Award Menu", "lat": 52.7455, "lng": -1.6270, "category": "The Cock", "icon": "tckhero.png", "url": "https://thecockhitchin.co.uk/menus/" },
+
+    { "name": "What's On", "lat": 52.7460, "lng": -1.6280, "category": "Osinsky's", "icon": "oskhero.png", "url": "https://osinskys.co.uk/whats-on/" },
+    { "name": "Follow Us", "lat": 52.7460, "lng": -1.6280, "category": "Osinsky's", "icon": "inhero.png", "url": "https://www.instagram.com/osinskys/" },
+    { "name": "Catch UWith Us", "lat": 52.7460, "lng": -1.6280, "category": "Osinsky's", "icon": "fbhero.png", "url": "https://www.facebook.com/Osinskys" },
    
     { "name": "Happy Hour", "lat": 52.7460, "lng": -1.6280, "category": "Bridgetown Monroe","icon": "bmonicon.png" },
     { "name": "2-4-1 Cocktails", "lat": 52.7460, "lng": -1.6280, "category": "Bridgetown Monroe", "icon": "bmonicon.png" },
