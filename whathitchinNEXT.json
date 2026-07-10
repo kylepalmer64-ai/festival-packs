@@ -11,16 +11,18 @@
   "messagesFile": "kteepee_messages.json",
   "categoryColors": {
     "bridgetown monroe": "#C1121F",
+    "molly malones" : "#C1121F",
     "the george": "#C1121F",
     "the Albert Inn": "#C1121F",
     "the angels share": "#C1121F",
     "the victoria": "#C1121F",
     "the coopers arms": "#C1121F",
-    "ronan's bistro": "C1121F",
+    "ronan's bistro": "#C1121F",
     "keep up to date": "#C1121F"
   },
   "categoryIcons": {
-   "bridgetown monroe": "bmonicon.png",
+    "bridgetown monroe": "bmonicon.png",
+    "molly malones": "mmhero.png",
     "the george": "george.png",
     "the Albert Inn": "albhero.png",
     "the angels share": "anghero.png",
@@ -33,6 +35,7 @@
     { "stage": "Bridgetown Monroe", "time": "19:00", "act": "Happy Hour", "day": "Thur 7th" },
     { "stage": "Bridgetown Monroe", "time": "19:30", "act": "2-4-1 Cocktails", "day": "Sat 10th" },
     { "stage": "The George", "time": "20:00", "act": "Highly Minogue", "day": "Wed 14th" },
+    { "stage": "Molly Malones", "time":"19:00", "act": "Local Band", "day": "Thu 15th" },
     { "stage": "The George", "time": "19:30", "act": "Black Squirrels", "day": "Thur 15th" },
     { "stage": "The Angels Share", "time": "10:00", "act": "Johny Ricks", "day": "Sat 17th" },
     { "stage": "The George", "time": "20:30", "act": "DJ Joda" },
@@ -43,6 +46,11 @@
   "vendors": [
     { "name": "Happy Hour", "lat": 52.7460, "lng": -1.6280, "category": "Bridgetown Monroe","icon": "bmonicon.png" },
     { "name": "2-4-1 Cocktails", "lat": 52.7460, "lng": -1.6280, "category": "Bridgetown Monroe", "icon": "bmonicon.png" },
+    
+    { "name": "Official Site", "lat": 52.7455, "lng": -1.6270, "category": "Molly Malones", "icon": "mmhero.png", "url": "https://www.thealber" },    
+    { "name": "Official Site", "lat": 52.7455, "lng": -1.6270, "category": "Molly Malones", "icon": "inhero.png", "url": "https://www.instagram.com/molly_malones_sg5/" },
+    { "name": "Official Site", "lat": 52.7455, "lng": -1.6270, "category": "Molly Malones", "icon": "fbhero.png", "url": "https://www.facebook.com/mollymaloneshitchin/" },
+    
     
     { "name": "Highly Minogue", "lat": 52.7460, "lng": -1.6280, "category": "The George", "icon": "george.png" },
     { "name": "Black Squirrels", "lat": 52.7455, "lng": -1.6270, "category": "The George","icon": "george.png" },
