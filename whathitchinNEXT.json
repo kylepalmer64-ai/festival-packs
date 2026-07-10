@@ -11,6 +11,7 @@
   "messagesFile": "kteepee_messages.json",
   "categoryColors": {
     "bridgetown monroe": "#C1121F",
+    "the brickyard": "#C1121F",
     "molly malones" : "#C1121F",
     "the george": "#C1121F",
     "the Albert Inn": "#C1121F",
@@ -22,6 +23,7 @@
   },
   "categoryIcons": {
     "bridgetown monroe": "bmonicon.png",
+    "the brickyard": "bydhero.png",
     "molly malones": "mmhero.png",
     "the george": "george.png",
     "the Albert Inn": "albhero.png",
@@ -50,6 +52,10 @@
     { "name": "Official Site", "lat": 52.7455, "lng": -1.6270, "category": "Molly Malones", "icon": "mmhero.png", "url": "https://www.thealber" },    
     { "name": "Official Site", "lat": 52.7455, "lng": -1.6270, "category": "Molly Malones", "icon": "inhero.png", "url": "https://www.instagram.com/molly_malones_sg5/" },
     { "name": "Official Site", "lat": 52.7455, "lng": -1.6270, "category": "Molly Malones", "icon": "fbhero.png", "url": "https://www.facebook.com/mollymaloneshitchin/" },
+
+    { "name": "Craft Beers", "lat": 52.7455, "lng": -1.6270, "category": "The Brickyard", "icon": "bydhero.png" },
+    { "name": "Find Us Here", "lat": 52.7455, "lng": -1.6270, "category": "The Brickyard", "icon": "inhero.png", "url": "https://www.instagram.com/brickyardhitchin/" },
+    { "name": "Keep Up To Date", "lat": 52.7455, "lng": -1.6270, "category": "The Brickyard", "icon": "fbhero.png", "url": "https://www.facebook.com/thebrickyardhitchin/" },
     
     
     { "name": "Highly Minogue", "lat": 52.7460, "lng": -1.6280, "category": "The George", "icon": "george.png" },
@@ -64,7 +70,7 @@
     
     { "name": "Official Website", "lat": 52.7460, "lng": -1.6280, "category": "The Victoria", "icon": "vichero.png", "url": "https://www.thevictoriahitchin.com/" },
     { "name": "Follow Us", "lat": 52.7468, "lng": -1.6295, "category": "The Victoria", "icon": "fbhero.png", "url": "https://www.facebook.com/thevichitchin/" },
-    { "name": "Keep Up To Date", "lat": 52.7468, "lng": -1.6295, "category": "The Victoria", "icon": "vichero.png", "url": "https://www.instagram.com/thevichitchin/" },
+    { "name": "Keep Up To Date", "lat": 52.7468, "lng": -1.6295, "category": "The Victoria", "icon": "inhero.png", "url": "https://www.instagram.com/thevichitchin/" },
     { "name": "DnB Night!", "lat": 52.7468, "lng": -1.6295, "category": "The Victoria", "icon": "vichero.png" },
     { "name": "Garden Party", "lat": 52.7468, "lng": -1.6295, "category": "The Victoria", "icon": "vichero.png" },
     
