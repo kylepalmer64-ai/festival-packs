@@ -63,10 +63,10 @@
     { "name": "Garden Party", "lat": 52.7460, "lng": -1.6280, "category": "The coopers arms", "icon": "anghero.png" },
     
     { "name": "Official Website", "lat": 52.7460, "lng": -1.6280, "category": "The Victoria", "icon": "vichero.png", "url": "https://www.thevictoriahitchin.com/" },
-    { "name": "Band 10", "lat": 52.7468, "lng": -1.6295, "category": "The Victoria", "icon": "vichero.png" },
-    { "name": "Band 11", "lat": 52.7468, "lng": -1.6295, "category": "The Victoria", "icon": "vichero.png" },
-    { "name": "Band 12", "lat": 52.7468, "lng": -1.6295, "category": "The Victoria", "icon": "vichero.png" },
-    { "name": "Band X", "lat": 52.7468, "lng": -1.6295, "category": "The Victoria", "icon": "vichero.png" },
+    { "name": "Follow Us", "lat": 52.7468, "lng": -1.6295, "category": "The Victoria", "icon": "fbhero.png", "url": "https://www.facebook.com/thevichitchin/" },
+    { "name": "Keep Up To Date", "lat": 52.7468, "lng": -1.6295, "category": "The Victoria", "icon": "vichero.png", "url": "https://www.instagram.com/thevichitchin/" },
+    { "name": "DnB Night!", "lat": 52.7468, "lng": -1.6295, "category": "The Victoria", "icon": "vichero.png" },
+    { "name": "Garden Party", "lat": 52.7468, "lng": -1.6295, "category": "The Victoria", "icon": "vichero.png" },
     
     { "name": "Official Site", "lat": 52.7455, "lng": -1.6270, "category": "The Albert Inn", "icon": "albhero.png", "url": "https://www.thealbertpub.com/" },
     { "name": "Bottomless BBQs - Book Here", "lat": 52.7455, "lng": -1.6270, "category": "The Albert Inn", "icon": "albhero.png", "url": "https://www.thealbertpub.com/event-list/" },
