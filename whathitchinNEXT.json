@@ -31,7 +31,7 @@
     "the Albert Inn": "albhero.png",
     "the angels share": "anghero.png",
     "the victoria": "vichero.png",
-    "the coopers arms": "#cpahero.png",
+    "the coopers arms": "cpahero.png",
     "ronan's bistro": "rnbhero.png"
   },
   
@@ -49,16 +49,16 @@
   
   "vendors": [
     
-    { "name": "Live Disco DJ", "lat": 52.7455, "lng": -1.6270, "category": "The Brickyard", "icon": "inhero.png", "url": "https://www.instagram.com/the.cock.hitchin/" },
-    { "name": "What's On", "lat": 52.7455, "lng": -1.6270, "category": "The Brickyard", "icon": "tckhero.png", "url": "https://thecockhitchin.co.uk/whats-on-at-the-cock-hitchin/" },
+    { "name": "Follow Us", "lat": 52.7455, "lng": -1.6270, "category": "The Cock", "icon": "inhero.png", "url": "https://www.instagram.com/the.cock.hitchin/" },
+    { "name": "What's On", "lat": 52.7455, "lng": -1.6270, "category": "The Cock", "icon": "tckhero.png", "url": "https://thecockhitchin.co.uk/whats-on-at-the-cock-hitchin/" },
     { "name": "Our Award Menu", "lat": 52.7455, "lng": -1.6270, "category": "The Cock", "icon": "tckhero.png", "url": "https://thecockhitchin.co.uk/menus/" },
    
     { "name": "Happy Hour", "lat": 52.7460, "lng": -1.6280, "category": "Bridgetown Monroe","icon": "bmonicon.png" },
     { "name": "2-4-1 Cocktails", "lat": 52.7460, "lng": -1.6280, "category": "Bridgetown Monroe", "icon": "bmonicon.png" },
     
-    { "name": "Official Site", "lat": 52.7455, "lng": -1.6270, "category": "Molly Malones", "icon": "mmhero.png", "url": "https://www.thealber" },    
-    { "name": "Official Site", "lat": 52.7455, "lng": -1.6270, "category": "Molly Malones", "icon": "inhero.png", "url": "https://www.instagram.com/molly_malones_sg5/" },
-    { "name": "Official Site", "lat": 52.7455, "lng": -1.6270, "category": "Molly Malones", "icon": "fbhero.png", "url": "https://www.facebook.com/mollymaloneshitchin/" },
+    
+    { "name": "Insta", "lat": 52.7455, "lng": -1.6270, "category": "Molly Malones", "icon": "inhero.png", "url": "https://www.instagram.com/molly_malones_sg5/" },
+    { "name": "Facebook", "lat": 52.7455, "lng": -1.6270, "category": "Molly Malones", "icon": "fbhero.png", "url": "https://www.facebook.com/mollymaloneshitchin/" },
 
     { "name": "Craft Beers", "lat": 52.7455, "lng": -1.6270, "category": "The Brickyard", "icon": "bydhero.png" },
     { "name": "Find Us Here", "lat": 52.7455, "lng": -1.6270, "category": "The Brickyard", "icon": "inhero.png", "url": "https://www.instagram.com/brickyardhitchin/" },
@@ -70,8 +70,8 @@
     { "name": "DJ Joda", "lat": 52.7455, "lng": -1.6270, "category": "The George", "icon": "george.png" },
     
     { "name": "Johny Ricks", "lat": 52.7455, "lng": -1.6270, "category": "The Angels Share", "icon": "anghero.png" },
-    { "name": "Amy J", "lat": 52.7460, "lng": -1.6280, "category": "The Angels Share", "icon": "anghero.png" },
-    { "name": "The Call", "lat": 52.7460, "lng": -1.6280, "category": "The Angels Share", "icon": "anghero.png" },
+    { "name": "Amy J", "lat": 52.7460, "lng": -1.6280, "category": "The Angels Share", "icon": "fbhero.png", "url": "https://www.instagram.com/the.cock.hitchin/" },
+    { "name": "The Call", "lat": 52.7460, "lng": -1.6280, "category": "The Angels Share", "icon": "inhero.png", "url": "https://www.instagram.com/explore/locations/487817156/the-angels-share/" },
 
     { "name": "Garden Party", "lat": 52.7460, "lng": -1.6280, "category": "The coopers arms", "icon": "anghero.png" },
     
