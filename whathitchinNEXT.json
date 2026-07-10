@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/hitchmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/hithero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap2.png",
@@ -12,6 +12,7 @@
   "categoryColors": {
     "bridgetown monroe": "#C1121F",
     "the brickyard": "#C1121F",
+    "the cock": "#C1121F",
     "molly malones" : "#C1121F",
     "the george": "#C1121F",
     "the Albert Inn": "#C1121F",
@@ -24,6 +25,7 @@
   "categoryIcons": {
     "bridgetown monroe": "bmonicon.png",
     "the brickyard": "bydhero.png",
+    "the cock": "tckhero.png",
     "molly malones": "mmhero.png",
     "the george": "george.png",
     "the Albert Inn": "albhero.png",
@@ -46,6 +48,11 @@
 
   
   "vendors": [
+    
+    { "name": "Live Disco DJ", "lat": 52.7455, "lng": -1.6270, "category": "The Brickyard", "icon": "inhero.png", "url": "https://www.instagram.com/the.cock.hitchin/" },
+    { "name": "What's On", "lat": 52.7455, "lng": -1.6270, "category": "The Brickyard", "icon": "tckhero.png", "url": "https://thecockhitchin.co.uk/whats-on-at-the-cock-hitchin/" },
+    { "name": "Our Award Menu", "lat": 52.7455, "lng": -1.6270, "category": "The Cock", "icon": "tckhero.png", "url": "https://thecockhitchin.co.uk/menus/" },
+   
     { "name": "Happy Hour", "lat": 52.7460, "lng": -1.6280, "category": "Bridgetown Monroe","icon": "bmonicon.png" },
     { "name": "2-4-1 Cocktails", "lat": 52.7460, "lng": -1.6280, "category": "Bridgetown Monroe", "icon": "bmonicon.png" },
     
