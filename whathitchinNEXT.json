@@ -1,0 +1,76 @@
+{
+  "version": 4,
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/hitchmap.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/hithero.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap2.png",
+  "premiumHeader": "Live & Local",
+  "listingsHeader": "When & Where",
+  "premiumTileColor": "#F8F9FA",
+  "premiumTileBorder": "#E63946",
+  "panelColor": "#331010EE",
+  "messagesFile": "kteepee_messages.json",
+  "categoryColors": {
+    "bridgetown monroe": "#C1121F",
+    "the george": "#C1121F",
+    "the Albert Inn": "#C1121F",
+    "the angels share": "#C1121F",
+    "the victoria": "#C1121F",
+    "the coopers arms": "#C1121F",
+    "ronan's bistro": "C1121F",
+    "keep up to date": "#C1121F"
+  },
+  "categoryIcons": {
+   "bridgetown monroe": "bmonicon.png",
+    "the george": "george.png",
+    "the Albert Inn": "albhero.png",
+    "the angels share": "anghero.png",
+    "the victoria": "vichero.png",
+    "the coopers arms": "#cpahero.png",
+    "ronan's bistro": "rnbhero.png"
+  },
+  
+  "listings": [
+    { "stage": "Bridgetown Monroe", "time": "19:00", "act": "Happy Hour", "day": "Thur 7th" },
+    { "stage": "Bridgetown Monroe", "time": "19:30", "act": "2-4-1 Cocktails", "day": "Sat 10th" },
+    { "stage": "The George", "time": "20:00", "act": "Highly Minogue", "day": "Wed 14th" },
+    { "stage": "The George", "time": "19:30", "act": "Black Squirrels", "day": "Thur 15th" },
+    { "stage": "The Angels Share", "time": "10:00", "act": "Johny Ricks", "day": "Sat 17th" },
+    { "stage": "The George", "time": "20:30", "act": "DJ Joda" },
+    { "stage": "The Albert Inn", "time": "19:00", "act": "Becky B", "day": "Wed 14th" }
+  ],
+
+  
+  "vendors": [
+    { "name": "Happy Hour", "lat": 52.7460, "lng": -1.6280, "category": "Bridgetown Monroe","icon": "bmonicon.png" },
+    { "name": "2-4-1 Cocktails", "lat": 52.7460, "lng": -1.6280, "category": "Bridgetown Monroe", "icon": "bmonicon.png" },
+    
+    { "name": "Highly Minogue", "lat": 52.7460, "lng": -1.6280, "category": "The George", "icon": "george.png" },
+    { "name": "Black Squirrels", "lat": 52.7455, "lng": -1.6270, "category": "The George","icon": "george.png" },
+    { "name": "DJ Joda", "lat": 52.7455, "lng": -1.6270, "category": "The George", "icon": "george.png" },
+    
+    { "name": "Johny Ricks", "lat": 52.7455, "lng": -1.6270, "category": "The Angels Share", "icon": "anghero.png" },
+    { "name": "Amy J", "lat": 52.7460, "lng": -1.6280, "category": "The Angels Share", "icon": "anghero.png" },
+    { "name": "The Call", "lat": 52.7460, "lng": -1.6280, "category": "The Angels Share", "icon": "anghero.png" },
+
+    { "name": "Garden Party", "lat": 52.7460, "lng": -1.6280, "category": "The coopers arms", "icon": "anghero.png" },
+    
+    { "name": "Band 9", "lat": 52.7460, "lng": -1.6280, "category": "The Victoria", "icon": "vichero.png" },
+    { "name": "Band 10", "lat": 52.7468, "lng": -1.6295, "category": "The Victoria", "icon": "vichero.png" },
+    { "name": "Band 11", "lat": 52.7468, "lng": -1.6295, "category": "The Victoria", "icon": "vichero.png" },
+    { "name": "Band 12", "lat": 52.7468, "lng": -1.6295, "category": "The Victoria", "icon": "vichero.png" },
+    { "name": "Band X", "lat": 52.7468, "lng": -1.6295, "category": "The Victoria", "icon": "vichero.png" },
+    
+    { "name": "Official Site", "lat": 52.7455, "lng": -1.6270, "category": "The Albert Inn", "icon": "albhero.png", "url": "https://www.thealbertpub.com/" },
+    { "name": "Bottomless BBQs - Book Here", "lat": 52.7455, "lng": -1.6270, "category": "The Albert Inn", "icon": "albhero.png", "url": "https://www.thealbertpub.com/event-list/" },
+    { "name": "Check out our menu!", "lat": 52.7455, "lng": -1.6270, "category": "The Albert Inn", "icon": "albhero.png", "url": "https://www.thealbertpub.com/menus/" },
+    { "name": "Local Band", "lat": 52.7455, "lng": -1.6270, "category": "The Albert Inn", "icon": "albhero.png" },
+    
+    { "name": "Ronan's Bistro", "lat": 52.7455, "lng": -1.6270, "category": "Ronan's Bistro", "icon": "inhero.png", "url": "https://www.instagram.com/ronans.coffee/" },
+    { "name": "Find Us Here", "lat": 52.7455, "lng": -1.6270, "category": "Ronan's Bistro", "icon": "rnbhero.png" },
+
+    
+    { "name": "Facebook", "lat": 52.8318, "lng": -1.3868, "category": "keep up to date", "icon": "fbhero.png", "url": "https://www.facebook.com/KteePeeEvents" },
+    { "name": "Insta", "lat": 52.8240, "lng": -1.3707, "category": "keep up to date", "icon": "inhero.png", "url": "https://www.instagram.com/kteepee.events/" },
+    { "name": "Official", "lat": 52.8299, "lng": -1.3892, "category": "keep up to date", "icon": "kteepee.png", "url": "https://www.kteepee.com/" }
+  ]
+}
