@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
 
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/bsmap2.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/bshero.png",
@@ -228,6 +228,7 @@
     },
     { "name": "Scarlet In Chains", "lat": 52.8240, "lng": -1.3707, "category": "stall", "icon": "sichero.png", "partner": true, "url": "https://www.instagram.com/scarletinchains/" },
     { "name": "Mall oF Death", "lat": 52.8318, "lng": -1.3868, "category": "stall", "icon": "modhero.png", "partner": true, "url": "https://www.facebook.com/mallofdeath2025/" },
+    { "name": "White Moon Crystals", "lat": 52.8260, "lng": -1.3716, "category": "stall", "icon": "wmchero.png", "partner": true, "url": "https://www.instagram.com/whitemoon_crystals/" },
     { "name": "Ranv's Rasoi", "lat": 52.8260, "lng": -1.3716, "category": "food", "icon": "rnvhero.png", "partner": true, "url": "https://www.instagram.com/ranvsrasoi/" },
     { "name": "Maverix Supply Co.", "lat": 52.8260, "lng": -1.3716, "category": "stall", "icon": "mvxhero.png", "partner": true, "url": "https://www.instagram.com/maverixsupplyco/" },
     { "name": "Sally's Sweet Stop", "lat": 52.8299, "lng": -1.3892, "category": "food", "icon": "strfdhero.png", "partner": true, "url": "https://www.instagram.com/streetfoodbysally/" },
@@ -235,13 +236,13 @@
     { "name": "Grimm Prints Clothing", "lat": 52.8260, "lng": -1.3716, "category": "stall", "icon": "gphero.png", "partner": true, "url": "https://www.grimmprints.com/products" },
     { "name": "FESTIVAL SAMARITANS (24hr)", "lat": 52.8299, "lng": -1.3892, "category": "wellbeing", "icon": "samhero.png", "partner": true, "url": "https://www.samaritans.org/branches/festival-branch/" },
     {
-      "name": "KteePee",
+      "name": "Bloodstock Merch",
       "lat": 51.981150,
       "lng": -0.221900,
       "category": "stage",
       "partner": true,
-      "icon": "kteepee.png",
-      "url": "https://www.facebook.com/kteepeeevents/"
+      "icon": "bshero.png",
+      "url": "https://bloodstockmerch.co.uk/collections/boacc/"
     },
     {
       "name": "FESTPOD",
@@ -252,5 +253,5 @@
       "partner": true,
       "url": "https://festpod.co.uk/"
     }
-  ]  
+  ]
 }
