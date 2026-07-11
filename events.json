@@ -1,11 +1,11 @@
 {
-  "version": 54,
+  "version": 55,
   "events": [
     {
       "id": "bloodstock_pack",
       "name": "BLD-STK-26 🤟🏻",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/bloodstock_pack.json?v=11"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/bloodstock_pack.json?v=12"
     },
     {
       "id": "bestival2026",
