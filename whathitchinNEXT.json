@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/hitchmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/hithero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap2.png",
@@ -49,7 +49,7 @@
   
   "vendors": [
 
-    { "name": "Cocktails", "lat": 52.7460, "lng": -1.6280, "category": "Bridgetown Monroe","icon": "bmonicon.png" },
+
     { "name": "Late Night Bar", "lat": 52.7460, "lng": -1.6280, "category": "Bridgetown Monroe", "icon": "bmonicon.png" },
     { "name": "We're Here", "lat": 51.9469183, "lng": -0.2793105, "category": "Bridgetown Monroe", "icon": "bmonicon.png" },
     { "name": "Offical Site", "lat": 52.7460, "lng": -1.6280, "category": "Bridgetown Monroe", "icon": "bmonicon.png", "url": "https://www.bridgetownmonroe.com/" },
@@ -66,7 +66,7 @@
     { "name": "Insta", "lat": 52.7455, "lng": -1.6270, "category": "The George", "icon": "inhero.png", "url": "https://www.instagram.com/thegeorgepubhitchin/" },
 
     { "name": "Craft Beers", "lat": 52.7455, "lng": -1.6270, "category": "The Brickyard", "icon": "bydhero.png" },
-    { "name": "We're Here", "lat": 51.950437, "lng": -0.276933, "category": "The Brickyard", "icon": "bydhero.png" },
+    { "name": "We're Here", "lat": 2.7455, "lng": -1.6270, "category": "The Brickyard", "icon": "bydhero.png" },
     { "name": "Find Us Here", "lat": 52.7455, "lng": -1.6270, "category": "The Brickyard", "icon": "inhero.png", "url": "https://www.instagram.com/brickyardhitchin/" },
     { "name": "Keep Up To Date", "lat": 52.7455, "lng": -1.6270, "category": "The Brickyard", "icon": "fbhero.png", "url": "https://www.facebook.com/thebrickyardhitchin/" },
     
@@ -94,7 +94,7 @@
     
     { "name": "We're Here", "lat": 51.9520809, "lng": -0.2674013, "category": "Ronan's Bistro", "icon": "rnbhero.png" },
     { "name": "Ronan's Bistro", "lat": 52.7455, "lng": -1.6270, "category": "Ronan's Bistro", "icon": "inhero.png", "url": "https://www.instagram.com/ronans.coffee/" },
-    { "name": "Find Us Here", "lat": 52.7455, "lng": -1.6270, "category": "Ronan's Bistro", "icon": "rnbhero.png" },
+
 
     
     { "name": "Facebook", "lat": 52.8318, "lng": -1.3868, "category": "keep up to date", "icon": "fbhero.png", "url": "https://www.facebook.com/KteePeeEvents" },
