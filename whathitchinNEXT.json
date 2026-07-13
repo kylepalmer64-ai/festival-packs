@@ -36,14 +36,7 @@
   },
   
   "listings": [
-    { "stage": "Bridgetown Monroe", "time": "19:00", "act": "Happy Hour", "day": "Thur 7th" },
-    { "stage": "Bridgetown Monroe", "time": "19:30", "act": "2-4-1 Cocktails", "day": "Sat 10th" },
-    { "stage": "The George", "time": "20:00", "act": "Highly Minogue", "day": "Wed 14th" },
-    { "stage": "Molly Malones", "time":"19:00", "act": "Local Band", "day": "Thu 15th" },
-    { "stage": "The George", "time": "19:30", "act": "Black Squirrels", "day": "Thur 15th" },
-    { "stage": "The Angels Share", "time": "10:00", "act": "Johny Ricks", "day": "Sat 17th" },
-    { "stage": "The George", "time": "20:30", "act": "DJ Joda" },
-    { "stage": "The Albert Inn", "time": "19:00", "act": "Becky B", "day": "Wed 14th" }
+    { "stage": "Check Back Soon", "time": "00:00", "act": "More To Come", "day": "July 30th" }
   ],
 
   
