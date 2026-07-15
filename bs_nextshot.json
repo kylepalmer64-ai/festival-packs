@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
 
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/bsmap2.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/bshero.png",
@@ -177,6 +177,12 @@
     { "name": "New Blood", "lat": 52.7455, "lng": -1.6270, "category": "stage", "icon": "marq.png" },
     { "name": "EMP", "lat": 52.7455, "lng": -1.6270, "category": "stage", "icon": "bigtop.png" },
 
+    { "name": "VIP Spa Passes - Book here", "lat": 52.7446, "lng": -1.6302, "category": "The Spa @", "icon": "spathero.png", "url": "https://www.tickettailor.com/checkout/view-event/id/7182070/chk/782d/" },
+    { "name": "Holistic Massages - Book here", "lat": 52.7446, "lng": -1.6302, "category": "The Spa @", "icon": "spathero.png", "url": "https://www.tickettailor.com/checkout/view-event/id/7182070/chk/782d/" },
+    { "name": "Make-up & Hair Treatments - Book here", "lat": 52.7446, "lng": -1.6302, "category": "The Spa @", "icon": "spathero.png", "url": "https://www.tickettailor.com/checkout/view-event/id/7182070/chk/782d/" },
+    { "name": "Hot Tub & Sauna - Book here", "lat": 52.7446, "lng": -1.6302, "category": "The Spa @", "icon": "spathero.png", "url": "https://www.tickettailor.com/checkout/view-event/id/7182070/chk/782d/" },
+    { "name": "Beard Therapy - Book here", "lat": 52.7446, "lng": -1.6302, "category": "The Spa @", "icon": "spathero.png", "url": "https://www.tickettailor.com/checkout/view-event/id/7182070/chk/782d/" },
+
     { "name": "Washrooms - Main Arena", "lat": 52.7463, "lng": -1.6285, "category": "washroom" },
     { "name": "Washrooms - Camping", "lat": 52.7445, "lng": -1.6300, "category": "washroom" },
 
@@ -240,6 +246,8 @@
     { "name": "Paellaria", "lat": 52.8260, "lng": -1.3716, "category": "food", "icon": "paelhero.png", "partner": true, "url": "https://www.instagram.com/paellariauk/" },
     { "name": "Grimm Prints Clothing", "lat": 52.8260, "lng": -1.3716, "category": "stall", "icon": "gphero.png", "partner": true, "url": "https://www.grimmprints.com/products" },
     { "name": "FESTIVAL SAMARITANS (24hr)", "lat": 52.8299, "lng": -1.3892, "category": "wellbeing", "icon": "samhero.png", "partner": true, "url": "https://www.samaritans.org/branches/festival-branch/" },
+    { "name": "The Spa @ (Booking Only)", "lat": 52.7446, "lng": -1.6302, "category": "The Spa @", "icon": "spathero.png", "partner": true, "url": "https://www.tickettailor.com/checkout/view-event/id/7182070/chk/782d/" },
+
     {
       "name": "Bloodstock Merch",
       "lat": 51.981150,
@@ -257,12 +265,6 @@
       "icon": "fstrvhero.png",
       "partner": true,
       "url": "https://festpod.co.uk/"
-    },
-    { "name": "The Spa @ (Booking Only)", "lat": 52.7446, "lng": -1.6302, "category": "The Spa @", "icon": "spathero.png", "partner": true, "url": "https://www.tickettailor.com/checkout/view-event/id/7182070/chk/782d/" },
-    { "name": "VIP Spa Passes - Book here", "lat": 52.7446, "lng": -1.6302, "category": "The Spa @", "icon": "spathero.png", "url": "https://www.tickettailor.com/checkout/view-event/id/7182070/chk/782d/" },
-    { "name": "Holistic Massages - Book here", "lat": 52.7446, "lng": -1.6302, "category": "The Spa @", "icon": "spathero.png", "url": "https://www.tickettailor.com/checkout/view-event/id/7182070/chk/782d/" },
-    { "name": "Make-up & Hair Treatments - Book here", "lat": 52.7446, "lng": -1.6302, "category": "The Spa @", "icon": "spathero.png", "url": "https://www.tickettailor.com/checkout/view-event/id/7182070/chk/782d/" },
-    { "name": "Hot Tub & Sauna - Book here", "lat": 52.7446, "lng": -1.6302, "category": "The Spa @", "icon": "spathero.png", "url": "https://www.tickettailor.com/checkout/view-event/id/7182070/chk/782d/" },
-    { "name": "Beard Therapy - Book here", "lat": 52.7446, "lng": -1.6302, "category": "The Spa @", "icon": "spathero.png", "url": "https://www.tickettailor.com/checkout/view-event/id/7182070/chk/782d/" }
+    }
   ]
 }
