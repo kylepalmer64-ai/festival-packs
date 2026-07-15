@@ -1,5 +1,5 @@
 {
-  "version": 68,
+  "version": 69,
   "events": [  
     {
      "id": "creamfields26",
@@ -83,7 +83,7 @@
       "id": "bloodstock_pack",
       "name": "BLD-STK-26 🤟🏻",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/bs_nextshot.json?v=13"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/bs_nextshot.json?v=14"
     },
     {
       "id": "ubw7",
