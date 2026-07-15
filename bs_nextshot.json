@@ -12,6 +12,7 @@
   "messagesFile": "bs_messages.json",
 
   "categoryColors": {
+    "The Spa @": "#C1783D",
     "stall": "#5A0E12",
     "stage": "#7A0A0A",
     "wellbeing": "#8A9A7B",
@@ -25,6 +26,10 @@
     "security": "#1A1A1A",
     "medical": "#A11212",
     "food": "#7A1A1A"
+  },
+
+    "categoryIcons": {
+    "The Spa @": "spathero.png"
   },
 
   "listings": [
@@ -252,6 +257,12 @@
       "icon": "fstrvhero.png",
       "partner": true,
       "url": "https://festpod.co.uk/"
-    }
+    },
+    { "name": "The Spa @ (Booking Only)", "lat": 52.7446, "lng": -1.6302, "category": "The Spa @", "icon": "spathero.png", "partner": true, "url": "https://www.tickettailor.com/checkout/view-event/id/7182070/chk/782d/" },
+    { "name": "VIP Spa Passes - Book here", "lat": 52.7446, "lng": -1.6302, "category": "The Spa @", "icon": "spathero.png", "url": "https://www.tickettailor.com/checkout/view-event/id/7182070/chk/782d/" },
+    { "name": "Holistic Massages - Book here", "lat": 52.7446, "lng": -1.6302, "category": "The Spa @", "icon": "spathero.png", "url": "https://www.tickettailor.com/checkout/view-event/id/7182070/chk/782d/" },
+    { "name": "Make-up & Hair Treatments - Book here", "lat": 52.7446, "lng": -1.6302, "category": "The Spa @", "icon": "spathero.png", "url": "https://www.tickettailor.com/checkout/view-event/id/7182070/chk/782d/" },
+    { "name": "Hot Tub & Sauna - Book here", "lat": 52.7446, "lng": -1.6302, "category": "The Spa @", "icon": "spathero.png", "url": "https://www.tickettailor.com/checkout/view-event/id/7182070/chk/782d/" },
+    { "name": "Beard Therapy - Book here", "lat": 52.7446, "lng": -1.6302, "category": "The Spa @", "icon": "spathero.png", "url": "https://www.tickettailor.com/checkout/view-event/id/7182070/chk/782d/" }
   ]
 }
