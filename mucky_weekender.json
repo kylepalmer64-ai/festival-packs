@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/muckyamp.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/mksqhero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/statsmap.png",
@@ -12,27 +12,33 @@
 
   "categoryColors": {
     "tickets": "#C8102E",
-    "stages": "#0A1A3F",
+    "stage": "#0A1A3F",
+    "merch": "#0A1A3F",
+    "food": "#0A1A3F",
     "socials": "#F8EFE3",
-    "wristband exchange": "#F8EFE3",
-    "washroom": "#F8EFE3",
-    "wc": "#F8EFE3",
+    "shower": "#F8EFE3",
+    "WC": "#F8EFE3",
+    "Access Facilities": "#F8EFE3",
     "medical": "#F8EFE3",
-    "accessible services": "#F8EFE3",
     "parking": "#F8EFE3",
-    "entrances & gates": "#F8EFE3"
+    "entrances & Gates": "#F8EFE3",
+    "campsites": "#F8EFE3"
   },
 
   "categoryIcons": {
     "tickets": "mwsq1.png",
-    "socials": "mwsq1",
-    "wristband exchange": "mkex.png",
-    "washroom": "mkshow.png",
-    "wc": "mkwc.png",
+    "stage": "mkash.png",
+
+    "food": "mkfd.png",
+    "socials": "mwsq1.png",
+    "shower": "mkshow.png",
+    "WC": "mkwc.png",
+    "Access Facilities": "mkax.png",
+    "water": "mkwat.png",
     "medical": "mkmed.png",
-    "accessible services": "mkax.png",
     "parking": "mkpk.png",
-    "entrances & gates": "mkgate.png"
+    "entrances & Gates": "mkgate.png",
+    "campsites": "mkcmps.png"    
     
   },
 
@@ -196,9 +202,31 @@
     { "name": "The Crazy Diamonds Club", "lat": 51.9801, "lng": -0.2272, "category": "stage", "icon": "mkdmd.png" },
     { "name": "USS Seanie T in The Woods", "lat": 51.9801, "lng": -0.2272, "category": "stage", "icon": "mkufo.png" },
    
-    { "name": "Toilet Block A", "lat": 51.9796, "lng": -0.2250, "category": "wc", "icon": "mkwc.png" },
-    { "name": "Toilet Block B", "lat": 51.9790, "lng": -0.2259, "category": "wc", "icon": "mkwc.png" },
-    { "name": "Toilet Block C", "lat": 51.9803, "lng": -0.2264, "category": "wc", "icon": "mkwc.png" },
+    { "name": "Arena South", "lat": 51.9796, "lng": -0.2250, "category": "WC", "icon": "mkwc.png" },
+    { "name": "Arena North", "lat": 51.9796, "lng": -0.2250, "category": "WC", "icon": "mkwc.png" },
+    { "name": "General Camp East", "lat": 51.9796, "lng": -0.2250, "category": "WC", "icon": "mkwc.png" },
+    { "name": "General North", "lat": 51.9796, "lng": -0.2250, "category": "WC", "icon": "mkwc.png" },
+    { "name": "RVs Center", "lat": 51.9796, "lng": -0.2250, "category": "WC", "icon": "mkwc.png" },
+    { "name": "RV's South", "lat": 51.9796, "lng": -0.2250, "category": "WC", "icon": "mkwc.png" },
+
+
+    { "name": "WC Camp", "lat": 51.9803, "lng": -0.2264, "category": "Access Facilities", "icon": "mkacwc.png" },
+    { "name": "WC RVs Camp", "lat": 51.9803, "lng": -0.2264, "category": "Access Facilities", "icon": "mkacwc.png" },
+    { "name": "WC Near Glamping", "lat": 51.9790, "lng": -0.2259, "category": "Access Facilities", "icon": "mkacwc.png" },
+    { "name": "WC East Camping", "lat": 51.9803, "lng": -0.2264, "category": "Access Facilities", "icon": "mkacwc.png" },
+    { "name": "WC Arena South", "lat": 51.9803, "lng": -0.2264, "category": "Access Facilities", "icon": "mkacwc.png" },
+    { "name": "WC Arena North", "lat": 51.9790, "lng": -0.2259, "category": "Access Facilities", "icon": "mkacwc.png" },
+
+    { "name": "Shower Camp", "lat": 51.9803, "lng": -0.2264, "category": "Access Facilities", "icon": "mkshow.png" },
+    { "name": "Shower RVs Camp", "lat": 51.9803, "lng": -0.2264, "category": "Access Facilities", "icon": "mkshow.png" },
+    { "name": "Shower Near Glamping", "lat": 51.9790, "lng": -0.2259, "category": "Access Facilities", "icon": "mkshow.png" },
+    { "name": "Shower East Camping", "lat": 51.9803, "lng": -0.2264, "category": "Access Facilities", "icon": "mkshow.png" },
+    { "name": "Shower Arena South", "lat": 51.9803, "lng": -0.2264, "category": "Access Facilities", "icon": "mkshow.png" },
+    { "name": "Shower Arena North", "lat": 51.9790, "lng": -0.2259, "category": "Access Facilities", "icon": "mkshow.png" },
+    { "name": "Shower RVs", "lat": 51.9803, "lng": -0.2264, "category": "Access Facilities", "icon": "mkshow.png" },
+
+    { "name": "General East", "lat": 51.9803, "lng": -0.2264, "category": "shower", "icon": "mkshow.png" },
+    { "name": "Glamping", "lat": 51.9803, "lng": -0.2264, "category": "shower", "icon": "mkshow.png" },
 
     { "name": "Washeroom", "lat": 51.9803, "lng": -0.2264, "category": "shower", "icon": "mkshow.png" },
 
@@ -219,16 +247,20 @@
     { "name": "Corner Shop", "lat": 51.9803, "lng": -0.2267, "category": "stall", "icon": "mkcrn.png" },
     { "name": "Wristband Exchange", "lat": 51.9803, "lng": -0.2264, "category": "stall", "icon": "mkex.png" },
 
-    { "name": "Main Entrance", "lat": 51.9788, "lng": -0.2257, "category": "entrances & gates", "icon": "mkgate.png" },
-    { "name": "Camping Entrance", "lat": 51.9805, "lng": -0.2275, "category": "entrances & gates", "icon": "mkgate.png" },
+    { "name": "Main Entrance", "lat": 51.9788, "lng": -0.2257, "category": "entrances & Gates", "icon": "mkgate.png" },
+    { "name": "Camping Entrance", "lat": 51.9805, "lng": -0.2275, "category": "entrances & Gates", "icon": "mkgate.png" },
+    { "name": "Placeholder1", "lat": 51.9788, "lng": -0.2257, "category": "entrances & Gates", "icon": "mkgate.png" },
+    { "name": "Placegolder2", "lat": 51.9805, "lng": -0.2275, "category": "entrances & Gates", "icon": "mkgate.png" },
+    { "name": "Placegolder3", "lat": 51.9788, "lng": -0.2257, "category": "entrances & Gates", "icon": "mkgate.png" },
+    { "name": "Placegolder4", "lat": 51.9805, "lng": -0.2275, "category": "entrances & Gates", "icon": "mkgate.png" },
 
-    { "name": "General Camp", "lat": 51.9806, "lng": -0.2262, "category": "camp", "icon": "mktent.png"  },
-    { "name": "Glamping", "lat": 51.9787, "lng": -0.2271, "category": "camp", "icon": "mkglm.png"  },
-    { "name": "Accessible RVs", "lat": 51.9806, "lng": -0.2262, "category": "camp", "icon": "mkacmp.png"  },
-    { "name": "Motorhome Camp", "lat": 51.9787, "lng": -0.2271, "category": "camp", "icon": "mkrv.png"  },
-    { "name": "Caravans", "lat": 51.9806, "lng": -0.2262, "category": "camp", "icon": "mkcavn.png"  },
-    { "name": "Yurt Camp", "lat": 51.9787, "lng": -0.2271, "category": "camp", "icon": "mkyurt.png"  },
-    { "name": "Teepee Camp", "lat": 51.9787, "lng": -0.2271, "category": "camp", "icon": "mktp.png"  },
+    { "name": "General Camp", "lat": 51.9806, "lng": -0.2262, "category": "campsites", "icon": "mktent.png"  },
+    { "name": "Glamping", "lat": 51.9787, "lng": -0.2271, "category": "campsites", "icon": "mkglm.png"  },
+    { "name": "Accessible RVs", "lat": 51.9806, "lng": -0.2262, "category": "campsites", "icon": "mkacmp.png"  },
+    { "name": "Motorhome Camp", "lat": 51.9787, "lng": -0.2271, "category": "campsites", "icon": "mkrv.png"  },
+    { "name": "Caravans", "lat": 51.9806, "lng": -0.2262, "category": "campsites", "icon": "mkcavn.png"  },
+    { "name": "Yurt Camp", "lat": 51.9787, "lng": -0.2271, "category": "campsites", "icon": "mkyurt.png"  },
+    { "name": "Teepee Camp", "lat": 51.9787, "lng": -0.2271, "category": "campsites", "icon": "mktp.png"  },
 
     { "name": "Instagram", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "inhero.png", "url": "https://www.instagram.com/muckyweekender/" },
     { "name": "TikTok", "lat": 51.1760, "lng": -12149, "category": "socials", "icon": "tkhero.png", "url": "https://www.tiktok.com/@muckyweekender/" },
@@ -244,7 +276,7 @@
       "icon": "mwsq1.png",
       "url": "https://mucky-weekender.co.uk/"
     },
-    { "name": "Mucky Merch", "lat": 51.9799, "lng": -0.2252, "category": "tickets", "partner": true, "icon": "dubphero.png", "url": "https://dubpistolsmusic.co.uk/product-category/muckyweekender/" },
+    { "name": "Mucky Merch", "lat": 51.9799, "lng": -0.2252, "category": "merch", "partner": true, "icon": "dubphero.png", "url": "https://dubpistolsmusic.co.uk/product-category/muckyweekender/" },
     { "name": "Gallery", "lat": 51.9799, "lng": -0.2252, "category": "socials", "partner": true, "icon": "mwsq1.png", "url": "https://mucky-weekender.co.uk/gallery-2/" }
     
 
