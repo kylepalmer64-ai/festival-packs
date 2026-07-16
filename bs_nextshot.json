@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 16,
 
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/bsmap2.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/bshero.png",
@@ -182,7 +182,10 @@
     { "name": "Holistic Massages", "lat": 52.7446, "lng": -1.6302, "category": "The Spa @", "icon": "spathero.png", "url": "https://www.tickettailor.com/checkout/view-event/id/7182070/chk/782d/" },
     { "name": "Make-up & Hair Treatments", "lat": 52.7446, "lng": -1.6302, "category": "The Spa @", "icon": "spathero.png", "url": "https://www.tickettailor.com/checkout/view-event/id/7182070/chk/782d/" },
     { "name": "Hot Tub & Sauna", "lat": 52.7446, "lng": -1.6302, "category": "The Spa @", "icon": "spathero.png", "url": "https://www.tickettailor.com/checkout/view-event/id/7182070/chk/782d/" },
-    { "name": "Beard Therapy", "lat": 52.7446, "lng": -1.6302, "category": "The Spa @", "icon": "spathero.png", "url": "https://www.tickettailor.com/checkout/view-event/id/7182070/chk/782d/" },
+    { "name": "Beard Products", "lat": 52.7446, "lng": -1.6302, "category": "The Spa @", "icon": "spathero.png", "url": "https://www.tickettailor.com/checkout/view-event/id/7182070/chk/782d/" },
+    { "name": "Keep Up To Date", "lat": 52.7446, "lng": -1.6302, "category": "The Spa @", "icon": "inhero.png", "url": "https://www.instagram.com/the_spa_at/" },
+    { "name": "Follow Us", "lat": 52.7446, "lng": -1.6302, "category": "The Spa @", "icon": "fbhero.png", "url": "https://www.facebook.com/TheSpaAt/" },
+    
 
     { "name": "Washrooms - Main Arena", "lat": 52.7463, "lng": -1.6285, "category": "washroom" },
     { "name": "Washrooms - Camping", "lat": 52.7445, "lng": -1.6300, "category": "washroom" },
