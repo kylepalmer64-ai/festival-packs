@@ -11,20 +11,20 @@
   "messagesFile": "mucky_weekender_messages.json",
 
   "categoryColors": {
-    "tickets": "#C8102E",
-    "stage": "#0A1A3F",
-    "bar": "#0A1A3F",
-    "stall": "#0A1A3F",
-    "merch": "#0A1A3F",
-    "food": "#0A1A3F",
-    "socials": "#F8EFE3",
-    "shower": "#F8EFE3",
-    "WC": "#F8EFE3",
-    "Access Facilities": "#F8EFE3",
-    "medical": "#F8EFE3",
-    "parking": "#F8EFE3",
-    "entrances & Gates": "#F8EFE3",
-    "campsites": "#F8EFE3"
+
+   "tickets": "#8E1A1A",
+   "stage": "#0F1F3A",
+   "bar": "#0F1F3A",
+   "merch": "#4A003F",
+   "food": "#8E1A1A",
+   "socials": "#C29A3A",
+   "shower": "#3C3C3C",
+   "WC": "#3C3C3C",
+   "Access Facilities": "#3C3C3C",
+   "medical": "#8E1A1A",
+   "parking": "#3C3C3C",
+   "entrances & Gates": "#C29A3A",
+   "campsites": "#4A003F"
   },
 
   "categoryIcons": {
