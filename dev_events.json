@@ -1,5 +1,5 @@
 {
-  "version": 74,
+  "version": 75,
   "events": [  
     {
      "id": "creamfields26",
@@ -53,7 +53,7 @@
       "id": "mucky_weekender",
       "name": "Mucky Weekender",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mucky_weekender.json?v=10"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mk.json?v=1"
     },
     {
       "id": "whathitch.json",
