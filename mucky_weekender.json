@@ -13,6 +13,7 @@
   "categoryColors": {
     "tickets": "#C8102E",
     "stage": "#0A1A3F",
+    "bar": "#0A1A3F"
     "merch": "#0A1A3F",
     "food": "#0A1A3F",
     "socials": "#F8EFE3",
@@ -28,7 +29,8 @@
   "categoryIcons": {
     "tickets": "mwsq1.png",
     "stage": "mkash.png",
-
+    "bar"; "mkbr1.png",
+    "merch": "mkmch.png",
     "food": "mkfd.png",
     "socials": "mwsq1.png",
     "shower": "mkshow.png",
