@@ -23,6 +23,7 @@
     "Access Facilities": "#0A0A0A",
     "medical": "#B0003A",
     "parking": "#0A0A0A",
+    "wellbeing": "#B0003A",
     "entrances & Gates": "#D4A017",
     "campsites": "#007A7A",
     "socials": "#D4A017"
@@ -42,6 +43,7 @@
     "Access Facilities": "mkax.png",
     "medical": "mkmed.png",
     "parking": "mkpk.png",
+    "wellbeing": "mkwell",
     "entrances & Gates": "mkgate.png",
     "campsites": "mkcmps.png",
     "socials": "mwsq1.png"
