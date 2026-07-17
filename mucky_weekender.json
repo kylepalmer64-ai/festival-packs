@@ -18,13 +18,13 @@
     "stall": "#F8EFE3",
     "Access Facilities": "#0073E6",
     "medical": "#C8102E",
-    "wellbeing": "#76A7C8",
-    "entrances & Gates": "#76A7C8",  
-    "campsites": "#0A1A3F",
+    "wellbeing": "#F8EFE3",
+    "entrances & Gates": "#F8EFE3",  
+    "campsites": "#C8102E",
     "showers": "#76A7C8",
     "Facilities": "#0A1A3F",
-    "socials": "#C8102E",
-    "parking": "#D4AF37"
+    "socials": "#0A1A3F",
+    "parking": "#F8EFE3"
 
   },
 
