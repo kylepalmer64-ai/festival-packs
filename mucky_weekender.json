@@ -12,21 +12,21 @@
 
   "categoryColors": {
     "tickets": "#C13B2D",
-    "stage": "#2C83F8",
+    "stage": "#72405D",
     "food": "#C13B2D", 
     "stall": "#DFBE8C",    
     "bar": "#A93225",
     "merch": "#DFBE8C", 
-    "water": "#134587",
-    "shower": "#134587",
-    "WC": "#546E8F",
-    "Access Facilities": "#ACCDF9",
+    "water": "#76A7C8",
+    "shower": "#76A7C8",
+    "WC": "#76A7C8",
+    "Access Facilities": "#2C83F8",
     "medical": "#C13B2D",
     "parking": "#546E8F",
     "wellbeing": "#2C83F8",
     "entrances & Gates": "#DFBE8C",
     "campsites": "#DFBE8C",
-    "socials": "#C13B2D"
+    "socials": "#72405D"
 
   },
 
