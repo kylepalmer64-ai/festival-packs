@@ -15,7 +15,7 @@
     "stage": "#8A5075",
     "food": "#D94A3B",
     "stall": "#F2D28E",
-    "bar": "#C03A2E",
+    "bar": "#F2D28E",
     "merch": "#F2D28E",
     "water": "#8BB9D6",
     "shower": "#8BB9D6",
@@ -292,15 +292,15 @@
     { "name": "Parking", "lat": 51.9787, "lng": -0.2271, "category": "parking", "icon": "mkpark.png"  },
 
     {
-      "name": "Official Website",
+      "name": "Final Tickets!",
       "lat": 51.1760,
       "lng": -1.2149,
-      "category": "socials",
+      "category": "merch",
       "partner": true,
       "icon": "dubphero.png",
       "url": "https://mucky-weekender.co.uk/"
     },
-    { "name": "Mucky Merch Online", "lat": 51.9799, "lng": -0.2252, "category": "merch", "partner": true, "icon": "dubphero.png", "url": "https://dubpistolsmusic.co.uk/product-category/muckyweekender/" },
+    { "name": "Mucky Merch Online", "lat": 51.9799, "lng": -0.2252, "category": "merch", "icon": "dubphero.png", "url": "https://dubpistolsmusic.co.uk/product-category/muckyweekender/" },
     { "name": "Gallery", "lat": 51.9799, "lng": -0.2252, "category": "socials", "icon": "mwsq1.png", "url": "https://mucky-weekender.co.uk/gallery-2/" }
     
 
