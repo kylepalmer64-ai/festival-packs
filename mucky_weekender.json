@@ -219,17 +219,17 @@
     { "name": "RV's South", "lat": 51.9796, "lng": -0.2250, "category": "WC", "icon": "mkwc.png" },
 
 
-    { "name": "WC Camp", "lat": 51.9803, "lng": -0.2264, "category": "Access Facilities", "icon": "mkacwc.png" },
+    { "name": "WC General Camp", "lat": 51.9803, "lng": -0.2264, "category": "Access Facilities", "icon": "mkacwc.png" },
     { "name": "WC RVs Camp", "lat": 51.9803, "lng": -0.2264, "category": "Access Facilities", "icon": "mkacwc.png" },
     { "name": "WC Near Glamping", "lat": 51.9790, "lng": -0.2259, "category": "Access Facilities", "icon": "mkacwc.png" },
-    { "name": "WC East Camping", "lat": 51.9803, "lng": -0.2264, "category": "Access Facilities", "icon": "mkacwc.png" },
+    { "name": "WC East/Yurt Camping", "lat": 51.9803, "lng": -0.2264, "category": "Access Facilities", "icon": "mkacwc.png" },
     { "name": "WC Arena South", "lat": 51.9803, "lng": -0.2264, "category": "Access Facilities", "icon": "mkacwc.png" },
     { "name": "WC Arena North", "lat": 51.9790, "lng": -0.2259, "category": "Access Facilities", "icon": "mkacwc.png" },
 
-    { "name": "Shower Camp", "lat": 51.9803, "lng": -0.2264, "category": "Access Facilities", "icon": "mkshow.png" },
+    { "name": "Shower General Camp", "lat": 51.9803, "lng": -0.2264, "category": "Access Facilities", "icon": "mkshow.png" },
     { "name": "Shower RVs Camp", "lat": 51.9803, "lng": -0.2264, "category": "Access Facilities", "icon": "mkshow.png" },
     { "name": "Shower Near Glamping", "lat": 51.9790, "lng": -0.2259, "category": "Access Facilities", "icon": "mkshow.png" },
-    { "name": "Shower East Camping", "lat": 51.9803, "lng": -0.2264, "category": "Access Facilities", "icon": "mkshow.png" },
+    { "name": "Shower East/Yurt Camping", "lat": 51.9803, "lng": -0.2264, "category": "Access Facilities", "icon": "mkshow.png" },
     { "name": "Shower Arena South", "lat": 51.9803, "lng": -0.2264, "category": "Access Facilities", "icon": "mkshow.png" },
     { "name": "Shower Arena North", "lat": 51.9790, "lng": -0.2259, "category": "Access Facilities", "icon": "mkshow.png" },
     { "name": "Shower RVs", "lat": 51.9803, "lng": -0.2264, "category": "Access Facilities", "icon": "mkshow.png" },
@@ -242,8 +242,10 @@
 
     { "name": "Medical Tent", "lat": 51.9797, "lng": -0.2270, "category": "medical", "icon": "mkmed.png" },
 
-    { "name": "Water Refill Station A", "lat": 51.9794, "lng": -0.2261, "category": "water", "icon": "mkwat.png" },
-    { "name": "Water Refill Station B", "lat": 51.9800, "lng": -0.2253, "category": "water", "icon": "mkwat.png" },
+    { "name": "Arena Center", "lat": 51.9794, "lng": -0.2261, "category": "water", "icon": "mkwat.png" },
+    { "name": "General Camping", "lat": 51.9800, "lng": -0.2253, "category": "water", "icon": "mkwat.png" },
+    { "name": "Rv Camping", "lat": 51.9800, "lng": -0.2253, "category": "water", "icon": "mkwat.png" },
+    { "name": "East/Yurt Camping", "lat": 51.9800, "lng": -0.2253, "category": "water", "icon": "mkwat.png" },
 
     { "name": "Main Bar", "lat": 51.9793, "lng": -0.2274, "category": "bar", "icon": "mkb2.png" },
     { "name": "Forest Bar", "lat": 51.9802, "lng": -0.2251, "category": "bar", "icon": "mkb2.png" },
@@ -251,7 +253,7 @@
 
 
     { "name": "3 Bros Burgers", "lat": 51.9791, "lng": -0.2266, "category": "food", "icon": "mkfd.png"  },
-    { "name": "Thai Mania", "lat": 51.9800, "lng": -0.2269, "category": "food" },
+    { "name": "Thai Mania", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mkthai.png" },
     { "name": "Split Screen Ice Cream", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mkice.png"  },
     { "name": "The Real Banger Co", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mkbng.png"  },
     { "name": "WoodFire Pizza", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mkpiz.png"  },
@@ -259,16 +261,16 @@
     { "name": "Mac Daddy", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mkmac.png"  },
     { "name": "Big Greek Feed", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mkgrk.png"  },
     { "name": "Hungary Toad", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mkhgt.png"  },
-    { "name": "Crystal Girl Rocks", "lat": 51.9800, "lng": -0.2269, "category": "food" },
-    { "name": "Street Kitchen", "lat": 51.9800, "lng": -0.2269, "category": "food" },
-    { "name": "Olipop's", "lat": 51.9800, "lng": -0.2269, "category": "food" },
+    { "name": "Street Kitchen", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mkstrt.png" },
+    { "name": "Olipop's", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mkpop.png" },
   
   
   
   
     { "name": "P3 Earth Designs", "lat": 51.9800, "lng": -0.2269, "category": "stall", "icon": "mkp3.png"  },
     { "name": "State of Disarray", "lat": 51.9800, "lng": -0.2269, "category": "stall", "icon": "mkdsr.png"  },
-    { "name": "Hoise of Nataraja", "lat": 51.9800, "lng": -0.2269, "category": "stall", "icon": "mknat.png"  },
+    { "name": "House of Nataraja", "lat": 51.9800, "lng": -0.2269, "category": "stall", "icon": "mknat.png"  },
+    { "name": "Crystal Girl Rocks", "lat": 51.9800, "lng": -0.2269, "category": "stall", "icon": "mkcrst.png" },
     { "name": "Fairylove", "lat": 51.9800, "lng": -0.2269, "category": "stall", "icon": "mkfair.png"  },
 
     { "name": "Cocaine Anonymous", "lat": 51.9800, "lng": -0.2269, "category": "wellbeing", "icon": "mkcka.png"  },
@@ -276,14 +278,14 @@
     
     { "name": "Mucky Merch Tent", "lat": 51.9795, "lng": -0.2276, "category": "merch", "icon": "mkmch.png" },
     { "name": "Corner Shop", "lat": 51.9803, "lng": -0.2267, "category": "stall", "icon": "mkcrn.png" },
-    { "name": "Wristband Exchange", "lat": 51.9803, "lng": -0.2264, "category": "stall", "icon": "mkex.png" },
+    { "name": "Wristband Exchange", "lat": 51.9803, "lng": -0.2264, "category": "stall", "premium": true, "icon": "mkex.png" },
 
     { "name": "Main Entrance", "lat": 51.9788, "lng": -0.2257, "category": "entrances & Gates", "icon": "mkgate.png" },
     { "name": "Camping Entrance", "lat": 51.9805, "lng": -0.2275, "category": "entrances & Gates", "icon": "mkgate.png" },
     { "name": "Placeholder1", "lat": 51.9788, "lng": -0.2257, "category": "entrances & Gates", "icon": "mkgate.png" },
-    { "name": "Placegolder2", "lat": 51.9805, "lng": -0.2275, "category": "entrances & Gates", "icon": "mkgate.png" },
-    { "name": "Placegolder3", "lat": 51.9788, "lng": -0.2257, "category": "entrances & Gates", "icon": "mkgate.png" },
-    { "name": "Placegolder4", "lat": 51.9805, "lng": -0.2275, "category": "entrances & Gates", "icon": "mkgate.png" },
+    { "name": "Placeholder2", "lat": 51.9805, "lng": -0.2275, "category": "entrances & Gates", "icon": "mkgate.png" },
+    { "name": "Placeholder3", "lat": 51.9788, "lng": -0.2257, "category": "entrances & Gates", "icon": "mkgate.png" },
+    { "name": "Placeholder4", "lat": 51.9805, "lng": -0.2275, "category": "entrances & Gates", "icon": "mkgate.png" },
 
     { "name": "General Camp", "lat": 51.9806, "lng": -0.2262, "category": "campsites", "icon": "mktent.png"  },
     { "name": "Glamping", "lat": 51.9787, "lng": -0.2271, "category": "campsites", "icon": "mkglm.png"  },
@@ -307,8 +309,8 @@
       "icon": "mwsq1.png",
       "url": "https://mucky-weekender.co.uk/"
     },
-    { "name": "Mucky Merch", "lat": 51.9799, "lng": -0.2252, "category": "merch", "partner": true, "icon": "dubphero.png", "url": "https://dubpistolsmusic.co.uk/product-category/muckyweekender/" },
-    { "name": "Gallery", "lat": 51.9799, "lng": -0.2252, "category": "socials", "partner": true, "icon": "mwsq1.png", "url": "https://mucky-weekender.co.uk/gallery-2/" }
+    { "name": "Mucky Merch Online", "lat": 51.9799, "lng": -0.2252, "category": "merch", "partner": true, "icon": "dubphero.png", "url": "https://dubpistolsmusic.co.uk/product-category/muckyweekender/" },
+    { "name": "Gallery", "lat": 51.9799, "lng": -0.2252, "category": "socials", "icon": "mwsq1.png", "url": "https://mucky-weekender.co.uk/gallery-2/" }
     
 
 
