@@ -1,7 +1,7 @@
 {
   "version": 12,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/muckyamp.png",
-  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/mksqhero.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/mkhero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/statsmap.png",
   "panelColor": "#6F8FAF",
   "premiumHeader": "Let's Get Mucky!!",
@@ -11,41 +11,37 @@
   "messagesFile": "mucky_weekender_messages.json",
 
   "categoryColors": {
-    "tickets": "#D94A3B",
-    "stage": "#8A5075",
-    "food": "#D94A3B",
-    "stall": "#F2D28E",
-    "bar": "#F2D28E",
-    "merch": "#F2D28E",
-    "water": "#8BB9D6",
-    "shower": "#8BB9D6",
-    "WC": "#8BB9D6",
-    "Access Facilities": "#3C93FF",
-    "medical": "#D94A3B",
-    "parking": "#6A86A3",
-    "wellbeing": "#3C93FF",
-    "entrances & Gates": "#F2D28E",
-    "campsites": "#F2D28E",
-    "socials": "#8A5075"
+    "stage": "#7F1276",
+    "bar": "#D4AF37",
+    "food": "#D43E38",
+    "water": "#76A7C8",
+    "stall": "#D43E38",
+    "Access Facilities": "#0073E6",
+    "medical": "#D43E38",
+    "wellbeing": "#7F1276",
+    "entrances & Gates": "#D4AF37",  
+    "campsites": "#D4AF37",
+    "showers": "#76A7C8"
+    "Facilities": "#76A7C8",
+    "socials": "#D43E38",
+    "parking": "#7F1276"
 
   },
 
   "categoryIcons": {
-    "tickets": "mwsq1.png",
     "stage": "mkash.png",
-    "food": "mkfd.png",
-    "stall": "mkcrn.png",
     "bar": "mkb1.png",
-    "merch": "mkmch.png",
+    "food": "mkfd.png",
     "water": "mkwat.png",
-    "shower": "mkshow.png",
-    "WC": "mkwc.png",
+    "stall": "mkcrn.png",
     "Access Facilities": "mkax.png",
     "medical": "mkmed.png",
     "wellbeing": "mkwell.png",
     "entrances & Gates": "mkgate.png",
     "campsites": "mkcmps.png",
-    "socials": "mwsq1.png",
+    "showers": "mkshow.png",
+    "Facilities": "mkwc.png",
+    "socials": "mkhero.png",
     "parking": "mkpark.png"
     
   },
@@ -235,6 +231,8 @@
     { "name": "Fairylove", "lat": 51.9800, "lng": -0.2269, "category": "stall", "icon": "mkfair.png"  },
     { "name": "House of Nataraja", "lat": 51.9800, "lng": -0.2269, "category": "stall", "icon": "mknat.png"  },
     { "name": "Festi Jewellery", "lat": 51.9800, "lng": -0.2269, "category": "stall", "icon": "mkftjw.png"  },
+    { "name": "Mucky Merch Online", "lat": 51.9799, "lng": -0.2252, "category": "stall", "icon": "dubphero.png", "url": "https://dubpistolsmusic.co.uk/product-category/muckyweekender/" },
+    { "name": "Mucky Merch Tent", "lat": 51.9795, "lng": -0.2276, "category": "stall", "icon": "mkmch.png" },
     { "name": "Purple Shop", "lat": 51.9800, "lng": -0.2269, "category": "stall", "icon": "mkprp.png"  },
     { "name": "Save The Rhino", "lat": 51.9800, "lng": -0.2269, "category": "stall", "icon": "mkrhn.png"  },
     { "name": "P3 Earth Designs", "lat": 51.9800, "lng": -0.2269, "category": "stall", "icon": "mkp3.png"  },
@@ -246,14 +244,6 @@
     { "name": "WC East/Yurt Camping", "lat": 51.9803, "lng": -0.2264, "category": "Access Facilities", "icon": "mkacwc.png" },
     { "name": "WC Arena South", "lat": 51.9803, "lng": -0.2264, "category": "Access Facilities", "icon": "mkacwc.png" },
     { "name": "WC Arena North", "lat": 51.9790, "lng": -0.2259, "category": "Access Facilities", "icon": "mkacwc.png" },
-
-    { "name": "Arena South", "lat": 51.9796, "lng": -0.2250, "category": "WC", "icon": "mkwc.png" },
-    { "name": "Arena North", "lat": 51.9796, "lng": -0.2250, "category": "WC", "icon": "mkwc.png" },
-    { "name": "General Camp East", "lat": 51.9796, "lng": -0.2250, "category": "WC", "icon": "mkwc.png" },
-    { "name": "General North", "lat": 51.9796, "lng": -0.2250, "category": "WC", "icon": "mkwc.png" },
-    { "name": "RVs Center", "lat": 51.9796, "lng": -0.2250, "category": "WC", "icon": "mkwc.png" },
-    { "name": "RV's South", "lat": 51.9796, "lng": -0.2250, "category": "WC", "icon": "mkwc.png" }, 
-
     { "name": "Shower General Camp", "lat": 51.9803, "lng": -0.2264, "category": "Access Facilities", "icon": "mkshow.png" },
     { "name": "Shower RVs Camp", "lat": 51.9803, "lng": -0.2264, "category": "Access Facilities", "icon": "mkshow.png" },
     { "name": "Shower Near Glamping", "lat": 51.9790, "lng": -0.2259, "category": "Access Facilities", "icon": "mkshow.png" },
@@ -265,12 +255,18 @@
     { "name": "Medical Tent", "lat": 51.9797, "lng": -0.2270, "category": "medical", "icon": "mkmed.png" },
     { "name": "Cocaine Anonymous", "lat": 51.9800, "lng": -0.2269, "category": "wellbeing", "icon": "mkcka.png"  },
 
-    
-    { "name": "Mucky Merch Tent", "lat": 51.9795, "lng": -0.2276, "category": "merch", "icon": "mkmch.png" },
+    { "name": "Arena South", "lat": 51.9796, "lng": -0.2250, "category": "Facilities", "icon": "mkwc.png" },
+    { "name": "Arena North", "lat": 51.9796, "lng": -0.2250, "category": "Facilities", "icon": "mkwc.png" },
+    { "name": "General Camp East", "lat": 51.9796, "lng": -0.2250, "category": "Facilities", "icon": "mkwc.png" },
+    { "name": "General North", "lat": 51.9796, "lng": -0.2250, "category": "Facilities", "icon": "mkwc.png" },
+    { "name": "RVs Center", "lat": 51.9796, "lng": -0.2250, "category": "Facilities", "icon": "mkwc.png" },
+    { "name": "RV's South", "lat": 51.9796, "lng": -0.2250, "category": "Facilities", "icon": "mkwc.png" }, 
 
-    { "name": "General East", "lat": 51.9803, "lng": -0.2264, "category": "shower", "icon": "mkshow.png" },
-    { "name": "Glamping", "lat": 51.9803, "lng": -0.2264, "category": "shower", "icon": "mkshow.png" },
-    { "name": "Washroom", "lat": 51.9803, "lng": -0.2264, "category": "shower", "icon": "mkshow.png" },
+
+
+    { "name": "General East", "lat": 51.9803, "lng": -0.2264, "category": "showers", "icon": "mkshow.png" },
+    { "name": "Glamping", "lat": 51.9803, "lng": -0.2264, "category": "showers", "icon": "mkshow.png" },
+    { "name": "Washroom", "lat": 51.9803, "lng": -0.2264, "category": "showers", "icon": "mkshow.png" },
 
     { "name": "General Camping", "lat": 51.9806, "lng": -0.2262, "category": "campsites", "icon": "mktent.png"  },
     { "name": "Glamping", "lat": 51.9787, "lng": -0.2271, "category": "campsites", "icon": "mkstrm.png"  },
@@ -284,24 +280,24 @@
     { "name": "Glamping Entry", "lat": 51.9805, "lng": -0.2275, "category": "entrances & Gates", "icon": "mkgate.png" },
     { "name": "Wristbands Exchange", "lat": 51.9803, "lng": -0.2264, "category": "entrances & Gates", "premium": true, "icon": "mkex.png" },
 
-    { "name": "Instagram", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "inhero.png", "url": "https://www.instagram.com/muckyweekender/" },
-    { "name": "TikTok", "lat": 51.1760, "lng": -12149, "category": "socials", "icon": "tkhero.png", "url": "https://www.tiktok.com/@muckyweekender/" },
-    { "name": "2025 Aftervideo", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "ythero.png", "url": "https://youtu.be/AU0E0mXPkxI?is=kt2pQu15uu1POvOj" },
     { "name": "2024 Aftervideo", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "ythero.png", "url": "https://youtu.be/aDA0VlqsKzo?is=1DzrHG1Wb8N0xi1l" },
+    { "name": "2025 Aftervideo", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "ythero.png", "url": "https://youtu.be/AU0E0mXPkxI?is=kt2pQu15uu1POvOj" },
+    { "name": "Follow Us", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "fbhero.png", "url": "https://www.facebook.com/muckyweekender/" }, 
+    { "name": "Gallery", "lat": 51.9799, "lng": -0.2252, "category": "socials", "icon": "mkhero.png", "url": "https://mucky-weekender.co.uk/gallery-2/" },
+    { "name": "See It Here", "lat": 51.1760, "lng": -12149, "category": "socials", "icon": "tkhero.png", "url": "https://www.tiktok.com/@muckyweekender/" },
+    { "name": "Keep Up To Date", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "inhero.png", "url": "https://www.instagram.com/muckyweekender/" },
 
     { "name": "Parking", "lat": 51.9787, "lng": -0.2271, "category": "parking", "icon": "mkpark.png"  },
 
     {
-      "name": "Final Tickets!",
+      "name": "Tickets - Almost Gone!",
       "lat": 51.1760,
       "lng": -1.2149,
-      "category": "merch",
+      "category": "stage",
       "partner": true,
       "icon": "dubphero.png",
       "url": "https://mucky-weekender.co.uk/"
-    },
-    { "name": "Mucky Merch Online", "lat": 51.9799, "lng": -0.2252, "category": "merch", "icon": "dubphero.png", "url": "https://dubpistolsmusic.co.uk/product-category/muckyweekender/" },
-    { "name": "Gallery", "lat": 51.9799, "lng": -0.2252, "category": "socials", "icon": "mwsq1.png", "url": "https://mucky-weekender.co.uk/gallery-2/" }
+    }
     
 
 
