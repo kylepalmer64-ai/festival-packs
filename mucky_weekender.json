@@ -13,17 +13,17 @@
   "categoryColors": {
     "tickets": "#C13B2D",
     "stage": "#2C83F8",
+    "food": "#802218", 
+    "stall": "#DFBE8C",    
     "bar": "#A93225",
-    "merch": "#DFBE8C",
-    "food": "#802218",  
+    "merch": "#DFBE8C", 
     "water": "#134587",
-    "stall": "#DFBE8C",
     "shower": "#546E8F",
     "WC": "#546E8F",
-    "Access Facilities": "#0A0A0A",
-    "medical": "#134587",
+    "Access Facilities": "#ACCDF9",
+    "medical": "#C13B2D",
     "parking": "#0A0A0A",
-    "wellbeing": "#1C65C5",
+    "wellbeing": "#C13B2D",
     "entrances & Gates": "#C13B2D",
     "campsites": "#2C83F8",
     "socials": "#A93225"
@@ -33,11 +33,11 @@
   "categoryIcons": {
     "tickets": "mwsq1.png",
     "stage": "mkash.png",
+    "food": "mkfd.png",
+    "stall": "mkcrn.png",
     "bar": "mkb1.png",
     "merch": "mkmch.png",
-    "food": "mkfd.png",
     "water": "mkwat.png",
-    "stall": "mkcrn.png",
     "shower": "mkshow.png",
     "WC": "mkwc.png",
     "Access Facilities": "mkax.png",
@@ -218,6 +218,27 @@
     { "name": "RVs Center", "lat": 51.9796, "lng": -0.2250, "category": "WC", "icon": "mkwc.png" },
     { "name": "RV's South", "lat": 51.9796, "lng": -0.2250, "category": "WC", "icon": "mkwc.png" },
 
+    { "name": "3 Bros Burgers", "lat": 51.9791, "lng": -0.2266, "category": "food", "icon": "mkfd.png"  },
+    { "name": "Thai Mania", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mkthai.png" },
+    { "name": "Split Screen Ice Cream", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mkice.png"  },
+    { "name": "The Real Banger Co", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mkbng.png"  },
+    { "name": "WoodFire Pizza", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mkpiz.png"  },
+    { "name": "Indian Summer", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mknan.png"  },
+    { "name": "Mac Daddy", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mkmac.png"  },
+    { "name": "Big Greek Feed", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mkgrk.png"  },
+    { "name": "Hungary Toad", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mkhgt.png"  },
+    { "name": "Street Kitchen", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mkstrt.png" },
+    { "name": "Olipop's", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mkpop.png" },
+  
+  
+  
+  
+    { "name": "P3 Earth Designs", "lat": 51.9800, "lng": -0.2269, "category": "stall", "icon": "mkp3.png"  },
+    { "name": "State of Disarray", "lat": 51.9800, "lng": -0.2269, "category": "stall", "icon": "mkdsr.png"  },
+    { "name": "House of Nataraja", "lat": 51.9800, "lng": -0.2269, "category": "stall", "icon": "mknat.png"  },
+    { "name": "Crystal Girl Rocks", "lat": 51.9800, "lng": -0.2269, "category": "stall", "icon": "mkcrst.png" },
+    { "name": "Fairylove", "lat": 51.9800, "lng": -0.2269, "category": "stall", "icon": "mkfair.png"  },
+
 
     { "name": "WC General Camp", "lat": 51.9803, "lng": -0.2264, "category": "Access Facilities", "icon": "mkacwc.png" },
     { "name": "WC RVs Camp", "lat": 51.9803, "lng": -0.2264, "category": "Access Facilities", "icon": "mkacwc.png" },
@@ -251,28 +272,6 @@
     { "name": "Forest Bar", "lat": 51.9802, "lng": -0.2251, "category": "bar", "icon": "mkb2.png" },
     { "name": "Glamping Bar", "lat": 51.9802, "lng": -0.2251, "category": "bar", "icon": "mkb1.png" },
 
-
-    { "name": "3 Bros Burgers", "lat": 51.9791, "lng": -0.2266, "category": "food", "icon": "mkfd.png"  },
-    { "name": "Thai Mania", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mkthai.png" },
-    { "name": "Split Screen Ice Cream", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mkice.png"  },
-    { "name": "The Real Banger Co", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mkbng.png"  },
-    { "name": "WoodFire Pizza", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mkpiz.png"  },
-    { "name": "Indian Summer", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mknan.png"  },
-    { "name": "Mac Daddy", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mkmac.png"  },
-    { "name": "Big Greek Feed", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mkgrk.png"  },
-    { "name": "Hungary Toad", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mkhgt.png"  },
-    { "name": "Street Kitchen", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mkstrt.png" },
-    { "name": "Olipop's", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mkpop.png" },
-  
-  
-  
-  
-    { "name": "P3 Earth Designs", "lat": 51.9800, "lng": -0.2269, "category": "stall", "icon": "mkp3.png"  },
-    { "name": "State of Disarray", "lat": 51.9800, "lng": -0.2269, "category": "stall", "icon": "mkdsr.png"  },
-    { "name": "House of Nataraja", "lat": 51.9800, "lng": -0.2269, "category": "stall", "icon": "mknat.png"  },
-    { "name": "Crystal Girl Rocks", "lat": 51.9800, "lng": -0.2269, "category": "stall", "icon": "mkcrst.png" },
-    { "name": "Fairylove", "lat": 51.9800, "lng": -0.2269, "category": "stall", "icon": "mkfair.png"  },
-
     { "name": "Cocaine Anonymous", "lat": 51.9800, "lng": -0.2269, "category": "wellbeing", "icon": "mkcka.png"  },
 
     
@@ -299,6 +298,8 @@
     { "name": "TikTok", "lat": 51.1760, "lng": -12149, "category": "socials", "icon": "tkhero.png", "url": "https://www.tiktok.com/@muckyweekender/" },
     { "name": "2025 Aftervideo", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "ythero.png", "url": "https://youtu.be/AU0E0mXPkxI?is=kt2pQu15uu1POvOj" },
     { "name": "2024 Aftervideo", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "ythero.png", "url": "https://youtu.be/aDA0VlqsKzo?is=1DzrHG1Wb8N0xi1l" },
+
+    { "name": "Parking", "lat": 51.9787, "lng": -0.2271, "category": "parking", "icon": "mkpark.png"  },
 
     {
       "name": "Tickets",
