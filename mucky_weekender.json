@@ -261,7 +261,7 @@
 
     { "name": "General East", "lat": 51.9803, "lng": -0.2264, "category": "shower", "icon": "mkshow.png" },
     { "name": "Glamping", "lat": 51.9803, "lng": -0.2264, "category": "shower", "icon": "mkshow.png" },
-    { "name": "Washeroom", "lat": 51.9803, "lng": -0.2264, "category": "shower", "icon": "mkshow.png" },
+    { "name": "Washroom", "lat": 51.9803, "lng": -0.2264, "category": "shower", "icon": "mkshow.png" },
 
 
     { "name": "Medical Tent", "lat": 51.9797, "lng": -0.2270, "category": "medical", "icon": "mkmed.png" },
