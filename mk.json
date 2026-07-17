@@ -204,6 +204,7 @@
 
 
     { "name": "Ashworth Madhouse", "lat": 51.9798, "lng": -0.2255, "category": "stage", "icon": "mkash.png" },
+    { "name": "Riot Truck", "lat": 51.9792, "lng": -0.2268, "category": "stage", "icon": "mktrk1.png"},
     { "name": "Rock Bar", "lat": 51.9792, "lng": -0.2268, "category": "stage", "icon": "mkrk.png"},
     { "name": "The Crazy Diamonds Club", "lat": 51.9801, "lng": -0.2272, "category": "stage", "icon": "mkdmd.png" },
     { "name": "USS Seanie T in The Woods", "lat": 51.9801, "lng": -0.2272, "category": "stage", "icon": "mkufo.png" },
@@ -246,9 +247,31 @@
     { "name": "Forest Bar", "lat": 51.9802, "lng": -0.2251, "category": "bar", "icon": "mkb2.png" },
     { "name": "Glamping Bar", "lat": 51.9802, "lng": -0.2251, "category": "bar", "icon": "mkb1.png" },
 
-    { "name": "Food Court A", "lat": 51.9791, "lng": -0.2266, "category": "food", "icon": "mkfd.png"  },
-    { "name": "Food Court B", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mkfd.png"  },
 
+    { "name": "3 Bros Burgers", "lat": 51.9791, "lng": -0.2266, "category": "food", "icon": "mkfd.png"  },
+    { "name": "Thai Mania", "lat": 51.9800, "lng": -0.2269, "category": "food" },
+    { "name": "Split Screen Ice Cream", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mkice.png"  },
+    { "name": "The Real Banger Co", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mkbng.png"  },
+    { "name": "WoodFire Pizza", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mkpiz.png"  },
+    { "name": "Indian Summer", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mknan.png"  },
+    { "name": "Mac Daddy", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mkmac.png"  },
+    { "name": "Big Greek Feed", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mkgrk.png"  },
+    { "name": "Hungary Toad", "lat": 51.9800, "lng": -0.2269, "category": "food", "icon": "mkhgt.png"  },
+    { "name": "Crystal Girl Rocks", "lat": 51.9800, "lng": -0.2269, "category": "food" },
+    { "name": "Street Kitchen", "lat": 51.9800, "lng": -0.2269, "category": "food" },
+    { "name": "Olipop's", "lat": 51.9800, "lng": -0.2269, "category": "food" },
+  
+  
+  
+  
+    { "name": "P3 Earth Designs", "lat": 51.9800, "lng": -0.2269, "category": "stall", "icon": "mkp3.png"  },
+    { "name": "State of Disarray", "lat": 51.9800, "lng": -0.2269, "category": "stall", "icon": "mkdsr.png"  },
+    { "name": "Hoise of Nataraja", "lat": 51.9800, "lng": -0.2269, "category": "stall", "icon": "mknat.png"  },
+    { "name": "Fairylove", "lat": 51.9800, "lng": -0.2269, "category": "stall", "icon": "mkfair.png"  },
+
+    { "name": "Cocaine Anonymous", "lat": 51.9800, "lng": -0.2269, "category": "wellbeing", "icon": "mkcka.png"  },
+
+    
     { "name": "Mucky Merch Tent", "lat": 51.9795, "lng": -0.2276, "category": "merch", "icon": "mkmch.png" },
     { "name": "Corner Shop", "lat": 51.9803, "lng": -0.2267, "category": "stall", "icon": "mkcrn.png" },
     { "name": "Wristband Exchange", "lat": 51.9803, "lng": -0.2264, "category": "stall", "icon": "mkex.png" },
