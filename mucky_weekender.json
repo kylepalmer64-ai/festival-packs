@@ -12,17 +12,17 @@
 
   "categoryColors": {
     "stage": "#C8102E",
-    "bar": "#C8102E",
+    "bar": "#F8EFE3",
     "food": "#76A7C8",
     "water": "#0A1A3F",
-    "stall": "#D4AF37",
+    "stall": "#F8EFE3",
     "Access Facilities": "#0073E6",
     "medical": "#C8102E",
-    "wellbeing": "#C8102E",
+    "wellbeing": "#76A7C8",
     "entrances & Gates": "#76A7C8",  
     "campsites": "#0A1A3F",
     "showers": "#76A7C8",
-    "Facilities": "#C8102E",
+    "Facilities": "#0A1A3F",
     "socials": "#C8102E",
     "parking": "#D4AF37"
 
