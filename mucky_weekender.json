@@ -238,7 +238,10 @@
     { "name": "House of Nataraja", "lat": 51.9800, "lng": -0.2269, "category": "stall", "icon": "mknat.png"  },
     { "name": "Crystal Girl Rocks", "lat": 51.9800, "lng": -0.2269, "category": "stall", "icon": "mkcrst.png" },
     { "name": "Fairylove", "lat": 51.9800, "lng": -0.2269, "category": "stall", "icon": "mkfair.png"  },
-
+    { "name": "Festi Jewellery", "lat": 51.9800, "lng": -0.2269, "category": "stall", "icon": "mkftjw.png"  },
+    { "name": "Purple Shop", "lat": 51.9800, "lng": -0.2269, "category": "stall", "icon": "mkprp.png"  },
+    { "name": "Save The Rhino", "lat": 51.9800, "lng": -0.2269, "category": "stall", "icon": "mkrhn.png"  },
+    { "name": "Cloud Nine", "lat": 51.9800, "lng": -0.2269, "category": "stall", "icon": "mkglm.png"  },
 
     { "name": "WC General Camp", "lat": 51.9803, "lng": -0.2264, "category": "Access Facilities", "icon": "mkacwc.png" },
     { "name": "WC RVs Camp", "lat": 51.9803, "lng": -0.2264, "category": "Access Facilities", "icon": "mkacwc.png" },
@@ -255,9 +258,9 @@
     { "name": "Shower Arena North", "lat": 51.9790, "lng": -0.2259, "category": "Access Facilities", "icon": "mkshow.png" },
     { "name": "Shower RVs", "lat": 51.9803, "lng": -0.2264, "category": "Access Facilities", "icon": "mkshow.png" },
 
+
     { "name": "General East", "lat": 51.9803, "lng": -0.2264, "category": "shower", "icon": "mkshow.png" },
     { "name": "Glamping", "lat": 51.9803, "lng": -0.2264, "category": "shower", "icon": "mkshow.png" },
-
     { "name": "Washeroom", "lat": 51.9803, "lng": -0.2264, "category": "shower", "icon": "mkshow.png" },
 
 
@@ -266,7 +269,7 @@
     { "name": "Arena Center", "lat": 51.9794, "lng": -0.2261, "category": "water", "icon": "mkwat.png" },
     { "name": "General Camping", "lat": 51.9800, "lng": -0.2253, "category": "water", "icon": "mkwat.png" },
     { "name": "Rv Camping", "lat": 51.9800, "lng": -0.2253, "category": "water", "icon": "mkwat.png" },
-    { "name": "East/Yurt Camping", "lat": 51.9800, "lng": -0.2253, "category": "water", "icon": "mkwat.png" },
+    { "name": "East & Yurt Camping", "lat": 51.9800, "lng": -0.2253, "category": "water", "icon": "mkwat.png" },
 
     { "name": "Main Bar", "lat": 51.9793, "lng": -0.2274, "category": "bar", "icon": "mkb2.png" },
     { "name": "Forest Bar", "lat": 51.9802, "lng": -0.2251, "category": "bar", "icon": "mkb2.png" },
@@ -286,13 +289,12 @@
     { "name": "Placeholder3", "lat": 51.9788, "lng": -0.2257, "category": "entrances & Gates", "icon": "mkgate.png" },
     { "name": "Placeholder4", "lat": 51.9805, "lng": -0.2275, "category": "entrances & Gates", "icon": "mkgate.png" },
 
-    { "name": "General Camp", "lat": 51.9806, "lng": -0.2262, "category": "campsites", "icon": "mktent.png"  },
-    { "name": "Glamping", "lat": 51.9787, "lng": -0.2271, "category": "campsites", "icon": "mkglm.png"  },
+    { "name": "General Camping", "lat": 51.9806, "lng": -0.2262, "category": "campsites", "icon": "mktent.png"  },
+    { "name": "Glamping", "lat": 51.9787, "lng": -0.2271, "category": "campsites", "icon": "mkstrm.png"  },
     { "name": "Accessible RVs", "lat": 51.9806, "lng": -0.2262, "category": "campsites", "icon": "mkacmp.png"  },
     { "name": "Motorhome Camp", "lat": 51.9787, "lng": -0.2271, "category": "campsites", "icon": "mkrv.png"  },
     { "name": "Caravans", "lat": 51.9806, "lng": -0.2262, "category": "campsites", "icon": "mkcavn.png"  },
-    { "name": "Yurt Camp", "lat": 51.9787, "lng": -0.2271, "category": "campsites", "icon": "mkyurt.png"  },
-    { "name": "Teepee Camp", "lat": 51.9787, "lng": -0.2271, "category": "campsites", "icon": "mktp.png"  },
+    { "name": "VIP Group Camping", "lat": 51.9787, "lng": -0.2271, "category": "campsites", "icon": "mktp.png"  },
 
     { "name": "Instagram", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "inhero.png", "url": "https://www.instagram.com/muckyweekender/" },
     { "name": "TikTok", "lat": 51.1760, "lng": -12149, "category": "socials", "icon": "tkhero.png", "url": "https://www.tiktok.com/@muckyweekender/" },
@@ -302,7 +304,7 @@
     { "name": "Parking", "lat": 51.9787, "lng": -0.2271, "category": "parking", "icon": "mkpark.png"  },
 
     {
-      "name": "Tickets",
+      "name": "Official Website",
       "lat": 51.1760,
       "lng": -1.2149,
       "category": "tickets",
