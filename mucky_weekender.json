@@ -271,14 +271,14 @@
     { "name": "Arena Entrance", "lat": 51.1745, "lng": -1.2171, "category": "entrances & Gates", "icon": "mkgate.png" },
     { "name": "Wristband & Entry", "lat": 51.1759, "lng": -1.2167, "category": "entrances & Gates", "premium": true, "icon": "mkex.png" },
     
-    { "name": "2024 Aftervideo", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "ythero.png", "url": "https://youtu.be/aDA0VlqsKzo?is=1DzrHG1Wb8N0xi1l" },
-    { "name": "2025 Aftervideo", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "ythero.png", "url": "https://youtu.be/AU0E0mXPkxI?is=kt2pQu15uu1POvOj" },
-    { "name": "Follow Us", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "fbhero.png", "url": "https://www.facebook.com/muckyweekender/" },
+    { "name": "2024 Aftervideo", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "mkyt.png", "url": "https://youtu.be/aDA0VlqsKzo?is=1DzrHG1Wb8N0xi1l" },
+    { "name": "2025 Aftervideo", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "mkyt.png", "url": "https://youtu.be/AU0E0mXPkxI?is=kt2pQu15uu1POvOj" },
+    { "name": "Follow Us", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "mkfb.png", "url": "https://www.facebook.com/muckyweekender/" },
     { "name": "Gallery", "lat": 51.9799, "lng": -0.2252, "category": "socials", "icon": "mkhero.png", "url": "https://mucky-weekender.co.uk/gallery-2/" },
-    { "name": "See It Here", "lat": 51.1760, "lng": -12149, "category": "socials", "icon": "tkhero.png", "url": "https://www.tiktok.com/@muckyweekender/" },
+    { "name": "See It Here", "lat": 51.1760, "lng": -12149, "category": "socials", "icon": "mkttk.png", "url": "https://www.tiktok.com/@muckyweekender/" },
     { "name": "Keep Up To Date", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "inhero.png", "url": "https://www.instagram.com/muckyweekender/" },
     
-    { "name": "Parking", "lat": 51.1808, "lng": -1.2141, "category": "parking", "icon": "mkpark.png" },
+    { "name": "Parking", "lat": 51.1808, "lng": -1.2141, "category": "parking", "icon": "mkpk.png" },
 
 
     {
