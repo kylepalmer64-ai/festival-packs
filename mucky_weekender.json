@@ -66,7 +66,7 @@
     { "stage": "Rock Bar", "time": "15:00", "act": "Skinhead Den" },
     { "stage": "Rock Bar", "time": "16:00", "act": "Sliver Fox" },
     { "stage": "Rock Bar", "time": "17:00", "act": "Jinx in Dub" },
-    { "stage": "Rock Bar", "time": "18:00", "act": "???" },    
+    { "stage": "Rock Bar", "time": "18:00", "act": "SPECIAL GUEST" },    
     { "stage": "Rock Bar", "time": "19:00", "act": "Barry Ashworth (DJ Set)" },
     { "stage": "Rock Bar", "time": "20:00", "act": "Uncle Dugs' Rave Set" },
     { "stage": "Rock Bar", "time": "21:00", "act": "Jurassik" },
@@ -74,7 +74,7 @@
 
     { "stage": "Ashworth Madhouse", "time": "12:15", "act": "Lewah", "day": "Fri 11th" },
     { "stage": "Ashworth Madhouse", "time": "13:30", "act": "The Mighty Flux" },
-    { "stage": "Ashworth Madhouse", "time": "15:00", "act": "???" },
+    { "stage": "Ashworth Madhouse", "time": "15:00", "act": "SPECIAL GUEST" },
     { "stage": "Ashworth Madhouse", "time": "16:30", "act": "Girls Next Door" },
     { "stage": "Ashworth Madhouse", "time": "18:00", "act": "Children of Zeus" },
     { "stage": "Ashworth Madhouse", "time": "19:15", "act": "David Rodigan" },
