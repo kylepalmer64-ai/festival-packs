@@ -207,8 +207,8 @@
     { "name": "3 Bros Burgers", "lat": 51.1756, "lng": -1.2164, "category": "food", "icon": "mkfd.png", "url": "https://www.instagram.com/3brosmunch/"  },
     { "name": "Thai Mania", "lat": 51.1755, "lng": -1.2165, "category": "food", "icon": "mkthai.png", "url": "https://www.facebook.com/Nakhonfood/" },
     { "name": "Split Screen Ice Cream", "lat": 51.1754, "lng": -1.2166, "category": "food", "icon": "mkice.png", "url": "https://www.facebook.com/SplitscreenIcecream/"  },
-    { "name": "The Real Banger Co", "lat": 51.1754, "lng": -1.2165, "category": "food", "icon": "mkbng.png", "url": "https://www.instagram.com/woodfiredpizzatruck/" },
-    { "name": "WoodFire Pizza", "lat": 51.1753, "lng": -1.2165, "category": "food", "icon": "mkpiz.png"  },
+    { "name": "The Real Banger Co", "lat": 51.1754, "lng": -1.2165, "category": "food", "icon": "mkbng.png" },
+    { "name": "WoodFire Pizza", "lat": 51.1753, "lng": -1.2165, "category": "food", "icon": "mkpiz.png", "url": "https://www.instagram.com/woodfiredpizzatruck/"  },
     { "name": "Indian Summer", "lat": 51.1753, "lng": -1.2163, "category": "food", "icon": "mknan.png"  },
     { "name": "Mac Daddy", "lat": 51.1753, "lng": -1.2162, "category": "food", "icon": "mkmac.png", "url": "https://www.facebook.com/themacdaddycambridge/"  },
     { "name": "Big Greek Feed", "lat": 51.1750, "lng": -1.2166, "category": "food", "icon": "mkgrk.png", "url": "https://www.facebook.com/thebiggreekf/" },
@@ -219,10 +219,10 @@
 
       
     { "name": "Accessible Camp", "lat": 51.1755, "lng": -1.2177, "category": "water", "icon": "mkwat.png" },
-    { "name": "Glamping", "lat": 51.1756, "lng": -1.2186, "category": "water", "icon": "mkwat.png" },
+    { "name": "Rear of Glamping", "lat": 51.1756, "lng": -1.2186, "category": "water", "icon": "mkwat.png" },
     { "name": "Left of Rock Bar", "lat": 51.1750, "lng": -1.2164, "category": "water", "icon": "mkwat.png" },
-    { "name": "General Camping a", "lat": 51.1748, "lng": -1.2178, "category": "water", "icon": "mkwat.png" },
-    { "name": "General Camping b", "lat": 51.1748, "lng": -1.2187, "category": "water", "icon": "mkwat.png" },
+    { "name": "General East", "lat": 51.1748, "lng": -1.2178, "category": "water", "icon": "mkwat.png" },
+    { "name": "General Middle", "lat": 51.1748, "lng": -1.2187, "category": "water", "icon": "mkwat.png" },
     
     { "name": "Be Sassy", "lat": 51.1759, "lng": -1.2164, "category": "stall", "icon": "mkbsas.png", "url": "https://www.instagram.com/besassyuk/" },
     { "name": "All Shawls", "lat": 51.1759, "lng": -1.2164, "category": "stall", "icon": "mksh.png" },
@@ -244,7 +244,7 @@
       
     { "name": "WC Arena Back", "lat": 51.1744, "lng": -1.2159, "category": "Facilities", "icon": "mkacwc.png" },
     { "name": "WC Behind UFO", "lat": 51.1743, "lng": -1.2169, "category": "Facilities", "icon": "mkacwc.png" },
-    { "name": "Motorhome South", "lat": 51.1765, "lng": -1.2171, "category": "Facilities", "icon": "mkwc.png" },
+    { "name": "Motorhome South", "lat": 51.1765, "lng": -1.2171, "category": "Facilities", "icon": "mkacwc.png" },
     { "name": "Arena Middle", "lat": 51.1758, "lng": -1.2163, "category": "Facilities", "icon": "mkwc.png" },
     { "name": "General East", "lat": 51.1749, "lng": -1.2189, "category": "Facilities", "icon": "mkshow.png" },
     { "name": "Glamping Shower", "lat": 51.1757, "lng": -1.2190, "category": "Facilities", "icon": "mkshow.png" },
