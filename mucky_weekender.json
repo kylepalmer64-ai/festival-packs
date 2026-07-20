@@ -235,7 +235,7 @@
     { "name": "Mucky Merch Tent", "lat": 51.1750, "lng": -1.2164, "category": "stall", "icon": "mkmch.png" },
     { "name": "Plurple Shop", "lat": 51.1757, "lng": -1.2158, "category": "stall", "icon": "mkprp.png", "url": "https://www.instagram.com/purplecommunityfund/"  },
     { "name": "Save The Rhino", "lat": 51.1758, "lng": -1.2164, "category": "stall", "icon": "mkrhn.png", "url": "https://www.savetherhino.org/"  },
-    { "name": "Olipops", "lat": 51.1748, "lng": -1.2160, "category": "food", "icon": "mkpp1.png", "url": "https://www.facebook.com/drinkolipop/" },
+    { "name": "Olipops", "lat": 51.1748, "lng": -1.2160, "category": "stall", "icon": "mkpp1.png", "url": "https://www.facebook.com/drinkolipop/" },
     { "name": "P3 Earth Designs", "lat": 51.1749, "lng": -1.2160, "category": "stall", "icon": "mkp3.png", "url": "https://www.facebook.com/olipopsswappartyplay/" },
     { "name": "State of Disarray", "lat": 51.1749, "lng": -1.2160, "category": "stall", "icon": "mkdsr.png", "url": "https://www.facebook.com/StateofDisarray/"  },
     
