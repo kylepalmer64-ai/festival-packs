@@ -94,7 +94,8 @@
     { "stage": "UFO In The Woods", "time": "22:00", "act": "Aphrodite" },
     { "stage": "UFO In The Woods", "time": "23:00", "act": "Aries" },
 
-    { "stage": "Crazy Diamond Club", "time": "13:00", "act": "Jon Edis", "day": "Fri 11th" },
+    { "stage": "Crazy Diamond Club", "time": "10:00", "act": "Yoga with Lou", "day": "Fri 11th" },    
+    { "stage": "Crazy Diamond Club", "time": "13:00", "act": "Jon Edis" },
     { "stage": "Crazy Diamond Club", "time": "14:00", "act": "Von Adams" },
     { "stage": "Crazy Diamond Club", "time": "15:00", "act": "Hobbs & Ron Mexico" },
     { "stage": "Crazy Diamond Club", "time": "16:00", "act": "Mr Scruff" },
@@ -212,6 +213,7 @@
     { "name": "Hungry Toad", "lat": 51.1749, "lng": -1.2169, "category": "food", "icon": "mkhgt.png",  "url": "https://www.facebook.com/HungryToad/"  },
     { "name": "Indian Summer", "lat": 51.1753, "lng": -1.2163, "category": "food", "icon": "mknan.png", "url": "https://www.instagram.com/indiansummer.cafe/" },
     { "name": "Mac Daddy", "lat": 51.1753, "lng": -1.2162, "category": "food", "icon": "mkmac.png", "url": "https://www.facebook.com/themacdaddycambridge/"  },
+    { "name": "Monkey Bunch Funky Munch", "lat": 51.1770, "lng": -1.2183, "category": "food", "icon": "mkky.png", "url": "https://www.instagram.com/monkeybunch_funkymunch/"  },
     { "name": "Seating Area", "lat": 51.1748, "lng": -1.2165, "category": "food", "icon": "mkbnch.png" },
     { "name": "Split Screen Ice Cream", "lat": 51.1754, "lng": -1.2166, "category": "food", "icon": "mkice.png", "url": "https://www.facebook.com/SplitscreenIcecream/"  },    
     { "name": "Thai Mania", "lat": 51.1755, "lng": -1.2165, "category": "food", "icon": "mkthai.png", "url": "https://www.facebook.com/Nakhonfood/" },
@@ -241,7 +243,11 @@
     
     { "name": "Medical Tent", "lat": 51.1756, "lng": -1.2156, "category": "medical", "icon": "mkmed.png" },
     { "name": "Cocaine Anonymous", "lat": 51.1753, "lng": -1.2161, "category": "wellbeing", "icon": "mkcka.png", "url": "https://events.cocaineanonymous.org.uk/"  },
-      
+    { "name": "Yoga with Lou - 10am Fri + Sat", "lat": 51.1747, "lng": -1.2168, "category": "wellbeing", "icon": "mkyg.png" },
+    { "name": "Nature's Garden & Tea Library", "lat": 51.1753, "lng": -1.2161, "category": "wellbeing", "icon": "mktsf.png" },
+    { "name": "FUNC - None Alco", "lat": 51.1753, "lng": -1.2161, "category": "wellbeing", "icon": "mkfnc.png", "url": "https://www.instagram.com/func.world/"  },
+
+    
     { "name": "WC Arena Back", "lat": 51.1744, "lng": -1.2159, "category": "Facilities", "icon": "mkacwc.png" },
     { "name": "WC Behind UFO", "lat": 51.1743, "lng": -1.2169, "category": "Facilities", "icon": "mkacwc.png" },
     { "name": "Motorhome South", "lat": 51.1765, "lng": -1.2171, "category": "Facilities", "icon": "mkacwc.png" },
