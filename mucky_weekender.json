@@ -238,7 +238,7 @@
     { "name": "Plurple Shop", "lat": 51.1757, "lng": -1.2158, "category": "stall", "icon": "mkprp.png", "url": "https://www.facebook.com/people/Plurple-Festival-Shop/61553344706182/"  },
     { "name": "Save The Rhino", "lat": 51.1758, "lng": -1.2164, "category": "stall", "icon": "mkrhn.png", "url": "https://www.savetherhino.org/"  },
     { "name": "Olipops", "lat": 51.1748, "lng": -1.2160, "category": "stall", "icon": "mkpp1.png", "url": "https://www.facebook.com/drinkolipop/" },
-    { "name": "P3 Earth Designs", "lat": 51.1749, "lng": -1.2160, "category": "stall", "icon": "mkp3.png", "url": "https://www.facebook.com/olipopsswappartyplay/" },
+    { "name": "P3 Earth Designz", "lat": 51.1749, "lng": -1.2160, "category": "stall", "icon": "mkp3.png", "url": "https://www.instagram.com/p3earthdesignz/" },
     { "name": "State of Disarray", "lat": 51.1749, "lng": -1.2160, "category": "stall", "icon": "mkdsr.png", "url": "https://www.facebook.com/StateofDisarray/"  },
     
     { "name": "Medical Tent", "lat": 51.1756, "lng": -1.2156, "category": "medical", "icon": "mkmed.png" },
