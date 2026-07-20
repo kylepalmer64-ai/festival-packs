@@ -152,7 +152,8 @@
     { "stage": "UFO In The Woods", "time": "21:30", "act": "Madame Electrifie" },
     { "stage": "UFO In The Woods", "time": "22:30", "act": "Shaka Loves You" },
 
-    { "stage": "Crazy Diamond Club", "time": "13:00", "act": "Jon Bassline", "day": "Sat 12th" },
+    { "stage": "Crazy Diamond Club", "time": "10:00", "act": "Yoga with Lou, "day": "Sat 12th" }, 
+    { "stage": "Crazy Diamond Club", "time": "13:00", "act": "Jon Bassline" },
     { "stage": "Crazy Diamond Club", "time": "14:00", "act": "Mr Quest" },
     { "stage": "Crazy Diamond Club", "time": "15:00", "act": "Albi NHZ" },
     { "stage": "Crazy Diamond Club", "time": "16:00", "act": "Barrington & MC Five Alive" },
