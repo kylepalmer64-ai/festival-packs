@@ -1,6 +1,12 @@
 {
-  "version": 76,
+  "version": 77,
   "events": [  
+    {
+     "id": "monacle",
+     "name": "The Metal Monocle - Leicester",
+     "category": "Festival",
+     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/monocle.json?v=1"
+    },
     {
      "id": "creamfields26",
      "name": "Creamfields 2026 🎧",
