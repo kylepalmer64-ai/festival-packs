@@ -1,6 +1,6 @@
 {
   "version": 7,
-  
+  "staffPin": "1234"
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/kteepee.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap2.png",
@@ -130,6 +130,8 @@
       "category": "stage",
       "partner": true,
       "icon": "kteepee.png"
-    }
+    
+    },
+    { "name": "Test Staff", "lat": 52.8300, "lng": -1.3750, "category": "staff" }
   ]
 }
