@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/mtmmap.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/mtmnhero.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/mtmpanel.png",
+  "premiumHeader": "The Metal Monocle",
+  "listingsHeader": "What's On & When",
+  "premiumTileColor": "#B8860B",
+  "premiumTileBorder": "#CD7F32",
+  "panelColor": "#331010EE",
+  "messagesFile": "mtm_messages.json",
+  
+  "categoryColors": {
+    "Official Site": "#3D2B1F",
+    "Gallery": "#3D2B1F",
+    "Socials": "#3D2B1F",
+    "Makers Market": "#3D2B1F", 
+    "Contact": "#3D2B1F"
+
+    
+  },
+  "categoryicons": {
+    "Official Site": "mtmnhero.png",
+    "Gallery": "mtmnhero.png",
+    "Socials": "mtmnhero.png",
+    "Makers Market": "mtmnhero.png",
+    "Contact": "mtmnhero.png"
+
+  },
+  
+  "listings": [
+    { "stage": "The Metal Monocle", "time": "20:30", "act": "Viva La Riot", "day": "Fri 24th Jul" },
+    { "stage": "The Metal Monocle", "time": "23:00", "act": "Kerranthems at Metal Monocle" },
+    { "stage": "The Metal Monocle", "time": "21:00", "act": "Chaplain / Thrash Mob / Mount Slatra", "day": "Sat 25th Jul" },
+    { "stage": "The Metal Monocle", "time": "23:30", "act": "Resurrection - The Feral Mask-Erade" },
+    { "stage": "The Metal Monocle", "time": "19:00", "act": "The Blues Irregulars Live", "day": "Sun 26th Jul" },
+    { "stage": "The Metal Monocle", "time": "20:30", "act": "Daisy Cutter", "day": "Fri 31st Jul" },
+    { "stage": "The Metal Monocle", "time": "23:30", "act": "Arockalypse!" },
+
+    { "stage": "The Metal Monocle", "time": "20:00", "act": "Entropy / Drednaut Live!", "day": "Sat 1st Aug" },
+    { "stage": "The Metal Monocle", "time": "23:30", "act": "Dead Souls: Goth, Industrial. EMD, Electro, Alt, 80s &amp; more!" },
+    { "stage": "The Metal Monocle", "time": "12:00", "act": "POOL TOURNAMENT", "day": "Sun 2nd Aug" },
+    { "stage": "The Metal Monocle", "time": "20:00", "act": "The Media Project: Uburu &amp; Mistress of the Monolith", "day": "Fri 7th Aug" },
+    { "stage": "The Metal Monocle", "time": "23:30", "act": "Arockalypse Presents: Abritrockalypse!" },
+    { "stage": "The Metal Monocle", "time": "20:30", "act": "V8", "day": "Sat 8th Aug" },
+    { "stage": "The Metal Monocle", "time": "23:00", "act": "Kerranthems!" },
+    { "stage": "The Metal Monocle", "time": "20:00", "act": "Dogz of Rock / Then It Exploded - Live!", "day": "Fri 14th Aug" },
+    { "stage": "The Metal Monocle", "time": "23:00", "act": "Kerranthems!" },
+    { "stage": "The Metal Monocle", "time": "20:30", "act": "Talisman", "day": "Sat 15th Aug" },
+    { "stage": "The Metal Monocle", "time": "19:00", "act": "SOS Rock &amp; Blues Band", "day": "Sun 16th Aug" },
+    { "stage": "The Metal Monocle", "time": "23:30", "act": "Grachnophobia Clubnight!", "day": "Fri 21st Aug" },
+    { "stage": "The Metal Monocle", "time": "20:00", "act": "Swamp Coffin", "day": "Sat 29th Aug" },
+    { "stage": "The Metal Monocle", "time": "23:30", "act": "Resurrection - BANK HOLIDAY PARTY!!" },
+    { "stage": "The Metal Monocle", "time": "19:00", "act": "Theigns &amp; Theralls", "day": "Sat 5th Sept" },
+    { "stage": "The Metal Monocle", "time": "20:30", "act": "Theigns &amp; Thralls" },
+    { "stage": "The Metal Monocle", "time": "12:30", "act": "POKER DAY (Bi-monthly)", "day": "Sun 6th Sept" },
+    { "stage": "The Metal Monocle", "time": "20:00", "act": "Final Coil / Colossloth / Matt Steady - Live!", "day": "Fri 11th Sept" },
+    { "stage": "The Metal Monocle", "time": "22:00", "act": "The Johnny Crabb Trio - Live!", "day": "Sun 13th Sept" },
+    { "stage": "The Metal Monocle", "time": "20:00", "act": "Our Souls / Everyone Lies / On Crash Sunday", "day": "Fri 18th Sept" },
+    { "stage": "The Metal Monocle", "time": "20:30", "act": "Trisubversion", "day": "Sat 19th Sept" },
+    { "stage": "The Metal Monocle", "time": "20:30", "act": "Metal Fatigue", "day": "Sat 26th Sept" },
+    { "stage": "The Metal Monocle", "time": "23:30", "act": "Arockalypse!" },
+    { "stage": "The Metal Monocle", "time": "20:00", "act": "Drivel Heads &amp; Special Guests", "day": "Fri 2nd Oct" },
+    { "stage": "The Metal Monocle", "time": "20:30", "act": "DSR", "day": "Sat 3rd Oct" },
+    { "stage": "The Metal Monocle", "time": "12:00", "act": "POOL TOURNAMENT (Bi-monthly)", "day": "Sun 4th Oct" },
+    { "stage": "The Metal Monocle", "time": "20:00", "act": "Not Again / Riot Squad / Keep This Up - Live!", "day": "Fri 9th Oct" },
+    { "stage": "The Metal Monocle", "time": "20:00", "act": "Last Chance / Tuscani / Unb4rred - Live!", "day": "Fri 16th Oct" },
+    { "stage": "The Metal Monocle", "time": "20:30", "act": "Retsecrows &amp; Fracxura", "day": "Sat 17th Oct" },
+    { "stage": "The Metal Monocle", "time": "19:00", "act": "Drop The Accent - Live!", "day": "Sun 18th Oct" }
+  ],
+  
+  
+  "vendors": [
+    { "name": "Official Site", "lat": 51.9532, "lng": -0.2718, "category": "Official Site", "icon": "mtmnhero.png", "url": "https://www.themetalmonocle.co.uk/" },
+    { "name": "Gallery", "lat": 51.9532, "lng": -0.2718, "category": "Gallery", "icon": "mtmnhero.png", "url": "https://www.themetalmonocle.co.uk/gallery/" },
+    { "name": "Makers Market", "lat": 51.9532, "lng": -0.2718, "category": "Makers Market", "icon": "mtmnhero.png", "url": "https://www.themetalmonocle.co.uk/lmakers-market/" },
+    { "name": "Contact", "lat": 51.9532, "lng": -0.2718, "category": "Contact", "icon": "mtmnhero.png", "url": "https://www.themetalmonocle.co.uk/contact/" },
+    { "name": "Facebook", "lat": 51.9532, "lng": -0.2718, "category": "Socials", "icon": "fbhero1.png","url": "https://www.facebook.com/TheMetalMonocle/"  },  
+    { "name": "Instagram", "lat": 51.9532, "lng": -0.2718, "category": "Socials", "icon": "inhero.png", "url": "https://www.instagram.com/metal.monocle/" }
+
+  ]
+}
