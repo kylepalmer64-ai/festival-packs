@@ -1,4 +1,4 @@
-{
+ {
   "version": 1,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/mtmmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/mtmnhero.png",
@@ -19,7 +19,7 @@
 
     
   },
-  "categoryicons": {
+  "categoryIcons": {
     "Official Site": "mtmnhero.png",
     "Gallery": "mtmnhero.png",
     "Socials": "mtmnhero.png",
@@ -72,9 +72,9 @@
   
   "vendors": [
     { "name": "Official Site", "lat": 51.9532, "lng": -0.2718, "category": "Official Site", "icon": "mtmnhero.png", "url": "https://www.themetalmonocle.co.uk/" },
-    { "name": "Gallery", "lat": 51.9532, "lng": -0.2718, "category": "Gallery", "icon": "mtmnhero.png", "url": "https://www.themetalmonocle.co.uk/gallery/" },
-    { "name": "Makers Market", "lat": 51.9532, "lng": -0.2718, "category": "Makers Market", "icon": "mtmnhero.png", "url": "https://www.themetalmonocle.co.uk/lmakers-market/" },
-    { "name": "Contact", "lat": 51.9532, "lng": -0.2718, "category": "Contact", "icon": "mtmnhero.png", "url": "https://www.themetalmonocle.co.uk/contact/" },
+    { "name": "Gallery", "lat": 51.9532, "lng": -0.2718, "category": "Official Site", "icon": "mtmnhero.png", "url": "https://www.themetalmonocle.co.uk/gallery/" },
+    { "name": "Makers Market", "lat": 51.9532, "lng": -0.2718, "category": "Official Site", "icon": "mtmnhero.png", "url": "https://www.themetalmonocle.co.uk/lmakers-market/" },
+    { "name": "Contact", "lat": 51.9532, "lng": -0.2718, "category": "Official Site", "icon": "mtmnhero.png", "url": "https://www.themetalmonocle.co.uk/contact/" },
     { "name": "Facebook", "lat": 51.9532, "lng": -0.2718, "category": "Socials", "icon": "fbhero1.png","url": "https://www.facebook.com/TheMetalMonocle/"  },  
     { "name": "Instagram", "lat": 51.9532, "lng": -0.2718, "category": "Socials", "icon": "inhero.png", "url": "https://www.instagram.com/metal.monocle/" }
 
