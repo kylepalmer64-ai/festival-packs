@@ -1,5 +1,5 @@
 {
-  "version": 56,
+  "version": 57,
   "events": [
     {
       "id": "bloodstock_pack",
@@ -20,10 +20,16 @@
      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/creamfields26.json?v=1"
     },
     {
+      "id": "whathitchinNEXT.json",
+      "name": "Baldock Live & Local",
+      "category": "Festival",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/whatbaldock.json?v=1"
+    },
+    {
       "id": "whatbaldock.json",
       "name": "Baldock Live & Local",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/whatbaldock.json?v=3"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/whatbaldock.json?v=4"
     },
     {
       "id": "red_lion",
@@ -37,7 +43,12 @@
       "category": "Festival",
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/85clpack.json?v=8"
     },
-    
+    {
+      "id": "dl26_nextshot",
+      "name": "Download 2027",
+      "category": "Festival",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/dl26_nextshot.json?v=2"
+    },
     {
       "id": "coming2026",
       "name": "Coming 2026",
@@ -49,12 +60,6 @@
       "name": "KteePee Demo",
       "category": "Festival",
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/kteepee_demo.json?v=6"
-    },
-    {
-      "id": "dl26_nextshot",
-      "name": "Download 2027",
-      "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/dl26_nextshot.json?v=2"
     },
     {
       "id": "poles",
