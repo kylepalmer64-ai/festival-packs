@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/hitchmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/bdkhero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap2.png",
@@ -31,18 +31,6 @@
 
   "listings": [
     
-    {"stage": "The White Lion", "time": "14:00", "act": "POSTPONED - DogFest", "day": "Sat July 11th" },
-
-    {"stage": "The White Lion", "time": "22:00", "act": "England vs Norway", "day": "Sat July 11th" },
-
-    {"stage": "The Orange Tree", "time": "22:00", "act": "England vs Norway", "day": "Sat July 11th" },
-
-    {"stage": "The White Horse", "time": "22:00", "act": "England vs Norway", "day": "Sat July 11th" },
-
-    {"stage": "The Orange Tree", "time": "16:00", "act": "Vinyl Sundays Guest DJ", "day": "Sun Jul 12th" },
-
-    {"stage": "The Orange Tree", "time": "16:00", "act": "Vinyl Sundays Guest DJ", "day": "Sun Jul 19th" },
-
     {"stage": "Old White Horse", "time": "12:00", "act": "Hot Wing Challenge!", "day": "Wed Jul 22nd" },
 
     {"stage": "The Orange Tree", "time": "16:00", "act": "Vinyl Sundays Guest DJ", "day": "Sun Jul 26th" },
@@ -55,28 +43,31 @@
   "vendors": [
     
     { "name": "Website", "lat": 52.7460, "lng": -1.6280, "category": "Hen 'n' Chickens", "icon": "hnchero.png", "url": "https://www.thehenandchickens.co.uk/" },
-    { "name": "We're Here", "lat": 51.9860, "lng": -0.1796 , "category": "White Lion", "icon": "hnchero.png" },
+    { "name": "We're Here", "lat": 51.9860, "lng": -0.1796 , "category": "Hen 'n' Chickens", "icon": "hnchero.png" },
     
     { "name": "Follow Us!", "lat": 52.7460, "lng": -1.6280, "category": "White Lion", "icon": "fbhero.png", "url": "https://www.facebook.com/whitelion.baldock/" },
-    { "name": "Donate MS Trust", "lat": 52.7460, "lng": -1.6280, "category": "White Lion", "icon": "wlhero.png", "url": "https://www.justgiving.com/page/owh-ms-trust/" },
-    { "name": "Donate Herts Homeless", "lat": 52.7460, "lng": -1.6280, "category": "White Lion", "icon": "wlhero.png", "url": "https://www.justgiving.com/page/owh-herts-homeless/" },
-    { "name": "Donate Garden Hospice", "lat": 52.7460, "lng": -1.6280, "category": "White Lion", "icon": "wlhero.png", "url": "https://www.justgiving.com/page/owh-garden-hospice/" },
+    { "name": "Website", "lat": 52.7460, "lng": -1.6280, "category": "White Lion", "icon": "wlhero.png", "url": "https://thewhitelionbaldock.co.uk/" },
     { "name": "We're Here", "lat": 51.9877, "lng": -0.1871, "category": "White Lion", "icon": "wlhero.png", "url": "https://www.facebook.com/whitelion.baldock/" },
       
     { "name": "Follow Us!", "lat": 52.7460, "lng": -1.6280, "category": "The Victoria", "icon": "fbhero.png", "url": "https://www.facebook.com/The.Victoria.Baldock/" },
-    { "name": "We're Here", "lat": 51.9901, "lng": -0.1885, "category": "White Lion", "icon": "vicbhero.png" },
+    { "name": "We're Here", "lat": 51.9901, "lng": -0.1885, "category": "The Victoria", "icon": "vicbhero.png" },
 
     
     { "name": "Follow Us!", "lat": 52.7460, "lng": -1.6280, "category": "White Horse", "icon": "fbhero.png", "url": "https://www.facebook.com/oldwhitehorse/" },
-    { "name": "We're Here", "lat": 51.9914, "lng": -0.1867, "category": "White Lion", "icon": "fbhero.png" },
+    { "name": "Donate MS Trust", "lat": 52.7460, "lng": -1.6280, "category": "White Horse", "icon": "owlhero.png", "url": "https://www.justgiving.com/page/owh-ms-trust/" },
+    { "name": "Donate Herts Homeless", "lat": 52.7460, "lng": -1.6280, "category": "White Horse", "icon": "owlhero.png", "url": "https://www.justgiving.com/page/owh-herts-homeless/" },
+    { "name": "Donate Garden Hospice", "lat": 52.7460, "lng": -1.6280, "category": "White Horse", "icon": "owlhero.png", "url": "https://www.justgiving.com/page/owh-garden-hospice/" },
+    { "name": "Website", "lat": 52.7460, "lng": -1.6280, "category": "White Horse", "icon": "owlhero.png", "url": "https://oldwhitehorsebaldock.co.uk/" },
+    { "name": "We're Here", "lat": 51.9914, "lng": -0.1867, "category": "White Horse", "icon": "owlhero.png" },
 
     
     { "name": "Follow Us!", "lat": 52.7460, "lng": -1.6280, "category": "Orange Tree", "icon": "fbhero.png", "url": "https://www.facebook.com/The.Orange.Tree.Baldock/" },
-    { "name": "We're Here", "lat": 51.9907, "lng": -0.1929, "category": "White Lion", "icon": "owlhero.png" },
+    { "name": "Website", "lat": 52.7460, "lng": -1.6280, "category": "Orange Tree", "icon": "ojhero.png", "url": "https://www.theorangetreebaldock.com/" },
+    { "name": "We're Here", "lat": 51.9907, "lng": -0.1929, "category": "Orange Tree", "icon": "ojhero.png" },
 
     
     { "name": "Follow Us!", "lat": 52.7460, "lng": -1.6280, "category": "The Cock", "icon": "fbhero.png", "url": "https://www.facebook.com/The.Cock.Baldock" },
-    { "name": "We're Here", "lat": 51.9872, "lng": -0.1860, "category": "White Lion", "icon": "chkero2.png" },
+    { "name": "We're Here", "lat": 51.9872, "lng": -0.1860, "category": "The Cock", "icon": "chkero2.png" },
 
     { "name": "KteePee", "lat": 52.8299, "lng": -1.3892, "category": "Keep Up To Date", "icon": "kteepee.png", "url": "https://www.kteepee.com/" },
     { "name": "Facebook", "lat": 52.8318, "lng": -1.3868, "category": "Keep Up To Date", "icon": "fbhero.png", "url": "https://www.facebook.com/KteePeeEvents" },
