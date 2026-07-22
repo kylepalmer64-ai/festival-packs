@@ -71,9 +71,10 @@
   
   
   "vendors": [
-    { "name": "Official Site", "lat": 51.9532, "lng": -0.2718, "category": "Official Site", "icon": "mtmnhero.png", "url": "https://www.themetalmonocle.co.uk/" },
+    { "name": "Website", "lat": 51.9532, "lng": -0.2718, "category": "Official Site", "icon": "mtmnhero.png", "url": "https://www.themetalmonocle.co.uk/" },
     { "name": "Gallery", "lat": 51.9532, "lng": -0.2718, "category": "Official Site", "icon": "mtmnhero.png", "url": "https://www.themetalmonocle.co.uk/gallery/" },
     { "name": "Makers Market", "lat": 51.9532, "lng": -0.2718, "category": "Official Site", "icon": "mtmnhero.png", "url": "https://www.themetalmonocle.co.uk/lmakers-market/" },
+    { "name": "We're Here", "lat": 52.6308, "lng": -1.1464, "category": "Official Site", "icon": "mtmnhero.png", "url": "https://www.themetalmonocle.co.uk/lmakers-market/" },
     { "name": "Contact", "lat": 51.9532, "lng": -0.2718, "category": "Official Site", "icon": "mtmnhero.png", "url": "https://www.themetalmonocle.co.uk/contact/" },
     { "name": "Facebook", "lat": 51.9532, "lng": -0.2718, "category": "Socials", "icon": "fbhero1.png","url": "https://www.facebook.com/TheMetalMonocle/"  },  
     { "name": "Instagram", "lat": 51.9532, "lng": -0.2718, "category": "Socials", "icon": "inhero.png", "url": "https://www.instagram.com/metal.monocle/" }
