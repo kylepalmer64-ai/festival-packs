@@ -103,14 +103,14 @@
     { "name": "Insta", "lat": 52.9474, "lng": -0.2782, "category": "Rose & Crown", "icon": "inhero.png", "url": "https://www.instagram.com/roseandcrownhitchin/" },
     { "name": "Facebook", "lat": 52.9474, "lng": -0.2782, "category": "Rose & Crown", "icon": "fbhero.png", "url": "https://www.facebook.com/hitchinroseandcrown" },
 
-    { "name": "We're Here", "lat": 52., "lng": -0.2766, "category": "The Half Moon", "icon": "halfmoonhero.png" },
-    { "name": "Insta", "lat": 52.9450, "lng": -0.2766, "category": "Molly Malones", "icon": "inhero.png", "url": "https://www.instagram.com/thehalfmoonhitchin/" },
-    { "name": "Facebook", "lat": 52.9450, "lng": -0.2766, "category": "Molly Malones", "icon": "fbhero.png", "url": "https://www.facebook.com/thehalfmoonhitchin/" },
+    { "name": "We're Here", "lat": 52, "lng": -0.2766, "category": "The Half Moon", "icon": "halfmoonhero.png" },
+    { "name": "Insta", "lat": 52.9450, "lng": -0.2766, "category": "The Half Moon", "icon": "inhero.png", "url": "https://www.instagram.com/thehalfmoonhitchin/" },
+    { "name": "Facebook", "lat": 52.9450, "lng": -0.2766, "category": "The Half Moon", "icon": "fbhero.png", "url": "https://www.facebook.com/thehalfmoonhitchin/" },
     { "name": "Offical Site", "lat": 52.7460, "lng": -1.6280, "category": "The Half Moon", "icon": "halfmoonhero.png", "url": "https://thehalfmoonhitchin.com/" },
 
     { "name": "We're Here", "lat": 51.9475, "lng": -0.2790, "category": "The Glasshouse", "icon": "glasshousehero.png" },
-    { "name": "Insta", "lat": 51.9475, "lng": -0.2790, "category": "he Glasshouse", "icon": "inhero.png", "url": "https://www.instagram.com/theglasshousehitchin/" },
-    { "name": "Facebook", "lat": 51.9475, "lng": -0.2790, "category": "he Glasshouse", "icon": "fbhero.png", "url": "https://www.facebook.com/pitcherandpianohitchin/" },
+    { "name": "Insta", "lat": 51.9475, "lng": -0.2790, "category": "The Glasshouse", "icon": "inhero.png", "url": "https://www.instagram.com/theglasshousehitchin/" },
+    { "name": "Facebook", "lat": 51.9475, "lng": -0.2790, "category": "The Glasshouse", "icon": "fbhero.png", "url": "https://www.facebook.com/pitcherandpianohitchin/" },
     { "name": "Offical Site", "lat": 52.7460, "lng": -1.6280, "category": "The Glasshouse", "icon": "glasshousehero.png", "url": "https://www.glasshousehitchin.co.uk/" },
     
     { "name": "We're Here", "lat": 51.9494, "lng": -0.2756, "category": "The Hermitage", "icon": "thehermitagehero.png" },
