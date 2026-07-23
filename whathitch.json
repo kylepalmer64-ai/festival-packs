@@ -73,6 +73,7 @@
     { "name": "We're Here", "lat": 2.7455, "lng": -1.6270, "category": "The Brickyard", "icon": "bydhero.png" },
     { "name": "Find Us Here", "lat": 52.7455, "lng": -1.6270, "category": "The Brickyard", "icon": "inhero.png", "url": "https://www.instagram.com/brickyardhitchin/" },
     { "name": "Keep Up To Date", "lat": 52.7455, "lng": -1.6270, "category": "The Brickyard", "icon": "fbhero.png", "url": "https://www.facebook.com/thebrickyardhitchin/" },
+    { "name": "Loyalty Card", "lat": 52.7455, "lng": -1.6270, "category": "The Brickyard", "icon": "bydhero.png", "loyaltyEnabled": true, "loyaltyTarget": 10, "loyaltyPin": "1234", "loyaltyReward": "Free pint of your choice" },
     
     { "name": "We're Here", "lat": 51.9476773, "lng": -0.2790906, "category": "Osinsky's", "icon": "oskhero.png" },
     { "name": "What's On", "lat": 52.7460, "lng": -1.6280, "category": "Osinsky's", "icon": "oskhero.png", "url": "https://osinskys.co.uk/whats-on/" },
