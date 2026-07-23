@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/hitchmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/hithero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap2.png",
@@ -23,7 +23,7 @@
     "keep up to date": "#C1121F"
   },
   "categoryIcons": {
-    "bridgetown monroe": "bmonicon.png",
+    "bridgetown monroe": "bmmonhero.png",
     "the brickyard": "bydhero.png",
     "osinsky's": "oskhero.png",
     "molly malones": "mmhero.png",
@@ -43,9 +43,9 @@
   "vendors": [
 
 
-    { "name": "Late Night Bar", "lat": 52.7460, "lng": -1.6280, "category": "Bridgetown Monroe", "icon": "bmonicon.png" },
-    { "name": "We're Here", "lat": 51.9469183, "lng": -0.2793105, "category": "Bridgetown Monroe", "icon": "bmonicon.png" },
-    { "name": "Offical Site", "lat": 52.7460, "lng": -1.6280, "category": "Bridgetown Monroe", "icon": "bmonicon.png", "url": "https://www.bridgetownmonroe.com/" },
+    { "name": "Late Night Bar", "lat": 52.7460, "lng": -1.6280, "category": "Bridgetown Monroe", "icon": "bmmonhero.png" },
+    { "name": "We're Here", "lat": 51.9469183, "lng": -0.2793105, "category": "Bridgetown Monroe", "icon": "bmmonhero.png" },
+    { "name": "Offical Site", "lat": 52.7460, "lng": -1.6280, "category": "Bridgetown Monroe", "icon": "bmmonhero.png", "url": "https://www.bridgetownmonroe.com/" },
     { "name": "Facebook", "lat": 52.7460, "lng": -1.6280, "category": "Bridgetown Monroe", "icon": "fbhero.png", "url": "https://www.facebook.com/Bridgetownmonroe/" },
     { "name": "Insta", "lat": 52.7460, "lng": -1.6280, "category": "Bridgetown Monroe", "icon": "inhero.png", "url": "https://www.instagram.com/bridgetownmonroebar/" },
 
