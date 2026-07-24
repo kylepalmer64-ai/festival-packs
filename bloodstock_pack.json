@@ -1,11 +1,11 @@
 {
-  "version": 13,
+  "version": 14,
 
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/bsmap2.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/bshero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/bspanel.png",
   "premiumHeader": "On Site Must Haves!",
-  "listingsHeader": "Set Times 🤘",
+  "listingsHeader": "Set Times (TBC)",
   "premiumTileColor": "#BB0000",
   "premiumTileBorder": "#A11212",
   "panelColor": "#331010EE",
