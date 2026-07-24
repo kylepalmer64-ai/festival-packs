@@ -75,9 +75,9 @@
     { "name": "We're Here", "lat": 51.9468, "lng": -0.2811, "category": "The Coopers Arms", "icon": "cpahero.png" },
     
     { "name": "We're Here", "lat": 51.9536, "lng": -0.2754, "category": "The Victoria", "icon": "vichero.png" },
-    { "name": "Official Site", "lat": 51.9536, "lng": -0.2754,, "category": "The Victoria", "icon": "vichero.png", "url": "https://www.thevictoriahitchin.com/" },
-    { "name": "Follow Us", "lat": 51.9536, "lng": -0.2754,, "category": "The Victoria", "icon": "fbhero.png", "url": "https://www.facebook.com/thevichitchin/" },
-    { "name": "Keep Up To Date", "lat": 51.9536, "lng": -0.2754,, "category": "The Victoria", "icon": "inhero.png", "url": "https://www.instagram.com/thevichitchin/" },
+    { "name": "Official Site", "lat": 51.9536, "lng": -0.2754, "category": "The Victoria", "icon": "vichero.png", "url": "https://www.thevictoriahitchin.com/" },
+    { "name": "Follow Us", "lat": 51.9536, "lng": -0.2754, "category": "The Victoria", "icon": "fbhero.png", "url": "https://www.facebook.com/thevichitchin/" },
+    { "name": "Keep Up To Date", "lat": 51.9536, "lng": -0.2754, "category": "The Victoria", "icon": "inhero.png", "url": "https://www.instagram.com/thevichitchin/" },
     
     { "name": "We're Here", "lat": 51.9518, "lng": -0.2677, "category": "The Albert Inn", "icon": "albhero.png" },
     { "name": "Official Site", "lat": 51.9518, "lng": -0.2677, "category": "The Albert Inn", "icon": "albhero.png", "url": "https://www.thealbertpub.com/" },
