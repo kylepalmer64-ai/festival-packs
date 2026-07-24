@@ -1,7 +1,7 @@
 {
-  "version": 2,
+  "version": 3,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/hitchmap.png",
-  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/hithero.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/hithero.png"
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap2.png",
   "premiumHeader": "Live & Local",
   "listingsHeader": "When & Where",
@@ -43,55 +43,55 @@
   "vendors": [
 
 
-    { "name": "Late Night Bar", "lat": 52.7460, "lng": -1.6280, "category": "Bridgetown Monroe", "icon": "bmmonhero.png" },
-    { "name": "We're Here", "lat": 51.9469183, "lng": -0.2793105, "category": "Bridgetown Monroe", "icon": "bmmonhero.png" },
-    { "name": "Offical Site", "lat": 52.7460, "lng": -1.6280, "category": "Bridgetown Monroe", "icon": "bmmonhero.png", "url": "https://www.bridgetownmonroe.com/" },
-    { "name": "Facebook", "lat": 52.7460, "lng": -1.6280, "category": "Bridgetown Monroe", "icon": "fbhero.png", "url": "https://www.facebook.com/Bridgetownmonroe/" },
-    { "name": "Insta", "lat": 52.7460, "lng": -1.6280, "category": "Bridgetown Monroe", "icon": "inhero.png", "url": "https://www.instagram.com/bridgetownmonroebar/" },
+    { "name": "Late Night Bar", "lat": 51.9469, "lng": -0.2793, "category": "Bridgetown Monroe", "icon": "bmmonhero.png" },
+    { "name": "We're Here", "lat": 51.9469, "lng": -0.2793, "category": "Bridgetown Monroe", "icon": "bmmonhero.png" },
+    { "name": "Offical Site", "lat": 51.9469, "lng": -0.2793, "category": "Bridgetown Monroe", "icon": "bmmonhero.png", "url": "https://www.bridgetownmonroe.com/" },
+    { "name": "Facebook", "lat": 51.9469, "lng": -0.2793, "category": "Bridgetown Monroe", "icon": "fbhero.png", "url": "https://www.facebook.com/Bridgetownmonroe/" },
+    { "name": "Insta", "lat": 51.9469, "lng": -0.2793, "category": "Bridgetown Monroe", "icon": "inhero.png", "url": "https://www.instagram.com/bridgetownmonroebar/" },
 
-    { "name": "We're Here", "lat": 51.9467769, "lng": -0.2785451, "category": "The Speakeasy Club", "icon": "spkezhero.png" },
-    { "name": "Follow Us", "lat": 52.7460, "lng": -1.6280, "category": "The Speakeasy Club", "icon": "inhero.png", "url": "https://www.instagram.com/thespeakeasyclubhitchin/" },
-    { "name": "Join Us", "lat": 52.7460, "lng": -1.6280, "category": "The Speakeasy Club", "icon": "fbhero.png", "url": "https://www.facebook.com/TheSpeakeasyClubHitchin/" },
+    { "name": "We're Here", "lat": 51.9467, "lng": -0.2785, "category": "The Speakeasy Club", "icon": "spkezhero.png" },
+    { "name": "Follow Us", "lat": 51.9467, "lng": -0.2785, "category": "The Speakeasy Club", "icon": "inhero.png", "url": "https://www.instagram.com/thespeakeasyclubhitchin/" },
+    { "name": "Join Us", "lat": 51.9467, "lng": -0.2785, "category": "The Speakeasy Club", "icon": "fbhero.png", "url": "https://www.facebook.com/TheSpeakeasyClubHitchin/" },
 
-    { "name": "We're Here", "lat": 51.9469072, "lng": -0.2794468, "category": "The George", "icon": "george.png" },
-    { "name": "Official Site", "lat": 52.7460, "lng": -1.6280, "category": "The George", "icon": "george.png", "url": "https://thegeorgepub.com/" },
-    { "name": "Follow Us", "lat": 52.7455, "lng": -1.6270, "category": "The George","icon": "fbhero.png", "url": "https://www.facebook.com/TheGeorgeHitchin/" },
-    { "name": "Insta", "lat": 52.7455, "lng": -1.6270, "category": "The George", "icon": "inhero.png", "url": "https://www.instagram.com/thegeorgepubhitchin/" },
+    { "name": "We're Here", "lat": 51.9469, "lng": -0.2794, "category": "The George", "icon": "george.png" },
+    { "name": "Official Site", "lat": 51.9469, "lng": -0.2794, "category": "The George", "icon": "george.png", "url": "https://thegeorgepub.com/" },
+    { "name": "Follow Us", "lat": 51.9469, "lng": -0.2794, "category": "The George","icon": "fbhero.png", "url": "https://www.facebook.com/TheGeorgeHitchin/" },
+    { "name": "Insta", "lat": 51.9469, "lng": -0.2794, "category": "The George", "icon": "inhero.png", "url": "https://www.instagram.com/thegeorgepubhitchin/" },
 
-    { "name": "Craft Beers", "lat": 52.7455, "lng": -1.6270, "category": "The Brickyard", "icon": "bydhero.png" },
-    { "name": "We're Here", "lat": 2.7455, "lng": -1.6270, "category": "The Brickyard", "icon": "bydhero.png" },
-    { "name": "Find Us Here", "lat": 52.7455, "lng": -1.6270, "category": "The Brickyard", "icon": "inhero.png", "url": "https://www.instagram.com/brickyardhitchin/" },
-    { "name": "Keep Up To Date", "lat": 52.7455, "lng": -1.6270, "category": "The Brickyard", "icon": "fbhero.png", "url": "https://www.facebook.com/thebrickyardhitchin/" },
+    { "name": "Craft Beers", "lat": 51.9504, "lng": -0.2768, "category": "The Brickyard", "icon": "bydhero.png" },
+    { "name": "We're Here", "lat": 51.9504, "lng": -0.2768, "category": "The Brickyard", "icon": "bydhero.png" },
+    { "name": "Find Us Here", "lat": 51.9504, "lng": -0.2768, "category": "The Brickyard", "icon": "inhero.png", "url": "https://www.instagram.com/brickyardhitchin/" },
+    { "name": "Keep Up To Date", "lat": 51.9504, "lng": -0.2768, "category": "The Brickyard", "icon": "fbhero.png", "url": "https://www.facebook.com/thebrickyardhitchin/" },
     
-    { "name": "We're Here", "lat": 51.9476773, "lng": -0.2790906, "category": "Osinsky's", "icon": "oskhero.png" },
-    { "name": "What's On", "lat": 52.7460, "lng": -1.6280, "category": "Osinsky's", "icon": "oskhero.png", "url": "https://osinskys.co.uk/whats-on/" },
-    { "name": "Follow Us", "lat": 52.7460, "lng": -1.6280, "category": "Osinsky's", "icon": "inhero.png", "url": "https://www.instagram.com/osinskys/" },
-    { "name": "Catch Up With Us", "lat": 52.7460, "lng": -1.6280, "category": "Osinsky's", "icon": "fbhero.png", "url": "https://www.facebook.com/Osinskys" },
+    { "name": "We're Here", "lat": 51.9476, "lng": -0.2790, "category": "Osinsky's", "icon": "oskhero.png" },
+    { "name": "What's On", "lat": 51.9476, "lng": -0.2790, "category": "Osinsky's", "icon": "oskhero.png", "url": "https://osinskys.co.uk/whats-on/" },
+    { "name": "Follow Us", "lat": 51.9476, "lng": -0.2790, "category": "Osinsky's", "icon": "inhero.png", "url": "https://www.instagram.com/osinskys/" },
+    { "name": "Catch Up With Us", "lat": 51.9476, "lng": -0.2790, "category": "Osinsky's", "icon": "fbhero.png", "url": "https://www.facebook.com/Osinskys" },
       
-    { "name": "We're Here", "lat": 51.9537093, "lng": -0.2695427, "category": "Molly Malones", "icon": "mmhero.png" },
-    { "name": "Insta", "lat": 52.7455, "lng": -1.6270, "category": "Molly Malones", "icon": "inhero.png", "url": "https://www.instagram.com/molly_malones_sg5/" },
-    { "name": "Facebook", "lat": 52.7455, "lng": -1.6270, "category": "Molly Malones", "icon": "fbhero.png", "url": "https://www.facebook.com/mollymaloneshitchin/" },
+    { "name": "We're Here", "lat": 51.9537, "lng": -0.2695, "category": "Molly Malones", "icon": "mmhero.png" },
+    { "name": "Insta", "lat": 51.9537, "lng": -0.2695, "category": "Molly Malones", "icon": "inhero.png", "url": "https://www.instagram.com/molly_malones_sg5/" },
+    { "name": "Facebook", "lat": 51.9537, "lng": -0.2695, "category": "Molly Malones", "icon": "fbhero.png", "url": "https://www.facebook.com/mollymaloneshitchin/" },
 
-    { "name": "We're Here", "lat": 51.9468912, "lng": -0.2811926, "category": "The Coopers Arms", "icon": "cpahero.png" },
+    { "name": "We're Here", "lat": 51.9468, "lng": -0.2811, "category": "The Coopers Arms", "icon": "cpahero.png" },
     
-    { "name": "We're Here", "lat": 51.9536041, "lng": -0.2754028, "category": "The Victoria", "icon": "vichero.png" },
-    { "name": "Official Site", "lat": 52.7460, "lng": -1.6280, "category": "The Victoria", "icon": "vichero.png", "url": "https://www.thevictoriahitchin.com/" },
-    { "name": "Follow Us", "lat": 52.7468, "lng": -1.6295, "category": "The Victoria", "icon": "fbhero.png", "url": "https://www.facebook.com/thevichitchin/" },
-    { "name": "Keep Up To Date", "lat": 52.7468, "lng": -1.6295, "category": "The Victoria", "icon": "inhero.png", "url": "https://www.instagram.com/thevichitchin/" },
+    { "name": "We're Here", "lat": 51.9536, "lng": -0.2754, "category": "The Victoria", "icon": "vichero.png" },
+    { "name": "Official Site", "lat": 51.9536, "lng": -0.2754,, "category": "The Victoria", "icon": "vichero.png", "url": "https://www.thevictoriahitchin.com/" },
+    { "name": "Follow Us", "lat": 51.9536, "lng": -0.2754,, "category": "The Victoria", "icon": "fbhero.png", "url": "https://www.facebook.com/thevichitchin/" },
+    { "name": "Keep Up To Date", "lat": 51.9536, "lng": -0.2754,, "category": "The Victoria", "icon": "inhero.png", "url": "https://www.instagram.com/thevichitchin/" },
     
-    { "name": "We're Here", "lat": 51.9518636, "lng": -0.2677815, "category": "The Albert Inn", "icon": "albhero.png" },
-    { "name": "Official Site", "lat": 52.7460, "lng": -1.6280, "category": "The Albert Inn", "icon": "albhero.png", "url": "https://www.thealbertpub.com/" },
-    { "name": "Bottomless BBQs - Book Here", "lat": 52.7455, "lng": -1.6270, "category": "The Albert Inn", "icon": "albhero.png", "url": "https://www.thealbertpub.com/event-list/" },
-    { "name": "Check out our menu!", "lat": 52.7455, "lng": -1.6270, "category": "The Albert Inn", "icon": "albhero.png", "url": "https://www.thealbertpub.com/menus/" },
-    { "name": "Local Band", "lat": 52.7455, "lng": -1.6270, "category": "The Albert Inn", "icon": "albhero.png" },
+    { "name": "We're Here", "lat": 51.9518, "lng": -0.2677, "category": "The Albert Inn", "icon": "albhero.png" },
+    { "name": "Official Site", "lat": 51.9518, "lng": -0.2677, "category": "The Albert Inn", "icon": "albhero.png", "url": "https://www.thealbertpub.com/" },
+    { "name": "Bottomless BBQs - Book Here", "lat": 51.9518, "lng": -0.2677, "category": "The Albert Inn", "icon": "albhero.png", "url": "https://www.thealbertpub.com/event-list/" },
+    { "name": "Check out our menu!", "lat": 51.9518, "lng": -0.2677, "category": "The Albert Inn", "icon": "albhero.png", "url": "https://www.thealbertpub.com/menus/" },
+    { "name": "Local Band", "lat": 51.9518, "lng": -0.2677, "category": "The Albert Inn", "icon": "albhero.png" },
     
-    { "name": "We're Here", "lat": 51.9520809, "lng": -0.2674013, "category": "Ronan's Bistro", "icon": "rnbhero.png" },
-    { "name": "Ronan's Bistro", "lat": 52.7455, "lng": -1.6270, "category": "Ronan's Bistro", "icon": "inhero.png", "url": "https://www.instagram.com/ronans.coffee/" },
+    { "name": "We're Here", "lat": 51.9520, "lng": -0.2674, "category": "Ronan's Bistro", "icon": "rnbhero.png" },
+    { "name": "Ronan's Bistro", "lat": 51.9520, "lng": -0.2674, "category": "Ronan's Bistro", "icon": "inhero.png", "url": "https://www.instagram.com/ronans.coffee/" },
 
 
     
-    { "name": "Facebook", "lat": 52.8318, "lng": -1.3868, "category": "keep up to date", "icon": "fbhero.png", "url": "https://www.facebook.com/KteePeeEvents" },
-    { "name": "Insta", "lat": 52.8240, "lng": -1.3707, "category": "keep up to date", "icon": "inhero.png", "url": "https://www.instagram.com/kteepee.events/" },
-    { "name": "Official", "lat": 52.8299, "lng": -1.3892, "category": "keep up to date", "icon": "kteepee.png", "url": "https://www.kteepee.com/" }
+    { "name": "Facebook", "lat": 51.9520, "lng": -0.2674, "category": "keep up to date", "icon": "fbhero.png", "url": "https://www.facebook.com/KteePeeEvents" },
+    { "name": "Insta", "lat": 51.9520, "lng": -0.2674, "category": "keep up to date", "icon": "inhero.png", "url": "https://www.instagram.com/kteepee.events/" },
+    { "name": "Official", "lat": 51.9520, "lng": -0.2674, "category": "keep up to date", "icon": "kteepee.png", "url": "https://www.kteepee.com/" }
   ]
 }
