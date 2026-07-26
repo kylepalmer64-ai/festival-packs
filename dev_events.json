@@ -47,7 +47,10 @@
       "id": "kteepee_demo",
       "name": "KteePee Demo",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/kteepee_demo.json?v=6"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/kteepee_demo.json?v=6",
+      "requiresEmail": true,
+      "emailGateMessage": "This is a test",
+      "emailWebhook": "https://kteepee-bi.kylepalmer64.workers.dev/test-webhook"
     },
     {
       "id": "mucky_weekender",
