@@ -1,5 +1,5 @@
 {
-  "version": 78,
+  "version": 79,
   "events": [  
     {
      "id": "monacle",
@@ -54,9 +54,9 @@
     },
     {
       "id": "mucky_weekender",
-      "name": "Mucky Weekender 10th-12th Sept",
+      "name": "Mucky - pack testing",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mucky_preamble.json?v=6"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mucky_preamble.json?v=7"
     },
     {
       "id": "mucky_weekender",
