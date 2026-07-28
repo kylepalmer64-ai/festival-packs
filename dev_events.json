@@ -49,7 +49,7 @@
       "category": "Festival",
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/kteepee_demo.json?v=6",
       "requiresEmail": true,
-      "emailGateMessage": "This is a test",
+      "emailGateMessage": "To access this event, the organiser requires your email solely for verification and essential event communication.",
       "emailWebhook": "kteepee.events@gmail.com"
     },
     {
