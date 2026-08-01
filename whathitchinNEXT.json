@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/hitchmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/hithero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap2.png",
@@ -48,6 +48,7 @@
     { "name": "Offical Site", "lat": 51.9469, "lng": -0.2793, "category": "Bridgetown Monroe", "icon": "bmmonhero.png", "url": "https://www.bridgetownmonroe.com/" },
     { "name": "Facebook", "lat": 51.9469, "lng": -0.2793, "category": "Bridgetown Monroe", "icon": "fbhero.png", "url": "https://www.facebook.com/Bridgetownmonroe/" },
     { "name": "Insta", "lat": 51.9469, "lng": -0.2793, "category": "Bridgetown Monroe", "icon": "inhero.png", "url": "https://www.instagram.com/bridgetownmonroebar/" },
+    { "name": "Coming Soon to Hertford!", "lat": 51.9469, "lng": -0.2793, "category": "Bridgetown Monroe", "icon": "bmmonhero.png", "url": "https://www.bridgetownmonroe.com/" },
 
     { "name": "We're Here", "lat": 51.9467, "lng": -0.2785, "category": "The Speakeasy Club", "icon": "spkezhero.png" },
     { "name": "Follow Us", "lat": 51.9467, "lng": -0.2785, "category": "The Speakeasy Club", "icon": "inhero.png", "url": "https://www.instagram.com/thespeakeasyclubhitchin/" },
@@ -83,10 +84,12 @@
     { "name": "Official Site", "lat": 51.9518, "lng": -0.2677, "category": "The Albert Inn", "icon": "albhero.png", "url": "https://www.thealbertpub.com/" },
     { "name": "Bottomless BBQs - Book Here", "lat": 51.9518, "lng": -0.2677, "category": "The Albert Inn", "icon": "albhero.png", "url": "https://www.thealbertpub.com/event-list/" },
     { "name": "Check out our menu!", "lat": 51.9518, "lng": -0.2677, "category": "The Albert Inn", "icon": "albhero.png", "url": "https://www.thealbertpub.com/menus/" },
-    { "name": "Local Band", "lat": 51.9518, "lng": -0.2677, "category": "The Albert Inn", "icon": "albhero.png" },
+    { "name": "The AnX - The Albert's Secret Garden 🤫", "lat": 51.9518, "lng": -0.2677, "category": "The Albert Inn", "icon": "anxhero.png" },
+    { "name": "The Common Room", "lat": 51.9518, "lng": -0.2677, "category": "The Albert Inn", "icon": "comhero.png" },
     
     { "name": "We're Here", "lat": 51.9520, "lng": -0.2674, "category": "Ronan's Bistro", "icon": "rnbhero.png" },
     { "name": "Ronan's Bistro", "lat": 51.9520, "lng": -0.2674, "category": "Ronan's Bistro", "icon": "inhero.png", "url": "https://www.instagram.com/ronans.coffee/" },
+    { "name": "Official Site", "lat": 51.9520, "lng": -0.2674, "category": "Ronan's Bistro", "icon": "rnbhero.png", "url": "https://www.ronansbistro.co.uk/" },
 
 
     
