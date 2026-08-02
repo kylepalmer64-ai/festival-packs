@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/hitchmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/hithero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap2.png",
@@ -136,7 +136,7 @@
     { "name": "The Common Room", "lat": 51.9518, "lng": -0.2677, "category": "The Albert Inn", "icon": "comhero.png" },
     
     { "name": "We're Here", "lat": 51.9520, "lng": -0.2674, "category": "Ronan's Bistro", "icon": "rnbhero.png" },
-    { "name": "Pudding & Book Club", "lat": 51.9520, "lng": -0.2674, "category": "Ronan's Bistro", "icon": "rnbhero.png", "url": "https://www.thebooktaster.com/product-page/hitchin-book-and-pudding-club/" },
+    { "name": "Pudding & Book Club", "lat": 51.9520, "lng": -0.2674, "category": "Ronan's Bistro", "icon": "tbchero.png", "url": "https://www.thebooktaster.com/product-page/hitchin-book-and-pudding-club/" },
     { "name": "Ronan's Bistro", "lat": 51.9520, "lng": -0.2674, "category": "Ronan's Bistro", "icon": "inhero.png", "url": "https://www.instagram.com/ronans.coffee/" },
     { "name": "Official Site", "lat": 51.9520, "lng": -0.2674, "category": "Ronan's Bistro", "icon": "rnbhero.png", "url": "https://www.ronansbistro.co.uk/" },
 
