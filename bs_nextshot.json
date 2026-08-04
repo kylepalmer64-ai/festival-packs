@@ -173,10 +173,10 @@
   ],
 
   "vendors": [
-    { "name": "Ronnie James DIO", "lat": 52.7460, "lng": -1.6280, "category": "stage", "icon": "distg.png" },
-    { "name": "Sophie Lancaster", "lat": 52.7468, "lng": -1.6295, "category": "stage", "icon": "bigtop.png" },
-    { "name": "New Blood", "lat": 52.7455, "lng": -1.6270, "category": "stage", "icon": "marq.png" },
-    { "name": "EMP", "lat": 52.7455, "lng": -1.6270, "category": "stage", "icon": "bigtop.png" },
+    { "name": "Ronnie James DIO", "lat": 52.7419, "lng": -1.6954, "category": "stage", "icon": "distg.png" },
+    { "name": "Sophie Lancaster", "lat": 52.7402, "lng": -1.6957, "category": "stage", "icon": "bigtop.png" },
+    { "name": "New Blood", "lat": 52.7429, "lng": -1.6969, "category": "stage", "icon": "marq.png" },
+    { "name": "EMP", "lat": 52.7412, "lng": -1.6967, "category": "stage", "icon": "bigtop.png" },
 
     { "name": "All Services Booking Only", "lat": 52.7446, "lng": -1.6302, "category": "The Spa @", "icon": "spathero.png", "url": "https://www.tickettailor.com/checkout/view-event/id/7182070/chk/782d/" },
     { "name": "VIP Spa Passes", "lat": 52.7446, "lng": -1.6302, "category": "The Spa @", "icon": "spathero.png", "url": "https://www.tickettailor.com/checkout/view-event/id/7182070/chk/782d/" },
@@ -188,41 +188,46 @@
     { "name": "Follow Us", "lat": 52.7446, "lng": -1.6302, "category": "The Spa @", "icon": "fbhero.png", "url": "https://www.facebook.com/TheSpaAt/" },
     
 
-    { "name": "Washrooms - Main Arena", "lat": 52.7463, "lng": -1.6285, "category": "washroom" },
-    { "name": "Washrooms - Camping", "lat": 52.7445, "lng": -1.6300, "category": "washroom" },
 
-    { "name": "Food Court - Main Arena", "lat": 52.7462, "lng": -1.6278, "category": "food", "icon": "burfri.png" },
-    { "name": "Food Village - Camping", "lat": 52.7448, "lng": -1.6305, "category": "food", "icon": "fries.png" },
+    { "name": "Washrooms - Camping", "lat": 52.7386, "lng": -1.6950, "category": "washroom" },
+
+    { "name": "Food Court - Main Arena", "lat": 52.7414, "lng": -1.6967, "category": "food", "icon": "burfri.png" },
+    { "name": "Supermarket", "lat": 52.7393, "lng": -1.6961, "category": "food" },
+    { "name": "BBQ AREAS ARE THE ONLY PLACES PERMITTTED TO HAVE THEM!!", "lat": 52.7381, "lng": -1.6970, "category": "food", "icon": "fries.png" },
 
     { "name": "Security HQ - Main Entrance", "lat": 52.7458, "lng": -1.6310, "category": "security", "icon": "police.png" },
-    { "name": "Medical Tent", "lat": 52.7461, "lng": -1.6282, "category": "medical", "icon": "ambul.png" },
+    { "name": "MEDICAL EMERGENCY", "lat": 52.7426, "lng": -1.6974, "category": "medical", "icon": "ambul.png" },
 
-    { "name": "Water Point North", "lat": 52.7466, "lng": -1.6290, "category": "water" },
-    { "name": "Water Point South", "lat": 52.7450, "lng": -1.6296, "category": "water" },
+    { "name": "Water New Blood", "lat": 52.7427, "lng": -1.6966, "category": "water" },
+    { "name": "Water Sophie", "lat": 52.7402, "lng": -1.6962, "category": "water" },
+    { "name": "Water Entrance", "lat": 52.7397, "lng": -1.6942, "category": "water" },
 
-    { "name": "Bar - Main Arena", "lat": 52.7464, "lng": -1.6283, "category": "bar", "icon": "brbar.png" },
-    { "name": "Serpent's Lair VIP", "lat": 52.7446, "lng": -1.6302, "category": "bar", "icon": "vipbar.png" },
-    { "name": "Arena New Blood", "lat": 52.7446, "lng": -1.6302, "category": "bar", "icon": "beerr.png" },
-    { "name": "Arena Dio Left", "lat": 52.7446, "lng": -1.6302, "category": "bar", "icon": "beerr.png" },
-    { "name": "Arena Sophie", "lat": 52.7446, "lng": -1.6302, "category": "bar", "icon": "beerr.png" },
+
+    { "name": "Lemmy's Bar", "lat": 52.7422, "lng": -1.6972, "category": "bar", "icon": "brbar.png" },
+    { "name": "Serpent's Lair VIP", "lat": 52.7410, "lng": -1.6946, "category": "bar", "icon": "vipbar.png" },
+    { "name": "Arena New Blood", "lat": 52.7421, "lng": -1.6959, "category": "bar", "icon": "beerr.png" },
+    { "name": "Arena Dio Left", "lat": 52.7426, "lng": -1.6970, "category": "bar", "icon": "beerr.png" },
+    { "name": "Arena Sophie", "lat": 52.7401, "lng": -1.6959, "category": "bar", "icon": "beerr.png" },
     
 
-    { "name": "Merch Tent", "lat": 52.7459, "lng": -1.6286, "category": "merch" },
-    { "name": "Trading Village", "lat": 52.7457, "lng": -1.6288, "category": "market" },
+    { "name": "Signing Tent", "lat": 52.7415, "lng": -1.6954, "category": "merch" },
+    { "name": "Trading Village", "lat": 52.7410, "lng": -1.6953, "category": "market" },
+    { "name": "Trading Village 2", "lat": 52.7428, "lng": -1.6962, "category": "market" },
+    
+    { "name": "Luxury", "lat": 52.7431, "lng": -1.6952, "category": "camping", "icon": "luhero.png" },
+    { "name": "Serpent's Lair", "lat": 52.7421, "lng": -1.6924, "category": "camping", "icon": "serphero.png" },
+    { "name": "Niflheim", "lat": 52.7414, "lng": -1.6922, "category": "camping", "icon": "nihero.png" },
+    { "name": "Valahalla", "lat": 52.7395, "lng": -1.6906, "category": "camping", "icon": "valhero.png" },
+    { "name": "Ironwood", "lat": 52.7376, "lng": -1.6933, "category": "camping", "icon": "irhero.png" },
+    { "name": "Jutenheim", "lat": 52.7368, "lng": -1.6918, "category": "camping", "icon": "juhero.png" },
+    { "name": "Ragnarok", "lat": 52.7365, "lng": -1.6943, "category": "camping", "icon": "raghero.png" },
+    { "name": "Vanaheim", "lat": 52.7340, "lng": -1.6967, "category": "camping", "icon": "vanhero.png" },
+    { "name": "Kyrr (quiet)", "lat": 52.7309, "lng": -1.7026, "category": "camping", "icon": "kyhero.png" },
+    { "name": "Asgard", "lat": 52.7407, "lng": -1.6920, "category": "camping", "icon": "ashero.png" },
+    { "name": "Asgard", "lat": 52.7406, "lng": -1.6921, "category": "camping", "icon": "ashero.png" },
 
-    { "name": "Luxury", "lat": 52.7440, "lng": -1.6310, "category": "camping", "icon": "luhero.png" },
-    { "name": "Serpent's Lair", "lat": 52.7440, "lng": -1.6310, "category": "camping", "icon": "serphero.png" },
-    { "name": "Niflheim", "lat": 52.7440, "lng": -1.6310, "category": "camping", "icon": "nihero.png" },
-    { "name": "Valahalla", "lat": 52.7440, "lng": -1.6310, "category": "camping", "icon": "valhero.png" },
-    { "name": "Ironwood", "lat": 52.7440, "lng": -1.6310, "category": "camping", "icon": "irhero.png" },
-    { "name": "Jutenheim", "lat": 52.7440, "lng": -1.6310, "category": "camping", "icon": "juhero.png" },
-    { "name": "Ragnarok", "lat": 52.7440, "lng": -1.6310, "category": "camping", "icon": "raghero.png" },
-    { "name": "Vanaheim", "lat": 52.7440, "lng": -1.6310, "category": "camping", "icon": "vanhero.png" },
-    { "name": "Kyrr (quiet)", "lat": 52.7440, "lng": -1.6310, "category": "camping", "icon": "kyhero.png" },
-    { "name": "Asgard", "lat": 52.7440, "lng": -1.6310, "category": "camping", "icon": "ashero.png" },
-
-    { "name": "Main Entrance", "lat": 52.7458, "lng": -1.6312, "category": "entrance", "icon": "entry2.png" },
-    { "name": "Arena Entrance", "lat": 52.7438, "lng": -1.6315, "category": "entrance", "icon": "entry1.png" },
+    { "name": "Main Entrance", "lat": 52.7402, "lng": -1.6941, "category": "entrance", "icon": "entry2.png" },
+    { "name": "Arena Entrance", "lat": 52.7397, "lng": -1.6950, "category": "entrance", "icon": "entry1.png" },
   
     {
       "name": "Dragon's Hoard",
@@ -234,7 +239,7 @@
     },
     {
       "name": "Fat Frank's Camping Shop",
-      "lat": 52.8287,
+      "lat": 52.8287,52.73931391847852, -1.69575751423812
       "lng": -1.3875,
       "category": "stall",
       "partner": true,
@@ -250,7 +255,7 @@
     { "name": "Sally's Sweet Spot", "lat": 52.8299, "lng": -1.3892, "category": "food", "icon": "strfdhero.png", "partner": true, "url": "https://www.instagram.com/streetfoodbysally/" },
     { "name": "Paellaria", "lat": 52.8260, "lng": -1.3716, "category": "food", "icon": "paelhero.png", "partner": true, "url": "https://www.instagram.com/paellariauk/" },
     { "name": "Grimm Prints Clothing", "lat": 52.8260, "lng": -1.3716, "category": "stall", "icon": "gphero.png", "partner": true, "url": "https://www.grimmprints.com/products" },
-    { "name": "FESTIVAL SAMARITANS (24hr)", "lat": 52.8299, "lng": -1.3892, "category": "wellbeing", "icon": "samhero.png", "partner": true, "url": "https://www.samaritans.org/branches/festival-branch/" },
+    { "name": "FESTIVAL SAMARITANS (24hr)", "lat": 52.7390, "lng": -1.6959, "category": "wellbeing", "icon": "samhero.png", "partner": true },
 
 
 
@@ -272,6 +277,6 @@
       "partner": true,
       "url": "https://festpod.co.uk/"
     },
-    { "name": "The Spa @ Booking Only", "lat": 52.7446, "lng": -1.6302, "category": "The Spa @", "icon": "spathero.png", "partner": true, "url": "https://www.tickettailor.com/checkout/view-event/id/7182070/chk/782d/" }
+    { "name": "The Spa @ Booking Only", "lat": 52.7421, "lng": -1.6924, "category": "The Spa @", "icon": "spathero.png", "partner": true }
   ]
 }
