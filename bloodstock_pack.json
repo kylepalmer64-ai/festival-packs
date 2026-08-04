@@ -1,11 +1,11 @@
 {
-  "version": 18,
+  "version": 19,
 
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/bsmap2.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/bshero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/bspanel.png",
   "premiumHeader": "On Site Must Haves!",
-  "listingsHeader": "Set Times - Tap to add to My Setlist",
+  "listingsHeader": "Set Times - Tap to add to My Set Times",
   "premiumTileColor": "#BB0000",
   "premiumTileBorder": "#FF5151",
   "panelColor": "#331010EE",
@@ -226,12 +226,11 @@
   
     {
       "name": "Dragon's Hoard",
-      "lat": 52.8269,
-      "lng": -1.3733,
+      "lat": 52.7404,
+      "lng": -1.6945,
       "category": "stall",
       "partner": true,
-      "icon": "dhgrn2.png",
-      "url": "https://dragonshoardbm.co/"
+      "icon": "dhgrn2.png"
     },
     {
       "name": "Fat Frank's Camping Shop",
@@ -242,7 +241,7 @@
       "icon": "ffhero.png",
       "url": "https://www.fatfrankscampingshop.com/click-and-collect/"
     },
-    { "name": "Scarlet In Chains", "lat": 52.8240, "lng": -1.3707, "category": "stall", "icon": "sichero.png", "partner": true, "url": "https://www.instagram.com/scarletinchains/" },
+    { "name": "Scarlet In Chains", "lat": 52.7409, "lng": -1.6958, "category": "stall", "icon": "sichero.png", "partner": true },
     { "name": "Mall oF Death", "lat": 52.8318, "lng": -1.3868, "category": "stall", "icon": "modhero.png", "partner": true, "url": "https://www.facebook.com/mallofdeath2025/" },
     { "name": "White Moon Crystals", "lat": 52.8260, "lng": -1.3716, "category": "stall", "icon": "wmchero.png", "partner": true, "url": "https://www.instagram.com/whitemoon_crystals/" },
     { "name": "Cursed Threads", "lat": 52.7410, "lng": -1.6954, "category": "stall", "icon": "curthhero.png", "partner": true, "url": "https://www.instagram.com/cursedthreads.co.uk/" },
