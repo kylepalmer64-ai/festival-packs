@@ -1,5 +1,5 @@
 {
-  "version": 20,
+  "version": 21,
 
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/bsmap2.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/bshero.png",
@@ -239,8 +239,8 @@
     },
     {
       "name": "Fat Frank's Camping Shop",
-      "lat": 52.8287,52.73931391847852, -1.69575751423812
-      "lng": -1.3875,
+      "lat": 52.7393,
+      "lng": -1.6957,
       "category": "stall",
       "partner": true,
       "icon": "ffhero.png",
