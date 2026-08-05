@@ -242,7 +242,7 @@
     { "name": "P3 Earth Designz", "lat": 51.1749, "lng": -1.2160, "category": "stall", "icon": "mkp3dz.png", "url": "https://www.instagram.com/p3earthdesignz/" },
     { "name": "State of Disarray", "lat": 51.1749, "lng": -1.2160, "category": "stall", "icon": "mksodr.png", "url": "https://www.facebook.com/StateofDisarray/"  },
     
-    { "name": "Medical Tent", "lat": 51.1756, "lng": -1.2156, "category": "medical", "icon": "mkmed.png" },
+    { "name": "Medical Tent", "lat": 51.1756, "lng": -1.2156, "category": "medical", "icon": "mkmedi.png" },
     { "name": "Cocaine Anonymous", "lat": 51.1753, "lng": -1.2161, "category": "wellbeing", "icon": "mkcca.png", "url": "https://events.cocaineanonymous.org.uk/"  },
     { "name": "Yoga with Lou - 10am Fri + Sat", "lat": 51.1747, "lng": -1.2168, "category": "wellbeing", "icon": "mkyg.png" },
     { "name": "Nature's Garden & Tea Library", "lat": 51.1753, "lng": -1.2161, "category": "wellbeing", "icon": "mktsf.png" },
