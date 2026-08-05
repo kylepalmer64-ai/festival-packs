@@ -215,7 +215,7 @@
     { "name": "Indian Summer", "lat": 51.1753, "lng": -1.2163, "category": "food", "icon": "mkinsm.png", "url": "https://www.instagram.com/indiansummer.cafe/" },
     { "name": "Mac Daddy", "lat": 51.1753, "lng": -1.2162, "category": "food", "icon": "mkmacd.png", "url": "https://www.facebook.com/themacdaddycambridge/"  },
     { "name": "Monkey Bunch Funky Munch", "lat": 51.1770, "lng": -1.2183, "category": "food", "icon": "mkmnk.png", "url": "https://www.instagram.com/monkeybunch_funkymunch/"  },
-    { "name": "Seating Area", "lat": 51.1748, "lng": -1.2165, "category": "food", "icon": "mkbnch.png" },
+    { "name": "Seating Area", "lat": 51.1748, "lng": -1.2165, "category": "food", "icon": "mkseat.png" },
     { "name": "Split Screen Ice Cream", "lat": 51.1754, "lng": -1.2166, "category": "food", "icon": "mkice1.png", "url": "https://www.facebook.com/SplitscreenIcecream/"  },    
     { "name": "Thai Mania", "lat": 51.1755, "lng": -1.2165, "category": "food", "icon": "mkthm.png", "url": "https://www.facebook.com/Nakhonfood/" },
     { "name": "The Real Banger Co", "lat": 51.1754, "lng": -1.2165, "category": "food", "icon": "mkrbg.png", "url": "https://www.instagram.com/wildfire_catering_ltd/" },
