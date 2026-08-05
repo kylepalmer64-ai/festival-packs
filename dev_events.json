@@ -1,5 +1,5 @@
 {
-  "version": 80,
+  "version": 81,
   "events": [  
     {
      "id": "monacle",
@@ -92,7 +92,7 @@
       "id": "bloodstock_pack",
       "name": "BLD-STK-26 🤟🏻",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/bs_nextshot.json?v=16"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/bs_nextshot.json?v=21"
     },
     {
       "id": "ubw7",
