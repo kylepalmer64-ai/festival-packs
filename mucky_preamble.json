@@ -271,7 +271,7 @@
     { "name": "Glamping", "lat": 51.1761, "lng": -1.2177, "category": "campsites", "icon": "mkglmp.png"  },
     { "name": "Motorhome Camp", "lat": 51.1781, "lng": -1.2166, "category": "campsites", "icon": "mkrv.png"  },
     { "name": "More Motorhome Camp Space", "lat": 51.1780, "lng": -1.2143, "category": "campsites", "icon": "mkrv.png"  },
-    { "name": "Pre-Booked Caravans", "lat": 51.1770, "lng": -1.2183, "category": "campsites", "icon": "mkcavn.png"  },
+    { "name": "Pre-Booked Airstreams", "lat": 51.1770, "lng": -1.2183, "category": "campsites", "icon": "mkarst.png"  },
     { "name": "VIP Group Camping", "lat": 51.1758, "lng": -1.2171, "category": "campsites", "icon": "mktp.png"  },
     
     { "name": "Arena Entrance", "lat": 51.1745, "lng": -1.2171, "category": "entrances & Gates", "icon": "mkgt2.png" },
