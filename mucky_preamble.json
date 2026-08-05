@@ -203,9 +203,9 @@
     { "name": "UFO In The Woods", "lat": 51.1739, "lng": -1.2165, "category": "stage", "icon": "mkufo1.png" },
     { "name": "Johnny Rockstar’s Rock Bar", "lat": 51.1751, "lng": -1.2163, "category": "stage", "icon": "mkrk.png"},
     
-    { "name": "Arena Bar", "lat": 51.1747, "lng": -1.2160, "category": "bar", "icon": "mkb2.png" },
-    { "name": "Woodland Bar", "lat": 51.1738, "lng": -1.2171, "category": "bar", "icon": "mkb2.png" },
-    { "name": "Noise Stage Bar", "lat": 51.1757, "lng": -1.2156, "category": "bar", "icon": "mkb2.png" },
+    { "name": "Arena Bar", "lat": 51.1747, "lng": -1.2160, "category": "bar", "icon": "mkrk.png" },
+    { "name": "Woodland Bar", "lat": 51.1738, "lng": -1.2171, "category": "bar", "icon": "mkbr2.png" },
+    { "name": "Noise Stage Bar", "lat": 51.1757, "lng": -1.2156, "category": "bar", "icon": "mkbr2.png" },
        
     { "name": "3 Bros Burgers", "lat": 51.1756, "lng": -1.2164, "category": "food", "icon": "mk3bro.png", "url": "https://www.instagram.com/3brosmunch/"  },
     { "name": "Big Greek Feed", "lat": 51.1750, "lng": -1.2166, "category": "food", "icon": "mkgrf.png", "url": "https://www.facebook.com/thebiggreekf/" },
