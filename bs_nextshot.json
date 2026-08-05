@@ -248,7 +248,7 @@
     },
     { "name": "Scarlet In Chains", "lat": 52.7409, "lng": -1.6958, "category": "stall", "icon": "sichero.png", "partner": true },
     { "name": "Mall oF Death", "lat": 52.7413, "lng": -1.6957, "category": "stall", "icon": "modhero.png", "partner": true },
-    { "name": "White Moon Crystals", "lat": 52.7413, "lng": -1.6957, "category": "stall", "icon": "wmchero.png", "partner": true, },
+    { "name": "White Moon Crystals", "lat": 52.7413, "lng": -1.6957, "category": "stall", "icon": "wmchero.png", "partner": true },
     { "name": "Cursed Threads", "lat": 52.7410, "lng": -1.6954, "category": "stall", "icon": "curthhero.png", "partner": true },
     { "name": "Ranv's Rasoi", "lat": 52.7413, "lng": -1.6957, "category": "food", "icon": "rnvhero.png", "partner": true },
     { "name": "Maverix Supply Co.", "lat": 52.7413, "lng": -1.6957, "category": "stall", "icon": "mvxhero.png", "partner": true },
