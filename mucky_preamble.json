@@ -37,8 +37,8 @@
     "wellbeing": "mkwell.png",
     "entrances & Gates": "mkgate.png",
     "Glamping": "mkvip.png",
-    "campsites": "mkcmps.png",
-    "Facilities": "mkwc.png",
+    "campsites": "mkcmp1.png",
+    "Facilities": "mkwc1.png",
     "socials": "mkhero.png",
     "parking": "mkpk.png"
     
@@ -249,15 +249,15 @@
     { "name": "FUNC - None Alco", "lat": 51.1753, "lng": -1.2161, "category": "wellbeing", "icon": "mkfnk.png", "url": "https://www.instagram.com/func.world/"  },
 
     
-    { "name": "WC Arena Back", "lat": 51.1744, "lng": -1.2159, "category": "Facilities", "icon": "mkacwc.png" },
-    { "name": "WC Behind UFO", "lat": 51.1743, "lng": -1.2169, "category": "Facilities", "icon": "mkacwc.png" },
-    { "name": "Motorhome South", "lat": 51.1765, "lng": -1.2171, "category": "Facilities", "icon": "mkacwc.png" },
-    { "name": "Arena Middle", "lat": 51.1758, "lng": -1.2163, "category": "Facilities", "icon": "mkwc.png" },
-    { "name": "General East", "lat": 51.1749, "lng": -1.2189, "category": "Facilities", "icon": "mkshow.png" },
-    { "name": "Glamping Shower", "lat": 51.1757, "lng": -1.2190, "category": "Facilities", "icon": "mkshow.png" },
-    { "name": "Glamping WC", "lat": 51.1758, "lng": -1.2183, "category": "Facilities", "icon": "mkwc.png" },
-    { "name": "Motorhome North", "lat": 51.1784, "lng": -1.2148, "category": "Facilities", "icon": "mkwc.png"},
-    { "name": "Motorhome Center", "lat": 51.1777, "lng": -1.2156, "category": "Facilities", "icon": "mkwc.png"},
+    { "name": "WC Arena Back", "lat": 51.1744, "lng": -1.2159, "category": "Facilities", "icon": "mkaxwc.png" },
+    { "name": "WC Behind UFO", "lat": 51.1743, "lng": -1.2169, "category": "Facilities", "icon": "mkaxwc.png" },
+    { "name": "Motorhome South", "lat": 51.1765, "lng": -1.2171, "category": "Facilities", "icon": "mkaxwc.png" },
+    { "name": "Arena Middle", "lat": 51.1758, "lng": -1.2163, "category": "Facilities", "icon": "mkwc1.png" },
+    { "name": "General East", "lat": 51.1749, "lng": -1.2189, "category": "Facilities", "icon": "mkshw.png" },
+    { "name": "Glamping Shower", "lat": 51.1757, "lng": -1.2190, "category": "Facilities", "icon": "mkshw.png" },
+    { "name": "Glamping WC", "lat": 51.1758, "lng": -1.2183, "category": "Facilities", "icon": "mkwc1.png" },
+    { "name": "Motorhome North", "lat": 51.1784, "lng": -1.2148, "category": "Facilities", "icon": "mkwc1.png"},
+    { "name": "Motorhome Center", "lat": 51.1777, "lng": -1.2156, "category": "Facilities", "icon": "mkwc1.png"},
     
     { "name": "Lounge Tent", "lat": 51.1758, "lng": -1.2171, "category": "Glamping", "icon": "mkglm.png" },
     { "name": "Pamper Tent", "lat": 51.1759, "lng": -1.2172, "category": "Glamping", "icon": "mkpmp.png" },
@@ -274,8 +274,8 @@
     { "name": "Pre-Booked Caravans", "lat": 51.1770, "lng": -1.2183, "category": "campsites", "icon": "mkcavn.png"  },
     { "name": "VIP Group Camping", "lat": 51.1758, "lng": -1.2171, "category": "campsites", "icon": "mktp.png"  },
     
-    { "name": "Arena Entrance", "lat": 51.1745, "lng": -1.2171, "category": "entrances & Gates", "icon": "mkgate.png" },
-    { "name": "Wristband & Entry", "lat": 51.1759, "lng": -1.2167, "category": "entrances & Gates", "premium": true, "icon": "mkex.png" },
+    { "name": "Arena Entrance", "lat": 51.1745, "lng": -1.2171, "category": "entrances & Gates", "icon": "mkgt2.png" },
+    { "name": "Wristband & Entry", "lat": 51.1759, "lng": -1.2167, "category": "entrances & Gates", "premium": true, "icon": "mkwrst.png" },
     
     { "name": "2024 Aftervideo", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "mkyt.png", "url": "https://youtu.be/aDA0VlqsKzo?is=1DzrHG1Wb8N0xi1l" },
     { "name": "2025 Aftervideo", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "mkyt.png", "url": "https://youtu.be/AU0E0mXPkxI?is=kt2pQu15uu1POvOj" },
