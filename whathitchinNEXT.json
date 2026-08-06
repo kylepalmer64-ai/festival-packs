@@ -46,7 +46,7 @@
     "The Glasshouse": "glasshousehero.png",
     "The Hermitage": "thehermitagehero.png",
     "The Beer Shop": "beershophero.png",
-    "ronan's bistro": "ronanhero.png"
+    "ronan's bistro": "ronanshero.png"
   },
   
   "listings": [
@@ -135,10 +135,10 @@
     { "name": "Follow Us", "lat": 51.9476, "lng": -0.2790, "category": "Osinsky's", "icon": "inhero.png", "url": "https://www.instagram.com/osinskys/" },
     { "name": "Catch Up With Us", "lat": 51.9476, "lng": -0.2790, "category": "Osinsky's", "icon": "fbhero.png", "url": "https://www.facebook.com/Osinskys" },
               
-    { "name": "We're Here", "lat": 51.9520, "lng": -0.2674, "category": "Ronan's Bistro", "icon": "ronanhero.png" },
+    { "name": "We're Here", "lat": 51.9520, "lng": -0.2674, "category": "Ronan's Bistro", "icon": "ronanshero.png" },
     { "name": "Pudding & Book Club", "lat": 51.9520, "lng": -0.2674, "category": "Ronan's Bistro", "icon": "tbchero.png", "url": "https://www.thebooktaster.com/product-page/hitchin-book-and-pudding-club/" },
     { "name": "Ronan's Bistro", "lat": 51.9520, "lng": -0.2674, "category": "Ronan's Bistro", "icon": "inhero.png", "url": "https://www.instagram.com/ronans.coffee/" },
-    { "name": "Official Site", "lat": 51.9520, "lng": -0.2674, "category": "Ronan's Bistro", "icon": "ronanhero.png", "url": "https://www.ronansbistro.co.uk/" },
+    { "name": "Official Site", "lat": 51.9520, "lng": -0.2674, "category": "Ronan's Bistro", "icon": "ronanshero.png", "url": "https://www.ronansbistro.co.uk/" },
 
     { "name": "Facebook", "lat": 51.9520, "lng": -0.2674, "category": "keep up to date", "icon": "fbhero.png", "url": "https://www.facebook.com/KteePeeEvents" },
     { "name": "Insta", "lat": 51.9520, "lng": -0.2674, "category": "keep up to date", "icon": "inhero.png", "url": "https://www.instagram.com/kteepee.events/" },
