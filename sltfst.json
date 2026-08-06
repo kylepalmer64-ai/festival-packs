@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 1,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/mkmp3.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/mkhero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/statsmap.png",
@@ -26,7 +26,7 @@
   },
 
   "categoryIcons": {
-    "stage": "mkash.png",
+    "stage": "distg.png",
     "bar": "mkb1.png",
     "food": "mkfd.png",
     "water": "mkwat.png",
@@ -41,44 +41,59 @@
   },
 
   "listings": [
-    { "stage": "SaltairFest", "time": "14:30", "act": "The Scribes", "day": "Thu 10th" },
-    { "stage": "SaltairFest", "time": "15:30", "act": "Dub Catalyst" },
-    { "stage": "SaltairFest", "time": "17:00", "act": "Beatles Dub Club (with horns)" },
-    { "stage": "SaltairFest", "time": "18:30", "act": "The Sabres of Paradise" },
-    { "stage": "SaltairFest", "time": "20:00", "act": "Goldie Looking Chain" }
+    { "stage": "Robert Park - Main Stage", "time": "11:00", "act": "Electric Isles", "day": "Sat 19th" },
+    { "stage": "Robert Park - Main Stage", "time": "12:00", "act": "Six Feet Below" },
+    { "stage": "Robert Park - Main Stage", "time": "13:00", "act": "Fail The Enemy" },
+    { "stage": "Robert Park - Main Stage", "time": "14:00", "act": "Rupcha Farms" },
+    { "stage": "Robert Park - Main Stage", "time": "15:00", "act": "Least We Got Shoes" },
+    { "stage": "Robert Park - Main Stage", "time": "16:00", "act": "Crosscut Saw" },
+    { "stage": "Robert Park - Main Stage", "time": "17:00", "act": "Whiskeyhead" },
+    { "stage": "Robert Park - Main Stage", "time": "18:00", "act": "AC/DC Tribute - Dirty Deeds" },
+
+    { "stage": "Robert Park - Main Stage", "time": "11:00", "act": "The Band Upstairs", "day": "Sun 20th" },
+    { "stage": "Robert Park - Main Stage", "time": "12:00", "act": "Ten Fields" },
+    { "stage": "Robert Park - Main Stage", "time": "13:00", "act": "The Fourth Act" },
+    { "stage": "Robert Park - Main Stage", "time": "14:00", "act": "Plastic Heart" },
+    { "stage": "Robert Park - Main Stage", "time": "15:00", "act": "Acetate" },
+    { "stage": "Robert Park - Main Stage", "time": "16:00", "act": "Kath & The Kicks" },
+    { "stage": "Robert Park - Main Stage", "time": "17:00", "act": "Gurgles" },
+    { "stage": "Robert Park - Main Stage", "time": "18:00", "act": "Iron Maiden Tribute - Ey Up Maiden" }
+    
   ],
 
 
   "vendors": [
-    { "name": "SaltairFest", "lat": 51.1751, "lng": -1.2158, "category": "stage", "icon": "mkmh1.png" },
+    { "name": "Robert Park - Main Stage", "lat": 53.8407, "lng": -1.7913, "category": "stage", "icon": "distg.png" },
 
     
-    { "name": "Arena Bar", "lat": 51.1747, "lng": -1.2160, "category": "bar", "icon": "mkrk.png" },
+    { "name": "Arena Bar", "lat": 53.8407, "lng": -1.7913, "category": "bar", "icon": "beerr.png" },
 
        
-    { "name": "3 Bros Burgers", "lat": 51.1756, "lng": -1.2164, "category": "food", "icon": "mk3bro.png", "url": "https://www.instagram.com/3brosmunch/"  },
+    { "name": "Jacks's Jerk", "lat": 53.8407, "lng": -1.7913, "category": "food", "icon": "burfri.png", "url": "https://www.instagram.com/3brosmunch/"  },
+    { "name": "Rita's Tandoori", "lat": 53.8407, "lng": -1.2164, "category": "food", "icon": "kebab.png", "url": "https://www.instagram.com/3brosmunch/"  },
 
           
-    { "name": "Accessible Camp", "lat": 51.1755, "lng": -1.2177, "category": "water", "icon": "mkwat.png" },
+    { "name": "Water Point", "lat": 53.8407, "lng": -1.7913, "category": "water", "icon": "mkwat.png" },
 
    
-    { "name": "Be Sassy", "lat": 51.1759, "lng": -1.2164, "category": "stall", "icon": "mkbesas.png", "url": "https://www.instagram.com/besassyuk/" },
+    { "name": "Ali Shawls", "lat": 53.8407, "lng": -1.7913, "category": "stall", "icon": "mkali.png" },
 
     
-    { "name": "Medical Tent", "lat": 51.1756, "lng": -1.2156, "category": "medical", "icon": "mkmedi.png" },
+    { "name": "Medical Tent", "lat": 53.8407, "lng": -1.7913, "category": "medical", "icon": "ambul.png" },
 
 
     
-    { "name": "WC Arena Back", "lat": 51.1744, "lng": -1.2159, "category": "Facilities", "icon": "mkacwc.png" },
-    { "name": "Motorhome Center", "lat": 51.1777, "lng": -1.2156, "category": "Facilities", "icon": "mkwc.png"},
+    { "name": "WC", "lat": 53.8407, "lng": -1.7913, "category": "Facilities", "icon": "mkwc.png" },
+    { "name": "Access WC", "lat": 53.8407, "lng": -1.7913, "category": "Facilities", "icon": "mkacwc.png"},
 
     
     
-    { "name": "Arena Entrance", "lat": 51.1745, "lng": -1.2171, "category": "entrances & Gates", "icon": "mkgate.png" },
-    { "name": "Wristband & Entry", "lat": 51.1759, "lng": -1.2167, "category": "entrances & Gates", "premium": true, "icon": "mkex.png" },
+    { "name": "Arena Entrance", "lat": 53.8407, "lng": -1.7913, "category": "entrances & Gates", "icon": "distg.png" },
     
 
-    { "name": "Keep Up To Date", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "inhero.png", "url": "https://www.instagram.com/kteepee/" }
+    { "name": "Follow Us", "lat": 53.8407, "lng": -1.7913, "category": "socials", "icon": "fbhero.png", "url": "https://www.facebook.com/SaltaireFestival/"},
+    { "name": "See Us", "lat": 53.8407, "lng": -1.7913, "category": "socials", "icon": "inhero.png", "url": "https://www.instagram.com/saltairefest"},
+    
     
 
   ]
