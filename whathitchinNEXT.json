@@ -142,6 +142,6 @@
 
     { "name": "Facebook", "lat": 51.9520, "lng": -0.2674, "category": "keep up to date", "icon": "fbhero.png", "url": "https://www.facebook.com/KteePeeEvents" },
     { "name": "Insta", "lat": 51.9520, "lng": -0.2674, "category": "keep up to date", "icon": "inhero.png", "url": "https://www.instagram.com/kteepee.events/" },
-    { "name": "Official", "lat": 51.9520, "lng": -0.2674, "category": "keep up to date", "icon": "kteepee.png", "url": "https://www.kteepee.com/" }
+    { "name": "KteePee Official", "lat": 51.9520, "lng": -0.2674, "category": "keep up to date", "icon": "kteepee.png", "url": "https://www.kteepee.com/" }
   ]
 }
