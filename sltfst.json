@@ -11,16 +11,16 @@
   "messagesFile": "salt_messages.json",
 
   "categoryColors": {
-    "stage": "#C8102E",
-    "bar": "#C9A87A",
-    "food": "#76A7C8",
-    "water": "#0A1A3F",
-    "stall": "#C9A87A",
-    "medical": "#C8102E",
-    "wellbeing": "#C9A87A",
-    "entrances & Gates": "#C9A87A",
-    "Facilities": "#0A1A3F",
-    "socials": "#0A1A3F"
+    "stage": "#BC5305",
+    "bar": "#EB9D0C",
+    "food": "#EB9D0C",
+    "water": "#1A60A8",
+    "stall": "#EB9D0C",
+    "medical": "#BC5305",
+    "wellbeing": "#BC5305",
+    "entrances & Gates": "#BC5305",
+    "Facilities": "#1A60A8",
+    "socials": "#BC5305"
 
 
   },
