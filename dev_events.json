@@ -1,6 +1,12 @@
 {
-  "version": 83,
-  "events": [  
+  "version": 84,
+  "events": [ 
+    {
+     "id": "saltairefest",
+     "name": "Saltaire Festival",
+     "category": "Festival",
+     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/sltfst.json?v=1"
+    },
     {
      "id": "monacle",
      "name": "The Metal Monocle - Leicester",
