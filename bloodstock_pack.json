@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 22,
 
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/bsmap2.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/bshero.png",
@@ -250,7 +250,7 @@
     { "name": "Mall oF Death", "lat": 52.7413, "lng": -1.6957, "category": "stall", "icon": "modhero.png", "partner": true },
     { "name": "White Moon Crystals", "lat": 52.7413, "lng": -1.6957, "category": "stall", "icon": "wmchero.png", "partner": true },
     { "name": "Cursed Threads", "lat": 52.7410, "lng": -1.6954, "category": "stall", "icon": "curthhero.png", "partner": true },
-    { "name": "Ranv's Rasoi", "lat": 52.7413, "lng": -1.6957, "category": "food", "icon": "rnvhero.png", "partner": true },
+    { "name": "Ranv's Rasoi", "lat": 52.7423, "lng": -1.6957, "category": "food", "icon": "rnvhero.png", "partner": true },
     { "name": "Maverix Supply Co.", "lat": 52.7413, "lng": -1.6957, "category": "stall", "icon": "mvxhero.png", "partner": true },
     { "name": "Sally's Sweet Spot", "lat": 52.7413, "lng": -1.6957, "category": "food", "icon": "strfdhero.png", "partner": true },
     { "name": "Paellaria", "lat": 52.7413, "lng": -1.6957, "category": "food", "icon": "paelhero.png", "partner": true },
