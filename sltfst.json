@@ -1,7 +1,7 @@
 {
   "version": 1,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/saltmap.png",
-  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/salthero.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/sltfhero1.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/saltpan.png",
   "panelColor": "#6F8FAF",
   "premiumHeader": "Welcome to SaltaireFest",
@@ -26,16 +26,16 @@
   },
 
   "categoryIcons": {
-    "stage": "distg.png",
-    "bar": "mkb1.png",
-    "food": "mkfd.png",
+    "stage": "sltfhero1.png",
+    "bar": "beerr.png",
+    "food": "burfri.png",
     "water": "mkwat.png",
-    "stall": "mkcrn.png",
-    "medical": "mkmed.png",
-    "wellbeing": "mkwell.png",
-    "entrances & Gates": "mkgate.png",
-    "Facilities": "mkwc.png",
-    "socials": "mkhero.png"
+    "stall": "sltfhero1.png",
+    "medical": "mkmedi.png",
+    "wellbeing": "mkmed.png",
+    "entrances & Gates": "sltfhero1.png",
+    "Facilities": "sltfhero1.png",
+    "socials": "sltfhero1.png"
 
     
   },
