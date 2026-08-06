@@ -1,0 +1,85 @@
+{
+  "version": 13,
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/mkmp3.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/mkhero.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/statsmap.png",
+  "panelColor": "#6F8FAF",
+  "premiumHeader": "Welcome to SaltaireFest",
+  "listingsHeader": "Stage Times",
+  "premiumTileColor": "#E8D8B0",
+  "premiumTileBorder": "#76A7C8",
+  "messagesFile": "mucky_weekender_messages.json",
+
+  "categoryColors": {
+    "stage": "#C8102E",
+    "bar": "#C9A87A",
+    "food": "#76A7C8",
+    "water": "#0A1A3F",
+    "stall": "#C9A87A",
+    "medical": "#C8102E",
+    "wellbeing": "#C9A87A",
+    "entrances & Gates": "#C9A87A",
+    "Facilities": "#0A1A3F",
+    "socials": "#0A1A3F"
+
+
+  },
+
+  "categoryIcons": {
+    "stage": "mkash.png",
+    "bar": "mkb1.png",
+    "food": "mkfd.png",
+    "water": "mkwat.png",
+    "stall": "mkcrn.png",
+    "medical": "mkmed.png",
+    "wellbeing": "mkwell.png",
+    "entrances & Gates": "mkgate.png",
+    "Facilities": "mkwc.png",
+    "socials": "mkhero.png"
+
+    
+  },
+
+  "listings": [
+    { "stage": "SaltairFest", "time": "14:30", "act": "The Scribes", "day": "Thu 10th" },
+    { "stage": "SaltairFest", "time": "15:30", "act": "Dub Catalyst" },
+    { "stage": "SaltairFest", "time": "17:00", "act": "Beatles Dub Club (with horns)" },
+    { "stage": "SaltairFest", "time": "18:30", "act": "The Sabres of Paradise" },
+    { "stage": "SaltairFest", "time": "20:00", "act": "Goldie Looking Chain" }
+  ],
+
+
+  "vendors": [
+    { "name": "SaltairFest", "lat": 51.1751, "lng": -1.2158, "category": "stage", "icon": "mkmh1.png" },
+
+    
+    { "name": "Arena Bar", "lat": 51.1747, "lng": -1.2160, "category": "bar", "icon": "mkrk.png" },
+
+       
+    { "name": "3 Bros Burgers", "lat": 51.1756, "lng": -1.2164, "category": "food", "icon": "mk3bro.png", "url": "https://www.instagram.com/3brosmunch/"  },
+
+          
+    { "name": "Accessible Camp", "lat": 51.1755, "lng": -1.2177, "category": "water", "icon": "mkwat.png" },
+
+   
+    { "name": "Be Sassy", "lat": 51.1759, "lng": -1.2164, "category": "stall", "icon": "mkbesas.png", "url": "https://www.instagram.com/besassyuk/" },
+
+    
+    { "name": "Medical Tent", "lat": 51.1756, "lng": -1.2156, "category": "medical", "icon": "mkmedi.png" },
+
+
+    
+    { "name": "WC Arena Back", "lat": 51.1744, "lng": -1.2159, "category": "Facilities", "icon": "mkacwc.png" },
+    { "name": "Motorhome Center", "lat": 51.1777, "lng": -1.2156, "category": "Facilities", "icon": "mkwc.png"},
+
+    
+    
+    { "name": "Arena Entrance", "lat": 51.1745, "lng": -1.2171, "category": "entrances & Gates", "icon": "mkgate.png" },
+    { "name": "Wristband & Entry", "lat": 51.1759, "lng": -1.2167, "category": "entrances & Gates", "premium": true, "icon": "mkex.png" },
+    
+
+    { "name": "Keep Up To Date", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "inhero.png", "url": "https://www.instagram.com/kteepee/" }
+    
+
+  ]
+}
