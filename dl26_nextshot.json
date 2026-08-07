@@ -177,7 +177,7 @@
     { "name": "Medical Tent", "lat": 52.8300, "lng": -1.3861, "category": "medical", "icon": "ambul.png" },
     { "name": "Security HQ", "lat": 52.8295, "lng": -1.3867, "category": "security", "icon": "police.png" },
 
-    { "name": "Arena Entrance Camp", "lat": 52.8279, "lng": -1.3758, "category": "entrance" },
+    { "name": "Arena Entrance Camp", "lat": 51.9816, "lng": -0.2207, "category": "entrance" },51. 1601637594, -0. 5620131589832
     { "name": "Arena Entrance Day", "lat": 52.8274, "lng": -1.3768, "category": "entrance" },
     { "name": "Black Gate", "lat": 52.8265, "lng": -1.3927, "category": "entrance" },
     { "name": "Green Gate", "lat": 52.8238, "lng": -1.3664, "category": "entrance" },
