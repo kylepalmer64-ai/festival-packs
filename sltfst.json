@@ -26,16 +26,16 @@
   },
 
   "categoryIcons": {
-    "stage": "sltfhero1.png",
+    "stage": "sltfhero2.png",
     "bar": "beerr.png",
     "food": "burfri.png",
     "water": "mkwat.png",
-    "stall": "sltfhero1.png",
+    "stall": "sltfhero2.png",
     "medical": "mkmedi.png",
     "wellbeing": "mkmed.png",
-    "entrances & Gates": "sltfhero1.png",
-    "Facilities": "sltfhero1.png",
-    "socials": "sltfhero1.png"
+    "entrances & Gates": "sltfhero2.png",
+    "Facilities": "sltfhero2.png",
+    "socials": "sltfhero2.png"
 
     
   },
