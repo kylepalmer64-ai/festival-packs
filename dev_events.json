@@ -1,11 +1,11 @@
 {
-  "version": 86,
+  "version": 87,
   "events": [ 
     {
      "id": "sltfst",
      "name": "Saltaire Festival 2026",
      "category": "Festival",
-     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/sltfst.json?v=1"
+     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/sltfst.json?v=2"
     },
     {
      "id": "monacle",
@@ -68,7 +68,7 @@
       "id": "mucky_weekender",
       "name": "Mucky Weekender",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mucky_weekender.json?v=11"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mucky_weekender.json?v=12"
     },
     {
       "id": "whathitch.json",
