@@ -1,26 +1,26 @@
 {
-  "version": 1,
-  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/saltmap.png",
+  "version": 2,
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/saltmap2.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/sltfhero1.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/saltpan.png",
   "panelColor": "#6F8FAF",
   "premiumHeader": "Welcome to SaltaireFest",
   "listingsHeader": "Stage Times",
   "premiumTileColor": "#E8D8B0",
-  "premiumTileBorder": "#76A7C8",
+  "premiumTileBorder": "#FFBF00",
   "messagesFile": "salt_messages.json",
 
   "categoryColors": {
-    "stage": "#BC5305",
+    "stage": "#FFBF00",
     "bar": "#EB9D0C",
     "food": "#EB9D0C",
     "water": "#1A60A8",
     "stall": "#EB9D0C",
     "medical": "#BC5305",
     "wellbeing": "#BC5305",
-    "entrances & Gates": "#BC5305",
+    "entrances & Gates": "#FFBF00",
     "Facilities": "#1A60A8",
-    "socials": "#BC5305"
+    "socials": "#FFBF00"
 
 
   },
