@@ -1,5 +1,5 @@
 {
-  "version": 87,
+  "version": 88,
   "events": [ 
     {
      "id": "sltfst",
@@ -68,7 +68,7 @@
       "id": "mucky_weekender",
       "name": "Mucky Weekender",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mucky_weekender.json?v=14"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mucky_weekender.json?v=15"
     },
     {
       "id": "whathitch.json",
