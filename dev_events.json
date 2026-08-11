@@ -2,6 +2,13 @@
   "version": 90,
   "events": [
     {
+     "id": "marbella_stag",
+     "name": "🍻 Marbs Stag - Private Function",
+     "category": "Festival",
+     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/marbella_stag.json?v=1",
+     "requiresPin": true
+    },
+    {
      "id": "boomtown_festival",
      "name": "Boomtown 2026 🎊",
      "category": "Festival",
