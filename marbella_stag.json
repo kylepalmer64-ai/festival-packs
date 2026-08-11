@@ -9,6 +9,7 @@
   "premiumTileBorder": "#C49A00",
   "panelColor": "#0d0d0dEE",
   "messagesFile": "marb_messages.json",
+  "requiresPin": true,
 
   "categoryColors": {
     "Kisstory @ Nao Pool Club": "#C49A00",
