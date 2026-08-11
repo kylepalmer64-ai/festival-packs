@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/btownm.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/boomtown_hero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/boomtown_panel.png",
@@ -1759,7 +1759,7 @@
 
   "vendors": [
 
-    { "name": "P3 Earth Designs","lat": 51.0535, "lng": -1.2478, "category": "stall", "icon": "p32hero.png", "partner": true, },
+    { "name": "P3 Earth Designs","lat": 51.0535, "lng": -1.2478, "category": "stall", "icon": "p32hero.png", "partner": true },
     {
       "name": "FESTPOD",
       "lat": 51.0511,
