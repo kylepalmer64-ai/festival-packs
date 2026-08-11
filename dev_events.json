@@ -1,5 +1,5 @@
 {
-  "version": 89,
+  "version": 90,
   "events": [
     {
      "id": "boomtown_festival",
@@ -69,7 +69,10 @@
       "id": "mucky_weekender",
       "name": "Mucky - pack testing",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mucky_preamble.json?v=13"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mucky_preamble.json?v=13",
+      "emailGateMessage": "To access this event the organiser requires your email for verification, opt in below for event communication.",
+      "emailWebhook": "info@mucky-weekender.com"
+      
     },
     {
       "id": "mucky_weekender",
