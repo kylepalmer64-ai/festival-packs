@@ -5,26 +5,26 @@
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/marpan.png",
   "premiumHeader": "You Twit-to-who?",
   "listingsHeader": "Let's f*ckin Avit Boys",
-  "premiumTileColor": "#FFD700",
-  "premiumTileBorder": "#C49A00",
+  "premiumTileColor": "#00E5FF",
+  "premiumTileBorder": "#00E5FF",
   "panelColor": "#0d0d0dEE",
   "messagesFile": "marb_messages.json",
   "requiresPin": true,
 
   "categoryColors": {
-    "Kisstory @ Nao Pool Club": "#C49A00",
-    "Hard Rock Hotel": "#C49A00",
-    "Puerto Banus": "#C49A00",
-    "Newscafe": "#C49A00",
-    "La Plage Casanis": "#FFD700"
+    "Kisstory @ Nao Pool Club": "#00E5FF",
+    "Hard Rock Hotel": "#00E5FF",
+    "Puerto Banus": "#00E5FF",
+    "Newscafe": "#00E5FF",
+    "La Plage Casanis": "#00E5FF"
   },
 
   "categoryIcons": {
-    "Kisstory @ Nao Pool Club": "kteepee.png",
-    "Hard Rock Hotel": "kteepee.png",
-    "Puerto Banus": "kteepee.png",
-    "Newscafe": "kteepee.png",
-    "La Plage Casanis": "kteepee.png"
+    "Kisstory @ Nao Pool Club": "nao1.png",
+    "Hard Rock Hotel": "hrock1.png",
+    "Puerto Banus": "pbu1.png",
+    "Newscafe": "nwcf1.png",
+    "La Plage Casanis": "plg1.png"
   },
 
   "listings": [
