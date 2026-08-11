@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/hitchmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/bdkhero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap2.png",
@@ -31,16 +31,14 @@
 
   "listings": [
     
-    {"stage": "Old White Horse", "time": "12:00", "act": "Hot Wing Challenge!", "day": "Wed Jul 22nd" },
 
-    {"stage": "The Orange Tree", "time": "16:00", "act": "Vinyl Sundays Guest DJ", "day": "Sun Jul 26th" },
-
-    {"stage": "Old White Horse", "time": "12:00", "act": "Penalty Shootout - Family Day", "day": "Sat Aug 1st" },
-
-    {"stage": "Old White Horse", "time": "12:00", "act": "Big DnB DJ Day!", "day": "Wed Aug 29th" }
+    {"stage": "Baldock's Live & Local", "time": "12:00", "act": "Coming Soon!", "day": "Wed Aug 29th" }
   ],
 
   "vendors": [
+    
+    { "name": "Follow Us!", "lat": 52.7460, "lng": -1.6280, "category": "The Cock", "icon": "fbhero.png", "url": "https://www.facebook.com/The.Cock.Baldock" },
+    { "name": "We're Here", "lat": 51.9872, "lng": -0.1860, "category": "The Cock", "icon": "chkero2.png" },
     
     { "name": "Website", "lat": 52.7460, "lng": -1.6280, "category": "Hen 'n' Chickens", "icon": "hnchero.png", "url": "https://www.thehenandchickens.co.uk/" },
     { "name": "We're Here", "lat": 51.9860, "lng": -0.1796 , "category": "Hen 'n' Chickens", "icon": "hnchero.png" },
@@ -64,10 +62,6 @@
     { "name": "Follow Us!", "lat": 52.7460, "lng": -1.6280, "category": "Orange Tree", "icon": "fbhero.png", "url": "https://www.facebook.com/The.Orange.Tree.Baldock/" },
     { "name": "Website", "lat": 52.7460, "lng": -1.6280, "category": "Orange Tree", "icon": "ojhero.png", "url": "https://www.theorangetreebaldock.com/" },
     { "name": "We're Here", "lat": 51.9907, "lng": -0.1929, "category": "Orange Tree", "icon": "ojhero.png" },
-
-    
-    { "name": "Follow Us!", "lat": 52.7460, "lng": -1.6280, "category": "The Cock", "icon": "fbhero.png", "url": "https://www.facebook.com/The.Cock.Baldock" },
-    { "name": "We're Here", "lat": 51.9872, "lng": -0.1860, "category": "The Cock", "icon": "chkero2.png" },
 
     { "name": "KteePee", "lat": 52.8299, "lng": -1.3892, "category": "Keep Up To Date", "icon": "kteepee.png", "url": "https://www.kteepee.com/" },
     { "name": "Facebook", "lat": 52.8318, "lng": -1.3868, "category": "Keep Up To Date", "icon": "fbhero.png", "url": "https://www.facebook.com/KteePeeEvents" },
