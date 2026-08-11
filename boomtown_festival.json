@@ -1759,6 +1759,7 @@
 
   "vendors": [
 
+    { "name": "P3 Earth Designs","lat": 51.0535, "lng": -1.2478, "category": "stall", "icon": "p32hero.png", "partner": true, },
     {
       "name": "FESTPOD",
       "lat": 51.0511,
