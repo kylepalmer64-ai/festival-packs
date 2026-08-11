@@ -1,6 +1,12 @@
 {
-  "version": 82,
+  "version": 83,
   "events": [
+    {
+     "id": "boomtown_festival",
+     "name": "Boomtown 2026 🎊",
+     "category": "Festival",
+     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/boomtown_festival.json?v=2"
+    },
     {
       "id": "bloodstock_pack",
       "name": "BLD-STK-26 🤟🏻",
