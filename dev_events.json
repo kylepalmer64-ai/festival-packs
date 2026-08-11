@@ -17,7 +17,8 @@
      "id": "monacle",
      "name": "The Metal Monocle - Leicester",
      "category": "Festival",
-     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/monocle.json?v=1"
+     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/monocle.json?v=1",
+     "requiresPin": true
     },
     {
      "id": "creamfields26",
