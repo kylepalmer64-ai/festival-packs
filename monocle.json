@@ -9,6 +9,7 @@
   "premiumTileBorder": "#CD7F32",
   "panelColor": "#331010EE",
   "messagesFile": "mtm_messages.json",
+  "requiresPin": true,
   
   "categoryColors": {
     "Official Site": "#3D2B1F",
