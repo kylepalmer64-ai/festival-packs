@@ -1760,7 +1760,16 @@
   "vendors": [
 
     {
-      "name": "KteePee","lat": 52.8287, "lng": -1.3875, "category": "stage", "icon": "kteepee.png", "partner": true, "url": "https://kteepee.co.uk/"  }
+      "name": "FESTPOD",
+      "lat": 51.0511,
+      "lng": -1.2265,
+      "category": "stall",
+      "icon": "fstrvhero.png",
+      "partner": true,
+      "url": "https://festpod.co.uk/"
+    },
+    {
+      "name": "KteePee","lat": 51.0511, "lng": -1.2265, "category": "stall", "icon": "kteepee.png", "partner": true, "url": "https://kteepee.co.uk/"  }
   ]
 } 
     
