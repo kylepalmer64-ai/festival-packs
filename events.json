@@ -1,5 +1,5 @@
 {
-  "version": 81,
+  "version": 82,
   "events": [
     {
       "id": "bloodstock_pack",
@@ -17,13 +17,13 @@
       "id": "whathitchinNEXT.json",
       "name": "Hitchin's Live & Local",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/whathitchinNEXT.json?v=11"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/whathitchinNEXT.json?v=13"
     },
     {
       "id": "whatbaldock.json",
       "name": "Baldock's Live & Local",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/whatbaldock.json?v=4"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/whatbaldock.json?v=6"
     },
     {
       "id": "red_lion",
