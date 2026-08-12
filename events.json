@@ -1,5 +1,5 @@
 {
-  "version": 86,
+  "version": 87,
   "events": [
     {
      "id": "boomtown_festival",
@@ -53,7 +53,7 @@
       "id": "kteepee_demo",
       "name": "KteePee Demo",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/kteepee_demo.json?v=6"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/kteepee_demo.json?v=7"
     },
     {
       "id": "coming2026",
