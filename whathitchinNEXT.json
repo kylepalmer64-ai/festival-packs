@@ -1,10 +1,10 @@
 {
-  "version": 14,
+  "version": 15,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/hichdefault.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/hithero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap2.png",
   "premiumHeader": "Live &  Local",
-  "listingsHeader": "When &  Where",
+  "listingsHeader": "Full Calendar Here",
   "premiumTileColor": "#F8F9FA",
   "premiumTileBorder": "#E63946",
   "panelColor": "#331010EE",
@@ -130,7 +130,7 @@
     { "name": "The Anx", "lat": 51.9518, "lng": -0.2677, "category": "The AnX", "icon": "anxhero.png", "url": "https://www.thealbertpub.com/anx" },
 
     { "name": "We're Here", "lat": 51.9518, "lng": -0.2677, "category": "The Common Room", "icon": "commonroomhero.png" },
-    { "name": "The Common Room", "lat": 51.9518, "lng": -0.2677, "category": "The Common Room", "icon": "commonroomhero.png", "partner": true,  "url": "https://www.thealbertpub.com/" },
+    { "name": "The Common Room", "lat": 51.9518, "lng": -0.2677, "category": "The Common Room", "icon": "commonroomhero.png", "partner": true, },
 
     { "name": "Craft Beers", "lat": 51.9504, "lng": -0.2768, "category": "The Brickyard", "icon": "bydhero.png" },
     { "name": "We're Here", "lat": 51.9504, "lng": -0.2768, "category": "The Brickyard", "icon": "bydhero.png" },
