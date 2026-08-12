@@ -1,5 +1,5 @@
 {
-  "version": 91,
+  "version": 92,
   "events": [
     {
      "id": "marbella_stag",
@@ -86,7 +86,7 @@
       "id": "mucky_weekender",
       "name": "Mucky Weekender",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mucky_weekender.json?v=16"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mucky_weekender.json?v=17"
     },
     {
       "id": "whathitch.json",
