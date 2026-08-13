@@ -1,5 +1,5 @@
 {
-  "version": 53,
+  "version": 54,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/mkmp3.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/mkhero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/statsmap.png",
@@ -45,7 +45,7 @@
   },
 
   "listings": [
-    { "stage": "Ashworth Mad House", "time": "14:30", "act": "The Scribes", "day": "Thu 10th" },
+    { "stage": "Ashworth Mad House", "time": "14:00", "act": "The Scribes", "day": "Thu 10th" },
     { "stage": "Ashworth Mad House", "time": "15:30", "act": "Dub Catalyst" },
     { "stage": "Ashworth Mad House", "time": "17:00", "act": "Beatles Dub Club With Horns" },
     { "stage": "Ashworth Mad House", "time": "18:30", "act": "The Sabres of Paradise" },
