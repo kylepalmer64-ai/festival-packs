@@ -1,5 +1,5 @@
 {
-  "version": 88,
+  "version": 89,
   "events": [
     {
      "id": "boomtown_festival",
@@ -23,7 +23,7 @@
       "id": "whathitchinNEXT.json",
       "name": "Hitchin's Live & Local",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/whathitchinNEXT.json?v=15"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/whathitchinNEXT.json?v=16"
     },
     {
       "id": "whatbaldock.json",
