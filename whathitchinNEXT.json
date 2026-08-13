@@ -1,9 +1,9 @@
 {
-  "version": 19,
+  "version": 120,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/hichdefault.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/hithero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap2.png",
-  "premiumHeader": "Live & Local!",
+  "premiumHeader": "Live & Local",
   "listingsHeader": "Full Calendar Here",
   "premiumTileColor": "#F8F9FA",
   "premiumTileBorder": "#E63946",
