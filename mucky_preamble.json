@@ -1,10 +1,10 @@
 {
-  "version": 19,
+  "version": 20,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/mkmp3.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/mkhero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/statsmap.png",
   "panelColor": "#6F8FAF",
-  "premiumHeader": "Let's Get Mucky!!",
+  "premiumHeader": "Let's Get Mucky!",
   "listingsHeader": "Full Running Order",
   "premiumTileColor": "#E8D8B0",
   "premiumTileBorder": "#76A7C8",
