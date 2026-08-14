@@ -1,5 +1,5 @@
 {
-  "version": 131,
+  "version": 132,
   "events": [
     {
      "id": "marbella_stag",
@@ -76,7 +76,7 @@
       "id": "mucky_testpack",
       "name": "Mucky - pack testing",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mucky_preamble.json?v=18",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mucky_preamble.json?v=19",
       "requiresEmail": true,
       "emailGateMessage": "To access this event the organiser requires your email for verification, opt in below for event communication.",
       "emailWebhook": "info@mucky-weekender.co.uk"
