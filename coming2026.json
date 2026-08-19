@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "mode": "tourist",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/kteepee.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap2.png",
@@ -11,22 +11,7 @@
   
   "vendors": [
     
-    {
-      "name": "Major City -Aug'26",
-      "lat": 51.7926,
-      "lng": -1.7541,
-      "category": "festival",
-      "partner": true,
-      "icon": "bigtop.png"
-    }, 
-    {
-      "name": "To Be Announced - Sept26",
-      "lat": 51.0950,
-      "lng": -1.2050,
-      "category": "festival",
-      "partner": true,
-      "icon": "bigtop.png"
-    },  
+     
     {
       "name": "Wireless Festival (Unofficial)",
       "lat": 51.5560,
