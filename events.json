@@ -1,5 +1,5 @@
 {
-  "version": 94,
+  "version": 95,
   "events": [
     {
       "id": "mucky_weekender",
@@ -32,7 +32,7 @@
       "id": "whathitchinNEXT.json",
       "name": "Hitchin's Live & Local",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/whathitchinNEXT.json?v=20"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/whathitchinNEXT.json?v=121"
     },
     {
       "id": "whatbaldock.json",
