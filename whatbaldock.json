@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/bdockchrch.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/bdkhero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap2.png",
@@ -32,7 +32,9 @@
   "listings": [
     
 
-    {"stage": "Baldock's Live & Local", "time": "12:00", "act": "Coming Soon!", "day": "Wed Aug 29th" }
+    { "stage": "The Cock (Baldock)", "time": "19:30", "act": "Elvis Tribute", "day": "Fri 28th Aug" },
+    { "stage": "The Cock (Baldock)", "time": "16:00", "act": "Swing &amp; Jazz Sunday", "day": "Sun 30th Aug" }
+
   ],
 
   "vendors": [
