@@ -1,11 +1,11 @@
 {
-  "version": 97,
+  "version": 98,
   "events": [
     {
       "id": "mucky_weekender",
       "name": "Mucky Weekender",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mucky_weekender.json?v=59",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mucky_weekender.json?v=60",
       "requiresEmail": true,
       "emailGateMessage": "To access this event the organiser requires your email for verification, opt in below for event communication.",
       "emailWebhook": "info@mucky-weekender.co.uk"
@@ -38,7 +38,7 @@
       "id": "whatbaldock.json",
       "name": "Baldock's Live & Local",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/whatbaldock.json?v=6"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/whatbaldock.json?v=7"
     },
     {
       "id": "red_lion",
