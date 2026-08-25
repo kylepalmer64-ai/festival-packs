@@ -12,35 +12,13 @@
 
   "categoryColors": {
     "stage": "#C8102E",
-    "bar": "#C9A87A",
-    "food": "#76A7C8",
-    "water": "#0A1A3F",
-    "stall": "#C9A87A",
-    "medical": "#C8102E",
-    "wellbeing": "#C9A87A",
-    "entrances & Gates": "#C9A87A",
-    "Glamping": "#76A7C8",
-    "campsites": "#C8102E",
-    "Facilities": "#0A1A3F",
-    "socials": "#0A1A3F",
     "parking": "#C9A87A"
 
   },
 
   "categoryIcons": {
-    "stage": "mkash.png",
-    "bar": "mkb1.png",
-    "food": "mkfd.png",
-    "water": "mkwt1.png",
-    "stall": "mkcrn.png",
-    "medical": "mkmedi.png",
-    "wellbeing": "mkwell.png",
-    "entrances & Gates": "mkgt2.png",
-    "Glamping": "mkvip.png",
-    "campsites": "mkcmp1.png",
-    "Facilities": "mkwc1.png",
-    "socials": "mkhero.png",
-    "parking": "mkpk.png"
+    "stage": "bdthhero.png",
+    "parking": "bdthhero.png"
     
   },
 
