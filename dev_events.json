@@ -1,12 +1,19 @@
 {
-  "version": 135,
+  "version": 136,
   "events": [
     {
      "id": "marbella_stag",
      "name": "🍻 Marbs Stag - Private Function",
      "category": "Festival",
-     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/marbella_stag.json?v=1",
+     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/marbella_stag.json?v=2",
      "requiresPin": true
+    },
+    {
+     "id": "bearded_2027",
+     "name": "Bearded Theory 2027",
+     "category": "Festival",
+     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/bearded_2027.json?v=0",
+     "requiresPin": false
     },
     {
      "id": "boomtown_festival",
