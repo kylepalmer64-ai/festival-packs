@@ -1,5 +1,5 @@
 {
-  "version": 136,
+  "version": 137,
   "events": [
     {
      "id": "marbella_stag",
@@ -12,7 +12,7 @@
      "id": "bearded_2027",
      "name": "Bearded Theory 2027",
      "category": "Festival",
-     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/bearded_2027.json?v=0",
+     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/bearded_2027.json?v=1",
      "requiresPin": false
     },
     {
