@@ -1,0 +1,146 @@
+{
+  "version": 0,
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/bdthmap.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/bdthhero.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/bdthmap.png",
+  "panelColor": "#6F8FAF",
+  "premiumHeader": "Welcome To The Fields",
+  "listingsHeader": "Full Stage Lists",
+  "premiumTileColor": "#E8D8B0",
+  "premiumTileBorder": "#76A7C8",
+  "messagesFile": "bdth_messages.json",
+
+  "categoryColors": {
+    "stage": "#C8102E",
+    "bar": "#C9A87A",
+    "food": "#76A7C8",
+    "water": "#0A1A3F",
+    "stall": "#C9A87A",
+    "medical": "#C8102E",
+    "wellbeing": "#C9A87A",
+    "entrances & Gates": "#C9A87A",
+    "Glamping": "#76A7C8",
+    "campsites": "#C8102E",
+    "Facilities": "#0A1A3F",
+    "socials": "#0A1A3F",
+    "parking": "#C9A87A"
+
+  },
+
+  "categoryIcons": {
+    "stage": "mkash.png",
+    "bar": "mkb1.png",
+    "food": "mkfd.png",
+    "water": "mkwt1.png",
+    "stall": "mkcrn.png",
+    "medical": "mkmedi.png",
+    "wellbeing": "mkwell.png",
+    "entrances & Gates": "mkgt2.png",
+    "Glamping": "mkvip.png",
+    "campsites": "mkcmp1.png",
+    "Facilities": "mkwc1.png",
+    "socials": "mkhero.png",
+    "parking": "mkpk.png"
+    
+  },
+
+  "listings": [
+    { "stage": "The Pallet", "time": "15:45", "act": "An Dannsa Dub", "day": "Thu 21st" },
+    { "stage": "The Pallet", "time": "16:45", "act": "Split Dogs" },
+    { "stage": "The Pallet", "time": "17:45", "act": "A Certain Ratio" },
+    { "stage": "The Pallet", "time": "19:00", "act": "BCUC" },
+    { "stage": "The Pallet", "time": "20:15", "act": "Big Special" },
+    { "stage": "The Pallet", "time": "21:30", "act": "Lambrini Girls" },
+  
+    { "stage": "The Pallet", "time": "12:00", "act": "Rianne Downey", "day": "Fri 22nd" },
+    { "stage": "The Pallet", "time": "13:00", "act": "Westside Cowboy" },
+    { "stage": "The Pallet", "time": "14:00", "act": "The Magic Numbers" },
+    { "stage": "The Pallet", "time": "15:00", "act": "Ferocious Dog" },
+    { "stage": "The Pallet", "time": "16:30", "act": "Panic Shack" },
+    { "stage": "The Pallet", "time": "18:00", "act": "Sprints" },
+    { "stage": "The Pallet", "time": "19:45", "act": "The Damned" },
+    { "stage": "The Pallet", "time": "21:30", "act": "Skunk Anansie" },
+  
+    { "stage": "The Pallet", "time": "12:00", "act": "Jasmine.4.T", "day": "Sat 23rd" },
+    { "stage": "The Pallet", "time": "13:00", "act": "Henge" },
+    { "stage": "The Pallet", "time": "14:00", "act": "Warmduscher" },
+    { "stage": "The Pallet", "time": "15:00", "act": "Toots and the Maytals feat Leba Hibbert" },
+    { "stage": "The Pallet", "time": "16:30", "act": "Idlewild" },
+    { "stage": "The Pallet", "time": "18:00", "act": "Kate Nash" },
+    { "stage": "The Pallet", "time": "19:45", "act": "CMAT" },
+    { "stage": "The Pallet", "time": "21:30", "act": "Pixies" },
+  
+    { "stage": "The Pallet", "time": "12:00", "act": "The Bar-Steward Sons of Val Doonican", "day": "Sun 24th" },
+    { "stage": "The Pallet", "time": "13:00", "act": "Au Pairs" },
+    { "stage": "The Pallet", "time": "14:00", "act": "Newdad" },
+    { "stage": "The Pallet", "time": "15:00", "act": "The Twilight Sad" },
+    { "stage": "The Pallet", "time": "16:15", "act": "Neville Staple – From the Specials" },
+    { "stage": "The Pallet", "time": "18:00", "act": "Everything Everything" },
+    { "stage": "The Pallet", "time": "19:45", "act": "Kae Tempest" },
+    { "stage": "The Pallet", "time": "21:30", "act": "Garbage" }
+
+  ],
+
+
+  "vendors": [
+    { "name": "The Pallet", "lat": 51.1751, "lng": -1.2158, "category": "stage", "icon": "bdthmap.png" },
+    { "name": "The Meadow", "lat": 51.1759, "lng": -1.2160, "category": "stage", "icon": "bdthmap.png"},
+    { "name": "Woodland", "lat": 51.1747, "lng": -1.2168, "category": "stage", "icon": "bdthmap.png" },
+    { "name": "Coda", "lat": 51.1751, "lng": -1.2163, "category": "stage", "icon": "bdthmap.png"},
+    { "name": "Maui Waui", "lat": 51.1756, "lng": -1.2159, "category": "stage", "icon": "bdthmap.png"},
+    { "name": "Convoy Cabaret", "lat": 51.1739, "lng": -1.2165, "category": "stage", "icon": "bdthmap.png" },
+    { "name": "Big Ed", "lat": 51.1739, "lng": -1.2165, "category": "stage", "icon": "bdthmap.png" },
+    { "name": "Tea Tent", "lat": 51.1739, "lng": -1.2165, "category": "stage", "icon": "bdthmap.png" },
+    { "name": "Knockerdown", "lat": 51.1739, "lng": -1.2165, "category": "stage", "icon": "bdthmap.png" },
+    
+    { "name": "Arena Bar", "lat": 51.1747, "lng": -1.2160, "category": "bar", "icon": "bdthmap.png" },
+
+       
+    { "name": "3 Bros Burgers", "lat": 51.1756, "lng": -1.2164, "category": "food", "icon": "mk3bro.png", "url": "https://www.instagram.com/3brosmunch/"  },
+
+          
+    { "name": "Accessible Camp", "lat": 51.1755, "lng": -1.2177, "category": "water", "icon": "mkwt1.png" },
+
+   
+    { "name": "Be Sassy", "lat": 51.1759, "lng": -1.2164, "category": "stall", "icon": "mkbesas.png", "url": "https://www.instagram.com/besassyuk/" },
+
+    
+    { "name": "Medical Tent", "lat": 51.1756, "lng": -1.2156, "category": "medical", "icon": "ambul.png" },
+
+
+    
+    { "name": "WC Arena Back", "lat": 51.1744, "lng": -1.2159, "category": "Facilities", "icon": "mkaxwc.png" },
+
+    
+    { "name": "Lounge Tent", "lat": 51.1758, "lng": -1.2171, "category": "Glamping", "icon": "mkvip1.png" },
+
+    
+
+    { "name": "General Camping East", "lat": 51.1746, "lng": -1.2184, "category": "campsites", "icon": "mktent.png"  },
+
+    
+    { "name": "Arena Entrance", "lat": 51.1745, "lng": -1.2171, "category": "entrances & Gates", "icon": "bdthmap.png" },
+    { "name": "Wristband & Entry", "lat": 51.1759, "lng": -1.2167, "category": "entrances & Gates", "premium": true, "icon": "bdthmap.png" },
+    
+    { "name": "Follow Us", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "mkfb.png", "url": "https://www.facebook.com/beardedtheoryfest" },
+    { "name": "Gallery", "lat": 51.9799, "lng": -0.2252, "category": "socials", "icon": "bdthhero.png", "url": "https://beardedtheory.co.uk/about/gallery/" },
+    { "name": "See It Here", "lat": 51.1760, "lng": -12149, "category": "socials", "icon": "mkttk.png", "url": "https://www.tiktok.com/tag/beardedtheoryfestival" },
+    { "name": "Keep Up To Date", "lat": 51.1760, "lng": -1.2149, "category": "socials", "icon": "inhero.png", "url": "https://www.instagram.com/beardedtheoryfestival/" },
+    
+    { "name": "Parking", "lat": 51.1808, "lng": -1.2141, "category": "parking", "icon": "bdthmap.png" },
+
+
+    {
+      "name": "Early Bird Sign-Ups",
+      "lat": 51.1760,
+      "lng": -1.2149,
+      "category": "stage",
+      "partner": true,
+      "icon": "bdthgero.png",
+      "url": "https://arep.co/m/bt-web-signup"
+    }
+    
+
+
+  ]
+}
