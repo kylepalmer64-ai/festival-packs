@@ -1,7 +1,7 @@
 {
   "version": 2,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/rd26panel.png",
-  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/rfhero.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/orngstg1.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/rd26panel.png",
   "premiumHeader": "Reading 2026",
   "listingsHeader": "Stage Times",
@@ -224,12 +224,7 @@
 
   ],
   "vendors": [
-    { "name": "Main Stage", "lat": 51.4654, "lng": -0.9672, "category": "main stage", "partner": true, "icon": "orngstg.png" },
-    { "name": "NME Stage", "lat": 51.4654, "lng": -0.9672, "category": "nme stage", "partner": true, "icon": "ngtstg.png" },
-    { "name": "BBC Introducing Stage", "lat": 51.4654, "lng": -0.9672, "category": "bbc introducing", "partner": true, "icon": "orngstg1.png" },
-    { "name": "The Warehouse (NEW 2026)", "lat": 51.4654, "lng": -0.9672, "category": "the warehouse", "partner": true, "icon": "dscstg.png" },
-    { "name": "Dance Tent", "lat": 51.4654, "lng": -0.9672, "category": "dance tent", "icon": "bigtop.png" },
-    { "name": "Lock Up Stage", "lat": 51.4654, "lng": -0.9672, "category": "lock up", "icon": "bigtop.png" },
+    { "name": "Main Stage", "lat": 51.4654, "lng": -0.9672, "category": "stage", "partner": true, "icon": "orngstg.png" },
     { "name": "Instagram", "lat": 51.4654, "lng": -0.9672, "category": "socials", "icon": "inhero.png", "url": "https://www.instagram.com/readingfestival/" },
     { "name": "Facebook", "lat": 51.4654, "lng": -0.9672, "category": "socials", "icon": "fbhero.png", "url": "https://www.facebook.com/ReadingFestival/" },
     { "name": "TikTok", "lat": 51.4654, "lng": -0.9672, "category": "socials", "icon": "tkhero.png", "url": "https://www.tiktok.com/@readingfestival" },
