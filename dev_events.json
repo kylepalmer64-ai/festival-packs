@@ -1,5 +1,5 @@
 {
-  "version": 137,
+  "version": 138,
   "events": [
     {
      "id": "marbella_stag",
@@ -44,7 +44,7 @@
       "id": "reading26",
       "name": "Reading Festival 2026",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/reading26.json?v=1"
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/reading26.json?v=2"
     },
     {
      "id": "leeds26",
