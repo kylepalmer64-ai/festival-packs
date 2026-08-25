@@ -1,5 +1,5 @@
 {
-  "version": 98,
+  "version": 99,
   "events": [
     {
       "id": "mucky_weekender",
@@ -9,6 +9,18 @@
       "requiresEmail": true,
       "emailGateMessage": "To access this event the organiser requires your email for verification, opt in below for event communication.",
       "emailWebhook": "info@mucky-weekender.co.uk"
+    },
+    {
+      "id": "reading26",
+      "name": "Reading Festival 2026",
+      "category": "Festival",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/reading26.json?v=4"
+    },
+    {
+     "id": "leeds26",
+      "name": "Leeds Festival 2026",
+      "category": "Festival",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/leeds26.json?v=3"
     },
     {
      "id": "boomtown_festival",
