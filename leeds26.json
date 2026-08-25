@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/ld26panel.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/kteepee.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/ld26anel.png",
@@ -176,6 +176,6 @@
     { "name": "Instagram", "lat": 53.8692, "lng": -1.3147, "category": "socials", "icon": "inhero.png", "url": "https://www.instagram.com/leedsfestival/" },
     { "name": "Facebook", "lat": 53.8692, "lng": -1.3147, "category": "socials", "icon": "fbhero.png", "url": "https://www.facebook.com/LeedsFestival/" },
     { "name": "TikTok", "lat": 53.8692, "lng": -1.3147, "category": "socials", "icon": "tkhero.png", "url": "https://www.tiktok.com/@leedsfestival" },
-    { "name": "Official Site", "lat": 53.8692, "lng": -1.3147, "category": "socials", "icon": "lfhero.png", "url": "https://www.leedsfestival.com/", "partner": true }
+    { "name": "Official Site", "lat": 53.8692, "lng": -1.3147, "category": "socials", "icon": "orngstg.png", "url": "https://www.leedsfestival.com/", "partner": true }
   ]
 }
