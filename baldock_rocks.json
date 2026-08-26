@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/brckmap.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/brckhero.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap2.png",
+  "premiumHeader": "Baldock Rocks 2026",
+  "listingsHeader": "Full Running Order",
+  "premiumTileColor": "#226BAF",
+  "premiumTileBorder": "#EBCB25",
+  "panelColor": "#331010EE",
+  "messagesFile": "brock_messages.json",
+
+  "categoryColors": {
+    "White Lion": "#226BAF",
+    "The Buffs Football Club": "#125696",
+    "White Horse": "#002E59",
+    "The Victoria": "#001E3A ",
+    "London Road Studios": "#000911"
+  },
+
+  "categoryIcons": {
+    "white horse": "owlhero.png",
+    "The Buffs Football Club": "bffhero.png",
+    "white lion": "wlhero.png",
+    "The Victoria": "bfchero.png",
+    "London Road Studios": "ldrhero.png"
+  },
+
+  "listings": [
+    
+    { "stage": "The Victoria", "time": "19:05", "act": "Gemma-Anne", "day": "Fri 11th Sept" },
+    { "stage": "The Victoria", "time": "20:05", "act": "Sofasonic" },
+    { "stage": "The Victoria", "time": "21:10", "act": "Bluestone" },
+    { "stage": "The Victoria", "time": "22:15", "act": "The Black Squirrels" },
+    
+    { "stage": "Old White Horse", "time": "19:25", "act": "The Kid & I" },
+    { "stage": "Old White Horse", "time": "20:20", "act": "Dois Padres" },
+    { "stage": "Old White Horse", "time": "21:15", "act": "Becky B" },
+    { "stage": "Old White Horse", "time": "22:15", "act": "New Colours" },
+    
+    { "stage": "The Buffs", "time": "19:30", "act": "Stop Stealing The Covers" },
+    { "stage": "The Buffs", "time": "20:40", "act": "The SGs" },
+    { "stage": "The Buffs", "time": "22:00", "act": "Allergy" },
+    
+    { "stage": "White Lion", "time": "19:20", "act": "Red Neck Jammers" },
+    { "stage": "White Lion", "time": "20:40", "act": "The Scallywags" },
+    { "stage": "White Lion", "time": "22:00", "act": "The Desert Penguins" },
+    
+    
+    { "stage": "The Victoria", "time": "14:40", "act": "Sundown Duo", "day": "Sat 12th Sept" },
+    { "stage": "The Victoria", "time": "15:35", "act": "Backwater Junction" },
+    { "stage": "The Victoria", "time": "16:35", "act": "Probable Cause" },
+    { "stage": "The Victoria", "time": "17:40", "act": "Many Bats" },
+    { "stage": "The Victoria", "time": "18:45", "act": "The Grand Union Revival" },
+    { "stage": "The Victoria", "time": "19:55", "act": "FS1E" },
+    { "stage": "The Victoria", "time": "21:00", "act": "Sidewinder" },
+    { "stage": "The Victoria", "time": "22:10", "act": "Cherry Tree Lane" },
+    
+    { "stage": "Old White Horse", "time": "13:30", "act": "Kit" },
+    { "stage": "Old White Horse", "time": "14:25", "act": "The Dolphins" },
+    { "stage": "Old White Horse", "time": "15:20", "act": "Layla Amy" },
+    { "stage": "Old White Horse", "time": "16:15", "act": "Steph Scott" },
+    { "stage": "Old White Horse", "time": "17:15", "act": "The Capital" },
+    { "stage": "Old White Horse", "time": "18:15", "act": "Old Man Jr" },
+    { "stage": "Old White Horse", "time": "19:55", "act": "The Pedals" },
+    { "stage": "Old White Horse", "time": "20:55", "act": "Toniq" },
+    { "stage": "Old White Horse", "time": "22:15", "act": "The Real McKoys" },
+    
+    { "stage": "The Buffs", "time": "13:35", "act": "The Outliars" },
+    { "stage": "The Buffs", "time": "14:55", "act": "The Pinpoints" },
+    { "stage": "The Buffs", "time": "15:55", "act": "Public Liability" },
+    { "stage": "The Buffs", "time": "16:50", "act": "Roxze" },
+    { "stage": "The Buffs", "time": "17:50", "act": "Easydread" },
+    { "stage": "The Buffs", "time": "19:00", "act": "Alabasters" },
+    { "stage": "The Buffs", "time": "20:00", "act": "The 29th Funktion" },
+    { "stage": "The Buffs", "time": "21:00", "act": "Kieran Leigh x Jason P" },
+    { "stage": "The Buffs", "time": "22:00", "act": "The Dirty Half Hundred" },
+    
+    { "stage": "White Lion", "time": "13:30", "act": "Kysho" },
+    { "stage": "White Lion", "time": "14:30", "act": "Cereal Milk" },
+    { "stage": "White Lion", "time": "15:30", "act": "Blame Caesar" },
+    { "stage": "White Lion", "time": "16:45", "act": "Lauren Parker" },
+    { "stage": "White Lion", "time": "17:50", "act": "The Squirrels" },
+    { "stage": "White Lion", "time": "18:50", "act": "Nicole Hay" },
+    { "stage": "White Lion", "time": "19:55", "act": "The Kopy Katz" },
+    { "stage": "White Lion", "time": "21:05", "act": "Redeployed" },
+    { "stage": "White Lion", "time": "22:15", "act": "Primal Replay" }
+  ],
+
+  "vendors": [
+
+    
+    { "name": "Follow Us!", "lat": 51.9877, "lng": -1.6280, "category": "White Lion", "icon": "fbhero.png", "url": "https://www.facebook.com/whitelion.baldock/" },
+    { "name": "Website", "lat": 51.9877, "lng": -1.6280, "category": "White Lion", "icon": "wlhero.png", "url": "https://thewhitelionbaldock.co.uk/" },
+    { "name": "We're Here", "lat": 51.9877, "lng": -0.1871, "category": "White Lion", "icon": "wlhero.png", "url": "https://www.facebook.com/whitelion.baldock/" },
+
+    { "name": "Follow Us!", "lat": 51.9891, "lng": -0.1840, "category": "The Buffs Football Club", "icon": "fbhero.png", "url": "https://www.facebook.com/oldwhitehorse/" },
+    { "name": "Website", "lat": 51.9891, "lng": -0.1840, "category": "The Buffs Football Club", "icon": "bffhero.png", "url": "https://oldwhitehorsebaldock.co.uk/" },
+    { "name": "We're Here", "lat": 51.9891, "lng": -0.1840, "category": "The Buffs Football Club", "icon": "bffhero.png" },
+    
+    
+    { "name": "Follow Us!", "lat": 51.9914, "lng": -1.6280, "category": "White Horse", "icon": "fbhero.png", "url": "https://www.facebook.com/oldwhitehorse/" },
+    { "name": "Website", "lat": 51.9914, "lng": -1.6280, "category": "White Horse", "icon": "owlhero.png", "url": "https://oldwhitehorsebaldock.co.uk/" },
+    { "name": "We're Here", "lat": 51.9914, "lng": -0.1867, "category": "White Horse", "icon": "owlhero.png" },
+
+    { "name": "Follow Us!", "lat": 51.9901, "lng": -1.6280, "category": "The Victoria", "icon": "fbhero.png", "url": "https://www.facebook.com/The.Victoria.Baldock/" },
+    { "name": "We're Here", "lat": 51.9901, "lng": -0.1885, "category": "The Victoria", "icon": "bvchero.png" },
+
+    { "name": "Follow Us!", "lat": 51.9830, "lng": -0.1869, "category": "London Road Studios", "icon": "fbhero.png", "url": "https://www.facebook.com/LondonRoadStudios/" },
+    { "name": "Website", "lat": 51.9830, "lng": -0.1869, "category": "London Road Studios", "icon": "ldrhero.png", "url": "https://www.londonroadstudios.com/" },
+    { "name": "We're Here", "lat": 51.9830, "lng": -0.1869, "category": "London Road Studios", "icon": "inhero.png", "url": "https://www.instagram.com/londonroadstudios" },
+    { "name": "We're Here", "lat": 51.9830, "lng": -0.1869, "category": "London Road Studios", "icon": "ythero.png", "url": "https://www.youtube.com/user/Londonroadstudios" },
+      
+
+
+    { "name": "KteePee Facebook", "lat": 52.8318, "lng": -1.3868, "category": "Keep Up With KteePee's events", "icon": "fbhero.png", "url": "https://www.facebook.com/KteePeeEvents" },
+    { "name": "KteePee Insta", "lat": 52.8240, "lng": -1.3707, "category": "Follow for more fun", "icon": "inhero.png", "url": "https://www.instagram.com/kteepee.events/" }
+    
+  ]
+}
