@@ -1,5 +1,5 @@
 {
-  "version": 139,
+  "version": 140,
   "events": [
     {
      "id": "marbella_stag",
@@ -7,6 +7,12 @@
      "category": "Festival",
      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/marbella_stag.json?v=2",
      "requiresPin": true
+    },
+    {
+     "id": "baldock_rocks",
+     "name": "Baldock Rocks 2026",
+     "category": "Festival",
+     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/baldock_rocks.json?v=1"
     },
     {
      "id": "bearded_2027",
