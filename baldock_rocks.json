@@ -109,12 +109,7 @@
     { "name": "Follow Us!", "lat": 51.9830, "lng": -0.1869, "category": "London Road Studios", "icon": "fbhero.png", "url": "https://www.facebook.com/LondonRoadStudios/" },
     { "name": "Website", "lat": 51.9830, "lng": -0.1869, "category": "London Road Studios", "icon": "ldrhero.png", "url": "https://www.londonroadstudios.com/" },
     { "name": "We're Here", "lat": 51.9830, "lng": -0.1869, "category": "London Road Studios", "icon": "inhero.png", "url": "https://www.instagram.com/londonroadstudios" },
-    { "name": "We're Here", "lat": 51.9830, "lng": -0.1869, "category": "London Road Studios", "icon": "ythero.png", "url": "https://www.youtube.com/user/Londonroadstudios" },
-      
-
-
-    { "name": "KteePee Facebook", "lat": 52.8318, "lng": -1.3868, "category": "Keep Up With KteePee's events", "icon": "fbhero.png", "url": "https://www.facebook.com/KteePeeEvents" },
-    { "name": "KteePee Insta", "lat": 52.8240, "lng": -1.3707, "category": "Follow for more fun", "icon": "inhero.png", "url": "https://www.instagram.com/kteepee.events/" }
+    { "name": "We're Here", "lat": 51.9830, "lng": -0.1869, "category": "London Road Studios", "icon": "ythero.png", "url": "https://www.youtube.com/user/Londonroadstudios" }
     
   ]
 }
