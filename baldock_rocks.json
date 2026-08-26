@@ -2,7 +2,7 @@
   "version": 1,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/brckmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/brckhero.png",
-  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap2.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/brckmap.png",
   "premiumHeader": "Baldock Rocks 2026",
   "listingsHeader": "Full Running Order",
   "premiumTileColor": "#226BAF",
@@ -14,7 +14,7 @@
     "White Lion": "#226BAF",
     "The Buffs Football Club": "#125696",
     "White Horse": "#002E59",
-    "The Victoria": "#001E3A ",
+    "The Victoria": "#001E3A",
     "London Road Studios": "#000911"
   },
 
