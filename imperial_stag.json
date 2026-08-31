@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/marbmap.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/marbhero.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/marpan.png",
+  "premiumHeader": "When in Rome, Boys…",
+  "listingsHeader": "Imperial Chaos Incoming",
+  "premiumTileColor": "#D4AF37",
+  "premiumTileBorder": "#FFFFFF",
+  "panelColor": "#0d0d0dEE",
+  "messagesFile": "marb_messages.json",
+  "requiresPin": true,
+
+  "categoryColors": {
+    "Hotel de Russie": "#D4AF37",
+    "Shari Vari Playhouse": "#E8D18A",
+    "Piazza Navona": "#F2E8C0",
+    "Trastevere": "#FFFFFF",
+    "The Colosseum": "#C0C0C0"
+  },
+
+  "categoryIcons": {
+    "Hotel de Russie": "russie.png",
+    "Shari Vari Playhouse": "sharivari.png",
+    "Piazza Navona": "navona.png",
+    "Trastevere": "traste.png",
+    "The Colosseum": "colos.png"
+  },
+
+  "listings": [
+    { "stage": "Hotel de Russie - Check-in", "time": "15:00", "act": "Champagne in the courtyard, lads", "day": "Thu 11th" },
+    { "stage": "Piazza Navona", "time": "19:00", "act": "Wine, pasta, and questionable decisions", "day": "Thu 11th" },
+    { "stage": "Shari Vari Playhouse", "time": "23:00", "act": "VIP tables in Rome’s elite club", "day": "Thu 11th" },
+    { "stage": "The Colosseum", "time": "10:00", "act": "Hangover history tour", "day": "Fri 12th" },
+    { "stage": "Trastevere", "time": "20:00", "act": "Bar crawl through Rome’s nightlife district" },
+    { "stage": "Hotel de Russie - Check-out", "time": "11:00", "act": "Collect your sandals and regrets", "day": "Sat 13th" }
+  ],
+
+  "vendors": [
+    { "name": "Hotel de Russie", "lat": 41.907, "lng": 12.476, "category": "Hotel de Russie", "partner": true },
+    { "name": "Shari Vari Playhouse", "lat": 41.897, "lng": 12.478, "category": "Shari Vari Playhouse" },
+    { "name": "Piazza Navona", "lat": 41.899, "lng": 12.473, "category": "Piazza Navona" },
+    { "name": "Trastevere", "lat": 41.889, "lng": 12.470, "category": "Trastevere" },
+    { "name": "The Colosseum", "lat": 41.890, "lng": 12.492, "category": "The Colosseum" }
+  ]
+}
