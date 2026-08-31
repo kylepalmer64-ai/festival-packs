@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/marbmap.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/marbhero.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/marpan.png",
+  "premiumHeader": "Desert Royalty, Lads",
+  "listingsHeader": "Dubai Decadence",
+  "premiumTileColor": "#FFFFFF",
+  "premiumTileBorder": "#D4AF37",
+  "panelColor": "#0d0d0dEE",
+  "messagesFile": "marb_messages.json",
+  "requiresPin": true,
+
+  "categoryColors": {
+    "Burj Al Arab": "#FFFFFF",
+    "White Dubai": "#F2F2FF",
+    "Zero Gravity": "#E0E0FF",
+    "Atlantis The Palm": "#D0D0FF",
+    "Dubai Marina": "#C0C0FF"
+  },
+
+  "categoryIcons": {
+    "Burj Al Arab": "burj.png",
+    "White Dubai": "white.png",
+    "Zero Gravity": "zg.png",
+    "Atlantis The Palm": "atpalm.png",
+    "Dubai Marina": "marina.png"
+  },
+
+  "listings": [
+    { "stage": "Burj Al Arab - Check-in", "time": "15:00", "act": "Gold leaf everything, boys", "day": "Thu 4th" },
+    { "stage": "Zero Gravity", "time": "20:00", "act": "Beach club pre-drinks under neon skies", "day": "Thu 4th" },
+    { "stage": "White Dubai", "time": "23:00", "act": "Skyline clubbing at its peak" },
+    { "stage": "Atlantis The Palm", "time": "10:00", "act": "Brunch, beaches, and bad decisions", "day": "Fri 5th" },
+    { "stage": "Dubai Marina", "time": "19:00", "act": "Boat party vibes" },
+    { "stage": "Burj Al Arab - Check-out", "time": "11:00", "act": "Try not to steal the towels", "day": "Sat 6th" }
+  ],
+
+  "vendors": [
+    { "name": "Burj Al Arab", "lat": 25.141, "lng": 55.185, "category": "Burj Al Arab", "partner": true },
+    { "name": "White Dubai", "lat": 25.204, "lng": 55.271, "category": "White Dubai" },
+    { "name": "Zero Gravity", "lat": 25.090, "lng": 55.142, "category": "Zero Gravity" },
+    { "name": "Atlantis The Palm", "lat": 25.130, "lng": 55.117, "category": "Atlantis The Palm" },
+    { "name": "Dubai Marina", "lat": 25.080, "lng": 55.140, "category": "Dubai Marina" }
+  ]
+}
