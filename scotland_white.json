@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/marbmap.png",
-  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/marbhero.png",
-  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/marpan.png",
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/boatparty.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/diamhero.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/boatparty.png",
   "premiumHeader": "Highland Havoc",
   "listingsHeader": "Edinburgh Escapades",
   "premiumTileColor": "#FFFFFF",
@@ -12,18 +12,18 @@
   "requiresPin": true,
 
   "categoryColors": {
-    "The Dome": "#FFFFFF",
-    "Why Not Nightclub": "#F2F2FF",
-    "The Three Sisters": "#E0E0FF",
-    "Bourbon Bar": "#D0D0FF",
-    "Princes Street Gardens": "#C0C0FF"
+    "The Dome": "#CF8CD5",
+    "Why Not Nightclub": "#CF8CD5",
+    "The Three Sisters": "#CF8CD5",
+    "Bourbon Bar": "#CF8CD5",
+    "Princes Street Gardens": "#CF8CD5"
   },
 
   "categoryIcons": {
-    "The Dome": "dome.png",
-    "Why Not Nightclub": "whynot.png",
-    "The Three Sisters": "3sis.png",
-    "Bourbon Bar": "bourbon.png",
+    "The Dome": "domehero.png",
+    "Why Not Nightclub": "ynhero.png",
+    "The Three Sisters": "3shero.png",
+    "Bourbon Bar": "barhero.png",
     "Princes Street Gardens": "psg.png"
   },
 
