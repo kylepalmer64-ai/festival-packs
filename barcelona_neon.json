@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/marbmap.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/marbhero.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/marpan.png",
+  "premiumHeader": "Vamos, Cabrones",
+  "listingsHeader": "Barcelona Blowout",
+  "premiumTileColor": "#FFD700",
+  "premiumTileBorder": "#FFFFFF",
+  "panelColor": "#0d0d0dEE",
+  "messagesFile": "marb_messages.json",
+  "requiresPin": true,
+
+  "categoryColors": {
+    "Opium Barcelona": "#FFD700",
+    "Pacha Barcelona": "#FFE680",
+    "Shoko": "#FFF2B3",
+    "W Hotel": "#FFFFFF",
+    "La Rambla": "#E0E0E0"
+  },
+
+  "categoryIcons": {
+    "Opium Barcelona": "opium.png",
+    "Pacha Barcelona": "pacha.png",
+    "Shoko": "shoko.png",
+    "W Hotel": "whotel.png",
+    "La Rambla": "lramb.png"
+  },
+
+  "listings": [
+    { "stage": "W Hotel - Check-in", "time": "15:00", "act": "Pool, rooftop, chaos", "day": "Thu 18th" },
+    { "stage": "Opium Barcelona", "time": "23:00", "act": "VIP tables and questionable dancing", "day": "Thu 18th" },
+    { "stage": "La Rambla", "time": "12:00", "act": "Tapas crawl and beers", "day": "Fri 19th" },
+    { "stage": "Pacha Barcelona", "time": "23:00", "act": "The big night" },
+    { "stage": "Shoko", "time": "22:00", "act": "Final night blowout", "day": "Sat 20th" },
+    { "stage": "W Hotel - Check-out", "time": "11:00", "act": "Grab your sunglasses and leave", "day": "Sun 21st" }
+  ],
+
+  "vendors": [
+    { "name": "Opium Barcelona", "lat": 41.385, "lng": 2.197, "category": "Opium Barcelona" },
+    { "name": "Pacha Barcelona", "lat": 41.385, "lng": 2.195, "category": "Pacha Barcelona" },
+    { "name": "Shoko", "lat": 41.385, "lng": 2.196, "category": "Shoko" },
+    { "name": "W Hotel", "lat": 41.368, "lng": 2.189, "category": "W Hotel", "partner": true },
+    { "name": "La Rambla", "lat": 41.381, "lng": 2.173, "category": "La Rambla" }
+  ]
+}
