@@ -1,8 +1,8 @@
 {
-  "version": 1,
-  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/marbmap.png",
-  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/marbhero.png",
-  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/marpan.png",
+  "version": 2,
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/champhero.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/blng1.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/ldnpan.png",
   "premiumHeader": "London’s Calling, Boys",
   "listingsHeader": "Let’s Tear Up The Capital",
   "premiumTileColor": "#D4AF37",
@@ -20,17 +20,17 @@
   },
 
   "categoryIcons": {
-    "The Ned": "ned.png",
-    "Fabric": "fabric.png",
-    "Ministry of Sound": "mos.png",
-    "Aqua Kyoto": "aqua.png",
+    "The Ned": "nedhero.png",
+    "Fabric": "fabhero.png",
+    "Ministry of Sound": "moshero.png",
+    "Aqua Kyoto": "aqhero.png",
     "The Shard": "shard.png"
   },
 
   "listings": [
     { "stage": "The Ned - Check-in", "time": "15:00", "act": "Champagne on arrival, lads", "day": "Thu 24th" },
-    { "stage": "Aqua Kyoto", "time": "19:00", "act": "Sushi, cocktails, and questionable decisions", "day": "Thu 24th" },
-    { "stage": "Fabric", "time": "23:00", "act": "Straight into the deep end", "day": "Thu 24th" },
+    { "stage": "Aqua Kyoto", "time": "19:00", "act": "Sushi, cocktails, and questionable decisions" },
+    { "stage": "Fabric", "time": "23:00", "act": "Straight into the deep end" },
     { "stage": "Ministry of Sound", "time": "22:00", "act": "Main room madness", "day": "Fri 25th" },
     { "stage": "The Shard", "time": "10:00", "act": "Hangover brunch with a skyline", "day": "Sat 26th" },
     { "stage": "Fabric", "time": "23:00", "act": "Round two, don’t embarrass yourselves" },
