@@ -1,5 +1,5 @@
 {
-  "version": 140,
+  "version": 141,
   "events": [
     {
      "id": "marbella_stag",
@@ -189,6 +189,66 @@
       "name": "North & South Pole",
       "category": "Test",
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/poles.json"
+    },
+    {
+     "id": "london_prestige",
+     "name": "london_prestige",
+     "category": "Festival",
+     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/london_prestige.json?v=1"
+    },
+    {
+     "id": "northern_pearl",
+     "name": "northern_pearl",
+     "category": "Festival",
+     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/northern_pearl.json?v=1"
+    },
+    {
+     "id": "scotland_white",
+     "name": "scotland_white",
+     "category": "Festival",
+     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/scotland_white.json?v=1"
+    },
+    {
+     "id": "dublin_gold",
+     "name": "dublin_gold",
+     "category": "Festival",
+     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/dublin_gold.json?v=1"
+    },
+    {
+     "id": "barcelona_neon",
+     "name": "barcelona_neon",
+     "category": "Festival",
+     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/barcelona_neon.json?v=1"
+    },
+    {
+     "id": "imperial_stag",
+     "name": "imperial_stag",
+     "category": "Festival",
+     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/imperial_stag.json?v=1"
+    },
+    {
+     "id": "vatican_pearl",
+     "name": "vatican_pearl",
+     "category": "Festival",
+     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/vatican_pearl.json?v=1"
+    },
+    {
+     "id": "dubai_gold",
+     "name": "dubai_gold",
+     "category": "Festival",
+     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/dubai_gold.json?v=1"
+    },
+    {
+     "id": "roma_dubai",
+     "name": "roma_dubai",
+     "category": "Festival",
+     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/roma_dubai.json?v=1"
+    },
+    {
+     "id": "roma_dubai1",
+     "name": "roma_dubai1",
+     "category": "Festival",
+     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/roma_dubai1.json?v=1"
     }
   
   ]
