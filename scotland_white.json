@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/marbmap.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/marbhero.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/marpan.png",
+  "premiumHeader": "Highland Havoc",
+  "listingsHeader": "Edinburgh Escapades",
+  "premiumTileColor": "#FFFFFF",
+  "premiumTileBorder": "#C8A951",
+  "panelColor": "#0d0d0dEE",
+  "messagesFile": "marb_messages.json",
+  "requiresPin": true,
+
+  "categoryColors": {
+    "The Dome": "#FFFFFF",
+    "Why Not Nightclub": "#F2F2FF",
+    "The Three Sisters": "#E0E0FF",
+    "Bourbon Bar": "#D0D0FF",
+    "Princes Street Gardens": "#C0C0FF"
+  },
+
+  "categoryIcons": {
+    "The Dome": "dome.png",
+    "Why Not Nightclub": "whynot.png",
+    "The Three Sisters": "3sis.png",
+    "Bourbon Bar": "bourbon.png",
+    "Princes Street Gardens": "psg.png"
+  },
+
+  "listings": [
+    { "stage": "The Dome - Arrival", "time": "16:00", "act": "Cocktails and class", "day": "Fri 3rd" },
+    { "stage": "Why Not Nightclub", "time": "23:00", "act": "VIP booths and carnage", "day": "Fri 3rd" },
+    { "stage": "Princes Street Gardens", "time": "11:00", "act": "Hangover stroll", "day": "Sat 4th" },
+    { "stage": "The Three Sisters", "time": "18:00", "act": "Sports, beers, and shouting" },
+    { "stage": "Bourbon Bar", "time": "22:00", "act": "Final night madness", "day": "Sat 4th" },
+    { "stage": "The Dome - Departure", "time": "12:00", "act": "Collect your belongings and regrets", "day": "Sun 5th" }
+  ],
+
+  "vendors": [
+    { "name": "The Dome", "lat": 55.953, "lng": -3.196, "category": "The Dome", "partner": true },
+    { "name": "Why Not Nightclub", "lat": 55.952, "lng": -3.198, "category": "Why Not Nightclub" },
+    { "name": "The Three Sisters", "lat": 55.947, "lng": -3.190, "category": "The Three Sisters" },
+    { "name": "Bourbon Bar", "lat": 55.951, "lng": -3.200, "category": "Bourbon Bar" },
+    { "name": "Princes Street Gardens", "lat": 55.952, "lng": -3.195, "category": "Princes Street Gardens" }
+  ]
+}
