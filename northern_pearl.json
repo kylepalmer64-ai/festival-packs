@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/marbmap.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/marbhero.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/marpan.png",
+  "premiumHeader": "Up The M6 We Go",
+  "listingsHeader": "Manchester Mayhem",
+  "premiumTileColor": "#FFFFFF",
+  "premiumTileBorder": "#D4AF37",
+  "panelColor": "#0d0d0dEE",
+  "messagesFile": "marb_messages.json",
+  "requiresPin": true,
+
+  "categoryColors": {
+    "The Ivy Manchester": "#FFFFFF",
+    "Albert Hall": "#F2F2FF",
+    "Deansgate Locks": "#E0E0FF",
+    "Twenty Twenty Two": "#D0D0FF",
+    "Warehouse Project": "#C0C0FF"
+  },
+
+  "categoryIcons": {
+    "The Ivy Manchester": "ivy.png",
+    "Albert Hall": "albh.png",
+    "Deansgate Locks": "dgl.png",
+    "Twenty Twenty Two": "ttt.png",
+    "Warehouse Project": "whp.png"
+  },
+
+  "listings": [
+    { "stage": "The Ivy Manchester - Check-in", "time": "15:00", "act": "Suit up, lads", "day": "Fri 12th" },
+    { "stage": "Albert Hall", "time": "20:00", "act": "Pre-drinks with live music", "day": "Fri 12th" },
+    { "stage": "Warehouse Project", "time": "23:00", "act": "The big one", "day": "Fri 12th" },
+    { "stage": "Deansgate Locks", "time": "18:00", "act": "Bar crawl, Manc style", "day": "Sat 13th" },
+    { "stage": "Twenty Twenty Two", "time": "22:00", "act": "Ping pong and chaos" },
+    { "stage": "The Ivy Manchester - Check-out", "time": "11:00", "act": "Grab your kebab and go", "day": "Sun 14th" }
+  ],
+
+  "vendors": [
+    { "name": "The Ivy Manchester", "lat": 53.480, "lng": -2.244, "category": "The Ivy Manchester", "partner": true },
+    { "name": "Albert Hall", "lat": 53.479, "lng": -2.247, "category": "Albert Hall" },
+    { "name": "Deansgate Locks", "lat": 53.474, "lng": -2.252, "category": "Deansgate Locks" },
+    { "name": "Twenty Twenty Two", "lat": 53.481, "lng": -2.236, "category": "Twenty Twenty Two" },
+    { "name": "Warehouse Project", "lat": 53.474, "lng": -2.240, "category": "Warehouse Project" }
+  ]
+}
