@@ -1,30 +1,30 @@
 {
   "version": 1,
-  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/marbmap.png",
-  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/marbhero.png",
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/boatparty.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/blng2.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/marpan.png",
   "premiumHeader": "Two Cities. One Stag.",
   "listingsHeader": "Rome → Dubai → Chaos",
-  "premiumTileColor": "#FFFFFF",
-  "premiumTileBorder": "#D4AF37",
+  "premiumTileColor": "#43B1FF",
+  "premiumTileBorder": "#8A1FE8",
   "panelColor": "#0d0d0dEE",
   "messagesFile": "marb_messages.json",
   "requiresPin": true,
 
   "categoryColors": {
-    "Hotel de Russie": "#FFFFFF",
-    "Shari Vari Playhouse": "#F2F2FF",
-    "Burj Al Arab": "#E0E0FF",
-    "Zero Gravity": "#D0D0FF",
-    "Dubai Marina": "#C0C0FF"
+    "Hotel de Russie": "#43B1FF",
+    "Shari Vari Playhouse": "#258BD4",
+    "Burj Al Arab": "#2533D4",
+    "Zero Gravity": "#5815F3",
+    "Dubai Marina": "#8A1FE8"
   },
 
   "categoryIcons": {
-    "Hotel de Russie": "russie.png",
-    "Shari Vari Playhouse": "sharivari.png",
-    "Burj Al Arab": "burj.png",
-    "Zero Gravity": "zg.png",
-    "Dubai Marina": "marina.png"
+    "Hotel de Russie": "hbag1.png",
+    "Shari Vari Playhouse": "dmond1.png",
+    "Burj Al Arab": "vino1.png",
+    "Zero Gravity": "wine1.png",
+    "Dubai Marina": "game1.png"
   },
 
   "listings": [
