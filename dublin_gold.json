@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/marbmap.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/marbhero.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/marpan.png",
+  "premiumHeader": "Top o’ the Stag to Ya",
+  "listingsHeader": "Dublin Delirium",
+  "premiumTileColor": "#D4AF37",
+  "premiumTileBorder": "#D4AF37",
+  "panelColor": "#0d0d0dEE",
+  "messagesFile": "marb_messages.json",
+  "requiresPin": true,
+
+  "categoryColors": {
+    "Temple Bar": "#D4AF37",
+    "The Guinness Storehouse": "#E5C76A",
+    "Copper Face Jacks": "#F0DFA0",
+    "The Church": "#FAF3D0",
+    "Dicey’s Garden": "#FFFFFF"
+  },
+
+  "categoryIcons": {
+    "Temple Bar": "tbar.png",
+    "The Guinness Storehouse": "gstore.png",
+    "Copper Face Jacks": "cfj.png",
+    "The Church": "church.png",
+    "Dicey’s Garden": "dicey.png"
+  },
+
+  "listings": [
+    { "stage": "Temple Bar - Arrival", "time": "16:00", "act": "Straight into the madness", "day": "Fri 8th" },
+    { "stage": "The Guinness Storehouse", "time": "12:00", "act": "Pints with a view", "day": "Sat 9th" },
+    { "stage": "Copper Face Jacks", "time": "23:00", "act": "The infamous Coppers night" },
+    { "stage": "The Church", "time": "10:00", "act": "Brunch in a literal church", "day": "Sun 10th" },
+    { "stage": "Dicey’s Garden", "time": "18:00", "act": "Cheap drinks, big energy" },
+    { "stage": "Temple Bar - Departure", "time": "11:00", "act": "Try not to cry", "day": "Mon 11th" }
+  ],
+
+  "vendors": [
+    { "name": "Temple Bar", "lat": 53.345, "lng": -6.264, "category": "Temple Bar" },
+    { "name": "The Guinness Storehouse", "lat": 53.341, "lng": -6.286, "category": "The Guinness Storehouse", "partner": true },
+    { "name": "Copper Face Jacks", "lat": 53.337, "lng": -6.263, "category": "Copper Face Jacks" },
+    { "name": "The Church", "lat": 53.350, "lng": -6.265, "category": "The Church" },
+    { "name": "Dicey’s Garden", "lat": 53.336, "lng": -6.262, "category": "Dicey’s Garden" }
+  ]
+}
