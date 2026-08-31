@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/marbmap.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/marbhero.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/marpan.png",
+  "premiumHeader": "Blessed & Bladdered",
+  "listingsHeader": "Holy Hell Weekend",
+  "premiumTileColor": "#FFFFFF",
+  "premiumTileBorder": "#E8D18A",
+  "panelColor": "#0d0d0dEE",
+  "messagesFile": "marb_messages.json",
+  "requiresPin": true,
+
+  "categoryColors": {
+    "Hotel Eden": "#FFFFFF",
+    "Gilda Club": "#F2F2FF",
+    "Campo de' Fiori": "#E0E0FF",
+    "Vatican City": "#D0D0FF",
+    "Testaccio": "#C0C0FF"
+  },
+
+  "categoryIcons": {
+    "Hotel Eden": "eden.png",
+    "Gilda Club": "gilda.png",
+    "Campo de' Fiori": "cdf.png",
+    "Vatican City": "vatican.png",
+    "Testaccio": "testaccio.png"
+  },
+
+  "listings": [
+    { "stage": "Hotel Eden - Check-in", "time": "15:00", "act": "Rooftop cocktails overlooking Rome", "day": "Fri 17th" },
+    { "stage": "Campo de' Fiori", "time": "19:00", "act": "Street bars and chaos", "day": "Fri 17th" },
+    { "stage": "Gilda Club", "time": "23:00", "act": "VIP booths in Rome’s classic nightclub" },
+    { "stage": "Vatican City", "time": "10:00", "act": "Hangover pilgrimage", "day": "Sat 18th" },
+    { "stage": "Testaccio", "time": "20:00", "act": "Rome’s nightlife district, round two" },
+    { "stage": "Hotel Eden - Check-out", "time": "11:00", "act": "Confess your sins and leave", "day": "Sun 19th" }
+  ],
+
+  "vendors": [
+    { "name": "Hotel Eden", "lat": 41.907, "lng": 12.488, "category": "Hotel Eden", "partner": true },
+    { "name": "Gilda Club", "lat": 41.903, "lng": 12.480, "category": "Gilda Club" },
+    { "name": "Campo de' Fiori", "lat": 41.895, "lng": 12.472, "category": "Campo de' Fiori" },
+    { "name": "Vatican City", "lat": 41.902, "lng": 12.453, "category": "Vatican City" },
+    { "name": "Testaccio", "lat": 41.875, "lng": 12.476, "category": "Testaccio" }
+  ]
+}
