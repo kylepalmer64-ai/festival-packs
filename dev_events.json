@@ -1,5 +1,5 @@
 {
-  "version": 142,
+  "version": 143,
   "events": [
     {
      "id": "marbella_stag",
@@ -197,46 +197,46 @@
      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/london_prestige.json?v=1"
     },
     {
-     "id": "northern_pearl",
-     "name": "northern_pearl",
+     "id": "london1",
+     "name": "london1",
      "category": "Festival",
-     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/northern_pearl.json?v=1"
+     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/london1.json?v=2"
     },
     {
-     "id": "scotland_white",
-     "name": "scotland_white",
+     "id": "london2",
+     "name": "london2",
      "category": "Festival",
-     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/scotland_white.json?v=1"
+     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/london2.json?v=2"
     },
     {
-     "id": "dublin_gold",
-     "name": "dublin_gold",
+     "id": "london3",
+     "name": "london3",
      "category": "Festival",
-     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/dublin_gold.json?v=1"
+     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/london3.json?v=2"
     },
     {
-     "id": "barcelona_neon",
-     "name": "barcelona_neon",
+     "id": "london4",
+     "name": "london4",
      "category": "Festival",
-     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/barcelona_neon.json?v=1"
+     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/london4.json?v=2"
     },
     {
-     "id": "imperial_stag",
-     "name": "imperial_stag",
+     "id": "london5",
+     "name": "london5",
      "category": "Festival",
-     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/imperial_stag.json?v=1"
+     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/london5.json?v=2"
     },
     {
-     "id": "vatican_pearl",
-     "name": "vatican_pearl",
+     "id": "london6",
+     "name": "london6",
      "category": "Festival",
-     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/vatican_pearl.json?v=1"
+     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/london6.json?v=2"
     },
     {
-     "id": "dubai_gold",
-     "name": "dubai_gold",
+     "id": "london7",
+     "name": "london7",
      "category": "Festival",
-     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/dubai_gold.json?v=1"
+     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/london7.json?v=2"
     },
     {
      "id": "roma_dubai",
