@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/boatparty.png",
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/club.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/blng2.png",
-  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/marpan.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/club.png",
   "premiumHeader": "6 Girls - 7 Nights",
   "listingsHeader": "Rome → Dubai → Chaos",
-  "premiumTileColor": "#43B1FF",
-  "premiumTileBorder": "#8A1FE8",
+  "premiumTileColor": "#DD325E",
+  "premiumTileBorder": "#DD325E",
   "panelColor": "#0d0d0dEE",
-  "messagesFile": "marb_messages.json",
+  "messagesFile": "spa_messages.json",
   "requiresPin": true,
 
   "categoryColors": {
@@ -40,7 +40,7 @@
   "vendors": [
     { "name": "Hotel de Russie", "lat": 41.907, "lng": 12.476, "category": "Hotel de Russie" },
     { "name": "Shari Vari Playhouse", "lat": 41.897, "lng": 12.478, "category": "Shari Vari Playhouse" },
-    { "name": "Burj Al Arab", "lat": 25.141, "lng": 55.185, "category": "Burj Al Arab", "partner": true },
+    { "name": "Burj Al Arab", "lat": 25.141, "lng": 55.185, "category": "Burj Al Arab" },
     { "name": "Zero Gravity", "lat": 25.090, "lng": 55.142, "category": "Zero Gravity" },
     { "name": "Dubai Marina", "lat": 25.080, "lng": 55.140, "category": "Dubai Marina" }
   ]
