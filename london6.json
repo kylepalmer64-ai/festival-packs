@@ -1,7 +1,7 @@
 {
   "version": 2,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/champhero.png",
-  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/blng1.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/dmond1.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/ldnpan.png",
   "premiumHeader": "London’s Calling!",
   "listingsHeader": "Let’s Tear Up The Capital",
@@ -38,7 +38,7 @@
   ],
 
   "vendors": [
-    { "name": "The Ned", "lat": 51.515, "lng": -0.089, "category": "The Ned", "partner": true },
+    { "name": "The Ned", "lat": 51.515, "lng": -0.089, "category": "The Ned", "icon": "nedhero.png", "partner": true },
     { "name": "Fabric", "lat": 51.520, "lng": -0.102, "category": "Fabric" },
     { "name": "Ministry of Sound", "lat": 51.498, "lng": -0.099, "category": "Ministry of Sound" },
     { "name": "Aqua Kyoto", "lat": 51.514, "lng": -0.139, "category": "Aqua Kyoto" },
