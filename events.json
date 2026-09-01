@@ -1,11 +1,11 @@
 {
-  "version": 99,
+  "version": 100,
   "events": [
     {
       "id": "mucky_weekender",
       "name": "Mucky Weekender",
       "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mucky_weekender.json?v=60",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mucky_weekender.json?v=61",
       "requiresEmail": true,
       "emailGateMessage": "To access this event the organiser requires your email for verification, opt in below for event communication.",
       "emailWebhook": "info@mucky-weekender.co.uk"
