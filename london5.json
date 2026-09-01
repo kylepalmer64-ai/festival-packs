@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/champhero.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/blng1.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/ldnpan.png",
+  "premiumHeader": "London’s Calling",
+  "listingsHeader": "Let’s Tear Up The Capital",
+  "premiumTileColor": "#DFE5F3",
+  "premiumTileBorder": "#557373",
+  "panelColor": "#0d0d0dEE",
+  "messagesFile": "london_messages.json",
+  "requiresPin": true,
+
+  "categoryColors": {
+    "The Ned": "#DFE5F3",
+    "Fabric": "#557373",
+    "Ministry of Sound": "#272401",
+    "Aqua Kyoto": "#D8D0C5",
+    "The Shard": "#0D0D0D"
+  },
+
+  "categoryIcons": {
+    "The Ned": "nedhero.png",
+    "Fabric": "fabhero.png",
+    "Ministry of Sound": "moshero.png",
+    "Aqua Kyoto": "aqhero.png",
+    "The Shard": "shard.png"
+  },
+
+  "listings": [
+    { "stage": "The Ned - Check-in", "time": "15:00", "act": "Champagne on arrival, lads", "day": "Thu 24th" },
+    { "stage": "Aqua Kyoto", "time": "19:00", "act": "Sushi, cocktails, and questionable decisions" },
+    { "stage": "Fabric", "time": "23:00", "act": "Straight into the deep end" },
+    { "stage": "Ministry of Sound", "time": "22:00", "act": "Main room madness", "day": "Fri 25th" },
+    { "stage": "The Shard", "time": "10:00", "act": "Hangover brunch with a skyline", "day": "Sat 26th" },
+    { "stage": "Fabric", "time": "23:00", "act": "Round two, don’t embarrass yourselves" },
+    { "stage": "The Ned - Check-out", "time": "12:00", "act": "Grab your dignity and leave", "day": "Sun 27th" }
+  ],
+
+  "vendors": [
+    { "name": "The Ned", "lat": 51.515, "lng": -0.089, "category": "The Ned", "partner": true },
+    { "name": "Fabric", "lat": 51.520, "lng": -0.102, "category": "Fabric" },
+    { "name": "Ministry of Sound", "lat": 51.498, "lng": -0.099, "category": "Ministry of Sound" },
+    { "name": "Aqua Kyoto", "lat": 51.514, "lng": -0.139, "category": "Aqua Kyoto" },
+    { "name": "The Shard", "lat": 51.504, "lng": -0.086, "category": "The Shard" }
+  ]
+}
