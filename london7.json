@@ -1,47 +1,41 @@
 {
   "version": 2,
-  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/champhero.png",
-  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/silvblng.png",
-  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/ldnpan.png",
-  "premiumHeader": "London’s Calling",
-  "listingsHeader": "Let’s Tear Up The Capital",
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/sangria.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/wine1.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/sangria.png",
+  "premiumHeader": "Tanning Season!",
+  "listingsHeader": "Everything Booked",
   "premiumTileColor": "#F9EDF0",
   "premiumTileBorder": "#1C3934",
   "panelColor": "#0d0d0dEE",
-  "messagesFile": "london_messages.json",
+  "messagesFile": "spa_messages.json",
   "requiresPin": true,
 
   "categoryColors": {
-    "The Ned": "#E6C8B7",
-    "Fabric": "#BA6A36",
-    "Ministry of Sound": "#C3955B",
-    "Aqua Kyoto": "#261311",
-    "The Shard": "#1C3934"
+    "Kisstory @ Nao Pool Club": "#00E5FF",
+    "Hard Rock Hotel": "#00E5FF",
+    "Puerto Banus": "#00E5FF",
+    "Newscafe": "#00E5FF",
+    "La Plage Casanis": "#00E5FF"
   },
 
   "categoryIcons": {
-    "The Ned": "nedhero.png",
-    "Fabric": "fabhero.png",
-    "Ministry of Sound": "moshero.png",
-    "Aqua Kyoto": "aqhero.png",
-    "The Shard": "shard.png"
+    "Kisstory @ Nao Pool Club": "nao1.png",
+    "Hard Rock Hotel": "hrock1.png",
+    "Puerto Banus": "pbu1.png",
+    "Newscafe": "nwcf1.png",
+    "La Plage Casanis": "plg1.png"
   },
 
-  "listings": [
-    { "stage": "The Ned - Check-in", "time": "15:00", "act": "Champagne on arrival, lads", "day": "Thu 24th" },
-    { "stage": "Aqua Kyoto", "time": "19:00", "act": "Sushi, cocktails, and questionable decisions" },
-    { "stage": "Fabric", "time": "23:00", "act": "Straight into the deep end" },
-    { "stage": "Ministry of Sound", "time": "22:00", "act": "Main room madness", "day": "Fri 25th" },
-    { "stage": "The Shard", "time": "10:00", "act": "Hangover brunch with a skyline", "day": "Sat 26th" },
-    { "stage": "Fabric", "time": "23:00", "act": "Round two, don’t embarrass yourselves" },
-    { "stage": "The Ned - Check-out", "time": "12:00", "act": "Grab your dignity and leave", "day": "Sun 27th" }
-  ],
-
   "vendors": [
-    { "name": "The Ned", "lat": 51.515, "lng": -0.089, "category": "The Ned", "icon": "nedhero.png", "partner": true },
-    { "name": "Fabric", "lat": 51.520, "lng": -0.102, "category": "Fabric" },
-    { "name": "Ministry of Sound", "lat": 51.498, "lng": -0.099, "category": "Ministry of Sound" },
-    { "name": "Aqua Kyoto", "lat": 51.514, "lng": -0.139, "category": "Aqua Kyoto" },
-    { "name": "The Shard", "lat": 51.504, "lng": -0.086, "category": "The Shard" }
+  "listings": [
+    { "stage": "Hard Rock Hotel - 3pm Check-in", "time": "15:00", "act": "Freshen up and get to the bar", "day": "Thu 24th" },
+    { "stage": "Kisstory @ Nao Pool Club", "time": "12:00", "act": "The Beginning! Pre-drinks and the VIP Deck", "day": "Fri 25th" },   
+    { "stage": "Hard Rock Hotel", "time": "09:00", "act": "Get up, freshen up, and get ready to party!", "day": "Sat 26th" },
+    { "stage": "Puerto Banus", "time": "20:00", "act": "8 til late Marbs bar crawl - bring your stamina ladies" },
+    { "stage": "Newscafe", "time": "23:00", "act": "VIP booking to see us to the early hours" },
+    { "stage": "Hard Rock Hotel", "time": "09:00", "act": "You know the routine - see you at the bar!", "day": "Sat 27th" },
+    { "stage": "La Plage Casanis", "time": "09:45", "act": "A Sunset Ritual to close off the best week ever" },
+    { "stage": "Hard Rock Hotel - 12pm Check-out", "time": "09:45", "act": "Tip your maid, double check you have everything and make sure you have your passport!", "day": "Mon 28th" }
   ]
 }
