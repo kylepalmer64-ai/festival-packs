@@ -30,6 +30,9 @@
   },
 
   "categoryNoText": [],
+  "catagoryImages": {
+    "Hard Rock Hotel": "https://kylepalmer64-ai.github.io/festival-packs/test01cat.png"
+  },
 
   "listings": [
     { "stage": "Hard Rock Hotel - 3pm Check-in", "time": "15:00", "act": "Freshen up and get to the bar", "day": "Thu 24th" },
