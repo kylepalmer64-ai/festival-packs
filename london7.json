@@ -13,7 +13,6 @@
 
   "categoryColors": {
     "Kisstory @ Nao Pool Club": "#00E5FF",
-    "Hard Rock Hotel": "#00E5FF",
     "Puerto Banus": "#00E5FF",
     "Newscafe": "#00E5FF",
     "La Plage Casanis": "#00E5FF"
@@ -21,7 +20,6 @@
 
   "categoryIcons": {
     "Kisstory @ Nao Pool Club": "nao1.png",
-    "Hard Rock Hotel": "nao1.png",
     "Puerto Banus": "pbu1.png",
     "Newscafe": "nwcf1.png",
     "La Plage Casanis": "plg1.png",
@@ -47,7 +45,7 @@
 
   "vendors": [
     { "name": "Kisstory @ Nao Pool Club", "lat": 36.4953, "lng": -4.9639, "category": "Kisstory @ Nao Pool Club" },
-    { "name": "Hard Rock Hotel", "lat": 36.4896, "lng": -4.9615, "category": "Hard Rock Hotel", "image": "https://kylepalmer64-ai.github.io/festival-packs/test01cat.png" },
+    { "name": "Hard Rock Hotel", "lat": 36.4896, "lng": -4.9615, "category": "Hard Rock Hotel" },
     { "name": "Puerto Banus", "lat": 36.4902, "lng": -4.9496, "category": "Puerto Banus" },
     { "name": "Newscafe", "lat": 36.4864, "lng": -4.9537, "category": "Newscafe" },
     { "name": "La Plage Casanis", "lat": 36.4930, "lng": -4.7879, "category": "La Plage Casanis" }
