@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/marbmap.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/marbhero.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/marpan.png",
+  "premiumHeader": "You Twit-to-who?",
+  "listingsHeader": "Let's f*ckin Avit Boys",
+  "premiumTileColor": "#00E5FF",
+  "premiumTileBorder": "#00E5FF",
+  "panelColor": "#0d0d0dEE",
+  "messagesFile": "marb_messages.json",
+  "requiresPin": true,
+
+  "categoryColors": {
+    "Kisstory @ Nao Pool Club": "#00E5FF",
+    "Hard Rock Hotel": "#00E5FF",
+    "Puerto Banus": "#00E5FF",
+    "Newscafe": "#00E5FF",
+    "La Plage Casanis": "#00E5FF"
+  },
+
+  "categoryIcons": {
+    "Hard Rock Hotel": "hrock1.png",
+    "Kisstory @ Nao Pool Club": "nao1.png",
+    "Puerto Banus": "pbu1.png",
+    "Newscafe": "nwcf1.png",
+    "La Plage Casanis": "plg1.png"
+  },
+
+  "categoryImages": {
+    "Hard Rock Hotel": "https://kylepalmer64-ai.github.io/festival-packs/hrck01.png",
+    "Kisstory @ Nao Pool Club": "https://kylepalmer64-ai.github.io/festival-packs/nao01.png",
+    "Puerto Banus": "https://kylepalmer64-ai.github.io/festival-packs/test01cat.png",
+    "Newscafe": "https://kylepalmer64-ai.github.io/festival-packs/nwscaf.png",
+    "La Plage Casanis": "https://kylepalmer64-ai.github.io/festival-packs/laplag01.png"
+  },
+
+  "categoryTextColors": {
+    "Hard Rock Hotel": "#1B2428",
+    "Kisstory @ Nao Pool Club": "#A9FFDD",
+    "Puerto Banus": "#050E48",
+    "Newscafe": "#FDFEFF",
+    "La Plage Casanis": "#1FBCFF"
+  },
+
+  "listings": [
+    { "stage": "Hard Rock Hotel - 3pm Check-in", "time": "15:00", "act": "Freshen up and get to the bar", "day": "Thu 24th" },
+    { "stage": "Kisstory @ Nao Pool Club", "time": "12:00", "act": "The Beginning! Pre-drinks and the VIP Deck", "day": "Fri 25th" },   
+    { "stage": "Hard Rock Hotel", "time": "09:00", "act": "Get up, freshen up, and get your asses ready to party!", "day": "Sat 26th" },
+    { "stage": "Puerto Banus", "time": "20:00", "act": "8 til late Marbs bar crawl - bring your stamina gents" },
+    { "stage": "Newscafe", "time": "23:00", "act": "VIP booking to see us to the early hours" },
+    { "stage": "Hard Rock Hotel", "time": "09:00", "act": "You know the drill - see you at the bar!", "day": "Sat 27th" },
+    { "stage": "La Plage Casanis", "time": "09:45", "act": "A Sunset Ritual to close off the best stag do ever" },
+    { "stage": "Hard Rock Hotel - 12pm Check-out", "time": "09:45", "act": "Tip your maid, double check you have everything and make sure you have your passport!", "day": "Mon 28th" }
+    
+    
+  ],
+
+  "vendors": [
+    { "name": "Hard Rock Hotel", "lat": 36.4896, "lng": -4.9615, "category": "Hard Rock Hotel", "icon": "hrock1.png" },
+    { "name": "Kisstory @ Nao Pool Club", "lat": 36.4953, "lng": -4.9639, "category": "Kisstory @ Nao Pool Club", "icon": "nao1.png" },
+    { "name": "Puerto Banus", "lat": 36.4902, "lng": -4.9496, "category": "Puerto Banus", "icon": "pbu1.png" },
+    { "name": "Newscafe", "lat": 36.4864, "lng": -4.9537, "category": "Newscafe", "icon": "nwcf1.png" },
+    { "name": "La Plage Casanis", "lat": 36.4930, "lng": -4.7879, "category": "La Plage Casanis", "icon": "plg1.png" }
+  ]
+}
