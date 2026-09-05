@@ -1,5 +1,5 @@
 {
-  "version": 143,
+  "version": 144,
   "events": [
     {
      "id": "marbella_stag",
@@ -7,6 +7,12 @@
      "category": "Festival",
      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/marbella_stag.json?v=2",
      "requiresPin": true
+    },
+     {
+     "id": "marb_test",
+     "name": "Marb2.0 - Private Function",
+     "category": "Festival",
+     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/marb_test.json?v=1"
     },
     {
      "id": "baldock_rocks",
