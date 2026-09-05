@@ -29,7 +29,7 @@
     "bar": "mkb1.png"
   },
 
-  "categoryNoText": ["Hard Rock Hotel"],
+  "categoryNoText": [],
 
   "listings": [
     { "stage": "Hard Rock Hotel - 3pm Check-in", "time": "15:00", "act": "Freshen up and get to the bar", "day": "Thu 24th" },
@@ -44,7 +44,7 @@
 
   "vendors": [
     { "name": "Kisstory @ Nao Pool Club", "lat": 36.4953, "lng": -4.9639, "category": "Kisstory @ Nao Pool Club" },
-    { "name": "Hard Rock Hotel", "lat": 36.4896, "lng": -4.9615, "category": "Hard Rock Hotel", "partner": true, "image": "https://kylepalmer64-ai.github.io/festival-packs/test01cat.png" },
+    { "name": "Hard Rock Hotel", "lat": 36.4896, "lng": -4.9615, "category": "Hard Rock Hotel", "image": "https://kylepalmer64-ai.github.io/festival-packs/test01cat.png" },
     { "name": "Puerto Banus", "lat": 36.4902, "lng": -4.9496, "category": "Puerto Banus" },
     { "name": "Newscafe", "lat": 36.4864, "lng": -4.9537, "category": "Newscafe" },
     { "name": "La Plage Casanis", "lat": 36.4930, "lng": -4.7879, "category": "La Plage Casanis" }
