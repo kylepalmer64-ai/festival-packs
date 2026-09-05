@@ -36,11 +36,11 @@
   },
 
   "categoryTextColors": {
-    "Hard Rock Hotel": "#1B2428",
-    "Kisstory @ Nao Pool Club": "#A9FFDD",
-    "Puerto Banus": "#050E48",
+    "Hard Rock Hotel": "#FDFEFF",
+    "Kisstory @ Nao Pool Club": "#FDFEFF",
+    "Puerto Banus": "#FDFEFF",
     "Newscafe": "#FDFEFF",
-    "La Plage Casanis": "#1FBCFF"
+    "La Plage Casanis": "#FDFEFF"
   },
 
   "listings": [
