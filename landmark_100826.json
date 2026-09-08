@@ -1,0 +1,135 @@
+{
+  "version": 1,
+
+  "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/landmap.png",
+  "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/landmark.png",
+  "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/landpan.png",
+
+  "premiumHeader": "Landmark Coaches",
+  "listingsHeader": "Nov 9th - Camden",
+  "premiumTileColor": "#D4AF37",
+  "premiumTileBorder": "#FFFFFF",
+  "panelColor": "#0d0d0dEE",
+
+  "messagesFile": "landmark_messages.json",
+
+  "categoryColors": {
+    "Pick-Up Point": "#FFFFFF",
+    "Camden Market": "#D4AF37",
+    "Market Zones": "#1A1A1A",
+    "Food & Drink": "#FFFFFF",
+    "Scenic Spots": "#D4AF37",
+    "Transport": "#000000",
+    "Return": "#C49A00"
+  },
+
+  "categoryIcons": {
+    "Pick-Up Point": "pickup.png",
+    "Camden Market": "cam01.png",
+    "Market Zones": "bag01.png",
+    "Food & Drinks": "burfri.png",
+    "Scenic Spots": "gog01.png",
+    "Landmark Coaches": "landmark.png",
+    "Return": "landmark.png"    
+  },
+
+  "listings": [
+    {
+      "stage": "Pick-Up Point",
+      "time": "08:00",
+      "act": "Board your Landmark coach at your selected pick-up location. Crisp white coaches, blacked-out windows — you’ll know it when you see it.",
+      "day": "Sun 8th"
+    },
+    {
+      "stage": "Transport",
+      "time": "09:30",
+      "act": "ARRIVE — Camden Town. Your coach will drop you close to Camden Market. Follow your app compass for exact navigation.",
+      "day": "Sun 8th"
+    },
+    {
+      "stage": "Camden Market",
+      "time": "09:35",
+      "act": "WELCOME — Camden Market. Explore at your own pace. Vintage fashion, handmade crafts, global food, indie designers.",
+      "day": "Sun 8th"
+    },
+    {
+      "stage": "Market Zones",
+      "time": "10:00",
+      "act": "Camden Lock Market — Artisan stalls, handmade goods, street food from around the world.",
+      "day": "Sun 8th"
+    },
+    {
+      "stage": "Market Zones",
+      "time": "11:00",
+      "act": "Stables Market — Vintage fashion, antiques, artwork, quirky boutiques in historic horse stables.",
+      "day": "Sun 8th"
+    },
+    {
+      "stage": "Food & Drink",
+      "time": "12:00",
+      "act": "Street Food Court — Camden Lock. Grab lunch from dozens of global food stalls.",
+      "day": "Sun 8th"
+    },
+    {
+      "stage": "Market Zones",
+      "time": "13:00",
+      "act": "Buck Street Market — Eco-friendly brands, modern fashion, rooftop seating.",
+      "day": "Sun 8th"
+    },
+    {
+      "stage": "Market Zones",
+      "time": "14:00",
+      "act": "Hawley Wharf — Food hall, indie shops, riverside seating. Great for a break.",
+      "day": "Sun 8th"
+    },
+    {
+      "stage": "Scenic Spots",
+      "time": "15:00",
+      "act": "Regent’s Canal Towpath — Peaceful walk along the water. Perfect photo spot.",
+      "day": "Sun 8th"
+    },
+    {
+      "stage": "Return",
+      "time": "16:30",
+      "act": "Return to your coach. Follow the app compass to the exact pick-up point.",
+      "day": "Sun 8th"
+    },
+    {
+      "stage": "Transport",
+      "time": "17:00",
+      "act": "DEPART — Coaches leave Camden promptly. Please arrive 10 minutes early.",
+      "day": "Sun 8th"
+    }
+  ],
+
+  "vendors": [
+    { "name": "Baldock Tesco", "lat": 51.9870, "lng": -0.1870, "category": "Pick-Up Point" },
+    { "name": "Biggleswade Bus Station", "lat": 52.0850, "lng": -0.2640, "category": "Pick-Up Point" },
+    { "name": "Hatfield Galleria", "lat": 51.7636, "lng": -0.2410, "category": "Pick-Up Point" },
+    { "name": "Hitchin Market Square – Bus Stop M", "lat": 51.9475, "lng": -0.2780, "category": "Pick-Up Point" },
+    { "name": "Letchworth – Side of Morrisons", "lat": 51.9795, "lng": -0.2260, "category": "Pick-Up Point" },
+    { "name": "St Neots Tesco", "lat": 52.2270, "lng": -0.2590, "category": "Pick-Up Point" },
+    { "name": "Stevenage Bus Stop L", "lat": 51.9020, "lng": -0.2040, "category": "Pick-Up Point" },
+    { "name": "Stevenage Old Town – Austins Car Park", "lat": 51.9120, "lng": -0.2080, "category": "Pick-Up Point" },
+
+    { "name": "Camden Market", "lat": 51.5410, "lng": -0.1420, "category": "Camden Market", "partner": true },
+    { "name": "Camden Lock Market", "lat": 51.5415, "lng": -0.1460, "category": "Market Zones" },
+    { "name": "Stables Market", "lat": 51.5420, "lng": -0.1468, "category": "Market Zones" },
+    { "name": "Buck Street Market", "lat": 51.5390, "lng": -0.1425, "category": "Market Zones" },
+    { "name": "Hawley Wharf", "lat": 51.5418, "lng": -0.1475, "category": "Market Zones" },
+
+    { "name": "Street Food Court – Camden Lock", "lat": 51.5414, "lng": -0.1462, "category": "Food & Drink" },
+    { "name": "Hawley Wharf Food Hall", "lat": 51.5419, "lng": -0.1474, "category": "Food & Drink" },
+
+    { "name": "Regent’s Canal Towpath", "lat": 51.5412, "lng": -0.1470, "category": "Scenic Spots" },
+
+    { "name": "Camden Town Station", "lat": 51.5396, "lng": -0.1428, "category": "Transport" },
+    { "name": "Coach Drop-Off Point", "lat": 51.5400, "lng": -0.1420, "category": "Transport" },
+
+    { "name": "Website", "lat": 51.5418, "lng": -0.1475, "category": "Landmark Coaches", "url": "https://www.landmarkhire.com/" },
+    { "name": "Facebook", "lat": 51.5418, "lng": -0.1475, "category": "Landmark Coaches", "url": "https://www.facebook.com/groups/2245036872431535/" },
+    { "name": "Private Hire", "lat": 51.5418, "lng": -0.1475, "category": "Landmark Coaches", "url": "https://www.landmarkhire.com/services/private-coach-hire/" },
+    { "name": "Entertainment & Events", "lat": 51.5418, "lng": -0.1475, "category": "Landmark Coaches", "url": "https://www.landmarkhire.com/services/entertainment-events/" },
+    { "name": "Excursions & Holidays", "lat": 51.5418, "lng": -0.1475, "category": "Landmark Coaches", "url": "https://www.landmarkhire.com/services/excursions-holidays/" }
+  ]
+}
