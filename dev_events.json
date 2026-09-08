@@ -1,5 +1,5 @@
 {
-  "version": 145,
+  "version": 14,
   "events": [
     {
      "id": "marbella_stag",
@@ -57,6 +57,12 @@
       "name": "Reading Festival 2026",
       "category": "Festival",
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/reading26.json?v=3"
+    },
+    {
+      "id": "landmark_100826",
+      "name": "Landmark Coaches Demo",
+      "category": "Festival",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/landmark_100826.json?v="
     },
     {
      "id": "leeds26",
