@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 5,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/marbmap.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/marbhero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/marpan.png",
@@ -20,11 +20,27 @@
   },
 
   "categoryIcons": {
-    "Kisstory @ Nao Pool Club": "nao1.png",
     "Hard Rock Hotel": "hrock1.png",
+    "Kisstory @ Nao Pool Club": "nao1.png",
     "Puerto Banus": "pbu1.png",
     "Newscafe": "nwcf1.png",
     "La Plage Casanis": "plg1.png"
+  },
+
+  "categoryImages": {
+    "Hard Rock Hotel": "https://kylepalmer64-ai.github.io/festival-packs/hrck01.png",
+    "Kisstory @ Nao Pool Club": "https://kylepalmer64-ai.github.io/festival-packs/nao01.png",
+    "Puerto Banus": "https://kylepalmer64-ai.github.io/festival-packs/bun01.png",
+    "Newscafe": "https://kylepalmer64-ai.github.io/festival-packs/nwscaf.png",
+    "La Plage Casanis": "https://kylepalmer64-ai.github.io/festival-packs/laplag01.png"
+  },
+
+  "categoryTextColors": {
+    "Hard Rock Hotel": "#FDFEFF",
+    "Kisstory @ Nao Pool Club": "#FDFEFF",
+    "Puerto Banus": "#FDFEFF",
+    "Newscafe": "#FDFEFF",
+    "La Plage Casanis": "#FDFEFF"
   },
 
   "listings": [
@@ -41,10 +57,10 @@
   ],
 
   "vendors": [
-    { "name": "Kisstory @ Nao Pool Club", "lat": 36.4953, "lng": -4.9639, "category": "Kisstory @ Nao Pool Club" },
-    { "name": "Hard Rock Hotel", "lat": 36.4896, "lng": -4.9615, "category": "Hard Rock Hotel", "partner": true },
-    { "name": "Puerto Banus", "lat": 36.4902, "lng": -4.9496, "category": "Puerto Banus" },
-    { "name": "Newscafe", "lat": 36.4864, "lng": -4.9537, "category": "Newscafe" },
-    { "name": "La Plage Casanis", "lat": 36.4930, "lng": -4.7879, "category": "La Plage Casanis" }
+    { "name": "Hard Rock Hotel", "lat": 36.4896, "lng": -4.9615, "category": "Hard Rock Hotel", "icon": "hrock1.png" },
+    { "name": "Kisstory @ Nao Pool Club", "lat": 36.4953, "lng": -4.9639, "category": "Kisstory @ Nao Pool Club", "icon": "nao1.png" },
+    { "name": "Puerto Banus", "lat": 36.4902, "lng": -4.9496, "category": "Puerto Banus", "icon": "pbu1.png" },
+    { "name": "Newscafe", "lat": 36.4864, "lng": -4.9537, "category": "Newscafe", "icon": "nwcf1.png" },
+    { "name": "La Plage Casanis", "lat": 36.4930, "lng": -4.7879, "category": "La Plage Casanis", "icon": "plg1.png" }
   ]
 }
