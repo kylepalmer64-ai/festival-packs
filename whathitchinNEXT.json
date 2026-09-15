@@ -1,5 +1,5 @@
 {
-  "version": 121,
+  "version": 122,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/hichdefault.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/hithero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/defaultmap2.png",
@@ -46,32 +46,23 @@
     "The Glasshouse": "glasshousehero.png",
     "The Hermitage": "thehermitagehero.png",
     "The Beer Shop": "beershophero.png",
-    "ronan's bistro": "ronanshero.png"
+    "ronan's bistro": "ronanshero.png",
+    "keep up to date": "kteepee.png"
   },
+
+    "categoryImages": {
+      "Monroe's Cocktail Bar": "https://kylepalmer64-ai.github.io/festival-packs/monroecrd.png",
+      "osinsky's": "https://kylepalmer64-ai.github.io/festival-packs/osisnkcrd.png",
+      "The Common Room": "https://kylepalmer64-ai.github.io/festival-packs/commoncrd.png",
+      "the Albert Inn": "https://kylepalmer64-ai.github.io/festival-packs/albertcrd.png",
+      "the AnX": "https://kylepalmer64-ai.github.io/festival-packs/anxcrd.png",
+      "the brickyard": "https://kylepalmer64-ai.github.io/festival-packs/byardcrd.png",
+      "ronan's bistro": "https://kylepalmer64-ai.github.io/festival-packs/rnrcrd.png",
+      "keep up to date": "https://kylepalmer64-ai.github.io/festival-packs/ktpcrd.png"
+   },
   
   "listings": [
-        { "stage": "The Albert", "time": "12:00", "act": "BOTTOMLESS SMOKEHOUSE BBQ+DRINKS", "day": "Sun 2nd Aug" },
-        { "stage": "Ronan's Bistro", "time": "19:30", "act": "Pudding & Book Club", "day": "Thur 6th Aug" },
-        { "stage": "The Albert", "time": "19:30", "act": "QUIZ NIGHT", "day": "Thur 6th Aug" },
-        { "stage": "The Albert", "time": "20:00", "act": "LIVE MUSIC FRIDAYS", "day": "Fri 7th Aug" },
-        { "stage": "The Albert", "time": "12:00", "act": "BOTTOMLESS SMOKED BBQ+DRINKS", "day": "Sat 8th Aug"},
-        { "stage": "Osinskys", "time": "20:00", "act": "Shadowplay - Live Music", "day": "Sat 8th Aug" },
-        { "stage": "The Albert", "time": "12:00", "act": "BOTTOMLESS SMOKEHOUSE BBQ+DRINKS", "day": "Sun 9th Aug" },
-        { "stage": "The Albert", "time": "19:30", "act": "QUIZ NIGHT", "day": "Thur 13th Aug" }, 
-        { "stage": "The Albert", "time": "20:00", "act": "LIVE MUSIC FRIDAYS", "day": "Fri 14th Aug" },
-        { "stage": "Monroe's Cocktail Bar", "time": "21:00", "act": "DECKHEADS - UP & COMING DJ’s B2B", "day": "Fri 14th Aug" },
-        { "stage": "The Albert", "time": "12:00", "act": "BOTTOMLESS SMOKED BBQ+DRINKS", "day": "Sat 15th Aug" },
-        { "stage": "Monroe's Cocktail Bar", "time": "19:00", "act": "DECKHEADS - UP & COMING DJ’S B2B", "day": "Sat 15th Aug" },
-        { "stage": "The Albert", "time": "12:00", "act": "BOTTOMLESS SMOKEHOUSE BBQ+DRINKS", "day": "Sun 16th Aug" },
-        { "stage": "The Albert", "time": "19:30", "act": "QUIZ NIGHT", "day": "Thur 20th Aug" },
-        { "stage": "Monroe's Cocktail Bar", "time": "20:00", "act": "HAVE YOU GOT THIS ON VINYL? - BRING YOUR OWN VINYL NIGHT", "day": "Thur 20th Aug" },
-        { "stage": "The Albert", "time": "20:00", "act": "LIVE MUSIC FRIDAYS", "day": "Fri 21st Aug" },
-        { "stage": "The Albert", "time": "12:00", "act": "BOTTOMLESS SMOKED BBQ+DRINKS", "day": "Sat 22nd Aug" },
-        { "stage": "The Albert", "time": "12:00", "act": "BOTTOMLESS SMOKEHOUSE BBQ+DRINKS", "day": "Sun 23rd Aug" },
-        { "stage": "The Albert", "time": "19:30", "act": "QUIZ NIGHT", "day": "Thur 27th Aug" },
-        { "stage": "Monroe's Cocktail Bar", "time": "21:00", "act": "OUT OF THIS LEAGUE - PRIORY AFTER PARTY", "day": "Thur 27th Aug" },
-        { "stage": "The Albert", "time": "20:00", "act": "LIVE MUSIC FRIDAYS", "day": "Fri 28th Aug" },
-        { "stage": "Monroe's Cocktail Bar", "time": "21:00", "act": "RUDI FCUKIN’ MENTAL - PRIORY AFTER PARTY", "day": "Fri 28th Aug" },
+
         { "stage": "The Albert", "time": "12:00", "act": "BOTTOMLESS SMOKED BBQ+DRINKS", "day": "Sat 29th Aug" },
         { "stage": "Monroe's Cocktail Bar", "time": "21:00", "act": "THE LIBERTY - PRIORY AFTER PARTY", "day": "Sat 29th Aug" },
         { "stage": "The Albert", "time": "12:00", "act": "BOTTOMLESS SMOKEHOUSE BBQ+DRINKS", "day": "Sun 30th Aug" },
