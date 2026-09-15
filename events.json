@@ -1,5 +1,5 @@
 {
-  "version": 103,
+  "version": 104,
   "events": [
     {
       "id": "mucky_weekender",
@@ -9,6 +9,18 @@
       "requiresEmail": true,
       "emailGateMessage": "To access this event the organiser requires your email for verification, opt in below for event communication.",
       "emailWebhook": "info@mucky-weekender.co.uk"
+    },
+    {
+      "id": "whathitchinNEXT.json",
+      "name": "Hitchin's Live & Local",
+      "category": "Festival",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/whathitchinNEXT.json?v=122"
+    },
+    {
+      "id": "whatbaldock.json",
+      "name": "Baldock's Live & Local",
+      "category": "Festival",
+      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/whatbaldock.json?v=7"
     },
     {
       "id": "reading26",
@@ -40,18 +52,7 @@
       "category": "Festival",
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/bestival2026.json?v=1"
     },
-    {
-      "id": "whathitchinNEXT.json",
-      "name": "Hitchin's Live & Local",
-      "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/whathitchinNEXT.json?v=121"
-    },
-    {
-      "id": "whatbaldock.json",
-      "name": "Baldock's Live & Local",
-      "category": "Festival",
-      "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/whatbaldock.json?v=7"
-    },
+    
     {
       "id": "red_lion",
       "name": "The Red Lion - Old Town Stevenage",
