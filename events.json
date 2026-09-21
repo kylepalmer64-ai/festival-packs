@@ -1,9 +1,9 @@
 {
-  "version": 105,
+  "version": 107,
   "events": [
     {
       "id": "mucky_weekender",
-      "name": "Mucky Weekender",
+      "name": "Mucky 2027 Signup",
       "category": "Festival",
       "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/mucky_weekender.json?v=64",
       "requiresEmail": true,
