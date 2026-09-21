@@ -1,5 +1,5 @@
 {
-  "version": 64,
+  "version": 65,
   "mapUrl": "https://kylepalmer64-ai.github.io/festival-packs/mkmp3.png",
   "heroImage": "https://kylepalmer64-ai.github.io/festival-packs/mkhero.png",
   "panelWallpaper": "https://kylepalmer64-ai.github.io/festival-packs/statsmap.png",
@@ -291,13 +291,13 @@
 
 
     {
-      "name": "Tickets - Almost Gone!",
+      "name": "Early Bird Sign Ups",
       "lat": 51.1760,
       "lng": -1.2149,
       "category": "stage",
       "partner": true,
       "icon": "dubphero.png",
-      "url": "https://mucky-weekender.co.uk/"
+      "url": "https://mucky-weekender27.co.uk/"
     }
     
 
