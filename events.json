@@ -1,5 +1,5 @@
 {
-  "version": 107,
+  "version": 108,
   "events": [
     {
       "id": "mucky_weekender",
@@ -14,7 +14,7 @@
      "id": "marbella_stag",
      "name": "🍻 Marbs Stag - Private Function",
      "category": "Festival",
-     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/marbella_stag.json?v=5",
+     "packUrl": "https://kylepalmer64-ai.github.io/festival-packs/marbella_stag.json?v=6",
      "requiresPin": true
     },
     {
