@@ -12,6 +12,7 @@
   "requiresPin": true,
 
   "categoryColors": {
+    "Villa Carmen": "#00E5FF",
     "Kisstory @ Nao Pool Club": "#00E5FF",
     "Hard Rock Hotel": "#00E5FF",
     "Puerto Banus": "#00E5FF",
@@ -20,6 +21,7 @@
   },
 
   "categoryIcons": {
+    "Villa Carmen": "vill01.png",
     "Hard Rock Hotel": "hrock1.png",
     "Kisstory @ Nao Pool Club": "nao1.png",
     "Puerto Banus": "pbu1.png",
@@ -28,6 +30,7 @@
   },
 
   "categoryImages": {
+    "Villa Carmen": "https://kylepalmer64-ai.github.io/festival-packs/vill01.png",
     "Hard Rock Hotel": "https://kylepalmer64-ai.github.io/festival-packs/hrck01.png",
     "Kisstory @ Nao Pool Club": "https://kylepalmer64-ai.github.io/festival-packs/nao01.png",
     "Puerto Banus": "https://kylepalmer64-ai.github.io/festival-packs/bun01.png",
@@ -36,6 +39,7 @@
   },
 
   "categoryTextColors": {
+    "Villa Carmen": "#FDFEFF",
     "Hard Rock Hotel": "#FDFEFF",
     "Kisstory @ Nao Pool Club": "#FDFEFF",
     "Puerto Banus": "#FDFEFF",
@@ -57,6 +61,7 @@
   ],
 
   "vendors": [
+    { "name": "Calle Valentunana", "lat": 36.5145, "lng": -4.8900, "category": "Villa Carmen", "icon": "vill01.png" },
     { "name": "Hard Rock Hotel", "lat": 36.4896, "lng": -4.9615, "category": "Hard Rock Hotel", "icon": "hrock1.png" },
     { "name": "Kisstory @ Nao Pool Club", "lat": 36.4953, "lng": -4.9639, "category": "Kisstory @ Nao Pool Club", "icon": "nao1.png" },
     { "name": "Puerto Banus", "lat": 36.4902, "lng": -4.9496, "category": "Puerto Banus", "icon": "pbu1.png" },
